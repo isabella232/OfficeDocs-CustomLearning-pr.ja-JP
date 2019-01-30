@@ -1,0 +1,10 @@
+# <a name="feedback-and-support"></a><span data-ttu-id="2dc40-101">フィードバックとサポート</span><span class="sxs-lookup"><span data-stu-id="2dc40-101">Feedback and Support</span></span>
+
+## <a name="provide-us-feedback"></a><span data-ttu-id="2dc40-102">我々 にフィードバックを提供します。</span><span class="sxs-lookup"><span data-stu-id="2dc40-102">Provide us feedback</span></span>
+
+<span data-ttu-id="2dc40-p101">このソリューションでは、場合は、ビジネスの成果を有効にすることが成功した場合にのみが、! [UserVoice](https://microsoftteams.uservoice.com/forums/913429-learning-solutions)を定期的なフィードバックを提供することによって向上することお願いします。 すべてのコメントや質問を定期的に確認します。</span><span class="sxs-lookup"><span data-stu-id="2dc40-p101">Our solution is only a success if it is enabling your business outcomes!  Please help us to make it better by giving us regular feedback through  [UserVoice](https://microsoftteams.uservoice.com/forums/913429-learning-solutions).  We regularly review all your comments and questions.</span></span>
+
+<span data-ttu-id="2dc40-p102">フェーズ 2 のベータ版のみの既存のテスト中に企業はであるフィードバックを提供することに注意してください。 2018 の第 4 四半期の全般的な可用性がすべてのユーザーにフォーラムを開きます。表示し、フォーラム内の既存のアイデアに投票したり、新しく作成するためには、UserVoice 内のユーザー アカウントを設定してください。</span><span class="sxs-lookup"><span data-stu-id="2dc40-p102">Please note that during the Phase 2 Beta only existing test companies will be able to provide feedback.  At general availability in Q4 of 2018 we will open the forum up to all users. Please setup a user account in UserVoice so that you can view and vote on existing ideas in our forum or create new ones.</span></span>  
+
+<span data-ttu-id="2dc40-109">によって、 [Office 365 のエキスパート](https://aka.ms/O365Champions)プログラムに参加して、マイクロソフトのテクニカル コミュニティでの [採用の促進] フォーラムに参加して、フィードバックを提供することもhttps://aka.ms/DriveAdoption。</span><span class="sxs-lookup"><span data-stu-id="2dc40-109">You can also provide feedback by joining our [Office 365 Champions](https://aka.ms/O365Champions) program and participating on the [Driving Adoption] forums on the Microsoft Technical Community at https://aka.ms/DriveAdoption.</span></span> 
+
