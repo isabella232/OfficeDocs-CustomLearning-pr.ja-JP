@@ -1,16 +1,25 @@
-# <a name="install-the-custom-learning-site-package"></a>学習サイトのパッケージ、カスタムをインストールします。
+---
+author: karuanag
+ms.author: karuanag
+title: サイト エクスペリエンスを提供します。
+ms.date: 02/10/2019
+description: Office 365 サイトのユーザー設定の学習を提供します。
+ms.openlocfilehash: 567d8be831d5a6a4ed7ea74712d00f5996354cb2
+ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29951201"
+---
+# <a name="provision-the-custom-learning-site"></a>学習サイトのユーザー設定を準備します。
 
-## <a name="prerequisite-for-installation"></a>インストールの前提条件
-
-- テナントのカスタム学習サイト パッケージをインストールするのには、Office 365 の管理者権限を持っている必要があります。 Office 365 管理者と協力するか、個々 のサイト コレクションの場合だけで web パーツをインストールするには、これらのアクセス許可がありません。 場合、
-- 内容について理解するのにテストの場所にパッケージのインストールを検討することがあります。 この方法を採用する場合、本番環境のテナント内のパッケージを再インストールし、テスト中に完了したすべてのカスタマイズを再作成する必要があります。 
-- Web パーツのトレーニング コンテンツの更新、ページのカスタマイズは影響を与えません。
-- SharePoint Online 機能だけをサポートします。Web パーツは、社内設置型の SharePoint のすべてのバージョンにインストールするためのサポートではありません。
-
-## <a name="add-the-custom-learning-site-to-your-tenant"></a>カスタム学習サイトをテナントに追加します。 
-
-**1. パッケージの説明をここでを追加します。**
-
+1. http://provisioning.sharepointpnp.comのインストールを使用して、対象となるテナントのユーザーの資格情報を使用してサインインを計画します。![pnphome.png](media/pnphome.png)
+1. 組織のための同意を確認し、同意を選択します。
+1. ソリューション ギャラリーから Office 365 のユーザー設定の学習を選択します。 
+1. テナントに追加する] を選択 
+1. テナント環境に CLO365 をインストールする準備ができたら、必要な選択の準備として、[準備] ページで、既定の選択内容を調整します。  
+1. プロビジョニング プロセスは、最大 15 分かかります。(提供ページで入力した通知の電子メール アドレス) にメールで通知されますと、サイトは、アクセスの準備が完了します。 
+1. 1 回にログオンして CLO365、テナントは、お気に入りのサイトや、将来の参照用の url をコピーします。  
 
 
 ## <a name="next-steps"></a>次のステップ

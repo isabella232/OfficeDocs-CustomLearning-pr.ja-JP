@@ -1,15 +1,15 @@
 ---
-author: karuang
+author: karuanag
 ms.author: karuanag
 title: Office 365 のオープン ソース ソリューションのカスタムの学習の概要
 ms.date: 02/10/2019
 description: Office 365 のユーザー設定の学習が使用し、組織で Office 365 の導入を促進する方法について説明します。当社のソリューションには、カスタムの SharePoint Online web パーツと、Office 365 テナントに簡単に準備されている新しい SharePoint Online 通信トレーニング サイトが含まれます。
-ms.openlocfilehash: 987e780cdfc86d60ddce4aede5919719127dc177
-ms.sourcegitcommit: 2d9b688171432fdf15c805f2abc415bb115d97d7
+ms.openlocfilehash: c47021a356bf9562e5f04c74f7b705f294518901
+ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/11/2019
-ms.locfileid: "29886110"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29951231"
 ---
 # <a name="custom-learning-for-office-365"></a>カスタムの Office 365 の方法の学習
 
@@ -35,9 +35,9 @@ ms.locfileid: "29886110"
 
 ![カスタムの Office 365 の web パーツの学習](media/clo365customplaylist.png)
 
-## <a name="4-easy-steps"></a>4 つの簡単な手順
+## <a name="3-easy-steps"></a>3 つの手順
 
-[はじめ](getstarted.md)に最新の Microsoft との単純なトレーニング ソリューションを作成するコンテンツを使用できます。
+[はじめ](prereqs.md)に最新の Microsoft との単純なトレーニング ソリューションを作成するコンテンツを使用できます。
 
 1. ソリューションの右側を選択します。
 2. 完全なインストール & は、コンテンツをカスタマイズする、
