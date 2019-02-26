@@ -1,47 +1,55 @@
 ---
 author: karuanag
 ms.author: karuanag
-title: サイトと既定のコンテンツを参照します。
+title: サイトと既定のコンテンツを参照する
 ms.date: 02/10/2019
-description: サイトと既定のコンテンツを参照します。
-ms.openlocfilehash: 1d8698b89741f6bfc9c4347c5d5b670e0680d81f
-ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
+description: カスタム学習サイトと既定のコンテンツを参照する
+ms.openlocfilehash: 9672d001188634f6a319daf1f539b444b1ae33d0
+ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29951211"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "29989638"
 ---
-# <a name="browse-the-site-and-default-content"></a>サイトと既定のコンテンツを参照します。
+# <a name="explore-the-site-and-default-content"></a>サイトと既定のコンテンツを参照する
 
-![六つの簡単な手順](media/clo365homepage.png)
+![6つの簡単な手順](media/clo365homepage.png)
 
-CLO365 をインストールした場合は、これでは、サイトのツアーを開始するまでの時間です。 
+### <a name="tour-the-site"></a>サイトのツアー 
 
-1. ホーム ページに移動し、Office 365 のトレーニングを選択します。Web パーツ内で使用できるすべてのコンテンツが表示されます。
+ホームページに移動し、[Office 365 トレーニング] を選択します。SharePoint Online サイトの各ページは、Microsoft Learning web パーツをホストするように構成されています。これにより、web パーツ内で使用可能なすべてのコンテンツをページに表示できるようになります。
 
-![web パーツ](media/webpart.PNG)
+![パーツ](media/webpart.PNG)
 
-2. メニュー バーからポイント Office 365 のトレーニングをし、選択 OneDrive を開始します。この例では、Web パーツは、コンテンツを表示するだけの OneDrive、次の図に示すようにコンテンツをフィルター処理します。
+メニューバーで、ナビゲーションアイテム**Office 365 のトレーニング**を選択し、[ **OneDrive での作業の開始**] を選択します。この場合、Web パーツはコンテンツをフィルター処理して、OneDrive のコンテンツのみを表示します。
 
-{イメージを挿入します。
+他の2つのメニューオプションに対して上記の手順を繰り返し、 **Teams の使用を開始**し、 **SharePoint Online を使用**してコンテンツを確認し、ナビゲーションをテストします。
 
-3. 他の 2 つのメニュー オプションで、チームを開始し、SharePoint Online を使い始めるの内容を確認し、ナビゲーションをテストするには、この手順を繰り返します。
-
-{イメージを挿入します。 
-
-4. ホーム ページに戻ると、六つの簡単な手順で開始] を選択します。次の図に示すように、六つの簡単な手順の再生リストを行います。  
+ホームページに戻り、 **6 つの簡単な手順で開始**するを選択します。これにより、6つのシンプルなステップの再生リストに移動できます。
 
 > [!TIP]
-> 6 つの簡単な手順は、マイクロソフトの研究チームから派生します。次のとおりのマイクロソフトの研究者が最も押しにくい場合、ユーザーは、この手順は、Office 365 の使用が増加し、作業者の生産性の向上になるです。全員のことをお勧めします。
+> 6つの簡単な手順は、Microsoft research チームから派生しています。これらの手順は、Microsoft の研究者が最も普及していることを示しています。つまり、ユーザーがこれらの手順を実行すると、Office 365 の使用が増加し、生産性の高いワーカーになることがわかります。これは、すべての人にとって適しています。
 
-頭に六つの移動の簡単な手順
-- ホーム ページでは、六つの簡単な手順で [開始] をクリックします。 
-- 六つの簡単な手順の再生リストの先頭にルーティングされるカスタム ラーニングの web パーツで、Office のトレーニング ページを参照してください。  
+### <a name="go-to-start-with-six-simple-steps"></a>6つの簡単な手順で開始ページに移動します。
+- ホームページで、[6 つの簡単な手順で開始] をクリックします。 
+- カスタム学習 web パーツがある Office トレーニングページが表示され、6つのシンプルな手順の再生リストから始めにルーティングされます。  
 
-![六つのステップの再生リスト](media/clo365sixsteps.png)
+![6つの手順の再生リスト](media/clo365sixsteps.png)
 
-各ページに表示されている適切なコンテンツをサイトに設定されました。サイトのトレーニング内容をカスタマイズしたい場合は、カスタマイズを Office 365 の管理者ガイドのカスタムの学習を参照してください。 
+### <a name="view-a-list-of-playlists-for-a-category"></a>カテゴリの再生リストを表示する
+
+Office 365 トレーニングページから、excel トレーニングを選択して、excel トレーニングプレイリストに移動します。
+
+![content_excel](media/content_excel.png)
+
+### <a name="view-a-playlist"></a>再生リストを表示する
+
+[ **Excel へようこそ**] をクリックして再生リストを表示する
+
+![content_exwel](media/content_exwel.png)
+
+これで、各ページに表示されている正しいコンテンツがサイトに設定されました。 
 
 ## <a name="next-steps"></a>次のステップ
-[サイトのコンテンツをカスタマイズする](customization.md)
-[ドライブの採用](driveadoption.md) 
+- [サイトコンテンツをカスタマイズする](customization.md)
+- [ドライブ導入](driveadoption.md) 

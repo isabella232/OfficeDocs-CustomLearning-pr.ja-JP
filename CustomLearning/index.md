@@ -1,44 +1,39 @@
 ---
 author: karuanag
 ms.author: karuanag
-title: Office 365 のオープン ソース ソリューションのカスタムの学習の概要
+title: Office 365 オープンソースソリューションのカスタム学習の概要
 ms.date: 02/10/2019
-description: Office 365 のユーザー設定の学習が使用し、組織で Office 365 の導入を促進する方法について説明します。当社のソリューションには、カスタムの SharePoint Online web パーツと、Office 365 テナントに簡単に準備されている新しい SharePoint Online 通信トレーニング サイトが含まれます。
-ms.openlocfilehash: c47021a356bf9562e5f04c74f7b705f294518901
-ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
-ms.translationtype: MT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29951231"
+description: office 365 のカスタム学習によって、組織内での office 365 の使用が促進されるしくみについて説明します。このソリューションには、カスタム sharepoint online web パーツと、Office 365 テナントに簡単にプロビジョニングできる最新の sharepoint online コミュニケーショントレーニングサイトが含まれています。
 ---
-# <a name="custom-learning-for-office-365"></a>カスタムの Office 365 の方法の学習
 
-## <a name="self-service-customizable-training-solutions-from-microsoft"></a>セルフ サービス、Microsoft からのカスタマイズ可能なトレーニング ・ ソリューション
+# <a name="custom-learning-for-office-365"></a>Office 365 のカスタム学習
 
-カスタムの Office 365 の学習は、一連のトレーニングとオープン ソースのツールは、組織で Office 365 の使用量が増加するように設計された採用です。マイクロソフトのチーム、および SharePoint 製品のエンジニア リング グループと現代の支援と経験のチームとのパートナーシップの作成、これらの簡単に使用できるソリューション インストールして、SharePoint Online のテナントでカスタマイズします。 
+## <a name="self-service-customizable-training-solutions-from-microsoft"></a>Microsoft のセルフサービスでカスタマイズ可能なトレーニングソリューション
 
-これらのソリューションは、すべてのトレーニング コンテンツ マイクロソフトが提供して、最新のコンテンツを必要に応じて、エンド ・ ユーザーにによりします。 サイトは、マイクロソフトのチームや社内の他の既存の SharePoint Online サイトのインストールを簡単に統合できます。
+office 365 のカスタム学習は、組織での office 365 の使用を拡大するために設計された、一連のトレーニングおよび導入オープンソースツールです。Microsoft Teams および sharepoint 製品エンジニアリンググループと最新のアシスタンスおよび Experience teams とのパートナーシップで作成され、これらの簡単に使用できるソリューションを SharePoint Online テナントにインストールしてカスタマイズできます。 
 
-カスタム学習コンテンツは、現在 Office 365 製品用のコンテンツを開始するのにはスコープとなります。 含まれている複数のコンテンツを表示する場合は、承りますので[ご提案とフィードバック](feedback.md)、オンライン フォーラムで。  
+これらのソリューションを使用すると、Microsoft が必要に応じて最新のコンテンツを提供し、そのコンテンツを常に最新の状態に維持するために必要なすべてのトレーニングコンテンツがエンドユーザーにもたらされます。 このサイトは、Microsoft Teams または社内の他の既存の SharePoint Online サイトのインストールと簡単に統合できます。
 
-## <a name="custom-learning-open-source-components"></a>オープン ソース コンポーネントのカスタムの学習
+現時点では、カスタム学習コンテンツは、Office 365 および Windows 10 製品のコンテンツを開始することをスコープとしています。 追加のコンテンツを表示する場合は、オンラインフォーラムで[提案とフィードバック](feedback.md)をお寄せください。  
 
-カスタムの Office 365 の学習には、2 つのオプションが用意されています。 
+## <a name="custom-learning-open-source-components"></a>カスタム学習オープンソースコンポーネント
 
-**オプション 1**:[カスタムの SharePoint Online サイト パッケージを学ぶ](installsitepackage.md)
+Office 365 のカスタム学習では、次の2つのオプションが提供されます。 
 
-選択してインストールし、会社のトレーニング ポータルを作成するのには、この SharePoint Online 通信サイト パッケージを構成します。チームワークの Toolkit と呼ばれていた、このトレーニングのポータルは、組織のヘルプ、サポート、およびコミュニティのコンテンツを追加するのにはカスタマイズできます。組織内でサポートしていないサービスに関連するあらゆるコンテンツを削除することもできます。カスタム サイト パッケージには、組織の Office 365 トレーニング コンテンツの最新のフィードを提供する学習のカスタム web パーツも含まれていますを学習します。 
+**オプション 1**:[カスタム学習 SharePoint Online サイトパッケージ](installsitepackage.md)
 
-![カスタムの Office 365 サイトの体験学習](media/clo365homepage.png)
+この SharePoint Online コミュニケーションサイトパッケージを選択、インストール、および構成して、会社のトレーニングポータルを作成します。以前はチームワークのツールキットと呼ばれていたこのトレーニングポータルをカスタマイズして、組織のヘルプ、サポート、およびコミュニティコンテンツを追加することができます。組織内でサポートされていないサービスに関連するコンテンツを削除することもできます。カスタム学習サイトパッケージには、Office 365 トレーニングコンテンツの最新のフィードを組織に提供するカスタム学習 web パーツも含まれています。 
 
-**オプション 2**: [Office 365 の web パーツのカスタム学習を](installwebpart.md)「カスタム ラーニング web パーツ オプションが組織で Office 365 のトレーニングを既存の SharePoint Online 通信サイトに統合するように設計されています。学習のカスタム web パーツは、任意の SharePoint Online のページにインストールすることができ、包括的な Support.Office.com、マイクロソフトのサイトから Office 365 のトレーニング コンテンツの最新のフィードを提供します。トレーニング、web パーツを通じて配信されるコンテンツは、再生リストの使用が簡単に構成されています。管理者は、トレーニングのカスタム再生リスト、YouTube のようにローカルにホストされているコンテンツからコンテンツを組み合わせることを構築するのに web パーツにも使用できます。Pdf、および Office 365 のトレーニング内容、組織のニーズに合わせたトレーニングの経験を提供します。
+![Office 365 サイト環境のカスタム学習](media/clo365homepage.png)
 
-![カスタムの Office 365 の web パーツの学習](media/clo365customplaylist.png)
+**オプション 2**:[カスタム学習 office 365 web パーツ](installwebpart.md)のカスタム学習 web パーツオプションは、office 365 トレーニングを既存の SharePoint Online コミュニケーションサイトに統合する必要がある組織向けに設計されています。カスタム学習 web パーツは任意の SharePoint Online ページにインストールすることができ、Microsoft の Support.Office.com サイトからの完全な Office 365 トレーニングコンテンツスイートの最新のフィードを提供します。web パーツを通じて配信されるトレーニングコンテンツは、使いやすい再生リストに整理されています。また、管理者は web パーツを使用して、ユーザー設定のトレーニングプレイリストを作成し、YouTube のコンテンツと、ローカルにホストされているコンテンツを組み合わせることができます。pdf および Office 365 トレーニングコンテンツは、組織の固有のニーズに合わせてカスタマイズされたトレーニングのエクスペリエンスを提供します。
 
-## <a name="3-easy-steps"></a>3 つの手順
+![Office 365 web パーツのカスタム学習](media/clo365customplaylist.png)
 
-[はじめ](prereqs.md)に最新の Microsoft との単純なトレーニング ソリューションを作成するコンテンツを使用できます。
+## <a name="3-easy-steps"></a>3つの簡単な手順
 
-1. ソリューションの右側を選択します。
-2. 完全なインストール & は、コンテンツをカスタマイズする、
-3. [導入ツール](driveadoption.md)を使用して、ユーザーとサイトを共有します。
+では、最新の Microsoft コンテンツを使用して簡単なトレーニングソリューションの作成を[開始](prereqs.md)できます。
+
+1. 適切なソリューションを選択する
+2. & のインストールを完了するコンテンツをカスタマイズする
+3. [導入ツール](driveadoption.md)を使用してサイトをユーザーと共有する

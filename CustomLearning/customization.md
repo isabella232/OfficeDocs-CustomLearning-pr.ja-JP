@@ -4,16 +4,16 @@ ms.author: karuanag
 title: トレーニングの手順をカスタマイズする
 ms.date: 02/10/2019
 description: Office のカスタム学習で利用可能なさまざまなカスタマイズについて説明します365
-ms.openlocfilehash: 035b6734665da59ed912d9ebd6a3923d1b0b9108
-ms.sourcegitcommit: 0cd0c3e230e0217dfd5d050b20050ce781b5a7c6
+ms.openlocfilehash: fbb8e5861547f26a3b8419e11f89e5872aeb0b0c
+ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/14/2019
-ms.locfileid: "30050628"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30059688"
 ---
 # <a name="customize-the-training-experience"></a>トレーニングの手順をカスタマイズする
 
-これはテスト3です。既定では、サイトの動作と webpart の両方に、すべての Office 365 サービスと Windows 10 サービスのコンテンツが含まれています。 これらのサービスの全部または一部のみを会社で利用できる場合は、ユーザーが使用できるコンテンツを調整できます。  
+これはテスト4です。既定では、サイトの動作と webpart の両方に、すべての Office 365 サービスと Windows 10 サービスのコンテンツが含まれています。 これらのサービスの全部または一部のみを会社で利用できる場合は、ユーザーが使用できるコンテンツを調整できます。  
 
 このサイトの所有者が使用できるカスタマイズには、いくつかの種類があります。 
 

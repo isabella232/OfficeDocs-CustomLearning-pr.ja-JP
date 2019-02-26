@@ -1,42 +1,58 @@
-# <a name="installing-the-custom-learning-solution-webpart"></a>学習ソリューションの web パーツ、カスタムのインストール
+---
+author: karuanag
+ms.author: karuanag
+title: カスタム学習ソリューション web パーツのインストール
+ms.date: 02/10/2019
+description: カスタム学習ソリューション web パーツのインストール手順
+ms.openlocfilehash: 53229e5b1b8175b06d888091963d1a9f2f0bd361
+ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "29989688"
+---
+# <a name="installing-the-custom-learning-solution-webpart"></a>カスタム学習ソリューション web パーツのインストール
 
-## <a name="prerequisites-for-a-tenant-wide-installation"></a>テナント全体のインストールの前提条件
+## <a name="prerequisites-for-a-tenant-wide-installation"></a>テナント全体へのインストールの前提条件
 
-- 全体のテナントの学習のカスタム web パーツをインストールするのには、Office 365 の管理者権限を持っている必要があります。 場合は、Office 365 の管理者で作業するか、個々 のサイト コレクションの web パーツをインストールするには、これらのアクセス許可がありません。
-- か、Office 365 の管理者のセットアップが必要し、テナント全体にわたる[アプリケーションのカタログ](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant)または[サイト コレクションのアプリケーション カタログ](https://docs.microsoft.com/en-us/sharepoint/dev/general-development/site-collection-app-catalog)は、web パーツが表示されるように構成します。]
-- SharePoint Online 機能だけをサポートします。Web パーツは、社内設置型の SharePoint のすべてのバージョンにインストールするためのサポートではありません。
+- テナント全体にカスタム学習 web パーツをインストールするには、Office 365 の管理アクセス許可を持っている必要があります。 これらのアクセス許可がない場合は、Office 365 管理者と連携するか、または個々のサイトコレクションの web パーツをインストールすることができます。
+- ユーザーまたは Office 365 管理者は、web パーツを受信するために、テナント全体の[アプリカタログ](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant)または[サイトコレクションのアプリカタログ](https://docs.microsoft.com/en-us/sharepoint/dev/general-development/site-collection-app-catalog)をセットアップして構成する必要があります。
+- SharePoint Online のみをサポートしています。web パーツは、オンプレミスの SharePoint の任意のバージョンへのインストールをサポートしていません。
 
-## <a name="add-the-custom-learning-webpart-to-your-tenant"></a>テナントに学習のカスタム web パーツを追加します。 
+## <a name="add-the-custom-learning-webpart-to-your-tenant"></a>テナントにカスタム学習 web パーツを追加する 
 
-1. 学習のカスタム web パーツをダウンロードし、ローカル ドライブに保存します。 このファイルを「ms ・ カスタム ・ learning.sppkg」といいます。 名またはファイルのサフィックスは変更されません。 
+1. カスタム学習 web パーツをダウンロードして、ローカルドライブに保存します。 このファイルの名前は "ms-カスタム-learning. sppkg" です。 ファイルの名前やサフィックスを変更しないでください。 
 2. テナントの[Office 365 管理ポータル](https://admin.microsoft.com/AdminPortal/Home#/homepage)に移動します。
-3. 左側のナビゲーションから、管理センターでは、SharePoint を選択します。SharePoint 管理センターで [アプリケーション、アプリケーションのカタログ、SharePoint のアプリケーション、新しいタブに表示されます。 
-4. 選択は、web パーツをアップロードするファイルを選択して「ms ・ カスタム ・ learning.sppkg」をダウンロードしました。
-5. テナント全体のインストール] チェック ボックス」にこのソリューションを組織内のすべての位置を使用」  
+3. 左側のナビゲーションで、[管理センター]、[SharePoint] のどちらかを選択します。これは、新しいタブに表示されます。の sharepoint 管理センターで、[アプリ]、[アプリカタログ]、[sharepoint 用アプリ] の順番でクリックします。 
+4. [web パーツのアップロード] を選択し、ダウンロードした「ms (カスタム-learning) ファイル」を選択します。
+5. このテナント全体のインストールの場合は、[組織内のすべてのソリューションでこのソリューションを使用できるようにする] の横にあるチェックボックスをオンにします。  
+ 
+> [!NOTE]
+> web パーツがインストールされると、SharePoint Online の webpart ギャラリーに表示されます。 **ギャラリー内の webpart には、「Microsoft Learning」という名前が付けられます**。
 
-![ソリューションを導入します。](media/trustapp_sm.png)
+![ソリューションを展開する](media/trustapp_sm.png)
 
 
-## <a name="add-the-customer-learning-webpart-to-a-sharepoint-online-page"></a>お客様のラーニングの web パーツを SharePoint オンライン ページに追加します。
+## <a name="add-the-microsoft-learning-webpart-to-a-sharepoint-online-page"></a>Microsoft Learning webpart を SharePoint Online ページに追加する
 
-カスタムの学習は、テナントのインストール後は、SharePoint ページに Web パーツを追加できます。実行すると、突然 Office 365 のトレーニングが利用できます。 
+テナントにカスタム学習をインストールした後、Web パーツを SharePoint ページに追加することができます。Office 365 を実行すると、サイトで Windows 10 のトレーニングを利用できるようになります。
 
-1. 全体の幅の列のレイアウトでは、学習のカスタム web パーツを追加します。
+1. [全幅] 列レイアウトにカスタム学習 web パーツを追加します。
 
-![SharePoint ページのレイアウト](media/clo365fullcolumnwidth.png)
+![SharePoint ページレイアウト](media/clo365fullcolumnwidth.png)
 
-2. SharePoint ページでの追加」を選択して全体の幅の列を選択し。 次のプロンプトが表示されます。
+2. SharePoint ページで、[セクションの追加] を選択し、[全角列] を選択します。 次のプロンプトが表示されます。
 
-![AddWebpart](media/clo365addfullwidthwebpart.png)
+![addwebpart](media/clo365addfullwidthwebpart.png)
 
-3. Microsoft ラーニングを選択します。 次が今すぐ表示されます。 
+3. [Microsoft Learning] を選択します。 次のように表示されます。 
 
-![カスタムの web パーツを学習します。](media/clo365addwebpart.png)
+![カスタム学習 web パーツ](media/clo365addwebpart.png)
 
- ソリューションに含まれている既定のコンテンツを表示するタイルをクリックします。  
+ タイルをクリックして、ソリューションに含まれる既定のコンテンツを調べることができるようになります。  
 
-## <a name="next-steps"></a>次のステップ
-- Web パーツに含まれる[既定のコンテンツ](webpartcontent.md)を表示します。
-- [ユーザー設定](customization.md)、組織のトレーニング経験します。
-- トレーニング ソリューションの[採用を推進](driveadoption.md)をします。
+### <a name="next-steps"></a>次のステップ
+- webpart に含まれる[既定のコンテンツ](webpartcontent.md)について説明します。
+- 組織のトレーニング環境を[カスタマイズ](customization.md)します。
+- トレーニングソリューションの[導入を促進](driveadoption.md)します。
 
