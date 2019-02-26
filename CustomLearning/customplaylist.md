@@ -1,76 +1,99 @@
-# <a name="customize-the-services-and-playlists"></a><span data-ttu-id="0341e-101">サービスおよび再生リストをカスタマイズします。</span><span class="sxs-lookup"><span data-stu-id="0341e-101">Customize the Services and Playlists</span></span>
+---
+author: karuanag
+ms.author: karuanag
+title: プレイリストをカスタマイズして共有する
+ms.date: 02/10/2019
+description: 既存のコンテンツまたは新しい SharePoint ページからカスタム再生リストを作成する
+ms.openlocfilehash: d330b6e401c9020eb68877bc8a132350811a2f31
+ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "29989728"
+---
+# <a name="customize-and-share-playlists"></a><span data-ttu-id="8e6a4-103">プレイリストをカスタマイズして共有する</span><span class="sxs-lookup"><span data-stu-id="8e6a4-103">Customize and Share Playlists</span></span>
 
-<span data-ttu-id="0341e-p101">既定でサイトの操作性と web パーツの両方に、すべての Office 365 サービスのコンテンツが含まれます。 だけこれらのサービスの全部または一部が、会社で使用可能な場合は、どのようなコンテンツは、ユーザーに利用可能なを調整できます。 この資料では、web パーツのコンテンツをカスタマイズします。</span><span class="sxs-lookup"><span data-stu-id="0341e-p101">By default both the site experience and the webpart include content for all Office 365 services.  If only all or some of these services are available in your company you can adjust what content is available to your users.  In this article we will customize the webpart content.</span></span>  
+## <a name="create-a-playlist"></a><span data-ttu-id="8e6a4-104">再生リストを作成する</span><span class="sxs-lookup"><span data-stu-id="8e6a4-104">Create a Playlist</span></span>
 
-## <a name="customizing-the-webpart-content"></a><span data-ttu-id="0341e-105">Web パーツのコンテンツをカスタマイズします。</span><span class="sxs-lookup"><span data-stu-id="0341e-105">Customizing the webpart content</span></span>
+<span data-ttu-id="8e6a4-p101">再生リストは、"assets" の compliation です。"アセット" は、SharePoint ページまたは Microsoft トレーニングコンテンツの既存のアイテムです。再生リストを作成するときに、ユーザーに対して学習パスを作成するために一緒に使用するアセットを選択します。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-p101">A playlist is a compliation of "assets". An "asset" is a SharePoint page or existing item of Microsoft training content. When you create a playlist you select assets that go together to create a learning path for your user.</span></span>  
 
-<span data-ttu-id="0341e-106">学習のカスタム web パーツには、2 つの主要機能が用意されています。</span><span class="sxs-lookup"><span data-stu-id="0341e-106">The Custom Learning webpart provides two key features:</span></span>
-- <span data-ttu-id="0341e-107">テクノロジを表示/非表示</span><span class="sxs-lookup"><span data-stu-id="0341e-107">Hide/Show Technologies</span></span>
-- <span data-ttu-id="0341e-108">再生リストを作成します。</span><span class="sxs-lookup"><span data-stu-id="0341e-108">Create a Playlist</span></span>
+<span data-ttu-id="8e6a4-p102">sharepoint ページを追加する利点は、自分の組織でホストされている YouTube ビデオまたはビデオを使用して sharepoint ページを作成できることです。フォームまたはその他の Office 365 コンテンツを含むページを作成することもできます。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-p102">The benefit of adding SharePoint pages is that you can create SharePoint pages with a YouTube videos or videos hosted in your organization. You can also create pages with Forms or other Office 365 content.</span></span>  
 
-### <a name="hide-or-show-technology-categories"></a><span data-ttu-id="0341e-109">テクノロジのカテゴリを表示または表示しません。</span><span class="sxs-lookup"><span data-stu-id="0341e-109">Hide or Show Technology Categories</span></span>
+#### <a name="step-1-create-a-sharepoint-page-for-your-playlist"></a><span data-ttu-id="8e6a4-110">手順 1: プレイリストの SharePoint ページを作成する</span><span class="sxs-lookup"><span data-stu-id="8e6a4-110">Step 1: Create a SharePoint page for your playlist</span></span>
+<span data-ttu-id="8e6a4-p103">この例では、まず、プレイリストに追加する SharePoint ページを作成します。YouTube のビデオ web パーツとテキスト web パーツを使用してページを作成します。 これらの手順では、SharePoint Online サービスを使用していることを前提としています。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-p103">In this example, we’ll first create a SharePoint page to add to the playlist. We’ll create a page with a YouTube video web part and Text web part.  These instructions assume you are using the SharePoint Online service.</span></span> 
 
-<span data-ttu-id="0341e-110">非表示にし、Web パーツにコンテンツを表示します。</span><span class="sxs-lookup"><span data-stu-id="0341e-110">To hide and show content in the Web part:</span></span> 
-1.  <span data-ttu-id="0341e-111">、Web パーツのドロップダウン ・ メニューをクリックし、表示/非表示テクノロジをクリックしてください</span><span class="sxs-lookup"><span data-stu-id="0341e-111">Click the dropdown menu on the webpart, then click Hide/Show Technologies</span></span>
+#### <a name="create-a-new-page"></a><span data-ttu-id="8e6a4-114">新しいページを作成する</span><span class="sxs-lookup"><span data-stu-id="8e6a4-114">Create a new page</span></span>
+1.  <span data-ttu-id="8e6a4-115">[設定] メニューの [> site Contents > site Pages > New > site page] を選択します。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-115">Select the Settings menu > Site Contents > Site Pages > New > Site Page.</span></span>
+2.  <span data-ttu-id="8e6a4-116">タイトル領域で、「Teams コマンドボックスを使用する」と入力します。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-116">In the title area, type Use the Teams command box</span></span>
+3.  <span data-ttu-id="8e6a4-117">[新しい項目の追加] を選択し、[2 列] を選択します。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-117">Select the Add a new section, and then select Two Columns.</span></span>
 
-![メニュー オプション](media/clohideshow.png)
+![2列の追加](media/clo365addtwocolumn.png)
 
-2. <span data-ttu-id="0341e-113">非表示にする技術および**適用**」を選択するのチェック ボックスをオンにします。</span><span class="sxs-lookup"><span data-stu-id="0341e-113">Select a checkox to hide or show a technology and select **Apply**.</span></span>
+4.  <span data-ttu-id="8e6a4-119">左側のボックスで、[新しい web パーツの追加] を選択し、[埋め込み] を選択します。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-119">In the left-hand box, select Add a new web part, and then select Embed.</span></span> 
+5.  <span data-ttu-id="8e6a4-120">Web ブラウザーでこの URL https://youtu.be/wYrRCRphrp0に移動し、ビデオの埋め込みコードを取得します。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-120">In a Web browser, go to this URL https://youtu.be/wYrRCRphrp0 and get the embed code for the video.</span></span> 
+6.  <span data-ttu-id="8e6a4-121">SharePoint Web パーツで、[埋め込みコードの追加] を選択し、[埋め込み] ボックスに貼り付けます。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-121">In the SharePoint Web part, select Add Embed code and then paste it into the Embed box.</span></span> 
+7.  <span data-ttu-id="8e6a4-122">右側のボックスで、[新しい web パーツの追加] を選択し、[テキスト] を選択します。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-122">In the right-hand box, select Add a new web part, and then select Text.</span></span> 
+8.  <span data-ttu-id="8e6a4-p104">Web ブラウザーで、次の URL に移動しhttps://support.office.com/en-us/article/13c4e429-7324-4886-b377-5dbed539193bて、Try! をコピーします。ページの指示に従って、テキスト Web パーツに貼り付けます。ページは次のようになります。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-p104">In a Web browser, go to this URL: https://support.office.com/en-us/article/13c4e429-7324-4886-b377-5dbed539193b and copy the Try it! Instructions from the page and paste them into the Text Web part. Your page should look like the following.</span></span> 
 
-![テクノロジー ・ オプション](media/clohideshow1.png)
+![埋め込みページ](media/clo365teamscommandbox.png)
 
-### <a name="create-a-playlist"></a><span data-ttu-id="0341e-115">再生リストを作成します。</span><span class="sxs-lookup"><span data-stu-id="0341e-115">Create a Playlist</span></span>
+9.  <span data-ttu-id="8e6a4-127">[**発行**] をクリックし、ページの URL をコピーしてメモ帳に貼り付けます。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-127">Click **Publish**, and then copy the URL of the page and paste it in Notepad</span></span>
 
-<span data-ttu-id="0341e-p102">再生リストは、「資産」の compliation です。「資産」は、SharePoint ページまたはマイクロソフトのトレーニング コンテンツの既存の項目です。一緒に移動する資産を選択した再生リストを作成するとき、ユーザーの学習パスを作成します。</span><span class="sxs-lookup"><span data-stu-id="0341e-p102">A playlist is a compliation of "assets". An "asset" is a SharePoint page or existing item of Microsoft training content. When you create a playlist you select assets that go together to create a learning path for your user.</span></span>  
+#### <a name="step-2-create-the-playlist"></a><span data-ttu-id="8e6a4-128">手順 2: 再生リストを作成する</span><span class="sxs-lookup"><span data-stu-id="8e6a4-128">Step 2: Create the Playlist</span></span>
 
-<span data-ttu-id="0341e-p103">SharePoint ページの追加の利点は、YouTube で SharePoint ページを作成することができます、ビデオ、またはビデオを組織でホストされています。フォームやその他の Office 365 のコンテンツにページを作成することもできます。</span><span class="sxs-lookup"><span data-stu-id="0341e-p103">The benefit of adding SharePoint pages is that you can create SharePoint pages with a YouTube videos or videos hosted in your organization. You can also create pages with Forms or other Office 365 content.</span></span>  
+1. <span data-ttu-id="8e6a4-p105">サイトの操作でカスタムの [**ラーニング管理**] ページに移動します。![custom_admin](media/custom_admin.png)</span><span class="sxs-lookup"><span data-stu-id="8e6a4-p105">Navigate to the **Custom Learning Administration** page in your site experience. ![custom_admin.png](media/custom_admin.png)</span></span>
+1. <span data-ttu-id="8e6a4-131">**カテゴリ**が選択されていることを確認する</span><span class="sxs-lookup"><span data-stu-id="8e6a4-131">Make sure **Category** is selected</span></span> 
+1. <span data-ttu-id="8e6a4-132">新しいプレイリストが表示されるようにするカテゴリをクリックします。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-132">Click on the category where you'd like your new playlist to appear</span></span>
+1. <span data-ttu-id="8e6a4-133">カテゴリ名の横にあるプラス記号![(custom_addplay) をクリックします。](media/custom_addplay.png)</span><span class="sxs-lookup"><span data-stu-id="8e6a4-133">Next to the category name, click on the plus symbol ![custom_addplay.png](media/custom_addplay.png)</span></span>
 
-#### <a name="step-1-create-a-sharepoint-page-for-your-playlist"></a><span data-ttu-id="0341e-121">手順 1: 再生リストの SharePoint ページを作成します。</span><span class="sxs-lookup"><span data-stu-id="0341e-121">Step 1: Create a SharePoint page for your playlist</span></span>
-<span data-ttu-id="0341e-p104">この例では、まず、再生リストに追加するのには SharePoint のページを作成します。YouTube のビデオの web パーツと web パーツのテキストを使用してページを作成します。 次の手順では、SharePoint Online のサービスを使用するいると仮定します。</span><span class="sxs-lookup"><span data-stu-id="0341e-p104">In this example, we’ll first create a SharePoint page to add to the playlist. We’ll create a page with a YouTube video web part and Text web part.  These instructions assume you are using the SharePoint Online service.</span></span> 
+1. <span data-ttu-id="8e6a4-p106">次の例のように値を入力し、[**作成**] を選択します。![custom_details](media/custom_details.png)</span><span class="sxs-lookup"><span data-stu-id="8e6a4-p106">Fill in the values as shown in the example below and select **Create**. ![custom_details.png](media/custom_details.png)</span></span>
+- <span data-ttu-id="8e6a4-136">**タイトル**-再生リストの名前を表示します。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-136">**Title** - Display name of the playlist</span></span>
+- <span data-ttu-id="8e6a4-137">**説明**-学習される内容に関する情報</span><span class="sxs-lookup"><span data-stu-id="8e6a4-137">**Description** - Information about what will be learned</span></span>
+- <span data-ttu-id="8e6a4-138">**カテゴリ**-最初の選択範囲に基づいて事前設定</span><span class="sxs-lookup"><span data-stu-id="8e6a4-138">**Category** - Preselected based on your initial selection</span></span>
+- <span data-ttu-id="8e6a4-139">**サブカテゴリ**-初期の選択に基づいて事前設定</span><span class="sxs-lookup"><span data-stu-id="8e6a4-139">**Sub Category** - Preselected based on your intial selection</span></span>
+- <span data-ttu-id="8e6a4-140">**テクノロジ**-該当する場合に選択します。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-140">**Technology** - Select as applicable</span></span>
+- <span data-ttu-id="8e6a4-141">**レベル**-初級、intermidate または Advanced</span><span class="sxs-lookup"><span data-stu-id="8e6a4-141">**Level** - Beginner, Intermidate or Advanced</span></span>
+- <span data-ttu-id="8e6a4-142">**対象ユーザー** -これにより、Microsoft によって提供される定義済みのロールのリストに基づいてコンテンツを対象とすることができます。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-142">**Audience** - This allows you to target content based on a pre-defined list of roles provided by Microsoft.</span></span>
 
-#### <a name="create-a-new-page"></a><span data-ttu-id="0341e-125">新しいページを作成します。</span><span class="sxs-lookup"><span data-stu-id="0341e-125">Create a new page</span></span>
-1.  <span data-ttu-id="0341e-126">[設定] メニューの [_gt サイト コンテンツ _gt サイト ページ _gt 新しい _gt サイトのページを選択します。</span><span class="sxs-lookup"><span data-stu-id="0341e-126">Select the Settings menu > Site Contents > Site Pages > New > Site Page.</span></span>
-2.  <span data-ttu-id="0341e-127">[タイトル] 領域で、[チーム] ボックスを使用する種類</span><span class="sxs-lookup"><span data-stu-id="0341e-127">In the title area, type Use the Teams command box</span></span>
-3.  <span data-ttu-id="0341e-128">新しいセクションの追加] を選択し、2 つの列を選択します。</span><span class="sxs-lookup"><span data-stu-id="0341e-128">Select the Add a new section, and then select Two Columns.</span></span>
+6. <span data-ttu-id="8e6a4-143">[**詳細の保存**] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-143">Click **Save Detail**</span></span>
 
-![2 つの列を追加します。](media/clo365addtwocolumn.png)
+> [!TIP]
+> <span data-ttu-id="8e6a4-p107">再生リストのアイコンイメージをカスタマイズできます。 イメージアイコンをクリックして、以前にアップロードしたイメージの URL を挿入します。 画像が、カスタム学習サイトコレクション内にあるか、またはすべてのユーザーがファイルにアクセスできる別の場所に配置されているかを確認します。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-p107">You can customize the icon image for your playlist.  Click the image icon and insert an URL of a previously uploaded image.  Make sure the image is located within the Custom Learning site collection or in another location that all users will have access to the file.</span></span>  
+<span data-ttu-id="8e6a4-147">![custom_image](media/custom_image.png)</span><span class="sxs-lookup"><span data-stu-id="8e6a4-147">![custom_image.png](media/custom_image.png)</span></span>
 
-4.  <span data-ttu-id="0341e-130">左側のボックスで、新しい web パーツの追加を選択し、埋め込みします。</span><span class="sxs-lookup"><span data-stu-id="0341e-130">In the left-hand box, select Add a new web part, and then select Embed.</span></span> 
-5.  <span data-ttu-id="0341e-131">Web ブラウザーでこの URL に移動するhttps://youtu.be/wYrRCRphrp0し、ビデオの埋め込みコードを取得します。</span><span class="sxs-lookup"><span data-stu-id="0341e-131">In a Web browser, go to this URL https://youtu.be/wYrRCRphrp0 and get the embed code for the video.</span></span> 
-6.  <span data-ttu-id="0341e-132">SharePoint の Web パーツでは、コードの埋め込みを追加を選択し、[埋め込み] ボックスに貼り付けます。</span><span class="sxs-lookup"><span data-stu-id="0341e-132">In the SharePoint Web part, select Add Embed code and then paste it into the Embed box.</span></span> 
-7.  <span data-ttu-id="0341e-133">右側のボックスに、新しい web パーツの追加を選択し、テキストを選択し、します。</span><span class="sxs-lookup"><span data-stu-id="0341e-133">In the right-hand box, select Add a new web part, and then select Text.</span></span> 
-8.  <span data-ttu-id="0341e-p105">Web ブラウザーでこの URL に移動する: https://support.office.com/en-us/article/13c4e429-7324-4886-b377-5dbed539193b 、Try をコピーし、!ページからの指示テキストの Web パーツに貼り付けることとします。ページは、次のようになります。</span><span class="sxs-lookup"><span data-stu-id="0341e-p105">In a Web browser, go to this URL: https://support.office.com/en-us/article/13c4e429-7324-4886-b377-5dbed539193b and copy the Try it! Instructions from the page and paste them into the Text Web part. Your page should look like the following.</span></span> 
+#### <a name="step-3-add-assets-to-the-playlist"></a><span data-ttu-id="8e6a4-148">手順 3: 再生リストにアセットを追加する</span><span class="sxs-lookup"><span data-stu-id="8e6a4-148">Step 3: Add assets to the playlist</span></span>
+<span data-ttu-id="8e6a4-149">この手順では、Microsoft の既存のアセットと、プレイリストに作成した SharePoint ページを追加します。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-149">In this step, you’ll add existing assets from Microsoft and the SharePoint page you created to the playlist.</span></span> 
 
-![ページを埋め込む](media/clo365teamscommandbox.png)
+1. <span data-ttu-id="8e6a4-150">再生リストの詳細を保存すると、既存のアセットの検索を使用できるようになります。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-150">Once you have saved the details for your Playlist you can use the Search for Existing Assets.</span></span>
+1. <span data-ttu-id="8e6a4-p108">**任意の検索用語を入力**して、他の再生リストから利用できる定義済みのアセットの一覧を表示します。アセットの**名前をクリックし**て、新しい再生リストに追加します。![custom_slist](media/custom_slist.png)</span><span class="sxs-lookup"><span data-stu-id="8e6a4-p108">**Enter in any search term** to see a list of predefined assets that are available from other playlists. **Click on the name** of an asset to include it in your new playlist. ![custom_slist.png](media/custom_slist.png)</span></span>
 
-9.  <span data-ttu-id="0341e-138">発行] をクリックし、ページの URL をコピーし、メモ帳に貼り付けます</span><span class="sxs-lookup"><span data-stu-id="0341e-138">Click Publish, and then copy the URL of the page and paste it in Notepad</span></span>
+<span data-ttu-id="8e6a4-154">また、前の手順で作成した SharePoint ページを追加したり、表示で最初から作成したりすることもできます。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-154">You can also add the SharePoint page you created earlier or create one from scratch in the experience.</span></span>
 
-#### <a name="step-2-create-the-playlist"></a><span data-ttu-id="0341e-139">手順 2: 再生リストを作成します。</span><span class="sxs-lookup"><span data-stu-id="0341e-139">Step 2: Create the Playlist</span></span>
-1.  <span data-ttu-id="0341e-p106">学習のカスタム web パーツをインストールした場所に移動します。完全なサイトの経験では Office 365 のトレーニングのページでホストされています。</span><span class="sxs-lookup"><span data-stu-id="0341e-p106">Navigate to where you have installed the Custom Learning webpart. In the full site experience it is hosted on the Office 365 training page.</span></span> 
-2.  <span data-ttu-id="0341e-142">ドロップダウン ・ メニューから、新しい再生リストの作成を選択します。</span><span class="sxs-lookup"><span data-stu-id="0341e-142">From the dropdown menu select Create New Playlist.</span></span> 
+1. <span data-ttu-id="8e6a4-155">[再生リストアセット] ダイアログボックスの [**新しいアセット**] オプションをクリックします。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-155">Click on the **New Asset** option in the Playlist Assets dialog</span></span>
+1. <span data-ttu-id="8e6a4-p109">アセットに**タイトル**を付けます。入力すると、追加のオプション![で custom_newpage が表示されます。](media/custom_newpage.png)</span><span class="sxs-lookup"><span data-stu-id="8e6a4-p109">Give your asset a **Title**. Once entered, additional options will display ![custom_newpage.png](media/custom_newpage.png)</span></span>
+1. <span data-ttu-id="8e6a4-158">これで、SharePoint Online に新しいアセットページを作成したり、既存のページの URL を入力してカスタムプレイリストに追加したりできます。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-158">You can now create a new asset page in SharePoint Online or enter in the URL of an existing page to add it to your custom playlist.</span></span> 
+1. <span data-ttu-id="8e6a4-159">**Category**、 **Sub category** 、および**ts**の各フィールドは、このプレイリストの以前の選択に基づいて事前に入力されます。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-159">**Category**, **Sub Category** and **Technology** fields will be pre-populated based on your previous selections for this playlist.</span></span>
+1. <span data-ttu-id="8e6a4-160">この各資産のレベルと対象ユーザーを適切に選択してください。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-160">Make the appropriate selections for Level and Audience for this individual asset.</span></span>  
+1. <span data-ttu-id="8e6a4-161">[**アセットの保存**] をクリックして、カスタムプレイリストに追加します。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-161">Click **Save Asset** to add it to the custom playlist</span></span>
+1. <span data-ttu-id="8e6a4-162">再生リストが完成するまで、個々のページを検索または追加するには、これらの手順を繰り返します。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-162">Repeat these steps, either searching or adding individual pages, until your playlist is complete.</span></span> 
+1. <span data-ttu-id="8e6a4-163">[**再生リストを閉じる**] をクリックして保存する</span><span class="sxs-lookup"><span data-stu-id="8e6a4-163">Click **Close Playlist** to save</span></span>
 
-![カスタム再生リストを作成します。](media/clo365createplaylist.png)
+<span data-ttu-id="8e6a4-164">これで、このコンテンツを含むプレイリストは、カスタム学習 web パーツをインストールまたは埋め込まれた任意の場所で利用できるようになります。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-164">Your playlist with this content will now be available anywhere you have installed / embedded the Custom Learning webpart.</span></span> 
 
-3.  <span data-ttu-id="0341e-144">次の例に示すように値を入力し、**作成**を選択します。</span><span class="sxs-lookup"><span data-stu-id="0341e-144">Fill in the values as shown in the example below and select **Create**.</span></span> 
+> [!NOTE]
+> <span data-ttu-id="8e6a4-165">再生リストを閉じた後で間違いを犯した場合は、再生リスト名の横にある X をクリックしてそのカテゴリから削除できます。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-165">If you make a mistake once you have closed the playlist, you can delete it from the category by clicking the X next to the playlist name.</span></span>  
 
-#### <a name="step-3-add-assets-to-the-playlist"></a><span data-ttu-id="0341e-145">手順 3: 再生リストにアセットを追加します。</span><span class="sxs-lookup"><span data-stu-id="0341e-145">Step 3: Add assets to the playlist</span></span>
-<span data-ttu-id="0341e-146">ここでは、再生リストに、マイクロソフトおよび作成した SharePoint ページから既存の資産を追加します。</span><span class="sxs-lookup"><span data-stu-id="0341e-146">In this step, you’ll add existing assets from Microsoft and the SharePoint page you created to the playlist.</span></span> 
+#### <a name="things-to-think-about"></a><span data-ttu-id="8e6a4-166">検討事項</span><span class="sxs-lookup"><span data-stu-id="8e6a4-166">Things to Think About</span></span>
 
-1.  <span data-ttu-id="0341e-147">メニュー ボタンをクリックし、既存資産の追加] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="0341e-147">Click the menu button, then click Add Existing Asset.</span></span>
+<span data-ttu-id="8e6a4-p110">カスタム再生リストを使用すると、エンドユーザーにさまざまなタスクをサポートできます。 休暇を申請するフォームがあるかどうか ハードウェア機器を要求するフォーム 既存のトレーニング資産はすべて、そのままの方法で作業できます。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-p110">Custom playlists can be used to assist your end users in a variety of tasks.  Do you have a time off request form?  A form to request hardware equipment?  Any existing training assets can be programmed into the experience.</span></span>  
 
-![資産を追加します。](media/clo365addasset.png)
+## <a name="share-playlists"></a><span data-ttu-id="8e6a4-171">共有のプレイリスト</span><span class="sxs-lookup"><span data-stu-id="8e6a4-171">Share Playlists</span></span>
 
-2.  <span data-ttu-id="0341e-149">Office 365 アプリケーション _gt マイクロソフト チームのトレーニングにフィルターを適用します。</span><span class="sxs-lookup"><span data-stu-id="0341e-149">Filter on Office 365 Apps > Microsoft Teams Training</span></span>
-3.  <span data-ttu-id="0341e-150">マイクロソフトのチームにようこそを追加するチームを取得し、チャットを開始、呼び出しを行います。</span><span class="sxs-lookup"><span data-stu-id="0341e-150">Add Welcome to Microsoft Teams, Get your team up and running, and Start chats and make calls.</span></span>
-4.  <span data-ttu-id="0341e-151">メニュー ボタン _gt を作成する資産を選択します。</span><span class="sxs-lookup"><span data-stu-id="0341e-151">Select the menu button > Create Asset.</span></span>
-5.  <span data-ttu-id="0341e-152">型では、資産のタイトル] ボックスで [チーム] ボックスを使用します。</span><span class="sxs-lookup"><span data-stu-id="0341e-152">Type Use the Teams command box in the Asset title box.</span></span> 
-6.  <span data-ttu-id="0341e-153">SharePoint 使用チーム コマンド ボックス ページのコンテンツ資産] フィールドにコピーした URL を貼り付けます。</span><span class="sxs-lookup"><span data-stu-id="0341e-153">Paste the SharePoint Use the Teams command box page URL you copied in the Asset content field.</span></span> 
-7.  <span data-ttu-id="0341e-p107">移動ホーム ページ _gt のカスタム再生リスト _gt に最初のチーム _gt の日が [チーム] ボックスを使用します。ページは、次のようになります。</span><span class="sxs-lookup"><span data-stu-id="0341e-p107">Now navigate back to the Home Page > Custom Playlists > Your first days with Teams > Use the Teams command box. Your page should look like the following.</span></span> 
+1. <span data-ttu-id="8e6a4-172">webpart 内の任意のプレイリストまたはサイトの操作に移動する</span><span class="sxs-lookup"><span data-stu-id="8e6a4-172">Navigate to any playlist within the webpart or site experience</span></span>
+1. <span data-ttu-id="8e6a4-173">左上隅に3つのアイコンが表示されます。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-173">In the upper left hand corner you will see three icons</span></span>
+1. <span data-ttu-id="8e6a4-174">リンクを表すアイコンをクリックします。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-174">Click on the icon representing a link</span></span>
+1. <span data-ttu-id="8e6a4-175">URL を再生リストにコピーします。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-175">Copy the URL to the playlist</span></span>
 
-![作成されたページ](media/clo365createplaylist2.png)
+<span data-ttu-id="8e6a4-176">![[.png](media/share.png) ] この URL は、サイトのナビゲーションに挿入したり、他の通信で使用したりして、従業員をその再生リストに直接移動することができるようになります。</span><span class="sxs-lookup"><span data-stu-id="8e6a4-176">![share.png](media/share.png) This URL can now be inserted in your site navigation or utilized in other communications to take your employees directly to that playlist.</span></span> 
 
-<span data-ttu-id="0341e-157">再生リストをこのコンテンツでできるようがインストールされているし、学習のカスタム web パーツが埋め込まれているが任意の場所です。</span><span class="sxs-lookup"><span data-stu-id="0341e-157">Your playlist with this content will now be available anywhere you have installed / embedded the Custom Learning webpart.</span></span> 
-
-#### <a name="things-to-think-about"></a><span data-ttu-id="0341e-158">考慮事項</span><span class="sxs-lookup"><span data-stu-id="0341e-158">Things to Think About</span></span>
-
-<span data-ttu-id="0341e-p108">カスタム再生リストは、タスクの vareity で、エンド ・ ユーザーを支援するために使用できます。 要求フォームをオフにしていますか。 ハードウェア機器を要求するためのフォームですか。 作業環境には、既存のトレーニング資料をプログラムできます。</span><span class="sxs-lookup"><span data-stu-id="0341e-p108">Custom playlists can be used to assist your end users in a vareity of tasks.  Do you have a time off request form?  A form to request hardware equipment?  Any existing training assets can be programmed into the experience.</span></span>  
+### <a name="next-steps---drive-adoptiondriveadoptionmd"></a><span data-ttu-id="8e6a4-177">次の手順-[ドライブの採用](driveadoption.md)</span><span class="sxs-lookup"><span data-stu-id="8e6a4-177">Next Steps - [Drive Adoption](driveadoption.md)</span></span>
