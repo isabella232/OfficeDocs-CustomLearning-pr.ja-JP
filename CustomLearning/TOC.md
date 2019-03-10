@@ -1,5 +1,6 @@
 # [作業の開始](index.md)
-## [カスタム学習をプロビジョニングする](installsitepackage.md)
+## [カスタム学習設定オプション](custom_setupoptions.md)
+## [カスタム学習をプロビジョニングする](custom_provision.md)
 ## [カスタム学習サイトを探索する](sitecontent.md)
 ## [スタンドアロン web パーツのセットアップ](custom_manualsetup.md)
 # [学習環境をカスタマイズする](custom_overview.md)
