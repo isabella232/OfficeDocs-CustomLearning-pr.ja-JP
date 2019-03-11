@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: スタンドアロン web パーツのセットアップ
 ms.date: 02/10/2019
 description: Office 365 マニュアル web パーツのセットアップのカスタム学習
-ms.openlocfilehash: 650e6c12ebe8ca7fedc6edc107b5822c48ead99a
-ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
+ms.openlocfilehash: f5d94d673f491d5b5778ef73d518914dbd4cdbb9
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30411877"
+ms.lasthandoff: 03/10/2019
+ms.locfileid: "30523061"
 ---
 # <a name="stand-alone-web-part-setup"></a>スタンドアロン web パーツのセットアップ
 
@@ -58,10 +58,22 @@ Office 365 のカスタム学習をセットアップするには、customlearni
 
 手動インストールを実行しておらず、テレメトリトラッキングをオフにしたい場合は、実行`TelemetryOptOut.ps1`時にテレメトリ追跡を無効にする別のスクリプトが含まれています。
 
-## <a name="step-6---initialize-web-part-custom-configuration"></a>ステップ 6-web パーツのカスタム構成の初期化
-PowerShell スクリプトが正常に実行されたら、 `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`に移動します。 これにより、最初に使用するカスタム学習を設定する**customconfig**リストアイテムが初期化されます。
+## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>プロビジョニングが成功したことを検証し、customconfig リストを初期化する
 
-これで構成が完了しました。 環境に合わせてカスタム学習サイトと web パーツをカスタマイズする方法の詳細については、「トレーニング環境を[カスタマイズ](custom_overview.md)する」を参照してください。
+PowerShell スクリプトが正常に実行されたら、サイトに移動して、最初に使用するためにカスタム学習を設定する**customconfig**リストアイテムを初期化し、サイトが動作していることを確認します。
+
+1. `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx` に移動します。 **CustomLearningAdmin**を開くと、カスタム学習を設定する**customconfig**リストアイテムが初期化されます。 次のようなページが表示されます。
+
+![cg-adminapppage](media/cg-adminapppage.png)
+
+## <a name="add-owners-to-site"></a>サイトに所有者を追加する
+テナント管理者は、サイトをカスタマイズするユーザーになる可能性があるので、サイトにいくつかの所有者を割り当てる必要があります。 所有者はサイトの管理権限を持っているため、サイトのページを変更したり、サイトを再ブランド化したりできます。 また、カスタム学習 Web パーツを通じて配信されるコンテンツを非表示にしたり、表示したりすることもできます。 さらに、カスタムのプレイリストを作成してカスタムサブカテゴリに割り当てることができます。  
+
+1. [SharePoint の**設定**] メニューの [**サイトの権限**] をクリックします。
+2. [**高度なアクセス許可の設定**] をクリックします。
+3. [ **Office 365 所有者向けのカスタム学習] を**クリックします。
+4. [**新しい** > **ユーザーをこのグループに追加する**] をクリックし、所有者にするユーザーを追加します。 
+5. 共有メッセージ内の[サイトを探索](https://docs.microsoft.com/en-us/Office365/CustomLearning/custom_explore)するためのリンクを追加し、[**共有**] をクリックします。
 
 ### <a name="next-steps"></a>次のステップ
 - 組織のトレーニング環境を[カスタマイズ](custom_overview.md)します。

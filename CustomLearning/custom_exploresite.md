@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: サイトと既定のコンテンツを参照する
 ms.date: 02/10/2019
 description: カスタム学習サイトと既定のコンテンツを参照する
-ms.openlocfilehash: c575afbe566100f8873ce1a174b7f389019c8daf
-ms.sourcegitcommit: c358dcc2d69cc3db8fd24a1011550edebe0721fe
+ms.openlocfilehash: 1dc8a0e27cad6843799ec4dfed3c324327c20741
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 03/10/2019
-ms.locfileid: "30518179"
+ms.locfileid: "30523041"
 ---
 # <a name="explore-the-custom-learning-site"></a>カスタム学習サイトを探索する
 
@@ -19,7 +19,7 @@ ms.locfileid: "30518179"
 
 1.  Web ブラウザーを開き、office.com または組織のサインインの場所に移動します。 
 2.  ユーザー名とパスワードを使用してサインインします。
-3.  テナント管理者から提供された URL を使用してサイトの場所に移動するか、Office 365 のホームページから [SharePoint] を選択します。 
+3.  テナント管理者から提供された URL を使用してサイトの場所に移動するか、Office 365 のホームページから [SharePoint] を選択して、サイトを選択します。 
 
 ![cg-introducing](media/cg-introducing.png)
 

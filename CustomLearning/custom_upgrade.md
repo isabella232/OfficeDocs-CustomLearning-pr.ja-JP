@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: カスタム学習アップグレード
 ms.date: 02/10/2019
 description: Office 365 マニュアル web パーツのセットアップのカスタム学習
-ms.openlocfilehash: f9729c922b374cc6b775737fa7c7c76a4719534c
-ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
+ms.openlocfilehash: 72ac6f7a135697b816f2decbf010ec439562598f
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30411897"
+ms.lasthandoff: 03/10/2019
+ms.locfileid: "30523072"
 ---
 # <a name="manual-upgrade-for-custom-learning"></a>カスタム学習の手動アップグレード
 
@@ -102,12 +102,11 @@ office 365 のカスタム学習では、web パーツにさまざまな機能�
 再生リストが正しく動作することを確認するには、以前のバージョンの web パーツを使用して作成されたすべての再生リストを再作成する必要があります。 再生リストを削除する前に、カスタムプレイリストと関連付けられているアセットのリストを作成し、新しいカスタム学習 Web パーツを使用して簡単に再作成できるようにします。 再生リストのコピーを作成し、削除します。 jsondata フィールドを使用して、削除する前に再生リストのコンテンツのコピーを作成できます。 これにより、後で作成することが容易になります。
 
 
-•カスタム学習サイトから、[設定 > サイトコンテンツ] をクリックします。 •再生リストを選択し、省略記号を選択して、[編集] を選択し、[jsondata] フィールドの内容をメモ帳に保存し、後で参照するために別のドキュメントに保存します。 [キャンセル] を選択します。
-•再生リストを選択し、省略記号を選択して、[削除] を選択します。
-•新しい Web パーツを使用してプレイリストを再作成する準備ができました。
-Office 365 Web パーツの新しいカスタム学習を使用する方法についてhttps://docs.microsoft.com/en-us/office365/customlearning/custom_overviewは、「」を参照してください。
-
-## <a name="step-8---chan"></a>手順 8-チャンネル
+1. カスタム学習サイトで、[**サイトコンテンツ**の**設定** > ] をクリックします。 
+2. 再生リストを選択して、省略記号を選択し、[**編集**] を選択してから、[ **jsondata** ] フィールドの内容をコピーしてメモ帳に保存するか、後で参照するために別のドキュメントに保存します。 [**キャンセル**] を選択します。
+3. 再生リストを選択し、省略記号を選択してから、[**削除**] を選択します。
+4. これで、新しい Web パーツを使用してプレイリストを再作成する準備ができました。
+Office 365 Web パーツのカスタム学習を使用する手順については、「learning Experience (custom_overview) をカスタマイズする」を参照してください。
 
 ### <a name="next-steps"></a>次のステップ
 - 組織のトレーニング環境を[カスタマイズ](custom_overview.md)します。

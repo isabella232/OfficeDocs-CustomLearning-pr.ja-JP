@@ -1,7 +1,7 @@
 # [作業の開始](index.md)
 ## [カスタム学習設定オプション](custom_setupoptions.md)
 ## [カスタム学習をプロビジョニングする](custom_provision.md)
-## [カスタム学習サイトを探索する](sitecontent.md)
+## [カスタム学習サイトを探索する](custom_exploresite.md)
 ## [スタンドアロン web パーツのセットアップ](custom_manualsetup.md)
 # [学習環境をカスタマイズする](custom_overview.md)
 ## [カスタム学習サイトに移動する](custom_goto.md)
@@ -22,5 +22,6 @@
 # [ドライブ導入](driveadoption.md)
 # [フィードバックとサポート](feedback.md)
 # [よく寄せられる質問](faq.md)
+# [パートナーによく寄せられる質問](custom_partner.md)
 # [カスタム学習の手動アップグレード](custom_upgrade.md)
 
