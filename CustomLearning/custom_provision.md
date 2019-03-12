@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: カスタム学習サイトをプロビジョニングする
 ms.date: 02/10/2019
 description: SharePoint プロビジョニングエンジンを使用して Office 365 サイト用のカスタム学習をプロビジョニングする
-ms.openlocfilehash: 9b51bc284560e391b1fb81a34feb3cc2f5901bd2
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.openlocfilehash: 8fd6aa71aac7e0688e4c100c6ea40beabce5da73
+ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523051"
+ms.lasthandoff: 03/12/2019
+ms.locfileid: "30543757"
 ---
 # <a name="provision-custom-learning"></a>カスタム学習をプロビジョニングする 
 
@@ -17,9 +17,9 @@ SharePoint Online プロビジョニングサービスを使用すると、Offic
 
 ## <a name="prerequisites"></a>前提条件
  
-プロビジョニングサービス[SharePoint Online プロビジョニングサービス](https://provisioning.sharepointpnp.com)を使用してカスタム学習を正常にセットアップするには、プロビジョニングを実行するユーザーが次の前提条件を満たしている必要があります。 
+プロビジョニングサービスを使用してカスタム学習を正常にセットアップするには、プロビジョニングを実行するユーザーが次の前提条件を満たしている必要があります。 
  
-- カスタム学習をプロビジョニングするユーザーは、カスタム学習をプロビジョニングするテナントのテナントのアドミニストレーターである必要があります。  
+- カスタム学習をプロビジョニングするユーザーは、カスタム学習をプロビジョニングするテナントのテナント管理者である必要があります。  
 - テナントアプリカタログは、SharePoint 管理センターの [アプリ] オプションで使用できる必要があります。 組織に sharepoint テナントのアプリカタログがない場合は、 [sharepoint Online のドキュメント](https://docs.microsoft.com/en-us/sharepoint/use-app-catalog)を参照して作成します。  
 - カスタム学習をプロビジョニングするユーザーは、テナントアプリカタログのサイトコレクションの所有者である必要があります。 ユーザーのカスタム学習が、アプリカタログのサイトコレクションの所有者ではない場合は、[次の手順を完了](addappadmin.md)して続行します。 
 
@@ -33,11 +33,11 @@ SharePoint Online プロビジョニングサービスを使用すると、Offic
 
 ![順番](media/inst_perms.png)
 
-3. ソリューションギャラリーから [ **Office 365 のカスタム学習**] を選択します。
+3. ページを下にスクロールし、[**ソリューション**] タブを選択してから、[ **Office 365 のカスタム学習**] を選択します。 
 
 ![順番](media/inst_select.png)
 
-4. ソリューションのホームページで、[**テナントに追加する**] を選択します。
+4. [**テナントに追加**] を選択します。
 
 ![inst_select](media/inst_add.png)
 
@@ -50,7 +50,7 @@ SharePoint Online プロビジョニングサービスを使用すると、Offic
 6. カスタム**** 学習をテナント環境にインストールする準備ができたら、[準備] を選択します。  プロビジョニングプロセスには最大15分かかります。 サイトがアクセスできる状態になると、メールによって ([プロビジョニング] ページで入力した通知の電子メールアドレスに) 通知されます。 
 
 > [!IMPORTANT]
-> カスタム学習サイトをプロビジョニングするテナント管理者は、サイトに移動し、CustomLearningAdmin を開いてカスタム学習管理プロパティを初期化する必要があります。 この時点で、テナント管理者はサイトに所有者を割り当てる必要があります。 
+> カスタム学習サイトをプロビジョニングするテナント管理者は、サイトに移動し、 **CustomLearningAdmin**を開いてカスタム学習管理プロパティを初期化する必要があります。 この時点で、テナント管理者はサイトに所有者を割り当てる必要があります。 
 
 ## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>プロビジョニングが成功したことを検証し、customconfig リストを初期化する
 

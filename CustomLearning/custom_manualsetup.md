@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: スタンドアロン web パーツのセットアップ
 ms.date: 02/10/2019
 description: Office 365 マニュアル web パーツのセットアップのカスタム学習
-ms.openlocfilehash: f5d94d673f491d5b5778ef73d518914dbd4cdbb9
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.openlocfilehash: c4f5d4c006d5f890428f8c49bf70ce0d41a6874f
+ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523061"
+ms.lasthandoff: 03/12/2019
+ms.locfileid: "30543747"
 ---
 # <a name="stand-alone-web-part-setup"></a>スタンドアロン web パーツのセットアップ
 
@@ -22,7 +22,7 @@ ms.locfileid: "30523061"
 - CustomLearningAdmin サイトページに移動して、管理者 web パーツを読み込んで、カスタムコンテンツ構成を初期化します。
 
 > [!NOTE]
-> カスタム学習をすばやく簡単にセットアップする方法については、「[カスタム学習を準備](installsitepackage.md)する」を参照してください。
+> カスタム学習をすばやく簡単にセットアップする方法については、「[カスタム学習を準備](custom_provision.md)する」を参照してください。
 
 ## <a name="prerequisites"></a>前提条件
 カスタム学習 web パーツを正常に手動でセットアップするには、次の前提条件を満たしている必要があります。 
@@ -44,13 +44,18 @@ Office 365 のカスタム学習をセットアップするには、customlearni
 ## <a name="step-3---provisionidentify-a-modern-communication-site"></a>手順 3-モダンコミュニケーションサイトをプロビジョニング/識別する
 既存の sharepoint コミュニケーションサイトを識別するか、sharepoint Online テナントで新しいサイトをプロビジョニングします。 コミュニケーションサイトのプロビジョニング方法の詳細については、「 [SharePoint Online でコミュニケーションサイトを作成](https://support.office.com/en-us/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb)する」を参照し、手順に従ってコミュニケーションサイトを作成してください。
 
-## <a name="step-4---set-permissions-for-the-site"></a>手順 4-サイトのアクセス許可を設定する
+## <a name="step-4---add-the-custom-learning-for-office-365-app-to-the-site"></a>手順 4-Office 365 アプリのカスタム学習をサイトに追加する
+
+1. SharePoint サイトで、[システム] メニューの [アプリの**追加**] をクリックします。 
+2. **ご使用のアプリ**の下で、[**組織から**] をクリックし、[ **Office 365 のカスタム学習**] をクリックします。 
+
+## <a name="step-5---set-permissions-for-the-site"></a>手順 5-サイトのアクセス許可を設定する
 サイトに対して次のアクセス許可が設定されていることを確認します。
 - **サイトコレクションの管理者または所有者のグループ**権限。最初に使用するカスタム学習を設定する customconfig リストアイテムを初期化するために必要です。 
 - **メンバーグループ**-permissons コンテンツの表示と表示、カスタムプレイリストの管理など、カスタム学習を管理するために必要です。
 - **閲覧者グループ**-サイトコンテンツを表示するために必要なアクセス許可。 
 
-## <a name="step-5--execute-powershell-configuration-script"></a>手順 5-PowerShell 構成スクリプトを実行する
+## <a name="step-6--execute-powershell-configuration-script"></a>手順 6-PowerShell 構成スクリプトを実行する
 ソリューションで使用`CustomLearningConfiguration.ps1`する3つの[テナントプロパティ](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tenant-properties)を作成するために実行する必要がある PowerShell スクリプトが含まれています。 さらに、スクリプトは、管理者とユーザーの web パーツを既知の場所にホストするために、サイトページライブラリに2つの[単一パーツアプリページ](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/single-part-app-pages)を作成します。
 
 ### <a name="disabling-telemetry-collection"></a>テレメトリコレクションの無効化
@@ -62,7 +67,7 @@ Office 365 のカスタム学習をセットアップするには、customlearni
 
 PowerShell スクリプトが正常に実行されたら、サイトに移動して、最初に使用するためにカスタム学習を設定する**customconfig**リストアイテムを初期化し、サイトが動作していることを確認します。
 
-1. `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx` に移動します。 **CustomLearningAdmin**を開くと、カスタム学習を設定する**customconfig**リストアイテムが初期化されます。 次のようなページが表示されます。
+- `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx` に移動します。 **CustomLearningAdmin**を開くと、カスタム学習を設定する**customconfig**リストアイテムが初期化されます。 次のようなページが表示されます。
 
 ![cg-adminapppage](media/cg-adminapppage.png)
 

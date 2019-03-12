@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: カスタム学習アップグレード
 ms.date: 02/10/2019
 description: Office 365 マニュアル web パーツのセットアップのカスタム学習
-ms.openlocfilehash: 72ac6f7a135697b816f2decbf010ec439562598f
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.openlocfilehash: 1dd9fd47b608a20ae0b1dc1937e48524547cc938
+ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523072"
+ms.lasthandoff: 03/12/2019
+ms.locfileid: "30543777"
 ---
 # <a name="manual-upgrade-for-custom-learning"></a>カスタム学習の手動アップグレード
 
@@ -45,7 +45,12 @@ Office 365 のカスタム学習をセットアップするには、customlearni
 5. ZIP ファイルを保存したフォルダーで、[ **webpart** ] フォルダーを選択し、[ **customlearning] [sppkg** ] を選択します。
 6. [**展開**] をクリックします。
 
-## <a name="step-5--execute-powershell-configuration-script"></a>手順 5-PowerShell 構成スクリプトを実行する
+## <a name="step-3---add-the-custom-learning-for-office-365-app-to-the-site"></a>手順 3-サイトに Office 365 アプリのカスタム学習を追加する
+
+1. SharePoint サイトで、[システム] メニューの [アプリの**追加**] をクリックします。 
+2. **ご使用のアプリ**の下で、[**組織から**] をクリックし、[ **Office 365 のカスタム学習**] をクリックします。 
+
+## <a name="step-4---execute-powershell-configuration-script"></a>手順 4-PowerShell 構成スクリプトを実行する
 PowerShell スクリプト`CustomLearningConfiguration.ps1`は、GitHub からの ZIP ダウンロードに含まれています。 このスクリプトを実行して、ソリューションで使用される3つの[テナントプロパティ](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tenant-properties)を作成する必要があります。 さらに、このスクリプトは、管理者とユーザーの web パーツを既知の場所にホストするために、サイトページライブラリに2つの[単一パーツアプリページ](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/single-part-app-pages)を作成します。 これらのアプリページは次のとおりです。
 
 - customadministration .aspx
@@ -57,18 +62,10 @@ PowerShell スクリプト`CustomLearningConfiguration.ps1`は、GitHub から�
 ### <a name="disabling-telemetry-collection"></a>テレメトリコレクションの無効化
 カスタム学習には、匿名化テレメトリトラッキングオプトインが含まれています。これは、既定では [オン] に設定されています。 テレメトリトラッキングをオフにしたい場合は、 `CustomlearningConfiguration.ps1` `$optInTelemetry`変数をに`$false`設定するようにスクリプトを変更してください。
 
-## <a name="step-6---initialize-web-part-custom-configuration"></a>ステップ 6-web パーツのカスタム構成の初期化
+## <a name="step-5---initialize-web-part-custom-configuration"></a>ステップ 5-web パーツのカスタム構成の初期化
 PowerShell スクリプトが正常に実行されたら、 `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`に移動します。 **CustomLearningAdmin**を開くと、カスタム学習を設定する**customconfig**リストアイテムが初期化されます。 次のようなページが表示されます。
 
 ![cg-adminapppage](media/cg-adminapppage.png)
-
-## <a name="add-owners-to-site"></a>サイトに所有者を追加する
-テナント管理者は、サイトをカスタマイズするユーザーになる可能性があるので、サイトにいくつかの所有者を割り当てる必要があります。 所有者はサイトの管理権限を持っているため、サイトのページを変更したり、サイトを再ブランド化したりできます。 また、カスタム学習 Web パーツを通じて配信されるコンテンツを非表示にしたり、表示したりすることもできます。 また、カスタムのプレイリストを作成してカスタムサブカテゴリに割り当てることもできます。  
-
-1. [SharePoint の**設定**] メニューの [**サイトの権限**] をクリックします。
-2. [**高度なアクセス許可の設定**] をクリックします。
-3. [ **Office 365 所有者向けのカスタム学習] を**クリックします。
-4. [**新しい** > **ユーザーをこのグループに追加する**] をクリックし、所有者にするユーザーを追加して、[**共有**] をクリックします。
 
 これでアップグレードが完了しました。 環境に合わせてカスタム学習サイトと web パーツをカスタマイズする方法の詳細については、「トレーニング環境を[カスタマイズ](custom_overview.md)する」を参照してください。
 
