@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: スタンドアロン web パーツのセットアップ
 ms.date: 02/10/2019
 description: Office 365 マニュアル web パーツのセットアップのカスタム学習
-ms.openlocfilehash: c4f5d4c006d5f890428f8c49bf70ce0d41a6874f
-ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
+ms.openlocfilehash: 8bf6292518c36eda74a49f9968c8e0559fcf8320
+ms.sourcegitcommit: 5ea8d7fdc255ef7de06f41b3c794bc40551cf5bb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/12/2019
-ms.locfileid: "30543747"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30577853"
 ---
 # <a name="stand-alone-web-part-setup"></a>スタンドアロン web パーツのセットアップ
 
@@ -58,10 +58,12 @@ Office 365 のカスタム学習をセットアップするには、customlearni
 ## <a name="step-6--execute-powershell-configuration-script"></a>手順 6-PowerShell 構成スクリプトを実行する
 ソリューションで使用`CustomLearningConfiguration.ps1`する3つの[テナントプロパティ](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tenant-properties)を作成するために実行する必要がある PowerShell スクリプトが含まれています。 さらに、スクリプトは、管理者とユーザーの web パーツを既知の場所にホストするために、サイトページライブラリに2つの[単一パーツアプリページ](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/single-part-app-pages)を作成します。
 
-### <a name="disabling-telemetry-collection"></a>テレメトリコレクションの無効化
-このソリューションの一部には、既定でオンに設定されている匿名化テレメトリトラッキングオプトインが含まれています。 手動によるインストールを実行していて、テレメトリの追跡をオフにする場合は`CustomlearningConfiguration.ps1` 、$optInTelemetry 変数を $false に設定するようにスクリプトを変更してください。
+1. SharePoint Online 管理シェルをまだダウンロードしていない場合は、今すぐダウンロードしてください。 「 [SharePoint Online 管理シェルのダウンロード](https://go.microsoft.com/fwlink/p/?LinkId=255251)」を参照してください。
+2. スクリプトを実行するには、PowerShell の実行ポリシーを設定する必要がある場合があります。 詳細については、「[実行ポリシーについ](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6)て」を参照してください。
+3. スクリプトを`CustomLearningConfiguration.ps1`実行します。 テナント管理者の資格情報に加えて、スクリプトによってテナント名とサイト名の入力を求められます。 サイトの URL `https://contoso.sharepoint.com/sites/O365CL`と`contoso` `O365CL`して次の例を検討してください。は、テナント名で、はサイト名です。 
 
-手動インストールを実行しておらず、テレメトリトラッキングをオフにしたい場合は、実行`TelemetryOptOut.ps1`時にテレメトリ追跡を無効にする別のスクリプトが含まれています。
+### <a name="disabling-telemetry-collection"></a>テレメトリコレクションの無効化
+このソリューションの一部には、既定でオンに設定されている匿名化テレメトリトラッキングオプトインが含まれています。 手動によるインストールを実行していて、テレメトリの追跡をオフにしたい場合`CustomlearningConfiguration.ps1`は、スクリプトを変更して $optInTelemetry 変数を $false に設定し、スクリプトを実行してください。
 
 ## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>プロビジョニングが成功したことを検証し、customconfig リストを初期化する
 

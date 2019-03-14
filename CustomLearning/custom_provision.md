@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: カスタム学習サイトをプロビジョニングする
 ms.date: 02/10/2019
 description: SharePoint プロビジョニングエンジンを使用して Office 365 サイト用のカスタム学習をプロビジョニングする
-ms.openlocfilehash: 8fd6aa71aac7e0688e4c100c6ea40beabce5da73
-ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
+ms.openlocfilehash: 868708f9f096c84d5ebc5f9bc4e21e558da84d2b
+ms.sourcegitcommit: 5ea8d7fdc255ef7de06f41b3c794bc40551cf5bb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/12/2019
-ms.locfileid: "30543757"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30577863"
 ---
 # <a name="provision-custom-learning"></a>カスタム学習をプロビジョニングする 
 
@@ -56,7 +56,7 @@ SharePoint Online プロビジョニングサービスを使用すると、Offic
 
 プロビジョニングが完了すると、サイトをプロビジョニングしたテナント管理者が、PnP プロビジョニングサービスから電子メールを受信します。 電子メールには、サイトへのリンクが含まれています。 この時点で、テナント管理者は、電子メールで提供されているリンクを使用してサイトに移動し、最初に使用するサイトを設定する必要があります。
 
-1. `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx` に移動します。 **CustomLearningAdmin**を開くと、カスタム学習を設定する**customconfig**リストアイテムが初期化されます。 次のようなページが表示されます。
+- `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx` に移動します。 **CustomLearningAdmin**を開くと、カスタム学習を設定する**customconfig**リストアイテムが初期化されます。 次のようなページが表示されます。
 
 ![cg-adminapppage](media/cg-adminapppage.png)
 
@@ -67,7 +67,7 @@ SharePoint Online プロビジョニングサービスを使用すると、Offic
 2. [**高度なアクセス許可の設定**] をクリックします。
 3. [ **Office 365 所有者向けのカスタム学習] を**クリックします。
 4. [**新しい** > **ユーザーをこのグループに追加する**] をクリックし、所有者にするユーザーを追加します。 
-5. 共有メッセージ内の[サイトを探索](https://docs.microsoft.com/en-us/Office365/CustomLearning/custom_explore)するためのリンクを追加し、[**共有**] をクリックします。
+5. 共有メッセージ内の[サイトを探索](custom_exploresite.md)するためのリンクを追加し、[**共有**] をクリックします。
 
 ### <a name="next-steps"></a>次のステップ
 - サイトと web パーツで提供される[既定のコンテンツ](custom_exploresite.md)について説明します。
