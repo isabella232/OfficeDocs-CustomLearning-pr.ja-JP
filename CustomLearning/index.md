@@ -7,20 +7,18 @@ description: office 365 のカスタム学習によって、組織内での offi
 ---
 
 # <a name="custom-learning-for-office-365"></a>Office 365 のカスタム学習
-
-> [!NOTE]
-> カスタム学習は現在、内部テストに含まれていますが、まだ公開されていません。 
-
-## <a name="on-demand-custom-training-from-microsoft"></a>Microsoft からのオンデマンドのカスタムトレーニング
 カスタム学習 office 365 (カスタム学習) は、組織内での office 365 の使用と導入を拡大するために設計された、カスタマイズ可能なオンデマンドトレーニングソリューションです。 
 
-![cg-introducing](media/cg-introducing.png)
+## <a name="on-demand-custom-training-from-microsoft"></a>Microsoft からのオンデマンドのカスタムトレーニング
 
 Office 365 で提供されるカスタム学習機能:
+
 - **完全にカスタマイズ可能な SharePoint Online コミュニケーションサイト**。これは、チームワークのためのツールキットとして知られています。カスタム学習トレーニングポータルをカスタマイズして、組織のヘルプ、サポート、およびコミュニティコンテンツを追加することができます。
 - **簡単なプロビジョニング**-SharePoint Online プロビジョニングサービスからカスタム学習をプロビジョニングする簡単な手順がいくつかあります。
 - **独自のトレーニングプレイリストを作成する機能**-カスタム学習を使用すると、対象とする環境の固有のニーズを満たすために対象となるトレーニングプレイリストを作成できます。
 - 最新の**コンテンツ**-カスタム学習は、Microsoft online コンテンツカタログを通じてコンテンツを提供するため、サイトのコンテンツは定期的に更新されます。
+
+![cg-introducing](media/cg-introducing.png)
 
 ## <a name="custom-learning-components"></a>カスタム学習コンポーネント
 Office 365 のカスタム学習は、次の3つの部分で構成されます。 
