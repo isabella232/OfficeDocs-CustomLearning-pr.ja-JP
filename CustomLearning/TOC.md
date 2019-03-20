@@ -24,3 +24,4 @@
 # [よく寄せられる質問](faq.md)
 # [パートナーによく寄せられる質問](custom_partner.md)
 # [カスタム学習の手動アップグレード](custom_upgrade.md)
+# [カスタム学習のトラブルシューティング](custom_troubleshooting.md)
