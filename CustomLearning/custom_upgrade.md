@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: カスタム学習アップグレード
 ms.date: 02/10/2019
 description: Office 365 マニュアル web パーツのセットアップのカスタム学習
-ms.openlocfilehash: 1dd9fd47b608a20ae0b1dc1937e48524547cc938
-ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
+ms.openlocfilehash: 107db753c5b235cccb48b5a2f4d036f7de9d5639
+ms.sourcegitcommit: c8c2bed48a1d3216618e7be368dda2855d1a0c14
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/12/2019
-ms.locfileid: "30543777"
+ms.lasthandoff: 03/28/2019
+ms.locfileid: "30936397"
 ---
 # <a name="manual-upgrade-for-custom-learning"></a>カスタム学習の手動アップグレード
 
@@ -80,7 +80,7 @@ office 365 のカスタム学習では、web パーツにさまざまな機能�
 1.  カスタム学習サイトから、[**設定**] をクリックし、[***ページの追加**] をクリックします。
 2.  ページの**+** アイコンをクリックして web パーツを追加し、[ **Office 365 web パーツのカスタム学習**] を選択します。 ページは次の図のようになります。
 
-[cg-adminapppage](media/cg-adminapppage.png)
+![cg-adminapppage](media/cg-adminapppage.png)
  
 ### <a name="replace-the-old-web-part-with-the-new-web-part"></a>古い web パーツを新しい web パーツに置き換える
 カスタム学習 web パーツを置き換えるか、サイトに変更を加える前に、新しい web パーツの使用方法について説明している「[学習環境のカスタマイズ](custom_overview.md)」のドキュメントを参照することをお勧めします。 
