@@ -4,10 +4,15 @@ ms.author: pkrebs
 title: Office 365 オープンソースソリューションのカスタム学習の概要
 ms.date: 02/10/2019
 description: office 365 のカスタム学習によって、組織内での office 365 の使用が促進されるしくみについて説明します。 このソリューションには、カスタム sharepoint online web パーツと、Office 365 テナントに簡単にプロビジョニングできる最新の sharepoint online コミュニケーショントレーニングサイトが含まれています。
+ms.openlocfilehash: 57f84e885206b622f779d20673da2dad4d1bd79b
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "31922511"
 ---
-
-# <a name="custom-learning-for-office-365"></a>Office 365 のカスタム学習
-カスタム学習 office 365 (カスタム学習) は、組織内での office 365 の使用と導入を拡大するために設計された、カスタマイズ可能なオンデマンドトレーニングソリューションです。 
+# <a name="custom-learning-for-office-365-beta-preview"></a>Office 365 ベータ版プレビューのカスタム学習
+office 365 ベータ版のカスタム学習は、組織内での office 365 の使用と導入を促進するために設計された、カスタマイズ可能なオンデマンドトレーニングソリューションです。  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Microsoft からのオンデマンドのカスタムトレーニング
 
