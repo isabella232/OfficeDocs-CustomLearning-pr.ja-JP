@@ -1,45 +1,45 @@
 ---
 タイトル: ''
 ms.openlocfilehash: 0d5e92e85c686a97f0df10fbef222491ec317c60
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733822"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055394"
 ---
-# <a name="establish-champions-for-user-adoption"></a><span data-ttu-id="d8b0f-102">ユーザーの採用のエキスパートを確立します。</span><span class="sxs-lookup"><span data-stu-id="d8b0f-102">Establish Champions for User Adoption</span></span> 
+# <a name="establish-champions-for-user-adoption"></a><span data-ttu-id="dc138-102">ユーザーが採用するためのエキスパートを確立する</span><span class="sxs-lookup"><span data-stu-id="dc138-102">Establish Champions for User Adoption</span></span> 
 
-<span data-ttu-id="d8b0f-p101">組織の変更管理は、ユーザーの対象となるグループの動作を変更するのです。科学、この実習をサポートしている研究の多くがあります。これらの資料にしようとして、社内のビジネスの成果につながる重要なサービスの導入を支援します。 マイクロソフトのベスト プラクティスに従う、Office 365 から測定可能な値を取得するのには、期間を短縮します。</span><span class="sxs-lookup"><span data-stu-id="d8b0f-p101">Organizational change management is the art of changing the behavior of a targeted group of people. There is a great deal of science and research supporting this practice. In these articles we are going to help you drive the adoption of key services that will lead to business outcomes in your company.  Following our best practices will shorten your time to gaining measurable value from Office 365.</span></span>  
+<span data-ttu-id="dc138-103">組織変更管理は、対象のユーザーグループの動作を変更するためのアートです。</span><span class="sxs-lookup"><span data-stu-id="dc138-103">Organizational change management is the art of changing the behavior of a targeted group of people.</span></span> <span data-ttu-id="dc138-104">このプラクティスをサポートする科学と研究は多大なものがあります。</span><span class="sxs-lookup"><span data-stu-id="dc138-104">There is a great deal of science and research supporting this practice.</span></span> <span data-ttu-id="dc138-105">これらの記事では、企業においてビジネスの成果をもたらす主要なサービスの導入を促進するために役立つ情報を提供します。</span><span class="sxs-lookup"><span data-stu-id="dc138-105">In these articles we are going to help you drive the adoption of key services that will lead to business outcomes in your company.</span></span>  <span data-ttu-id="dc138-106">ベストプラクティスに従うことで、Office 365 からの測定可能な価値を得るまでの時間を短縮できます。</span><span class="sxs-lookup"><span data-stu-id="dc138-106">Following our best practices will shorten your time to gaining measurable value from Office 365.</span></span>  
 
-<span data-ttu-id="d8b0f-p102">エキスパート プログラムとは、駆動の採用に不可欠な要素です。これら影響力を持つ会社では、サポートおよび新しいテクノロジを採用することは、従業員への指導が必要な多くを提供します。通知を受け、導入計画を作成して精鋭のプログラムを実行するのにこれらのページを確認します。</span><span class="sxs-lookup"><span data-stu-id="d8b0f-p102">A champions program is an essential part of driving adoption. These influencers in your company provide much needed support and encouragement to employees who are adopting the new technology. Review these pages to get informed about creating your adoption plan and running your own champion program.</span></span> 
+<span data-ttu-id="dc138-107">チャンピオンプログラムは、導入を推進するための重要な部分です。</span><span class="sxs-lookup"><span data-stu-id="dc138-107">A champions program is an essential part of driving adoption.</span></span> <span data-ttu-id="dc138-108">企業のこれらの影響力により、新しいテクノロジを採用している従業員に対して、多くの場合に必要なサポートと encouragement が提供されます。</span><span class="sxs-lookup"><span data-stu-id="dc138-108">These influencers in your company provide much needed support and encouragement to employees who are adopting the new technology.</span></span> <span data-ttu-id="dc138-109">これらのページを確認して、導入計画の作成と独自のチャンピオンプログラムの実行に関する情報を入手してください。</span><span class="sxs-lookup"><span data-stu-id="dc138-109">Review these pages to get informed about creating your adoption plan and running your own champion program.</span></span> 
 
 > [!NOTE]
-> <span data-ttu-id="d8b0f-110">更新したり、情報に置き換えるこの再生リストの参照用の独自のプログラムについて、組織全体ですることができます。</span><span class="sxs-lookup"><span data-stu-id="d8b0f-110">You can update or replace this playlist with information about your own program for reference across your organization.</span></span>
+> <span data-ttu-id="dc138-110">このプレイリストは、組織全体で参照する独自のプログラムに関する情報で更新または置き換えることができます。</span><span class="sxs-lookup"><span data-stu-id="dc138-110">You can update or replace this playlist with information about your own program for reference across your organization.</span></span>
 
-## <a name="who-are-champions-and-what-makes-them-tick"></a><span data-ttu-id="d8b0f-111">人は、エキスパートには、どのような目盛ですか。</span><span class="sxs-lookup"><span data-stu-id="d8b0f-111">Who are champions and what makes them tick?</span></span>
+## <a name="who-are-champions-and-what-makes-them-tick"></a><span data-ttu-id="dc138-111">誰がエキスパートになっているのか、どのようなものですか?</span><span class="sxs-lookup"><span data-stu-id="dc138-111">Who are champions and what makes them tick?</span></span>
 
-<span data-ttu-id="d8b0f-p103">エキスパートはのみについてどのようなことには、情報を共有し、共同作業者がより効果的なソリューションの説明をヘルプには、また情熱的ではありません。エキスパートは、熱心な既存のツールに不満を感じることがよくあります。Watercooler のうわさの課題を獲得するに役立ちます。</span><span class="sxs-lookup"><span data-stu-id="d8b0f-p103">Champions are not only passionate about what they do, but are also excited to share their knowledge and help their co-workers learn more effective solutions. Champions are enthusiastic and often frustrated with existing tools. They will help you win the watercooler buzz challenge!</span></span>  
+<span data-ttu-id="dc138-112">専門知識は、その機能についての情熱だけではなく、自分の知識を共有し、共同作業者がより効果的なソリューションを習得できるようにすることも興奮しています。</span><span class="sxs-lookup"><span data-stu-id="dc138-112">Champions are not only passionate about what they do, but are also excited to share their knowledge and help their co-workers learn more effective solutions.</span></span> <span data-ttu-id="dc138-113">エキスパートは enthusiastic であり、既存のツールでよく不満を感じています。</span><span class="sxs-lookup"><span data-stu-id="dc138-113">Champions are enthusiastic and often frustrated with existing tools.</span></span> <span data-ttu-id="dc138-114">これにより、watercooler の話題の課題を獲得するのに役立ちます。</span><span class="sxs-lookup"><span data-stu-id="dc138-114">They will help you win the watercooler buzz challenge!</span></span>  
 
-<span data-ttu-id="d8b0f-p104">報酬チャンピオンにとって重要な意味のある方法でと思います。いくつかの推奨事項は次のとおりです。</span><span class="sxs-lookup"><span data-stu-id="d8b0f-p104">We feel it is important to reward champions in meaningful ways. A few suggestions are:</span></span>
+<span data-ttu-id="dc138-115">有益な方法でチャンピオンを利用することが重要であると感じています。</span><span class="sxs-lookup"><span data-stu-id="dc138-115">We feel it is important to reward champions in meaningful ways.</span></span> <span data-ttu-id="dc138-116">いくつかの推奨事項を次に示します。</span><span class="sxs-lookup"><span data-stu-id="dc138-116">A few suggestions are:</span></span>
 
-- <span data-ttu-id="d8b0f-117">精鋭従業員の業績評価に貢献するプログラムの成功のメンバーシップを許可します。</span><span class="sxs-lookup"><span data-stu-id="d8b0f-117">Allow successful membership in the Champion program to contribute to the employees' performance review</span></span>
-- <span data-ttu-id="d8b0f-118">Office swag と従業員の利点としてのメリットを持つ、最も成功を収めてのチャンピオンを確認します。</span><span class="sxs-lookup"><span data-stu-id="d8b0f-118">Acknowledge your most successful Champions with rewards of Office swag and employee perks</span></span>  
-- <span data-ttu-id="d8b0f-119">継続的なトレーニングおよびその他の従業員に知らせることのできるコンテンツと、エキスパートを協力します。</span><span class="sxs-lookup"><span data-stu-id="d8b0f-119">Engage your Champions with ongoing training and content they can pass along to other employees</span></span> 
+- <span data-ttu-id="dc138-117">チャンピオンプログラムのメンバーシップの成功を許可して、従業員の業績評価に貢献する</span><span class="sxs-lookup"><span data-stu-id="dc138-117">Allow successful membership in the Champion program to contribute to the employees' performance review</span></span>
+- <span data-ttu-id="dc138-118">Office swag および従業員 perks の特典を利用して、最も成功しているエキスパートに同意します。</span><span class="sxs-lookup"><span data-stu-id="dc138-118">Acknowledge your most successful Champions with rewards of Office swag and employee perks</span></span>  
+- <span data-ttu-id="dc138-119">絶えずトレーニングを行い、他の従業員に渡すことができるコンテンツを利用する</span><span class="sxs-lookup"><span data-stu-id="dc138-119">Engage your Champions with ongoing training and content they can pass along to other employees</span></span> 
 
-<span data-ttu-id="d8b0f-120">精鋭パーソナリティ通常反応しない、これらのメリットがあるため、代わりに従業員の満足度に貢献することにより意味のある測定可能なエクスペリエンスを作成するので。</span><span class="sxs-lookup"><span data-stu-id="d8b0f-120">The champion personality does not usually engage because of these rewards, but instead because it creates a more meaningful and measurable experience for them which contributes to employee satisfaction.</span></span> 
+<span data-ttu-id="dc138-120">通常、このような報奨のためには、チャンピオンのパーソナリティでは機能しませんが、従業員の満足度を高めるために、より有意義で測定可能な実績が作成されるためです。</span><span class="sxs-lookup"><span data-stu-id="dc138-120">The champion personality does not usually engage because of these rewards, but instead because it creates a more meaningful and measurable experience for them which contributes to employee satisfaction.</span></span> 
 
-## <a name="why-are-champions-important"></a><span data-ttu-id="d8b0f-121">エキスパートが重要な理由</span><span class="sxs-lookup"><span data-stu-id="d8b0f-121">Why are champions important?</span></span> 
+## <a name="why-are-champions-important"></a><span data-ttu-id="dc138-121">エキスパートが重要である理由</span><span class="sxs-lookup"><span data-stu-id="dc138-121">Why are champions important?</span></span> 
 
-<span data-ttu-id="d8b0f-p105">同僚経由での学習は、専門的な環境での学習の最も効果的な方法です。エキスパートは、採用プログラムに関する貴重な洞察とは、サービスの展開、トレーニング プログラムを実装する変更についてここで述べている全体については動作していないものを提供します。</span><span class="sxs-lookup"><span data-stu-id="d8b0f-p105">Learning via co-workers is among the most effective method of learning in a professional environment. Champions will also provide your adoption program valuable insight about what is and is not working about your service deployment, training program and overall sentiment regarding the changes you are implementing.</span></span>  
+<span data-ttu-id="dc138-122">共同作業者による学習は、プロフェッショナル環境での学習の最も効果的な方法の1つです。</span><span class="sxs-lookup"><span data-stu-id="dc138-122">Learning via co-workers is among the most effective method of learning in a professional environment.</span></span> <span data-ttu-id="dc138-123">また、サービスの展開、トレーニングプログラム、および実装している変更に関する全体的な心理についての貴重な洞察を、採用プログラムに提供することができます。</span><span class="sxs-lookup"><span data-stu-id="dc138-123">Champions will also provide your adoption program valuable insight about what is and is not working about your service deployment, training program and overall sentiment regarding the changes you are implementing.</span></span>  
 
-![パーセントを使用して学習方法と参考になります。](media/champstats.png)
+![学習方法 vs helpfulness を使用したパーセンテージ](media/champstats.png)
 
-## <a name="how-will-champions-support-you"></a><span data-ttu-id="d8b0f-125">どのエキスパートをサポートするでしょうか。</span><span class="sxs-lookup"><span data-stu-id="d8b0f-125">How will Champions Support you?</span></span>
+## <a name="how-will-champions-support-you"></a><span data-ttu-id="dc138-125">エキスパートはどのようにサポートしていますか?</span><span class="sxs-lookup"><span data-stu-id="dc138-125">How will Champions Support you?</span></span>
 
-<span data-ttu-id="d8b0f-p106">エキスパートは、コア プロジェクト チームのリソースに負担を軽減し、コミュニティ全体でドライブの活動を支援に役立ちます。されるもします。</span><span class="sxs-lookup"><span data-stu-id="d8b0f-p106">Champions will help reduce the strain on the resources of the core project team, and help drive engagement throughout the community. They will also:</span></span>
+<span data-ttu-id="dc138-126">チャンピオンは、コアプロジェクトチームのリソースにかかる負担を軽減し、コミュニティ全体での活動を促進するのに役立ちます。</span><span class="sxs-lookup"><span data-stu-id="dc138-126">Champions will help reduce the strain on the resources of the core project team, and help drive engagement throughout the community.</span></span> <span data-ttu-id="dc138-127">また、次のようになります。</span><span class="sxs-lookup"><span data-stu-id="dc138-127">They will also:</span></span>
 
-1. <span data-ttu-id="d8b0f-128">作業の改善方法の採用を拡大する、情熱の groundswell を作成します。</span><span class="sxs-lookup"><span data-stu-id="d8b0f-128">Create the groundswell an enthusiasm that grows adoption of improved ways of working</span></span>
-1. <span data-ttu-id="d8b0f-129">チーム間での影響力の円を作成します。</span><span class="sxs-lookup"><span data-stu-id="d8b0f-129">Build a circle of influence amongst their teams</span></span>
-1. <span data-ttu-id="d8b0f-130">Ot ライフのチーム間の作業の新しい方法を表示します。</span><span class="sxs-lookup"><span data-stu-id="d8b0f-130">Bring the new ways of working ot life across teams</span></span>
-1. <span data-ttu-id="d8b0f-131">ビジネス上の課題と解決策を識別します。</span><span class="sxs-lookup"><span data-stu-id="d8b0f-131">Identify business challenges and possible solutions</span></span>
-1. <span data-ttu-id="d8b0f-132">スポンサー、プロジェクト チームにフィードバックを提供します。</span><span class="sxs-lookup"><span data-stu-id="d8b0f-132">Provide feedback to the project team and sponsors</span></span>
+1. <span data-ttu-id="dc138-128">改善された作業方法の導入を拡大する groundswell a enthusiasm を作成する</span><span class="sxs-lookup"><span data-stu-id="dc138-128">Create the groundswell an enthusiasm that grows adoption of improved ways of working</span></span>
+1. <span data-ttu-id="dc138-129">チーム間での影響をサークルに組み込む</span><span class="sxs-lookup"><span data-stu-id="dc138-129">Build a circle of influence amongst their teams</span></span>
+1. <span data-ttu-id="dc138-130">teams 間での共同作業の新しい方法を実現する</span><span class="sxs-lookup"><span data-stu-id="dc138-130">Bring the new ways of working ot life across teams</span></span>
+1. <span data-ttu-id="dc138-131">ビジネス上の課題と考えられる解決策を特定する</span><span class="sxs-lookup"><span data-stu-id="dc138-131">Identify business challenges and possible solutions</span></span>
+1. <span data-ttu-id="dc138-132">プロジェクトチームとスポンサーにフィードバックを提供する</span><span class="sxs-lookup"><span data-stu-id="dc138-132">Provide feedback to the project team and sponsors</span></span>
