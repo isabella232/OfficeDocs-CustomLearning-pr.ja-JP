@@ -5,11 +5,11 @@ title: SharePoint アプリケーションページを理解する
 ms.date: 02/15/2019
 description: カスタム学習の SharePoint アプリケーションページの機能について説明します。
 ms.openlocfilehash: acf56defe57724267028bbb130071a070f82682d
-ms.sourcegitcommit: 3eca3a7083ea165b860237da34d1567154158681
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30412301"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055584"
 ---
 # <a name="get-to-know-the-sharepoint-application-pages"></a>SharePoint アプリケーションページを理解する
 

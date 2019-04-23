@@ -5,11 +5,11 @@ title: Office 365 ソリューションのカスタム学習に関してよく�
 ms.date: 02/10/2019
 description: Office 365 のカスタム学習に関するよく寄せられる質問の情報
 ms.openlocfilehash: 7da1f3da197fc298c83eac89e3455312cba7a851
-ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/12/2019
-ms.locfileid: "30543767"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056011"
 ---
 # <a name="frequently-asked-questions"></a>よく寄せられる質問
 

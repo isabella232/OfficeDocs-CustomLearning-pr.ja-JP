@@ -1,23 +1,23 @@
 ---
 タイトル: ''
 ms.openlocfilehash: a866c3de0dee75812bd590252d68f769727ad059
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733821"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055315"
 ---
-# <a name="why-put-effort-into-driving-adoption"></a>理由残存作業時間の採用を促進しますか。  
+# <a name="why-put-effort-into-driving-adoption"></a>導入を推進するために努力を加えるのはなぜですか?  
 
-Office 365 への投資を最大限に、会社と従業員の利益を最優先になっています。 従業員の生産性を効率化し、安全性と当社のサービス内でセキュリティで保護されたデータは。 曜日を「ビルドし、されるものです。」昔。 これらのサービスを最大限に活用することができる方法の方法を行うことで従業員を表示する必要があります。
+Office 365 への投資を最大限に活用するには、会社や従業員にとって最適です。  従業員は生産性を向上させることができ、サービス内でデータを安全かつ安全なものにすることができます。  しかし、"" を作成して、それを入手してください。 "という曜日が表示されます。 が長くなっています。  これらのサービスを最大限に活用する方法について、従業員を表示することが重要です。
 
-採用プログラムでは、社員のデジタル操作の向上、生産性エクスペリエンスを簡素化、およびより良いビジネス成果につながることができます。従業員を支援すると、組織の目標を達成するためには最終的に支援します。 
+導入プログラムによって、従業員のデジタル文学が向上し、生産性の向上を簡略化し、ビジネス成果を向上させることができます。 従業員の能力を高めることにより、最終的に組織の目標を達成できるようになります。 
 
-## <a name="interview-adoption-best-practices"></a>インタビュー: 導入のベスト ・ プラクティス
+## <a name="interview-adoption-best-practices"></a>インタビュー: 導入のベストプラクティス
 
-このビデオでは、ユーザーが積極的に投資する理由の詳細に把握できます。  
+このビデオを見て、ユーザーの導入に投資する理由について理解を深めてください。  
 
-**採用の & の採用**: マイクロソフト チーム & [Karuana Gatimu](https://linkedin.com/in/karuanagatimu)、 [Office 365 のエキスパート プログラム](https://aka.ms/O365Champions)および[Darryl Webster](https://webster.net.nz/)のリーダーと Office 365 の導入を説明する Microsoft MVP とのコラボレーションの件名問題に専門的な。 
+**導入 & を採用**する: microsoft Teams の導入について説明します[](https://webster.net.nz/)。 [Karuana g™](https://linkedin.com/in/karuanagatimu)& office 365、 [office 365 チャンピオンプログラム](https://aka.ms/O365Champions)のリーダー、microsoft MVP、コラボレーションの分野の専門家などについて説明します。 
 
 > [!VIDEO https://www.youtube.com/embed/c-j5oF2Kwzk]
 

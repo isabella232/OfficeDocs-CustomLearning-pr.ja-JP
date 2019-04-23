@@ -1,22 +1,22 @@
 ---
 タイトル: ''
 ms.openlocfilehash: 6396722d085bf6c9e831ac34a86f9f3d087ef62e
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733819"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055434"
 ---
-# <a name="microsoft-365-end-user-adoption-guide"></a>Microsoft 365 エンド ・ ユーザーの導入ガイド
+# <a name="microsoft-365-end-user-adoption-guide"></a>Microsoft 365 エンドユーザー導入ガイド
 
 ![Microsoft 365 導入ガイド](media/m365euguide.png)
 
-このテーマについてさらに学習するため、 [Microsoft 365 エンドユーザーの採用ガイド](https://aka.ms/adoptionguide)を利用します。このガイドは、以下の主要領域の間でエンド ・ ユーザーの採用を推進するための手順をレイアウトします。
+このテーマの詳細については、 [Microsoft 365 エンドユーザー導入ガイド](https://aka.ms/adoptionguide)を利用してください。 このガイドでは、次の主要な領域でエンドユーザーによる採用を促進する手順について説明します。
 
-- 利害関係者
+- 関係者
 - シナリオ
 - 認識
 - トレーニング 
-- 計画、実装、および変更管理
+- 変更を計画、実装、管理する
 - 
-- 新しい情報を反映するには、頻繁にこのガイドを更新します。
+- このガイドは頻繁に更新して、新しい情報を組み込むことができます。

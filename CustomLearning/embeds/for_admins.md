@@ -1,25 +1,20 @@
 ---
-タイトル: ''
-ms.openlocfilehash: a6372e723292b06c7c6eebc18c5dbec512a9a9bc
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
-ms.translationtype: MT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733824"
+タイトル: カスタム学習を使用している管理者向けの便利なリンク365説明: office のカスタム学習を使用する管理者向けの便利なリンク: {github-id} # karuanag karuanag: {} #日付: {@date} # 02/01/2019 ミリ秒トピック: 取得-開始 # 管理 
 ---
-# <a name="helpful-links-for-office-365-administrators"></a>Office 365 管理者のための便利なリンク
 
-## <a name="links-for-this-solution"></a>このソリューションへのリンク
+# <a name="helpful-links-for-office-365-administrators"></a>Office 365 管理者向けの便利なリンク
 
-- [カスタムの学習](https://docs.microsoft.com/office365/customlearning)サービスの情報ページhttps://docs.microsoft.com/office365/customlearning
-- UserVoice の導入ツールの感想https://aka.ms/AdoptionFeedback 
+## <a name="links-for-this-solution"></a>このソリューションのリンク
 
-## <a name="links-for-adoption-success-owners"></a>導入成功の所有者へのリンク
-- [採用のコミュニティ](https://aka.ms/DriveAdoption)マイクロソフト テクニカル上のフォーラム コミュニティ (https://aka.ms/DriveAdoption)
-- Office 365 の精鋭プログラムhttps://aka.ms/O365Champions 
+- [カスタム学習](https://docs.microsoft.com/office365/customlearning)サービス情報ページhttps://docs.microsoft.com/office365/customlearning
+- UserVoice の導入ツールフィードバックフォーラムhttps://aka.ms/AdoptionFeedback 
 
-## <a name="links-for-office-365-administrators"></a>Office 365 の管理者へのリンク
-- Microsoft 365 のロードマップhttps://aka.ms/M365Roadmap
-- テクニカル ・ ドキュメントhttps://docs.microsoft.com
-- Fasttrack というサービスの展開のサポートhttps://www.microsoft.com/fasttrack
+## <a name="links-for-adoption-success-owners"></a>導入成功責任者へのリンク
+- [導入コミュニティ](https://aka.ms/DriveAdoption)Microsoft Technical Community のフォーラム (https://aka.ms/DriveAdoption)
+- Office 365 チャンピオンプログラムhttps://aka.ms/O365Champions 
+
+## <a name="links-for-office-365-administrators"></a>Office 365 管理者向けのリンク
+- Microsoft 365 ロードマップhttps://aka.ms/M365Roadmap
+- 技術ドキュメントhttps://docs.microsoft.com
+- fasttrack サービスの展開のサポートhttps://www.microsoft.com/fasttrack
 - 

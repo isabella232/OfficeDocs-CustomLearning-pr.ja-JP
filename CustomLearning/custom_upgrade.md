@@ -5,11 +5,11 @@ title: カスタム学習アップグレード
 ms.date: 02/10/2019
 description: Office 365 マニュアル web パーツのセットアップのカスタム学習
 ms.openlocfilehash: 107db753c5b235cccb48b5a2f4d036f7de9d5639
-ms.sourcegitcommit: c8c2bed48a1d3216618e7be368dda2855d1a0c14
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/28/2019
-ms.locfileid: "30936397"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056050"
 ---
 # <a name="manual-upgrade-for-custom-learning"></a>カスタム学習の手動アップグレード
 

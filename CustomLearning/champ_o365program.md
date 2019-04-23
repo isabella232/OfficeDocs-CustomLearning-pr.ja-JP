@@ -1,18 +1,18 @@
 ---
 タイトル: ''
 ms.openlocfilehash: 52e14df0552c7809f0abb856f8d0a4dd9f80ae75
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733816"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055474"
 ---
-# <a name="office-365-champions-program"></a>Office 365 のエキスパート プログラム 
+# <a name="office-365-champions-program"></a>Office 365 のエキスパートプログラム 
 
-![支持者になるに違いを確認します。](media/makeadifference.png)
+![相違点をチャンピオンにする](media/makeadifference.png)
 
-マイクロソフトでは、世界中の精鋭の役割をサポートするために無料の Office 365 のエキスパート プログラムを提供します。 このプログラムは、オンライン コミュニティ、コミュニティの毎月の呼び出しおよびさまざまな Office 365 のサービスでの採用を促進するコンテンツを提供します。
+Microsoft は、世界中のチャンピオンの役割をサポートする無料の Office 365 チャンピオンプログラムを提供しています。  このプログラムは、Office 365 のさまざまなサービスを通じて、オンラインコミュニティ、月間のコミュニティ呼び出し、およびコンテンツを採用しています。
 
-このプログラムは、すべてのユーザーに開かれています。 お勧め少なくともチャンピオンにアクセスするためにメンバーになる精鋭プログラムを実行して、組織のすべてのユーザー、トレーニング資料、独自のプログラムで使用することができます。 
+このプログラムはすべてのユーザーが開いています。  お客様の組織で精鋭プログラムを実行するユーザーは、自分のプログラムで利用可能なチャンピオントレーニング資料にアクセスするためのメンバーになることを最低限お勧めします。 
 
-申し込むに世界中のコミュニティの一部となりますhttps://aka.ms/O365Champions  
+の世界規模のコミュニティの一部になるには、今すぐサインアップしてください。https://aka.ms/O365Champions  

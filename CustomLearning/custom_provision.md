@@ -5,11 +5,11 @@ title: カスタム学習サイトをプロビジョニングする
 ms.date: 02/10/2019
 description: SharePoint プロビジョニングエンジンを使用して Office 365 サイト用のカスタム学習をプロビジョニングする
 ms.openlocfilehash: 868708f9f096c84d5ebc5f9bc4e21e558da84d2b
-ms.sourcegitcommit: 5ea8d7fdc255ef7de06f41b3c794bc40551cf5bb
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30577863"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055905"
 ---
 # <a name="provision-custom-learning"></a>カスタム学習をプロビジョニングする 
 

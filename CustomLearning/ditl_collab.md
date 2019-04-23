@@ -1,17 +1,12 @@
 ---
-タイトル: ''
-ms.openlocfilehash: 2ba1045a3c8a74c8769b61647cdfeeba74efd357
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
-ms.translationtype: MT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733818"
+タイトル: office 365 を使用した場合の利用可能時間の例: 「仕事仲間との共同作業の概要: {github-id} # karuanag karuanag: {ms-エイリアス} # ms. date: {@date}」をご覧ください。          # 02/01/2019 ミリ秒トピック: はじめに
 ---
-# <a name="collaborating-with-colleagues"></a>同僚と共同作業
 
-![ビジュアル通勤します。](media/ditl_collab.png)
+# <a name="collaborating-with-colleagues"></a>仕事仲間との共同作業
 
-2時 00分 PM と同僚と共同作業する時間をお勧めします。Office 365 は、チームがさまざまな方法で共同作業を有効にすると、共同作業のためのクラス最高の機会を提供します。 
+![Commute visual](media/ditl_collab.png)
+
+仕事仲間と共同作業を行うには、2:00 PM および time を使用します。 Office 365 では、グループ作業のためにクラス最高の機会が提供されており、複数の方法で teams を共同作業することが可能になります。 
 
 ## <a name="tools"></a>ツール
 - Microsoft Teams
@@ -19,26 +14,26 @@ ms.locfileid: "29733818"
 - OneNote
 - SharePoint & OneDrive
 - 
-## <a name="checklist-for-collaborating-with-colleagues"></a>同僚と共同作業を行うためのチェックリスト
-- 作成または Microsoft チームの共同作業に参加
-- 作成し、OneDrive からファイルを共有します。 
-- Office 365 で共同作成します。 
-- クラウドの添付ファイルを使用します。
+## <a name="checklist-for-collaborating-with-colleagues"></a>仕事仲間との共同作業のチェックリスト
+- 共同作業のために Microsoft teams を作成または参加する
+- OneDrive からファイルを作成して共有する 
+- Office での共同作成365 
+- クラウド添付ファイルを使用する
 
-## <a name="create-or-join-a-microsoft-team-for-collaboration"></a>作成や共同作業のためのマイクロソフトのチームに参加
+## <a name="create-or-join-a-microsoft-team-for-collaboration"></a>共同作業のために Microsoft チームを作成または参加する
 
-マイクロソフトのチームとチャネルは、場所の人がファイルを共有することによって共同作業が可能、チームの活動項目などの作業を追跡します。マイクロソフトのすべてのチームは、SharePoint サイト、OneNote のノートブック、およびその他の資産を統合します。Office 365 のこのサービスは、共有プロジェクトまたは結果の頻繁に共同作業するユーザーに適しています。 
+Microsoft Teams とチャネルは、ユーザーがファイルを共有したり、チームのアクションアイテムを追跡したりすることによって共同作業を行うことができる場所です。 すべての Microsoft Teams は、SharePoint サイト、OneNote ノートブック、その他のアセットに統合されています。 この Office 365 のサービスは、共有プロジェクトまたは結果で頻繁に共同作業するユーザーに最適です。 
 
-## <a name="share-files-from-your-onedrive"></a>OneDrive からファイルを共有します。
-ビジネスの OneDrive に保存されているファイルは、ブラウザーまたは Word または Excel のようなデスクトップ アプリケーションを Office 365 から他のユーザーと共有できます。名前、エイリアス、または会社の電子メール アドレスを使用するユーザーと共有することができます。 
+## <a name="share-files-from-your-onedrive"></a>OneDrive からファイルを共有する
+OneDrive for business に保存されているファイルは、ブラウザーまたは Office 365 デスクトップアプリケーション (Word や Excel など) のいずれかのユーザーと共有できます。 名前、エイリアス、または会社の電子メールアドレスを使用して、個人と共有することができます。 
 
-## <a name="co-create-in-office-365"></a>Office 365 で共同作成します。
-共同作成すると、同時に同僚と同じファイルです。コアの Office 365 アプリケーションの web ベースのバージョンではこれらのアプリケーションの Office 2016 以降のデスクトップのバージョンでは可能です。 保存時と同じドキュメントと Office の共同作業はその変更を同期をするのいずれかがオフラインであって。 
+## <a name="co-create-in-office-365"></a>Office での共同作成365
+共同作成とは、同じファイルで同僚と同時に作業する場合です。 これは、web ベースのコア Office 365 アプリと、それらのアプリケーションのデスクトップバージョンで office 2016 以降で使用できます。  時間を節約して同じドキュメントで共同作業を行うと、ユーザーのいずれかがオフラインの場合でも、それらの変更は Office によって同期されます。 
 
-![Word で Co の著者](media/ditl_coauth.png)
+![Word の共同編集者](media/ditl_coauth.png)
 
-## <a name="use-cloud-attachments---stop-emailing-that-spreadsheet"></a>クラウドの添付ファイルを使用して -、そのスプレッドシートを電子メールで送信を停止します。
-それを電子メールに添付されたときに、ドキュメントの適切なバージョンのハントをしたことがありますが何回かこれで Office 365 のすべてのユーザーが同じバージョンを編集するために、クラウドの添付ファイルと呼ばれる、ファイルへのリンクを共有できます。 人の表示またはファイルを編集できるかどうかのリンクを送信するを選択することができます。 
+## <a name="use-cloud-attachments---stop-emailing-that-spreadsheet"></a>クラウド添付ファイルを使用する-スプレッドシートのメールを停止します。
+ドキュメントが電子メールに添付されたときに、適切なバージョンを探しておく必要があるのは何回ですか。 Office 365 では、クラウド添付ファイルと呼ばれるファイルへのリンクを共有できます。これにより、すべてのユーザーが同じバージョンを編集できるようになります。  リンクを送信するかどうか、およびユーザーがファイルを表示または編集できるかどうかを選択できます。 
 
-![クラウドの添付ファイル](media/ditl_cloudattach.png)
+![クラウド添付ファイル](media/ditl_cloudattach.png)
 

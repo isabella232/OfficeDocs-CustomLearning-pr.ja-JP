@@ -5,11 +5,11 @@ title: 前提条件と決定事項
 ms.date: 02/10/2019
 description: カスタム学習のインストールおよびセットアップに関する決定事項と前提条件に関する情報
 ms.openlocfilehash: b7864d13e6ccd9c3b41e445ea491aed3b3471aff
-ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30408838"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055267"
 ---
 ## <a name="service-decisions"></a>サービスに関する決定事項
 

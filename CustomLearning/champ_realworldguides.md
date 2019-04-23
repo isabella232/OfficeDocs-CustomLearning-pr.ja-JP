@@ -1,20 +1,20 @@
 ---
 タイトル: ''
 ms.openlocfilehash: d306c62b264a0198967fedb259db06cf8fe472e9
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733814"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055257"
 ---
-# <a name="real-world-guidance-for-your-champions-program"></a>エキスパート プログラムの実際のガイダンス
+# <a name="real-world-guidance-for-your-champions-program"></a>お客様のエキスパートプログラムのための実際のガイダンス
 
-エキスパート プログラムを構築するためのガイダンスを現実の世界のビデオを表示します。  
+これらのビデオを見て、エキスパートプログラムを構築するための実際のガイダンスを参照してください。  
 
-Simon Denton、Mott のマクドナルドでのビジネス ・ アーキテクト
+Simon denton、Business アーキテクト、mott MacDonald
 
 > [!VIDEO https://www.youtube.com/embed/ABBbUX6CAik]
 
-Pouneh Kaufman & マイクロソフトの it 部門の佐々木さんの木では、マイクロソフトのエキスパート プログラムの構築について説明します。
+microsoft IT の pouneh Kaufman & Sara 低木は、microsoft でのエキスパートプログラムの構築について説明しています。
 
 > [!VIDEO https://www.youtube.com/embed/LzYQpt1Tea4]
