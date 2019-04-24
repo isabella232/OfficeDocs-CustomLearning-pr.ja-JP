@@ -5,11 +5,11 @@ title: スタンドアロン web パーツのセットアップ
 ms.date: 02/10/2019
 description: Office 365 マニュアル web パーツのセットアップのカスタム学習
 ms.openlocfilehash: 8bf6292518c36eda74a49f9968c8e0559fcf8320
-ms.sourcegitcommit: 5ea8d7fdc255ef7de06f41b3c794bc40551cf5bb
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30577853"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055064"
 ---
 # <a name="stand-alone-web-part-setup"></a>スタンドアロン web パーツのセットアップ
 
