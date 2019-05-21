@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 新しい再生リストを作成する
 ms.date: 02/18/2019
 description: 新しい再生リストを作成する方法
-ms.openlocfilehash: b89e70fbe02e9a890759f832195037dd2ddbd8cf
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.openlocfilehash: 8b855caf2512f6ab4db103c0f28f38176f4def55
+ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055848"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34247592"
 ---
 # <a name="create-a-custom-playlist"></a>カスタムプレイリストを作成する
 
@@ -17,7 +17,7 @@ ms.locfileid: "32055848"
 
 ## <a name="create-a-playlist"></a>再生リストを作成する 
 
-1. カスタム学習**ホーム**ページで、[ **Office 365 training**] をクリックし、Web パーツから [システム] メニューを選択してから、[**プレイリストの管理**] を選択します。 
+1. Microsoft 365 learning の経路の**ホーム**ページで、[ **Office 365 のトレーニング**] をクリックし、Web パーツから [システム] メニューを選択してから、[**プレイリストの管理**] を選択します。 
 2. サブカテゴリを選択します。 この例では、[**最初の日**] を選択します。  
 3. [+] アイコンをクリックします。  
 

@@ -1,19 +1,19 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: カスタム学習のトラブルシューティング
+title: Microsoft 365 学習経路のトラブルシューティング
 ms.date: 02/10/2019
-description: カスタム学習のトラブルシューティング方法について説明します。
-ms.openlocfilehash: 7cbd049d4794d14f9e8cc26fd0db5f444812d688
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+description: Microsoft 365 学習経路のトラブルシューティング方法について説明します。
+ms.openlocfilehash: de46b9c754dac36de230b36ec4a5542518a1dcd5
+ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055098"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34247682"
 ---
-# <a name="troubleshoot-custom-learning"></a>カスタム学習のトラブルシューティング
+# <a name="troubleshoot-microsoft-365-learning-pathways"></a>Microsoft 365 学習経路のトラブルシューティング
 
-Office 365 または SharePoint Online プロビジョニングサービスのカスタム学習で発生する可能性のある問題のトラブルシューティングのヒントを以下に示します。
+ここでは、Microsoft 365 の学習経路または SharePoint Online プロビジョニングサービスで発生する可能性のある問題のトラブルシューティングのヒントを示します。
 
 ## <a name="how-to-know-if-you-have-tenant-admin-permissions"></a>テナント管理者のアクセス許可があるかどうかを確認する方法
 
@@ -41,7 +41,7 @@ SharePoint Online プロビジョニングサービスにサインインし、�
 3. [**アプリ**] の下に、[ **SharePoint 用アプリの配布**] というタイトルのタイルが表示します。 タイルが表示されている場合は、テナントのアプリカタログがあります。 下記の「サイトの詳細を**確認する方法**」セクションを参照してください。 タイルが表示されない場合は、テナントのテナントアプリカタログを作成する必要があります。 「 **How to create a Tenant App Catalog** 」セクションを参照してください。
 
 ### <a name="how-to-ensure-you-are-a-site-collection-owner-on-the-tenant-app-catalog"></a>テナントアプリカタログのサイトコレクションの所有者であることを確認する方法 
-Office 365 のカスタム学習をプロビジョニングするには、テナントのアプリカタログのサイトコレクションの所有者である必要があります。 所有者である場合は、determin 方法を参照してください。
+Microsoft 365 learning の経路をプロビジョニングするには、テナントのアプリカタログのサイトコレクションの所有者である必要があります。 所有者であるかどうかを判断する方法は次のとおりです。
 
 1. Office 365 で、[**管理者**] をクリックし、[展開] 矢印 > をクリックして、[すべて > の**管理センター** > **SharePoint****を表示**] をクリックします。
 2. [**従来の管理者 SharePoint センター**] をクリックし、**アプリカタログ**を選択します。
