@@ -24,5 +24,5 @@
 # [フィードバックとサポート](feedback.md)
 # [よく寄せられる質問](faq.md)
 # [パートナーによく寄せられる質問](custom_partner.md)
-# [Microsoft 365 learning の経路を更新する](custom_upgrade.md)
+# [Microsoft 365 learning の経路を更新する](custom_update.md)
 # [Microsoft 365 学習経路のトラブルシューティング](custom_troubleshooting.md)

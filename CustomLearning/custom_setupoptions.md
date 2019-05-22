@@ -4,15 +4,19 @@ ms.author: pkrebs
 title: Microsoft 365 learning の経路設定オプション
 ms.date: 02/11/2019
 description: カスタム学習設定のセットアップオプション
-ms.openlocfilehash: bef8e513d9126defc4b4f73acc6e07fc060044aa
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.openlocfilehash: 260480e69188995b46a8d22df305bf68997a921d
+ms.sourcegitcommit: 0077704d7edcc26eda76900115716fc5b7b1c518
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247692"
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "34334703"
 ---
 # <a name="learning-pathways-setup-options"></a>学習経路設定オプション
 ラーニング経路を使用すると、さまざまな方法でソリューションを柔軟にセットアップできます。 次のセクションでは、使用可能なオプションの概要を示します。
+
+> [!IMPORTANT]
+> 5/21/2019 の間、Microsoft 365 learning の経路は、以前は Office 365 のカスタム学習と呼ばれていたソリューションの新しい名前です。 組織内で Office 365 のカスタム学習機能を既にプロビジョニングしていて、ソリューションを更新する場合は、「 [Microsoft 365 Learning ・パスの ReadMe](https://github.com/pnp/custom-learning-office-365)」の「ソリューションを更新する」の手順に従ってください。 初めて Microsoft 365 learning の経路情報をプロビジョニングする場合は、「microsoft 365 learning の経路」のドキュメントの「 [microsoft 365 learning のラーニングをプロビジョニング]( https://docs.microsoft.com/en-us/office365/customlearning/custom_provision)する」の手順を参照してください。  
+
 
 ## <a name="recommended---sharepoint-online-provisioning-service-setup"></a>推奨-SharePoint Online プロビジョニングサービスのセットアップ 
 SharePoint Online プロビジョニングサービスは、カスタム学習を設定するための最も高速で簡単な方法として推奨される方法を提供します。 SharePoint Online プロビジョニングサービスでは、Office 365 テナント管理者がサービスにサインインしていくつかの選択を行い、[**テナントに追加**] をクリックしてカスタム学習サイトとカスタム学習 Web パーツをプロビジョニングします。 プロビジョニングが完了すると、テナント管理者はサイトの準備が整ったことを示す電子メールを受信します。 
