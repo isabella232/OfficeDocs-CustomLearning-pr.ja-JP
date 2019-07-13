@@ -4,14 +4,18 @@ ms.author: karuanag
 title: Microsoft 365 学習経路のよく寄せられる質問
 ms.date: 02/10/2019
 description: Microsoft 365 学習経路のよく寄せられる質問情報
-ms.openlocfilehash: 26d6c7140b4d387e13b907033ea53b752f5e20ea
-ms.sourcegitcommit: 0077704d7edcc26eda76900115716fc5b7b1c518
+ms.openlocfilehash: 66149439f0ca13b319bee3bea9c2773b43e98e25
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34334721"
+ms.lasthandoff: 07/12/2019
+ms.locfileid: "35636111"
 ---
 # <a name="frequently-asked-questions"></a>よく寄せられる質問
+
+### <a name="i-recently-saw-a-blog-post-that-custom-learning-for-office-365-is-being-renamed-to-microsoft-365-learning-pathways-are-there-other-changes-being-added-to-the-solution-as-part-of-the-renaming-effort-should-i-update-the-solution-in-my-organization"></a>最近、ブログ投稿が公開されました。 Office 365 のカスタム学習は、Microsoft 365 Learning の経路に変更されています。 名前の変更作業の一環として、ソリューションに他の変更が追加されているかどうか。 組織内のソリューションを更新する必要がありますか。
+
+Microsoft 365 learning の経路のリリースは、Microsoft 365 ブランド化に合わせてソリューションの名前を変更することに特化した rebranding 努力です。 組織内で現在正常に実行されている Office 365 のカスタム学習がある場合、現時点ではソリューションを更新する必要はありません。  
 
 ### <a name="what-are-the-requirements-for-installing-microsoft-365-learning-pathways-into-my-tenant-environment"></a>Microsoft 365 learning の経路をテナント環境にインストールするための要件は何ですか。
 
@@ -34,7 +38,7 @@ Microsoft 365 の学習経路は、現在ベータ版のプレビューに含ま
 
 ### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>Microsoft 365 の学習経路はどの言語で利用できますか?
 
-現在、Microsoft 365 の学習経路は英語でのみご利用いただけます。 自動エンドツーエンドプロビジョニングは、英語のテナントでのみ機能します。 CY19 Q3 で、次の9つの言語について多言語サポートをロールアウトすることを計画しています。 
+現在、Microsoft 365 の学習経路は英語でのみご利用いただけます。 自動エンドツーエンドプロビジョニングは、英語のテナントでのみ機能します。 CY19 Q4 では、次の9つの言語について多言語サポートをロールアウトすることを計画しています。 
 
 - 簡体字中国語 
 - オランダ語 (オランダ) 
