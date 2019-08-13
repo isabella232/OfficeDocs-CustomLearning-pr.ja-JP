@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Microsoft 365 learning web パーツの場所
 ms.date: 02/15/2019
 description: 学習経路のサイトに学習経路の web パーツがどのように表示されるかを説明します。
-ms.openlocfilehash: 27793606ee425f8ca77a66898bb0c23aee5e3f2b
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.openlocfilehash: bc0a24f3f4fa9f2067f52a787da8fc25592fd151
+ms.sourcegitcommit: 076ad8f4dd99da270d34c01b03428a24632916e5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247616"
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "34327294"
 ---
 # <a name="wheres-the-microsoft-365-learning-pathways-web-part"></a>Microsoft 365 learning の経路の web パーツはどこにありますか?
 
@@ -44,11 +44,11 @@ ms.locfileid: "34247616"
 
 ![cg-whereiswp-six](media/cg-whereiswp-six.png)
 
-## <a name="view-all-office-365-training"></a>すべての Office 365 トレーニングを表示する
+## <a name="view-all-microsoft-365-training"></a>Microsoft 365 トレーニングをすべて表示する
 
-**Office 365 トレーニング**ページの Web パーツは、学習機能カタログから利用可能なすべてのカテゴリとサブカテゴリを表示するように構成されています。 これには、組織のために作成したサブカテゴリと共に Microsoft のサブカテゴリが含まれます。
+**Microsoft 365 トレーニング**ページの Web パーツは、ラーニングの経路カタログから利用可能なすべてのカテゴリとサブカテゴリを表示するように構成されています。 これには、組織のために作成したサブカテゴリと共に Microsoft のサブカテゴリが含まれます。
 
-- ラーニング経路のホームページで、[ **Office 365 training**] をクリックします。 ページが表示され、カスタム学習カタログから利用可能なすべてのカテゴリとサブカテゴリを表示するように Web パーツが構成されています。
+- ラーニング経路のホームページで、[ **Microsoft 365 トレーニング**] をクリックします。 ページが表示され、カスタム学習カタログから利用可能なすべてのカテゴリとサブカテゴリを表示するように Web パーツが構成されています。
 
 ![cg-whereiswp-o365](media/cg-whereiswp-o365.png)
 
