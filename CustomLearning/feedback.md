@@ -3,23 +3,23 @@ author: karuanag
 ms.author: karuanag
 title: フィードバックとサポート
 ms.date: 02/10/2019
-description: Office 365 のカスタム学習のフィードバックとサポート情報
-ms.openlocfilehash: 3a403b986b127fb5ea84dc43d5d91d62079803ce
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+description: Microsoft 365 学習経路のフィードバックとサポート情報
+ms.openlocfilehash: ed1654bfe9ff762a9f9f17e7f564e1784608bdf1
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055327"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "34248152"
 ---
 # <a name="feedback-and-support"></a>フィードバックとサポート
 
-このオープンソースプロジェクトは、GitHub の[オンライン問題リスト](https://aka.ms/CustomLearningHelp)を通じてサポートされています。 これらのソリューションは、既存の Microsoft サポート契約の対象外です。  
+Microsoft 365 learning の経路は、GitHub の[オンライン問題リスト](https://aka.ms/CustomLearningHelp)でサポートされているオープンソースプロジェクトです。 Microsoft 365 learning の方法ソリューションは、既存の Microsoft サポート契約の対象外です。  
 
 ## <a name="report-issues"></a>レポートに関する問題
 
-カスタム学習環境を提供するオープンソースサイトテンプレートまたは web パーツに問題がある場合は、「GitHub の問題」のリストに問題を入力してください。  このリストは、https://aka.ms/CustomLearningHelp  
+Microsoft 365 の学習経路の経験を提供するオープンソースサイトテンプレートまたは web パーツに問題がある場合は、「GitHub の問題」のリストに問題を入力してください。  このリストは、https://aka.ms/CustomLearningHelp  
 
-As はオープンソースソリューションと同じですが、この問題を解決するために、このコミュニティではこの問題を解決します。  機能要求は、次に示すユーザー音声インスタンスに転送されます。  コードバグは、トリアージと解決のためにコミュニティおよびサービスマネージャーにエスカレーションされます。  
+オープンソースソリューションでは標準と同様に、これらの問題を解決のためにお勧めします。 機能要求は、次に示すユーザー音声インスタンスに転送されます。 コードバグは、トリアージと解決のためにコミュニティおよびサービスマネージャーにエスカレーションされます。  
 
 ## <a name="provide-us-feedback"></a>フィードバックをお寄せください
 
@@ -27,5 +27,5 @@ As はオープンソースソリューションと同じですが、この問�
 
 ## <a name="usage-questions"></a>使用に関する質問
 
-ラーニングポータルを使用する際のベストプラクティスとその内容については、Microsoft Technical Community の「[導入](https://aka.ms/DriveAdoption)フォーラム」をhttps://aka.ms/DriveAdoptionご確認ください。 
+Microsoft 365 learning pathes を使用する際のベストプラクティスに関する質問については、Microsoft Technical Community の「[導入](https://aka.ms/DriveAdoption)フォーラムhttps://aka.ms/DriveAdoption」をご参加ください。 
 
