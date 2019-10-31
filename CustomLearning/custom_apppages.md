@@ -4,16 +4,16 @@ ms.author: pkrebs
 title: SharePoint アプリケーションページを理解する
 ms.date: 02/15/2019
 description: Microsoft 365 学習経路の SharePoint アプリケーションページの機能について説明します。
-ms.openlocfilehash: a150f9fcb3814106f5ee7737996f013b37656c3d
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.openlocfilehash: fa0dc543e0f2302015a587040caf4bd09fe561ba
+ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34327244"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37886913"
 ---
 # <a name="get-to-know-the-sharepoint-application-pages"></a>SharePoint アプリケーションページを理解する
 
-ラーニング経路には、管理者として認識しておく必要がある2つの SharePoint アプリケーションページがあります。 これら2つのページは編集できません。 
+ラーニング経路には、管理者として認識しておく必要がある2つの SharePoint アプリケーションページがあります。 この2つのページは編集できないので、削除しないでください。 
 
 - CustomLearningAdmin
 - CustomLearningViewer
@@ -24,13 +24,13 @@ CustomLearningAdmin ページには、コンテンツの表示と表示、サブ
 
 ### <a name="view-customlearningadminaspx"></a>CustomLearningAdmin の表示
 
-1. [SharePoint の**設定**] アイコンをクリックし、[**サイトコンテンツ**] をクリックします。 
+1. [SharePoint の**設定**] アイコンをクリックし、[**サイトコンテンツ** > の**サイトページ**] をクリックします。 
 2. [ **CustomLearningAdmin**] をクリックします。 
 
 ![cg-adminapppage](media/cg-adminapppage.png)
 
 ## <a name="customlearningvieweraspx"></a>CustomLearningViewer
-CustomLearningViewer ページには、web パーツの学習経路の内容を表示するためのビューアーが用意されています。 たとえば、再生リストリンクをコピーして共同作業者と共有した場合、リンクをクリックすると、ユーザーは閲覧者のページに移動して、リンクされたコンテンツを表示することができます。 このページとその機能については、後のトピックで詳しく説明します。
+CustomLearningViewer ページには、web パーツの学習経路の内容を表示するためのビューアーが用意されています。 たとえば、再生リストリンクをコピーして共同作業者と共有した場合、リンクをクリックすると、ユーザーは閲覧者のページに移動して、リンクされたコンテンツを表示することができます。 
 
 ### <a name="view-customlearningvieweraspx"></a>CustomLearningViewer の表示
 

@@ -1,16 +1,16 @@
 ---
-title: ''
-description: ''
+title: 学習経路の導入を促進する
+description: 学習経路の導入を促進する
 author: karuanag
 ms.author: karuanag
-ms.date: 5/16/19
+ms.date: 10/30/2019
 ms.topic: getting-started
-ms.openlocfilehash: 33c327327239e156cf15235c2b180b7b37539f04
-ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
+ms.openlocfilehash: 7369e0b2911ba42b19eafe6a46ca9a639372df46
+ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726701"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37886980"
 ---
 # <a name="drive-adoption-of-your-learning-pathways-portal"></a>学習経路ポータルの導入を促進する
 Microsoft 365 の学習経路をカスタマイズして、最初の学習キャンペーンをまとめると、ユーザーが Microsoft 365 の学習経路に戻って、継続的な学習と変換を行う方法を考えることができます。 Microsoft が提供するガイダンス、導入キット、ベストプラクティスを使用して、microsoft 365 の学習経路を正常に導入するキャンペーンを実施することができます。これには、ガイダンス、ベストプラクティス、導入キットが用意されています。 
@@ -71,7 +71,6 @@ Microsoft 365 learning 手段コミュニケーションキャンペーンの実
 2.  カスタマイズされたバージョンの Microsoft 365 ラーニング経路をエンドユーザーの代表的なグループと共に試験し、導入計画を予行で実行します。 パイロットからのフィードバックに基づいて、最終的な導入計画を繰り返します。
 3.  導入キャンペーンを一定期間継続して実行します。 
 4.  運転促進コミュニティに参加します。 導入コミュニティオンラインで、Microsoft 365 learning の経路を使用して、経験を共有します。 「」 https://aka.ms/DriveAdoptionを参照してください。 
-
 
 ## <a name="join-the-driving-adoption-community"></a>運転促進コミュニティに参加する
 

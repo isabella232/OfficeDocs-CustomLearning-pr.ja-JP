@@ -1,38 +1,29 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 概要
+title: 学習経路をカスタマイズする
 ms.date: 02/18/2019
-description: Microsoft 365 学習経路の概要
-ms.openlocfilehash: 74fac090177ad8009155e21a977b05ee2b742b3b
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+description: 学習経路をカスタマイズする
+ms.openlocfilehash: 15d782455204cf043937bec03041a85abc9e4ee3
+ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34247854"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37886640"
 ---
-# <a name="customize-the-learning-experience"></a>学習環境をカスタマイズする
+# <a name="customize-learning-pathways"></a>学習経路をカスタマイズする
 
-Microsoft 365 learning の方法を紹介します。 Microsoft の新しいソリューションでは、組織内での Office 365 の使用と導入を高速化するために設計されています。 ラーニング pathwyas を使用すると、次のことができます。
-- ご使用の環境に合わせて Microsoft 365 learning と導入のコンテンツを調整する 
+Microsoft 365 learning の経路は、組織のコンテンツをカスタマイズするためのさまざまな方法を提供します。 たとえば、次のようなことが可能です。  
+- ラーニングパス SharePoint サイトを変更します。サイト名、ロゴ、およびそれらを変更します。 [質問をお寄せください] と [ヘルプを表示] ページを変更して、独自のヘルプセンターを作成します。 
 - 組織でサポートされているサービスまたは機能を反映するためにコンテンツを表示または非表示にする 
-- コンテンツとユーザーを最新の状態にして、Microsoft からの学習コンテンツを最新の状態に保つ 
-- ユーザーのニーズに特化したカスタムの再生リストとカテゴリを作成する
+- ユーザーのニーズに特化したカスタムの再生リストおよびサブカテゴリを作成する
+- Microsoft Teams の導入、Outlook mobile、Microsoft 365 との共同作業の促進など、ビジネス成果をサポートするためにフィルター処理されたコンテンツを含むランディングページを作成します。
 
 ![cg-introducing](media/cg-introducing.png)
 
-## <a name="how-does-learning-pathways-work"></a>ラーニング経路のしくみ
-
-Office 365 の学習経路 (短い方の学習経路) は、次の3つの部分で構成されます。 
-1. Microsoft online カタログからのコンテンツのライブフィード
-2. SharePoint コミュニケーションサイト
-3. SharePoint web パーツ 
-
-![cg-howitworks](media/cg-howitworks.png)
-
 ## <a name="requirements-and-permissions"></a>要件とアクセス許可
 
-このガイドを開始する前に、学習経路が SharePoint テナント管理者によって設定されていることを確認してください。 設定されているかどうかがわからない場合は、SharePoint テナント管理者に連絡して、学習経路が準備されていることを確認してください。 また、ラーニングパス SharePoint サイトの URL を取得するようにしてください。 テナント管理者とラーニング経路がプロビジョニングされていない場合は、「[学習経路のプロビジョニング](custom_provision.md)」を参照してください。 
+「学習経路のカスタマイズ」のガイダンスを開始する前に、SharePoint テナント管理者によって学習経路が設定されていることを確認してください。 設定されているかどうかがわからない場合は、SharePoint テナント管理者に連絡して、学習経路が準備されていることを確認してください。 また、ラーニングパス SharePoint サイトの URL を取得するようにしてください。 テナント管理者とラーニング経路がプロビジョニングされていない場合は、「[学習経路のプロビジョニング](custom_provision.md)」を参照してください。 
 
 ### <a name="permissions-to-provision-learning-pathways"></a>学習経路をプロビジョニングするためのアクセス許可
 
