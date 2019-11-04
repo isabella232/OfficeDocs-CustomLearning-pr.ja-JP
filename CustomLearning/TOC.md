@@ -5,7 +5,7 @@
 ## [スタンドアロン web パーツのセットアップ](custom_manualsetup.md)
 # [管理者の成功センター](custom_successcenter.md)
 ## [11月のコンテンツの更新プログラム](custom_contentupdates.md)
-## [コンテンツの更新を管理する](custom_managecontentupdates.md)
+## [コンテンツの更新を管理する](custom_contentupdatesmanage.md)
 ## [11月の機能の更新プログラム](custom_featureupdates.md)
 ## [学習コンテンツを計画する](custom_plancontent.md)
 ## [学習経路をカスタマイズする](custom_overview.md)
