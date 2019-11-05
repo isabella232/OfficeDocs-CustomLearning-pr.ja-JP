@@ -4,54 +4,33 @@ ms.author: pkrebs
 title: サイトと既定のコンテンツを参照する
 ms.date: 02/10/2019
 description: 学習経路のサイトと既定のコンテンツを参照する
-ms.openlocfilehash: 5691f44bd121cfdb0c164e6f6aed389582e9420a
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.openlocfilehash: a7218cb09d23d553f50a09ace9b14e9522d8716f
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34248078"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956544"
 ---
-# <a name="explore-the-learning-pathways-site"></a><span data-ttu-id="a7856-103">学習経路サイトを探索する</span><span class="sxs-lookup"><span data-stu-id="a7856-103">Explore the learning pathways site</span></span>
+# <a name="explore-the-learning-pathways-site"></a><span data-ttu-id="6cd44-103">学習経路サイトを探索する</span><span class="sxs-lookup"><span data-stu-id="6cd44-103">Explore the learning pathways site</span></span>
 
-> <span data-ttu-id="a7856-104">注: ラーニングパスサイトとその管理機能を調べるには、サイトコレクションの管理者、所有者、またはメンバのアクセス許可が必要です。</span><span class="sxs-lookup"><span data-stu-id="a7856-104">Note: To explore the learning pathways site and it's administrative features, you'll need Site Collection Admin, Owner, or Member permissions to the site.</span></span> <span data-ttu-id="a7856-105">Neccesary のアクセス許可を持っていない場合は、サイトのサイト管理者に問い合わせてください。</span><span class="sxs-lookup"><span data-stu-id="a7856-105">If you don't have the neccesary permissions, contact the Site Administrator for the site.</span></span> <span data-ttu-id="a7856-106">ラーニングパスサイトは Office 365 テナントでホストされているので、サイトにアクセスするには Office 365 にサインインする必要があります。</span><span class="sxs-lookup"><span data-stu-id="a7856-106">The learning pathways site is hosted in your Office 365 tenant, so you'll need to sign in to Office 365 to get to the site.</span></span> <span data-ttu-id="a7856-107">Office 365 にまだサインインしていない場合は、今すぐサインインしてください。</span><span class="sxs-lookup"><span data-stu-id="a7856-107">If you haven’t already signed into Office 365, sign in now.</span></span> 
+> <span data-ttu-id="6cd44-104">注: ラーニングパスサイトとその管理機能を調べるには、サイトコレクションの管理者、所有者、またはメンバのアクセス許可が必要です。</span><span class="sxs-lookup"><span data-stu-id="6cd44-104">Note: To explore the learning pathways site and it's administrative features, you'll need Site Collection Admin, Owner, or Member permissions to the site.</span></span> <span data-ttu-id="6cd44-105">Neccesary のアクセス許可を持っていない場合は、サイトのサイト管理者に問い合わせてください。</span><span class="sxs-lookup"><span data-stu-id="6cd44-105">If you don't have the neccesary permissions, contact the Site Administrator for the site.</span></span> <span data-ttu-id="6cd44-106">ラーニングパスサイトは Office 365 テナントでホストされているので、サイトにアクセスするには Office 365 にサインインする必要があります。</span><span class="sxs-lookup"><span data-stu-id="6cd44-106">The learning pathways site is hosted in your Office 365 tenant, so you'll need to sign in to Office 365 to get to the site.</span></span> <span data-ttu-id="6cd44-107">Office 365 にまだサインインしていない場合は、今すぐサインインしてください。</span><span class="sxs-lookup"><span data-stu-id="6cd44-107">If you haven’t already signed into Office 365, sign in now.</span></span> 
 
-## <a name="sign-in-to-office-365"></a><span data-ttu-id="a7856-108">Office 365 にサインインする</span><span class="sxs-lookup"><span data-stu-id="a7856-108">Sign in to Office 365</span></span> 
+## <a name="sign-in-to-office-365"></a><span data-ttu-id="6cd44-108">Office 365 にサインインする</span><span class="sxs-lookup"><span data-stu-id="6cd44-108">Sign in to Office 365</span></span> 
 
-1.  <span data-ttu-id="a7856-109">Web ブラウザーを開き、office.com または組織のサインインの場所に移動します。</span><span class="sxs-lookup"><span data-stu-id="a7856-109">Open your Web browser and navigate to office.com or your organization’s sign-in location.</span></span> 
-2.  <span data-ttu-id="a7856-110">ユーザー名とパスワードを使用してサインインします。</span><span class="sxs-lookup"><span data-stu-id="a7856-110">Sign in with your user name and password.</span></span>
-3.  <span data-ttu-id="a7856-111">テナント管理者から提供された URL を使用してサイトの場所に移動するか、Office 365 のホームページから [SharePoint] を選択して、サイトを選択します。</span><span class="sxs-lookup"><span data-stu-id="a7856-111">Navigate to the location of the site using the URL supplied by your tenant administrator or select SharePoint from the Office 365 Home page, and then select the site.</span></span> 
+1.  <span data-ttu-id="6cd44-109">Web ブラウザーを開き、office.com または組織のサインインの場所に移動します。</span><span class="sxs-lookup"><span data-stu-id="6cd44-109">Open your Web browser and navigate to office.com or your organization’s sign-in location.</span></span> 
+2.  <span data-ttu-id="6cd44-110">ユーザー名とパスワードを使用してサインインします。</span><span class="sxs-lookup"><span data-stu-id="6cd44-110">Sign in with your user name and password.</span></span>
+3.  <span data-ttu-id="6cd44-111">テナント管理者から提供された URL を使用してサイトの場所に移動するか、Office 365 のホームページから [SharePoint] を選択して、サイトを選択します。</span><span class="sxs-lookup"><span data-stu-id="6cd44-111">Navigate to the location of the site using the URL supplied by your tenant administrator or select SharePoint from the Office 365 Home page, and then select the site.</span></span> 
 
-![cg-introducing](media/cg-introducing.png)
+![cg-exploresite](media/cg-introducing.png)
 
-## <a name="explore-the-learning-pathways-site"></a><span data-ttu-id="a7856-113">学習経路サイトを探索する</span><span class="sxs-lookup"><span data-stu-id="a7856-113">Explore the learning pathways site</span></span>
+## <a name="explore-microsoft-365-learning-pathways"></a><span data-ttu-id="6cd44-113">Microsoft 365 学習経路を参照する</span><span class="sxs-lookup"><span data-stu-id="6cd44-113">Explore Microsoft 365 learning pathways</span></span>
 
-<span data-ttu-id="a7856-114">ラーニングパスサイトは SharePoint コミュニケーションテンプレートに基づいているため、組織のニーズに合わせてサイトを簡単に変更することができます。</span><span class="sxs-lookup"><span data-stu-id="a7856-114">The learning pathways site is based on a SharePoint communication template, so it's easy to modify the site to meet the needs of your organization.</span></span> <span data-ttu-id="a7856-115">サイト名、ロゴ、メニュー項目、およびページ上のコンテンツを変更することができます。</span><span class="sxs-lookup"><span data-stu-id="a7856-115">You can change the site name, logo, menu items, and the content on the pages.</span></span> <span data-ttu-id="a7856-116">組織で変更する必要があるページの1つとして、質問と [ヘルプを表示] ページがあります。</span><span class="sxs-lookup"><span data-stu-id="a7856-116">One of the pages you'll want to modify for your organization is the Ask questions and get help page.</span></span> <span data-ttu-id="a7856-117">見てみましょう。</span><span class="sxs-lookup"><span data-stu-id="a7856-117">Let's take a look.</span></span>
+<span data-ttu-id="6cd44-114">ラーニングパスサイトは SharePoint コミュニケーションテンプレートに基づいているため、組織のニーズに合わせてサイトを簡単に変更することができます。</span><span class="sxs-lookup"><span data-stu-id="6cd44-114">The learning pathways site is based on a SharePoint communication template, so it's easy to modify the site to meet the needs of your organization.</span></span> <span data-ttu-id="6cd44-115">サイト名、ロゴ、メニュー項目、およびページ上のコンテンツを変更することができます。</span><span class="sxs-lookup"><span data-stu-id="6cd44-115">You can change the site name, logo, menu items, and the content on the pages.</span></span> <span data-ttu-id="6cd44-116">学習経路をカスタマイズするためのガイダンスは、管理者成功センターで提供されています。</span><span class="sxs-lookup"><span data-stu-id="6cd44-116">Guidance for customizing learning pathways is provided in the Admin Success Center.</span></span> 
 
-### <a name="view-the-ask-questions-and-get-help-page"></a><span data-ttu-id="a7856-118">[質問を確認してヘルプを表示] ページを表示する</span><span class="sxs-lookup"><span data-stu-id="a7856-118">View the Ask questions and get help page</span></span>
+### <a name="get-started-with-the-admin-success-center"></a><span data-ttu-id="6cd44-117">管理者成功センターの使用を開始する</span><span class="sxs-lookup"><span data-stu-id="6cd44-117">Get started with the Admin Success Center</span></span>
 
-<span data-ttu-id="a7856-119">ラーニングパスサイトには、トレーニングとサポートポータルの構築を開始するための既定のコンテンツが用意されています。</span><span class="sxs-lookup"><span data-stu-id="a7856-119">The learning pathways site provides default content to help you get starting building your training and support portal.</span></span> <span data-ttu-id="a7856-120">Admininstrator またはサイトの所有者として、[質問] のリンクを変更して、組織内のリソースを参照するための**ヘルプページを表示**することをお勧めします。</span><span class="sxs-lookup"><span data-stu-id="a7856-120">As an admininstrator or owner of the site, one of the things you’ll want to do is change the links on the **Ask question and get help page** point to resources in your organization.</span></span> 
+<span data-ttu-id="6cd44-118">管理者成功センターは、ラーニングパスの展開の計画、カスタマイズ、導入、および影響の測定に役立つガイダンスとリソースを提供します。</span><span class="sxs-lookup"><span data-stu-id="6cd44-118">The Admin Success Center provides the guidance and resources to help you plan, customize, drive adoption, and measure the impact of your learning pathways deployment.</span></span> 
 
-1.  <span data-ttu-id="a7856-121">Microsoft 365 learning の経路のホームページから、[**質問をお寄せ**ください] および [ヘルプを取得] メニュー項目をクリックします。</span><span class="sxs-lookup"><span data-stu-id="a7856-121">From the Microsoft 365 learning pathways Home page, click the **Ask questions and get help** menu item.</span></span>
-2.  <span data-ttu-id="a7856-122">[**編集**] ボタンをクリックします。</span><span class="sxs-lookup"><span data-stu-id="a7856-122">Click the **Edit** button.</span></span>
-3.  <span data-ttu-id="a7856-123">ヘルプオプションの画像の上にカーソルを移動し、[ **web パーツの編集**] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="a7856-123">Hover over a Help option image, then click **Edit web part**.</span></span>
+- <span data-ttu-id="6cd44-119">Microsoft 365 learning の経路の**ホーム**ページで、[**管理者成功センターの開始**] をクリックします。</span><span class="sxs-lookup"><span data-stu-id="6cd44-119">From the Microsoft 365 learning pathways **Home** page, click **Get started with the Admin Success Center**.</span></span>
 
-![cg-edithelp](media/cg-edithelp.png)
-
-<span data-ttu-id="a7856-125">サイトページのカスタマイズの手順については、「[サイトをカスタマイズする](custom_edithelp.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="a7856-125">For instructions on customizing site pages, see [Customize the site](custom_edithelp.md).</span></span>
-
-### <a name="view-the-learning-pathways-content-in-the-web-part"></a><span data-ttu-id="a7856-126">Web パーツのラーニング経路の内容を表示する</span><span class="sxs-lookup"><span data-stu-id="a7856-126">View the learning pathways content in the web part</span></span>
-<span data-ttu-id="a7856-127">Microsoft 365 トレーニングページは、学習経路で利用可能なすべてのトレーニングを表示するために構成された学習経路の Web パーツをホストしています。</span><span class="sxs-lookup"><span data-stu-id="a7856-127">The Microsoft 365 training page hosts the learning pathways Web part configured to show all the training available for learning pathways.</span></span> 
-
-1. <span data-ttu-id="a7856-128">ページを下にスクロールして、すべてのカテゴリとサブカテゴリを表示します。</span><span class="sxs-lookup"><span data-stu-id="a7856-128">Scroll down the page to view all the categories and subcategories.</span></span>
-2. <span data-ttu-id="a7856-129">タイヤを少し開始します。</span><span class="sxs-lookup"><span data-stu-id="a7856-129">Kick the tires a bit.</span></span> <span data-ttu-id="a7856-130">いくつかのサブカテゴリをクリックしてから、いくつかの再生リストをクリックすると、学習経路のコンテンツがどのように整理されているかを確認できます。</span><span class="sxs-lookup"><span data-stu-id="a7856-130">Click a few subcategories, and then click a few playlists to get a feel for how learning pathways content is organized.</span></span> 
-
-![cg-gotoall](media/cg-gotoall.png)
-
-<span data-ttu-id="a7856-132">ラーニングの経路の web パーツをカスタマイズする手順については、「[学習環境をカスタマイズする](custom_overview.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="a7856-132">For instructions on customizing the learning pathways web part, see [Customize the Learning Experience](custom_overview.md).</span></span>
-
-### <a name="get-a-complete-site-tour-and-customization-guidance"></a><span data-ttu-id="a7856-133">完全なサイトのツアーとカスタマイズのガイダンスを取得する</span><span class="sxs-lookup"><span data-stu-id="a7856-133">Get a complete site tour and customization guidance</span></span>
-<span data-ttu-id="a7856-134">詳細な説明については、サイト、web パーツ、管理機能、環境に固有の学習エクスペリエンスを構築する方法に関するガイダンスを参照してください。詳細については、「[学習環境をカスタマイズ](custom_overview.md)する」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="a7856-134">For a detailed look at learning pathways, incuding the site, the web part, administrative features, and guidance on how to build unique learning experiences for your environment, see [Customize the Learning Experience](custom_overview.md)</span></span>
-
-## <a name="next-steps"></a><span data-ttu-id="a7856-135">次のステップ</span><span class="sxs-lookup"><span data-stu-id="a7856-135">Next Steps</span></span>
-- [<span data-ttu-id="a7856-136">学習環境をカスタマイズする</span><span class="sxs-lookup"><span data-stu-id="a7856-136">Customize the Learning Experience</span></span>](custom_overview.md)
-- [<span data-ttu-id="a7856-137">ドライブ導入</span><span class="sxs-lookup"><span data-stu-id="a7856-137">Drive adoption</span></span>](driveadoption.md) 
+<span data-ttu-id="6cd44-120">ラーニング経路は、ソリューションの管理者成功センター内のガイダンスを提供します。</span><span class="sxs-lookup"><span data-stu-id="6cd44-120">Learning pathways provides guidance within the Admin Success Center in the solution.</span></span> <span data-ttu-id="6cd44-121">管理者成功センターのマニュアルは、このドキュメントセットにも記載されています。</span><span class="sxs-lookup"><span data-stu-id="6cd44-121">Documentation for the Admin Success Center is also available in this documentation set.</span></span> <span data-ttu-id="6cd44-122">「[学習経路管理者成功センター](custom_successcenter.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="6cd44-122">See [Learning pathways Admin Success Center](custom_successcenter.md).</span></span>
