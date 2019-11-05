@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 学習経路の内容を計画する
 ms.date: 10/20/2019
 description: Microsoft 365 learning ・経路のコンテンツ更新
-ms.openlocfilehash: 90f2db3c320f23931059b12d3eb9a6a9daeada72
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.openlocfilehash: 7c9687ca7c6e8373daa6f81cf9cd9624dd667e90
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886722"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956664"
 ---
 # <a name="plan-your-learning-pathways-content"></a>学習経路の内容を計画する
 Microsoft 365 learning の経路を展開する前に、ご利用いただける学習コンテンツ、ツール、および機能について調査することをお勧めします。 ここでの目的は、組織のユーザーを可能な限り迅速かつ効率的に利用できるように支援することです。 学習経路の計画に関しては、次の3つの手順からなるプロセスを実行することをお勧めします。
@@ -53,18 +53,21 @@ Microsoft 365 の学習経路では、組織に固有の特定のポリシーと
 - **再生リスト**-アセットのコンテナーです。 Microsoft では、変更できない再生リストが提供されていますが、独自の再生リストを作成することができます。  
 - **Assets** -再生リスト内の学習ページです。 Microsoft は、変更できない再生リストでアセットを提供していますが、独自のアセットを作成して再生リストに追加することができます。 est
 
-### <a name="review-the-learning-pathways-inventory-and-resources"></a>ラーニング経路のインベントリとリソースを確認する
-管理者インベントリに十分な詳細がない場合は、「Resources」ページにある「Microsoft 365 learning の経路」を参照してください。 これには、メタデータ、カテゴリ、サブカテゴリ、再生リスト、アセットの完全なリストが含まれています。 [リソース] ページには、カスタマイズ可能なクイックスタートガイドなど、追加のアセットへのリンクもあります。 詳細については、「[ラーニング・経路のリソース](custom_plancontent_resources.md)」を参照してください。
+### <a name="review-additional-resources-from-microsoft"></a>Microsoft からのその他のリソースを確認する
+Microsoft は、学習経路のコンテンツを計画するときに利用できるヘルプとトレーニングリソースを提供しています。  
+
+-  [Office のヘルプとトレーニング](https://support.office.com)
+-  [Office 365 トレーニング センター](https://support.office.com/office-training-center)
 
 ### <a name="review-the-learning-resources-in-your-organization"></a>組織内のラーニングリソースを確認する
 組織内で既に利用可能な学習コンテンツの在庫を取得します。
-たとえば、組織には、ユーザー設定のクイックスタートガイド、カンニングシート、または Microsoft 365 の準備状況、ヘルプデスク、オンボード、またはトレーニングに特化した SharePoint ページが既に存在する場合があります。 既存の SharePoint アセットは、Microsoft 365 ポータルのプレイリストに組み込んだり、プレイリストの Microsoft コンテンツと混在させることができます。これにより、組織の対象となる再生リストを構築できます。 組織のコンテンツと Microsoft のコンテンツを混在させる方法の詳細については、「管理者成功センター」の「学習経路をカスタマイズする」を参照してください。
+たとえば、組織には、ユーザー設定のクイックスタートガイド、カンニングシート、または Microsoft 365 の準備状況、ヘルプデスク、オンボード、またはトレーニングに特化した SharePoint ページが既に存在する場合があります。 既存の SharePoint アセットは、Microsoft 365 ポータルのプレイリストに組み込んだり、プレイリストの Microsoft コンテンツと混在させることができます。これにより、組織の対象となる再生リストを構築できます。 組織のコンテンツと Microsoft のコンテンツを混在させる方法の詳細については、「[学習経路をカスタマイズ](custom_overview.md)する」を参照してください。管理者成功センターの学習経路のカスタマイズのセクション。
 
 ### <a name="leverage-the-adoption-resources"></a>導入リソースを活用する
 数日以内に学習経路を使い始めることができることに注意してください。新しいテクノロジまたはサービスセットをオンボードにするための学習キャンペーン戦略を実施する前に、いくつかの事前計画を行うことをお勧めします。 コンテンツ計画を作成し、学習経路を使用することは、全体的な変更管理戦略を計画するうえで、多くの労力の一部です。そのため、全体的な戦略を計画するために利用できる導入資料を提供します。 計画の作業の一環として、[導入リソース](https://resources.techcommunity.microsoft.com/adoption/)を確認してください。
 
 ### <a name="build-a-learning-plan-and-iterate"></a>学習計画を作成し、反復処理を行う 
-学習経路が正常に展開された企業の多くは、特定のシナリオやテクノロジに特化した学習キャンペーンを採用しています。 たとえば、"Teams を使用してさらに共同作業を行う" または "Outlook mobile でさらに多くのモバイルを使用する"。 ダウンロード可能な[導入キット](https://resources.techcommunity.microsoft.com/adoption/)を使用して、考えられる学習キャンペーンの例を確認できます。
+学習経路が正常に展開された企業の多くは、特定のシナリオやテクノロジに特化した学習キャンペーンを採用しています。 たとえば、"Teams を使用してさらに共同作業を行う" または "Outlook mobile でさらに多くのモバイルを使用する"。 ダウンロード可能な[導入キット](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip)を使用して、考えられる学習キャンペーンの例を確認できます。
 
 
  

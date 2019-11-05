@@ -4,12 +4,12 @@ ms.author: karuanag
 title: フィードバックとサポート
 ms.date: 02/10/2019
 description: Microsoft 365 学習経路のフィードバックとサポート情報
-ms.openlocfilehash: ed1654bfe9ff762a9f9f17e7f564e1784608bdf1
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.openlocfilehash: 429275a1a6153a1434099feebee4bce703abe045
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34248152"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956634"
 ---
 # <a name="feedback-and-support"></a>フィードバックとサポート
 
@@ -23,7 +23,7 @@ Microsoft 365 の学習経路の経験を提供するオープンソースサイ
 
 ## <a name="provide-us-feedback"></a>フィードバックをお寄せください
 
-このソリューションは、ビジネスの成果を有効にしている場合にのみ成功します。  [UserVoice](https://microsoftteams.uservoice.com/forums/913429-learning-solutions)を使用して通常のフィードバックを提供することにより、より良いものにすることができます。  すべてのコメントと質問を定期的に確認します。
+このソリューションは、ビジネスの成果を有効にしている場合にのみ成功します。  [UserVoice](https://microsoftteams.uservoice.com/forums/913429-learning-solutions)を使用して通常のフィードバックを提供することにより、より良いものにすることができます。  すべてのコメントと質問を定期的に確認します。 
 
 ## <a name="usage-questions"></a>使用に関する質問
 

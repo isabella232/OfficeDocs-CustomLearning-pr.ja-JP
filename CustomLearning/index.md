@@ -4,15 +4,15 @@ ms.author: pkrebs
 title: Microsoft 365 学習経路の概要
 ms.date: 10/23/2019
 description: Microsoft 365 learning の経路を使用して、組織内の Microsoft 365 サービスの使用を促進する方法について説明します。 ラーニング経路には、カスタム SharePoint Online web パーツと、Microsoft 365 テナントに簡単にプロビジョニングできる最新の SharePoint Online コミュニケーショントレーニングサイトが含まれています。
-ms.openlocfilehash: f68f678f46633e9a5b661862d39f63b8b98138c3
-ms.sourcegitcommit: 91f02943cd5bfe6ad584fff71054c13e9547a0d7
+ms.openlocfilehash: 21f85ad1434f27882ece4658dad466b55351b3a8
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/03/2019
-ms.locfileid: "37947157"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956590"
 ---
-# <a name="microsoft-365-learning-pathways-beta-preview"></a>Microsoft 365 learning ・経路のベータ版のプレビュー
-Microsoft 365 learning の経路は、組織内の Microsoft 365 サービスの使用と導入を促進するように設計された、カスタマイズ可能なオンデマンド学習ソリューションです。  
+# <a name="microsoft-365-learning-pathways"></a>Microsoft 365 学習経路 
+Microsoft 365 learning の経路は、組織内の Microsoft 365 サービスの使用と導入を促進するように設計された、カスタマイズ可能なオンデマンド学習ソリューションです。   
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Microsoft からのオンデマンドのカスタムトレーニング
 
@@ -25,7 +25,7 @@ Microsoft 365 学習経路の提供:
 
 ![cg-introducing](media/cg-introducing.png)
 
-# <a name="sharepoint-online-provisioning-service"></a>SharePoint Online プロビジョニングサービス 
+## <a name="sharepoint-online-provisioning-service"></a>SharePoint Online プロビジョニングサービス 
 ラーニング経路は、SharePoint Online プロビジョニングサービスからプロビジョニングできます。 Microsoft 365 の学習経路がプロビジョニングされている場合、組織はすぐに使用できるトレーニングポータルとして設計された SharePoint Online コミュニケーションサイトを入手できます。また、トレーニングコンテンツのオンラインカタログに接続された学習経路の Web パーツもあります。 
 
 ![cg-provision](media/cg-provision.png)

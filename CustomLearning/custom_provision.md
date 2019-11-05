@@ -4,19 +4,19 @@ ms.author: pkrebs
 title: マイクロソフトの365ラーニングパスサイトを準備する
 ms.date: 02/10/2019
 description: SharePoint プロビジョニングサービスを使用して Microsoft 365 learning の方法のサイトをプロビジョニングする
-ms.openlocfilehash: e48052a395a8669ef684110a1c93409f5859a1d2
-ms.sourcegitcommit: 0077704d7edcc26eda76900115716fc5b7b1c518
+ms.openlocfilehash: 7bffd8ae68099e8def1fa7a8b8620d95b4b65740
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34334747"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956681"
 ---
 # <a name="provision-microsoft-365-learning-pathways"></a>Microsoft 365 learning の経路をプロビジョニングする
 
 SharePoint Online プロビジョニングサービスを使用すると、Office 365 テナント管理者は、いくつかの簡単なクリックでプロビジョニングプロセスを開始できます。 プロビジョニングサービスは、学習経路をプロビジョニングするために推奨される方法です。 処理を開始するには、短時間で簡単です。 ただし、プロビジョニングサービスを開始する前に、プロビジョニングの前提条件を満たしていることを確認してください。
 
 > [!IMPORTANT]
-> 5/21/2019 の間、Microsoft 365 learning の経路は、以前は Office 365 のカスタム学習と呼ばれていたソリューションの新しい名前です。 組織内で Office 365 のカスタム学習機能を既にプロビジョニングしていて、ソリューションを更新する場合は、「 [Microsoft 365 Learning ・パスの ReadMe](https://github.com/pnp/custom-learning-office-365)」の「ソリューションを更新する」の手順に従ってください。 初めて Microsoft 365 learning の経路情報をプロビジョニングする場合は、「microsoft 365 learning の経路」のドキュメントの「 [microsoft 365 learning のラーニングをプロビジョニング]( https://docs.microsoft.com/en-us/office365/customlearning/custom_provision)する」の手順を参照してください。  
+> 5/21/2019 の間、Microsoft 365 learning の経路は、以前は Office 365 のカスタム学習と呼ばれていたソリューションの新しい名前です。 Office 365 のカスタム学習または以前のバージョンの Microsoft 365 learning 経路を組織で既にプロビジョニングしていて、ソリューションを更新する場合は、 [microsoft 365 Learning の経路にある「ソリューションを更新する」の手順に従ってください。ReadMe](https://github.com/pnp/custom-learning-office-365)。 初めて Microsoft 365 learning の経路情報をプロビジョニングする場合は、「microsoft 365 learning の経路」のドキュメントの「 [microsoft 365 learning のラーニングをプロビジョニング]( https://docs.microsoft.com/en-us/office365/customlearning/custom_provision)する」の手順を参照してください。  
 
 ## <a name="prerequisites"></a>前提条件
  
@@ -28,31 +28,19 @@ SharePoint Online プロビジョニングサービスを使用すると、Offic
 
 ### <a name="to-provision-learning-pathways"></a>学習経路をプロビジョニングするには
 
-1. にhttp://provisioning.sharepointpnp.com移動して、ホームページの右上隅から**サインイン**します。  サイトテンプレートをインストールする予定の対象となるテナントの資格情報を使用してサインインします。
-
-![pnphome](media/inst_signin.png)
-
-2. **組織の代わりに同意**をクリアし、[**同意**する] を選択します。
-
-![順番](media/inst_perms.png)
+1. 「 [Microsoft 365 learning の方法」ページ](https://provisioning.sharepointpnp.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239)に移動します。
+2. [**テナントに追加] を**クリックします。 テナントにサインインしていない場合、プロビジョニングサービスはテナント管理者の資格情報を要求します。 
+3. [要求されたアクセス許可] ダイアログボックスで、**組織の代理**として [同意する] を選択し、[**同意**する] を選択します。
 
 プロビジョニングサービスには、テナントのアプリカタログを作成し、アプリケーションをテナントのアプリカタログにインストールし、サイトテンプレートをプロビジョニングするためのアクセス許可が必要です。 テナントに全体的な影響がありません。これらのアクセス許可は、ソリューションのインストールの目的で明示的に使用されます。 インストールを続行するには、これらのアクセス許可を受け入れる必要があります。
 
-3. ページを下にスクロールし、[**ソリューション**] タブを選択してから、[ **Office 365 の学習経路**] を選択します。 
-
-![順番](media/inst_select.png)
-
-4. [**テナントに追加**] を選択します。
-
-![inst_select](media/inst_add.png)
-
-5. ご使用のインストールに応じて、[プロビジョニング情報] ページのフィールドを入力します。 少なくとも、プロビジョニングプロセスに関する通知を取得する電子メールアドレスと、サイトをプロビジョニングする宛先の URL を入力します。  
+4. ご使用のインストールに応じて、[プロビジョニング情報] ページのフィールドを入力します。 少なくとも、プロビジョニングプロセスに関する通知を取得する電子メールアドレスと、サイトをプロビジョニングする宛先の URL を入力します。  
 > [!NOTE]
 > サイトの宛先 URL を、"/sites/MyTraining" や "/teams/LearnMicrosoft365" などの従業員にとってわかりやすいものにします。
 
 ![inst_options](media/inst_options.png)
 
-6. テナント**** 環境に学習経路をインストールする準備ができたら、[準備] を選択します。  プロビジョニングプロセスには最大15分かかります。 サイトがアクセスできる状態になると、メールによって ([プロビジョニング] ページで入力した通知の電子メールアドレスに) 通知されます。 
+6. テナント環境に学習経路をインストールする準備ができたら **、[準備**] をクリックします。  プロビジョニングプロセスには最大15分かかります。 サイトがアクセスできる状態になると、メールによって ([プロビジョニング] ページで入力した通知の電子メールアドレスに) 通知されます。 
 
 > [!IMPORTANT]
 > ラーニングポイントサイトをプロビジョニングするテナント管理者は、サイトに移動し、 **CustomLearningAdmin**を開いて学習経路管理プロパティを初期化する必要があります。 この時点で、テナント管理者はサイトに所有者を割り当てる必要があります。 

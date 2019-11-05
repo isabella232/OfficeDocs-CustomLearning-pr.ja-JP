@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: サイトと既定のコンテンツを参照する
 ms.date: 02/10/2019
 description: 学習経路のサイトと既定のコンテンツを参照する
-ms.openlocfilehash: 5691f44bd121cfdb0c164e6f6aed389582e9420a
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.openlocfilehash: a7218cb09d23d553f50a09ace9b14e9522d8716f
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34248078"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956544"
 ---
 # <a name="explore-the-learning-pathways-site"></a>学習経路サイトを探索する
 
@@ -21,37 +21,16 @@ ms.locfileid: "34248078"
 2.  ユーザー名とパスワードを使用してサインインします。
 3.  テナント管理者から提供された URL を使用してサイトの場所に移動するか、Office 365 のホームページから [SharePoint] を選択して、サイトを選択します。 
 
-![cg-introducing](media/cg-introducing.png)
+![cg-exploresite](media/cg-introducing.png)
 
-## <a name="explore-the-learning-pathways-site"></a>学習経路サイトを探索する
+## <a name="explore-microsoft-365-learning-pathways"></a>Microsoft 365 学習経路を参照する
 
-ラーニングパスサイトは SharePoint コミュニケーションテンプレートに基づいているため、組織のニーズに合わせてサイトを簡単に変更することができます。 サイト名、ロゴ、メニュー項目、およびページ上のコンテンツを変更することができます。 組織で変更する必要があるページの1つとして、質問と [ヘルプを表示] ページがあります。 見てみましょう。
+ラーニングパスサイトは SharePoint コミュニケーションテンプレートに基づいているため、組織のニーズに合わせてサイトを簡単に変更することができます。 サイト名、ロゴ、メニュー項目、およびページ上のコンテンツを変更することができます。 学習経路をカスタマイズするためのガイダンスは、管理者成功センターで提供されています。 
 
-### <a name="view-the-ask-questions-and-get-help-page"></a>[質問を確認してヘルプを表示] ページを表示する
+### <a name="get-started-with-the-admin-success-center"></a>管理者成功センターの使用を開始する
 
-ラーニングパスサイトには、トレーニングとサポートポータルの構築を開始するための既定のコンテンツが用意されています。 Admininstrator またはサイトの所有者として、[質問] のリンクを変更して、組織内のリソースを参照するための**ヘルプページを表示**することをお勧めします。 
+管理者成功センターは、ラーニングパスの展開の計画、カスタマイズ、導入、および影響の測定に役立つガイダンスとリソースを提供します。 
 
-1.  Microsoft 365 learning の経路のホームページから、[**質問をお寄せ**ください] および [ヘルプを取得] メニュー項目をクリックします。
-2.  [**編集**] ボタンをクリックします。
-3.  ヘルプオプションの画像の上にカーソルを移動し、[ **web パーツの編集**] をクリックします。
+- Microsoft 365 learning の経路の**ホーム**ページで、[**管理者成功センターの開始**] をクリックします。
 
-![cg-edithelp](media/cg-edithelp.png)
-
-サイトページのカスタマイズの手順については、「[サイトをカスタマイズする](custom_edithelp.md)」を参照してください。
-
-### <a name="view-the-learning-pathways-content-in-the-web-part"></a>Web パーツのラーニング経路の内容を表示する
-Microsoft 365 トレーニングページは、学習経路で利用可能なすべてのトレーニングを表示するために構成された学習経路の Web パーツをホストしています。 
-
-1. ページを下にスクロールして、すべてのカテゴリとサブカテゴリを表示します。
-2. タイヤを少し開始します。 いくつかのサブカテゴリをクリックしてから、いくつかの再生リストをクリックすると、学習経路のコンテンツがどのように整理されているかを確認できます。 
-
-![cg-gotoall](media/cg-gotoall.png)
-
-ラーニングの経路の web パーツをカスタマイズする手順については、「[学習環境をカスタマイズする](custom_overview.md)」を参照してください。
-
-### <a name="get-a-complete-site-tour-and-customization-guidance"></a>完全なサイトのツアーとカスタマイズのガイダンスを取得する
-詳細な説明については、サイト、web パーツ、管理機能、環境に固有の学習エクスペリエンスを構築する方法に関するガイダンスを参照してください。詳細については、「[学習環境をカスタマイズ](custom_overview.md)する」を参照してください。
-
-## <a name="next-steps"></a>次のステップ
-- [学習環境をカスタマイズする](custom_overview.md)
-- [ドライブ導入](driveadoption.md) 
+ラーニング経路は、ソリューションの管理者成功センター内のガイダンスを提供します。 管理者成功センターのマニュアルは、このドキュメントセットにも記載されています。 「[学習経路管理者成功センター](custom_successcenter.md)」を参照してください。
