@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Microsoft 365 学習経路の影響を測定する
 ms.date: 02/10/2019
 description: Microsoft 365 学習経路の影響を測定する方法
-ms.openlocfilehash: 95162ed8cead823f58a033922898beb4a7175399
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.openlocfilehash: 8beb4955208f14ca5d4bbc8a525d839d47e47b88
+ms.sourcegitcommit: 6a17a7ab6d28349654520f2c28d08c480e3c7b47
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34272707"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38076011"
 ---
 # <a name="measuring-impact-of-microsoft-365-learning-pathways"></a>Microsoft 365 学習経路の影響の測定
 
@@ -33,5 +33,5 @@ Office 365 管理センター SharePoint サイトの利用状況レポートを
 
 ## <a name="feedback"></a>フィードバック
 
-現時点では、レポートは SharePoint サイトレベルに制限されています。 高度なレポート機能要求の優先順位を設定するために、[ユーザーの音声](https://microsoftteams.uservoice.com/forums/913429-learning-solutions)フォーラムに投票を行います。   
+現時点では、レポートは SharePoint サイトレベルに制限されています。 高度なレポート機能要求の優先順位を設定するために、[ユーザーの音声](https://go.microsoft.com/fwlink/?linkid=2109552)フォーラムに投票を行います。   
 
