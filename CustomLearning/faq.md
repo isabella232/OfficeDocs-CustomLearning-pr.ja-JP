@@ -4,12 +4,12 @@ ms.author: karuanag
 title: Microsoft 365 学習経路のよく寄せられる質問
 ms.date: 02/10/2019
 description: Microsoft 365 学習経路のよく寄せられる質問情報
-ms.openlocfilehash: 66149439f0ca13b319bee3bea9c2773b43e98e25
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.openlocfilehash: 5b90971ef6e411b4bd8d0cece2d8211f6fd5db23
+ms.sourcegitcommit: 86cfa176d50b324c964b1a8609270cc73a2468b3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "35636111"
+ms.lasthandoff: 12/17/2019
+ms.locfileid: "40068818"
 ---
 # <a name="frequently-asked-questions"></a>よく寄せられる質問
 
@@ -38,7 +38,7 @@ Microsoft 365 の学習経路は、現在ベータ版のプレビューに含ま
 
 ### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>Microsoft 365 の学習経路はどの言語で利用できますか?
 
-現在、Microsoft 365 の学習経路は英語でのみご利用いただけます。 自動エンドツーエンドプロビジョニングは、英語のテナントでのみ機能します。 CY19 Q4 では、次の9つの言語について多言語サポートをロールアウトすることを計画しています。 
+現在、Microsoft 365 の学習経路は英語でのみご利用いただけます。 自動エンドツーエンドプロビジョニングは、英語のテナントでのみ機能します。 2020年第1四半期にこれらの9つの言語に多言語のサポートをロールアウトすることを計画しています。 
 
 - 簡体字中国語 
 - オランダ語 (オランダ) 
