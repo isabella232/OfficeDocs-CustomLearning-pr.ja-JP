@@ -1,23 +1,43 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: ラーニング・パス11月2019機能の更新プログラム
+title: ラーニング経路機能の更新プログラム
 ms.date: 10/20/2019
-description: ラーニング・パス11月2019機能の更新プログラム
-ms.openlocfilehash: fe3dc11f5e34d729d1a63f7b1ef92988f753021a
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+description: ラーニング経路機能の更新プログラム
+ms.openlocfilehash: 636be2078a87bee2ef9f406f76239e2d4ea94e11
+ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956574"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43141360"
 ---
-# <a name="november-2019-version-30-feature-updates"></a>2019年11月バージョン3.0 機能の更新プログラム
+# <a name="learning-pathways-feature-updates"></a>ラーニング経路機能の更新プログラム
+ラーニングパスチームは、お客様のフィードバックを聞いて、必要な機能を提供します。 次に示すのは、2020年の Q2 に予定されている機能の更新プログラムです。 
+
+## <a name="upcoming-feature-updates-for-q2-2020"></a>Q2 2020 の今後の機能の更新プログラム
+ラーニング経路の多言語サポートは、2020の第2四半期にリリースされる予定です。 多言語サポートは、「モダン SharePoint 用の Multiligual page publishing」機能に依存しており、SharePoint 多言語サポートの一般的な可用性と同時に利用可能になります。 詳細については、 [Microsoft 365 ロードマップ](https://www.microsoft.com/microsoft-365/roadmap?filters=&searchterms=50217)を参照してください。  
+  
+ラーニング経路では、次の言語がサポートされます。   
+
+- 簡体字中国語 
+- フランス語  
+- ドイツ語 
+- イタリア語 (イタリア) 
+- 日本語 (日本)  
+- ポルトガル語 (ブラジル) 
+- ロシア語 (ロシア)  
+- スペイン語 
+
+> [!NOTE]
+> このオランダ語のサポートは、学習経路の複数言語サポートの今後のリリースには含まれません。 今後、新しい言語オプションを引き続き評価する予定です。
+
+## <a name="november-2019-version-30-feature-updates"></a>2019年11月バージョン3.0 機能の更新プログラム
 お客様のフィードバックに基づいて、次の新機能が Microsoft 365 learning のバージョン3.0 に追加されています。
 
-## <a name="content-updates-and-editorial-calendar"></a>コンテンツの更新と編集の予定表
+### <a name="content-updates-and-editorial-calendar"></a>コンテンツの更新と編集の予定表
 教育経路の1つとして、最新のコンテンツがあります。 このため、microsoft は、新しいサブカテゴリ、再生リスト、およびアセットを使用して、最初の11月2019四半期コンテンツ更新を提供しています。 コンテンツ更新の内容は、[新機能] と [変更されたもの] のプレイリストに記載されています。 学習経路四半期ごとのコンテンツ更新プログラムは、次の場所にあります。一般的な Office ヘルプについては、「 [11 月2019コンテンツの更新](custom_contentupdates.md)」を参照してください。
 
-## <a name="microsoft-365-success-center"></a>Microsoft 365 成功センター
+### <a name="learning-pathways-admin-success-center"></a>ラーニング・経路管理者成功センター
 管理者とサイトコレクションの所有者が学習経路を最大限に活用できるように、Microsoft 365 learning のための管理者成功センターを追加しました。 管理者成功センターは、リソースの計画と導入に関するリンクを提供し、学習経路の計画、カスタマイズ、導入、導入、測定に関するガイダンスを提供します。 詳細については、「[管理者成功センター](custom_successcenter.md)」を参照してください。
 
 ## <a name="playlist-navigation"></a>再生リストナビゲーション

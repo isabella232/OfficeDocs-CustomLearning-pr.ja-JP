@@ -4,12 +4,12 @@ ms.author: karuanag
 title: Microsoft 365 学習経路のよく寄せられる質問
 ms.date: 02/10/2019
 description: Microsoft 365 学習経路のよく寄せられる質問情報
-ms.openlocfilehash: 5b90971ef6e411b4bd8d0cece2d8211f6fd5db23
-ms.sourcegitcommit: 86cfa176d50b324c964b1a8609270cc73a2468b3
+ms.openlocfilehash: 6720ab5671cb5e306a30211f272c610b502608ca
+ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068818"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43141370"
 ---
 # <a name="frequently-asked-questions"></a>よく寄せられる質問
 
@@ -38,10 +38,9 @@ Microsoft 365 の学習経路は、現在ベータ版のプレビューに含ま
 
 ### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>Microsoft 365 の学習経路はどの言語で利用できますか?
 
-現在、Microsoft 365 の学習経路は英語でのみご利用いただけます。 自動エンドツーエンドプロビジョニングは、英語のテナントでのみ機能します。 2020年第1四半期にこれらの9つの言語に多言語のサポートをロールアウトすることを計画しています。 
+現在、Microsoft 365 の学習経路は英語でのみご利用いただけます。 自動エンドツーエンドプロビジョニングは、英語のテナントでのみ機能します。 2020年の第2四半期に、以下の言語について多言語サポートをロールアウトすることを計画しています。 
 
 - 簡体字中国語 
-- オランダ語 (オランダ) 
 - フランス語  
 - ドイツ語 
 - イタリア語 (イタリア) 
@@ -49,6 +48,8 @@ Microsoft 365 の学習経路は、現在ベータ版のプレビューに含ま
 - ポルトガル語 (ブラジル) 
 - ロシア語 (ロシア)  
 - スペイン語 
+
+> このオランダ語のサポートは、学習経路の複数言語サポートの今後のリリースには含まれません。 今後、新しい言語オプションを引き続き評価する予定です。
 
 ### <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>テナント環境にサイトをインストールするには、どのくらいの時間がかかりますか?
 
@@ -63,7 +64,7 @@ Microsoft 365 learning の経路は、Open Source Software (OSS) ソリューシ
 - **OSS は、迅速な開発とコラボレーションを可能にします。** すべてのオープンソースソリューションは、投稿者の広範なコミュニティで利用できます。  Microsoft は、技術革新を推進するためにこの方法をコミットしています。  お客様の主要なサービス管理チームが、お客様の正式な構築にどのような貢献が組み込まれているかを判断するための適切な経験を提供することにより、お客様にメリットがもたらされます。  
 - **OSS はパートナーとの共同作業を可能にします。** Microsoft は、今後の拡張および Microsoft 365 learning 経路への貢献に向けた取り組みをサポートするために、いくつかの学習パートナーと連携しています。 これらのプランが最終処理されるときに、詳細情報を提供します。 
     
-#### <a name="implications"></a>関連
+#### <a name="implications"></a>影響
 - **OSS は、市販の製品ではありません。** 商用製品には、更新と修正プログラムが含まれており、料金ベースのサポート契約に含まれています。 Microsoft は現在、Microsoft 365 learning の経路に関するドキュメント、更新、パッチを提供していますが、この特定のビジネスシナリオを改善するための取り組みに基づいています。 このプランでは、学習経路への投資を継続することになりますが、お客様は、サービス管理チームが将来的に戦略を変更する可能性があることに注意する必要があります。 今後の Microsoft 365 learning 経路への変更は、有効になる前に伝達されます。 
 - **OSS では、microsoft 365 の学習経路は、GitHub のオンライン問題リストを通じてサポート**されます。 microsoft 365 learning の経路は、既存の microsoft サポート契約の対象外です。 提出された問題には、Microsoft 365 learning のサービス所有者とコミュニティによるトリアージがあります。 問題解決サービスレベルは、有償の Microsoft サポート契約と同じレベルではありません。  
 
