@@ -3,11 +3,14 @@
 ## [Microsoft 365 学習経路のプロビジョニング](custom_provision.md)
 ## [Microsoft 365 学習経路サイトを確認する](custom_exploresite.md)
 ## [スタンドアロン Web パーツのセットアップ](custom_manualsetup.md)
-# [管理サクセス センター](custom_successcenter.md)
-## [11月のコンテンツ更新](custom_contentupdates.md)
+# 新機能 
+## [コンテンツの更新](custom_contentupdates.md) 
 ## [コンテンツ更新の管理](custom_contentupdatesmanage.md)
-## [11 月の機能更新プログラム](custom_featureupdates.md)
-## [学習コンテンツを計画する](custom_plancontent.md)
+## [機能更新プログラム](custom_featureupdates.md)
+# [管理サクセス センター](custom_successcenter.md)
+## 学習コンテンツを計画する 
+### [学習コンテンツを計画する](custom_plancontent.md)
+### [リモート ワークをサポートするためのリソース](custom_plancontent_remoteresources.md)
 ## [学習経路をカスタマイズする](custom_overview.md)
 ### [M365 学習経路サイトへ移動する](custom_goto.md)
 ### [サイトをカスタマイズする](custom_edithelp.md)
