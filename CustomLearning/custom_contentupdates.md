@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 経路のコンテンツの更新を学習する
 ms.date: 3/30/2020
 description: ラーニング・経路4月2020コンテンツの更新
-ms.openlocfilehash: 21b44cd09a4c8170c7b5740d25733c7b0af0792a
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
+ms.openlocfilehash: 8e30e3803d4b6a309cf5ddd8028cf8b3425b1e6e
+ms.sourcegitcommit: dbe293e5690223b5ca3862fe50cfec8ca641eb65
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141383"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43191341"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 学習経路のコンテンツの更新
 学習経路は、四半期ごとのコンテンツ更新サイクルを遵守することに努力しています。 以下に、2020年4月のコンテンツ更新プログラムの一覧を示します。
@@ -37,7 +37,7 @@ Office 365 は、Microsoft 365 に再ブランディングされています。 
 - 作業ファイルを保存する
 - 高度な選択肢
 ##### <a name="best-practices-for-collaborating-with-office-365-6-new-assets"></a>Office 365 との共同作業のベストプラクティス (新しいアセット6個)
-- 概要
+- 作業の開始
 - 共有
 - 共同作成者
 - ファイル内のチャット
@@ -71,7 +71,7 @@ Teams コンテンツにさまざまな更新が行われました。
 ### <a name="office-for-the-web"></a>Web 用 Office
 Web 用 office は、ユーザーが web 上で Office を作成、共有、および共同作業するシナリオの一連のプレイリストを提供します。 この一連のコンテンツは、Google G スイートから Microsoft 365 への切り替えを行う組織にとっても重要です。
 #### <a name="get-started-5-new-assets"></a>はじめに (5 つの新しいアセット)
-- 概要
+- 作業の開始
 - 検索を使用して検索する
 - 新しいドキュメントを作成する
 - 作業に戻る
@@ -109,9 +109,9 @@ Web 用 office は、ユーザーが web 上で Office を作成、共有、お�
 - ドキュメントの共有
 - 共有可能なリンクを作成する
 - 特定のユーザーのみにドキュメントをセキュリティで保護する
-- 組織外のユーザーと共有する
+- 組織外のユーザーと共有する 
 
-###<a name="microsoft-forms"></a>Microsoft Forms 
+### <a name="microsoft-forms"></a>Microsoft Forms 
 要求により、いくつかの新しいフォームアセットもあります。 
 #### <a name="forms-4-new-assets"></a>フォーム (新しいアセット4個) 
 - フォームを作成する 
@@ -119,7 +119,7 @@ Web 用 office は、ユーザーが web 上で Office を作成、共有、お�
 - フォームの結果を表示する 
 - Microsoft Forms に関してよく寄せられる質問 
 
-### <a name="resources-for-supporting-your-remote-workforce"></a>リモートワーカーをサポートするためのリソース
+### <a name="resources-for-supporting-your-remote-workforce"></a>リモート ワークをサポートするためのリソース
 学習経路を使用して、リモートワーカーをサポートするための学習ページをラーニングサイトに構築できます。 または、ラーニングパスサイトの既存のサポートページに learning の経路の web パーツを追加し、web パーツをフィルター処理してリモート再生リストの作業を表示することができます。 ここでは、組織でのリモート作業をサポートするために Microsoft の主要なリソースの一覧を示します。 
 - [Microsoft Teams をロールアウトする方法](https://docs.microsoft.com/microsoftteams/how-to-roll-out-teams)
 - [Microsoft Teams でのミーティングと会議](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
@@ -130,7 +130,7 @@ Web 用 office は、ユーザーが web 上で Office を作成、共有、お�
 - [教育機関: Microsoft エデュケーションセンター](https://education.microsoft.com) 
 - [教育機関: リモート学習の概要](https://education.microsoft.com/resource/4c0c02c0)
 
-学習経路をカスタマイズする方法の詳細については、「[ラーニング経路のカスタマイズ]」 ((custom_overview md) を参照してください。 
+学習経路をカスタマイズする方法の詳細については、「[ラーニング経路をカスタマイズ](custom_overview.md)する」を参照してください。 
 
 ## <a name="november-2019-content-updates"></a>2019年11月のコンテンツ更新プログラム
 Microsoft 365 learning ・経路のコンテンツ更新にようこそ。 2019年11月の更新プログラムから、四半期ごとに学習経路カタログの更新されたインベントリを提供します。 2019年11月の更新プログラムでは、次のような新しいコンテンツのサブカテゴリと再生リストが、ラーニングパスカタログに追加されました。 コンテンツの更新の適用方法、およびコンテンツの更新を管理する方法の詳細については、「[コンテンツの更新を管理](custom_contentupdatesmanage.md)する」を参照してください。    
