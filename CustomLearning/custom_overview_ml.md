@@ -5,12 +5,12 @@ title: 概要
 ms.date: 06/06/2020
 description: ラーニング経路の多言語サポート
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 72159b9525368c6f9744913aea023f496d353091
-ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
+ms.openlocfilehash: a576c94b48af9336ffc7f035de7377e7bf57c84c
+ms.sourcegitcommit: a50efd8bc3719dbb4f5630e8fceec185599e33a2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/11/2020
-ms.locfileid: "44699138"
+ms.locfileid: "44704623"
 ---
 # <a name="multilingual-support-for-learning-pathways"></a>ラーニング経路の多言語サポート
 
@@ -24,9 +24,9 @@ ms.locfileid: "44699138"
 - 日本語 (日本)
 - ポルトガル語 (ブラジル)
 - ロシア語 (ロシア)
-- Spanish
+- スペイン語
 
-学習経路の多言語サポートは、sharepoint online のコミュニケーションサイト用の SharePoint Online 多言語機能によってサポートされています。 
+学習経路の多言語サポートは、sharepoint online のコミュニケーションサイト用の SharePoint Online 多言語機能によってサポートされています。  
 
 ## <a name="get-familiar-with-the-sharepoint-online-multilingual-feature"></a>SharePoint Online 多言語機能について理解を深める
 SharePoint Online の多言語サポートを使用すると、翻訳されたページ、ニュース投稿、ユーザーインターフェイス要素をユーザーの優先言語で提供できます。 開始する前に、多言語サポートのしくみについて説明します。 
