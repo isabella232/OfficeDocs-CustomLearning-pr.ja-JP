@@ -1,18 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 新しい学習経路の多言語サイトを準備する
+title: 新しい学習経路を準備する多言語ソリューション
 ms.date: 02/10/2019
 description: SharePoint プロビジョニングサービスを使用して Microsoft 365 learning の方法のサイトをプロビジョニングする
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: ca565a113056a915cfc780568ca36777bbf8f5bb
-ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
+ms.openlocfilehash: 380063b92713bf571438a0e2be21f0638dde0cfb
+ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44699145"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "45031713"
 ---
-# <a name="provision-a-new-learning-pathways-multilingual-site"></a>新しい学習経路の多言語サイトを準備する
+# <a name="provision-a-new-learning-pathways-multilingual-solution"></a>新しい学習経路を準備する多言語ソリューション
 テナントで既にプロビジョニングされたラーニング経路を持っていない組織では、そのテナントに多言語学習機能のソリューションを追加することができます。 このオプションを使用すると、ラーニングパス SharePoint テンプレートが9つの言語に翻訳され、最小限の変更で使用できます。 
 
 > [!IMPORTANT]
@@ -59,7 +59,7 @@ ms.locfileid: "44699145"
 
 プロビジョニングが完了すると、サイトをプロビジョニングしたテナント管理者が PnP プロビジョニングサービスから電子メールを受信します。 電子メールには、サイトへのリンクが含まれています。 この時点で、テナント管理者は、電子メールで提供されているリンクを使用してサイトに移動し、最初に使用するサイトを設定する必要があります。
 
-- `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx` にアクセスします。 **CustomLearningAdmin**を開くと、最初に使用するための学習経路を設定する**customconfig**リストアイテムが初期化されます。 次のようなページが表示されます。
+- `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx` に移動します。 **CustomLearningAdmin**を開くと、最初に使用するための学習経路を設定する**customconfig**リストアイテムが初期化されます。 次のようなページが表示されます。
 
 ![cg-adminapppage.png](media/cg-adminapppage.png)
 

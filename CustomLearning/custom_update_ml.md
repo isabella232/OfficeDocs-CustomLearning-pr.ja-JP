@@ -1,18 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Microsoft 365 学習経路をアップデートする
+title: 多言語サポートのための学習経路を更新する
 ms.date: 05/20/2019
-description: Microsoft 365 学習経路をアップデートする
+description: 多言語サポートのための学習経路を更新する
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: cf058d0b8953f39a8243ffc91ab31fc5941c5674
-ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
+ms.openlocfilehash: 37a9b77ee45b8ae1ae4973f171c32de11fb530e1
+ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44699130"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "45031703"
 ---
-# <a name="update-microsoft-365-learning-pathways"></a>Microsoft 365 学習経路をアップデートする
+# <a name="update-learning-pathways-for-multilingual-support"></a>多言語サポートのための学習経路を更新する
 既存のラーニングパスサイトがある場合は、多言語サポートのために更新できます。 マルチリンガル4.0 バージョンへの学習経路を更新するには、web パーツパッケージ customlearning を SharePoint テナントアプリカタログにアップロードします。 学習経路を更新すると、次のようになります。  
 
 - 以前に作成したカスタムの再生リストとアセットは保持されます。
@@ -41,7 +41,7 @@ ms.locfileid: "44699130"
 - [**サイト言語の追加または削除**] の下で、 **[言語の選択または入力**] で言語名の入力を開始するか、ドロップダウンから言語を選択します。 複数の言語を追加するには、この手順を繰り返します。 このページに戻ると、いつでもサイトで言語を追加または削除することができます。
  
 ### <a name="assign-translators"></a>翻訳者を割り当てる
-学習経路の言語設定を定義するときは、翻訳者を割り当てることができます。 翻訳者には外国語プロファイルを設定する必要があります。 外国語プロファイルの詳細については、「[多言語の通信サイト、ページ、ニュースを作成する](https://support.office.com/en-us/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)」を参照してください。  
+学習経路の言語設定を定義するときは、翻訳者を割り当てることができます。 翻訳者には外国語プロファイルを設定する必要があります。 外国語プロファイルの詳細については、「[多言語の通信サイト、ページ、ニュースを作成する](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)」を参照してください。  
 - サポートされている言語の場合は、[**トランスレーターの選択] また**は [翻訳者の入力] をクリックし、トランスレーターを選択します。 
 
 ## <a name="update-the-learning-pathways-web-part-package"></a>ラーニングパス web パーツパッケージを更新する
