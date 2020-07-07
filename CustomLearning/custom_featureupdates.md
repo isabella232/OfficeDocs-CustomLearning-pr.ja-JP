@@ -4,29 +4,36 @@ ms.author: pkrebs
 title: ラーニング経路機能の更新プログラム
 ms.date: 10/20/2019
 description: ラーニング経路機能の更新プログラム
-ms.openlocfilehash: 636be2078a87bee2ef9f406f76239e2d4ea94e11
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
-ms.translationtype: MT
+ms.openlocfilehash: e7becc7b6026e38eef349f1c5c0b2bd380b11cbc
+ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141360"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45048095"
 ---
-# <a name="learning-pathways-feature-updates"></a>ラーニング経路機能の更新プログラム
-ラーニングパスチームは、お客様のフィードバックを聞いて、必要な機能を提供します。 次に示すのは、2020年の Q2 に予定されている機能の更新プログラムです。 
+# <a name="july-2020-version-40-feature-updates"></a>2020年7月バージョン4.0 機能の更新プログラム 
 
-## <a name="upcoming-feature-updates-for-q2-2020"></a>Q2 2020 の今後の機能の更新プログラム
-ラーニング経路の多言語サポートは、2020の第2四半期にリリースされる予定です。 多言語サポートは、「モダン SharePoint 用の Multiligual page publishing」機能に依存しており、SharePoint 多言語サポートの一般的な可用性と同時に利用可能になります。 詳細については、 [Microsoft 365 ロードマップ](https://www.microsoft.com/microsoft-365/roadmap?filters=&searchterms=50217)を参照してください。  
-  
-ラーニング経路では、次の言語がサポートされます。   
+次の新機能が、Microsoft 365 learning のバージョン4.0 に追加されました。 
 
+## <a name="multilingual-support-for-learning-pathways"></a>ラーニング経路の多言語サポート 
+学習経路の多言語サポートは、9つの言語で提供されるようになりました。  
+- English     
 - 簡体字中国語 
-- フランス語  
+- フランス語 
 - ドイツ語 
 - イタリア語 (イタリア) 
-- 日本語 (日本)  
+- 日本語 (日本) 
 - ポルトガル語 (ブラジル) 
-- ロシア語 (ロシア)  
+- ロシア語 (ロシア) 
 - スペイン語 
+
+詳細については、「Learning のための[多言語の概要](custom_overview.md)」を参照してください。 
+
+## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>学習のための画像ピッカーカスタムサブカテゴリ 
+学習経路には、カスタムの再生リストやサブカテゴリに使用するための使いやすいイメージピッカーが用意されています。  以前のバージョンでは、サブカテゴリではなく、再生リストのイメージを変更することができました。  
+
+詳しくは、次のトピックを参照してください。
+- [カスタムプレイリストを作成](custom_createnewplaylist.md)します。 
+- [サブカテゴリを作成する](custom_createnewcat.md)
 
 > [!NOTE]
 > このオランダ語のサポートは、学習経路の複数言語サポートの今後のリリースには含まれません。 今後、新しい言語オプションを引き続き評価する予定です。

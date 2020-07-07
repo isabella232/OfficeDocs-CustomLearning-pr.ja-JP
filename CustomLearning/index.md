@@ -2,20 +2,21 @@
 author: pkrebs
 ms.author: pkrebs
 title: Microsoft 365 学習経路の概要
-ms.date: 10/23/2019
+ms.date: 7/6/2020
 description: Microsoft 365 learning の経路を使用して、組織内の Microsoft 365 サービスの使用を促進する方法について説明します。 ラーニング経路には、カスタム SharePoint Online web パーツと、Microsoft 365 テナントに簡単にプロビジョニングできる最新の SharePoint Online コミュニケーショントレーニングサイトが含まれています。
-ms.openlocfilehash: e0e05618328ea0c9ccb187d1784b37a79f5a5be9
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
-ms.translationtype: MT
+ms.openlocfilehash: 6f2953ff8b5af209d2b72b1c052c78d29e948c52
+ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141400"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043239"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 学習経路 
 Microsoft 365 learning の経路は、組織内の Microsoft 365 サービスの使用と導入を促進するように設計された、カスタマイズ可能なオンデマンド学習ソリューションです。    
 
 > [!IMPORTANT]
-> 現在のイベントへの対応として、ラーニング経路は、組織内のリモート作業を有効にするために設計された再生リストとリソースに焦点を当てた2020年4月のコンテンツ更新を提供します。 新しい作業のセットがリモート再生リストに追加され、Microsoft Teams のコンテンツが大幅に更新されました。特に Teams 会議では、web 再生リスト用の新しい Office セットが追加されています。 更新の一環として、管理者向けのリモート作業リソースの一覧も提供しました。 更新プログラムの完全な一覧については、「[ラーニング・経路4月2020コンテンツの更新](custom_contentupdates.md)」を参照してください。   
+> お客様のフィードバックへの対応として、ラーニング経路で9つの言語の多言語サポートが提供されるようになりました。 ラーニング経路の多言語サポートを有効にする方法の詳細と手順については、以下のトピックを参照してください。 
+>- [学習経路の多言語サポートの概要](custom_overview_ml.md) 
+>- [ラーニング経路のセットアップオプション](custom_setupoptions.md)  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Microsoft からのオンデマンドのカスタムトレーニング
 
@@ -31,13 +32,14 @@ Microsoft 365 学習経路の提供:
 ## <a name="sharepoint-online-provisioning-service"></a>SharePoint Online プロビジョニングサービス 
 ラーニング経路は、SharePoint Online プロビジョニングサービスからプロビジョニングできます。 Microsoft 365 の学習経路がプロビジョニングされている場合、組織はすぐに使用できるトレーニングポータルとして設計された SharePoint Online コミュニケーションサイトを入手できます。また、トレーニングコンテンツのオンラインカタログに接続された学習経路の Web パーツもあります。 
 
-![cg-provision](media/cg-provision.png)
+![cg-provision.png](media/cg-provision.png)
 
-## <a name="3-easy-steps"></a>3つの簡単な手順
+## <a name="4-easy-steps"></a>簡単な4つの手順
 環境に適した学習経路の作成を開始しましょう。
-1. [セットアップオプション](custom_setupoptions.md)を選択し、Microsoft 365 learning の経路をプロビジョニングします。  
-2. 環境の学習経路を調整します。
-3. [導入ツール](driveadoption.md)を使用して、学習経路をユーザーと共有します。
+1. [ラーニング経路の多言語サポートの概要](custom_overview_ml.md)を確認します。 
+2. [セットアップオプション](custom_setupoptions.md)を選択し、Microsoft 365 learning の経路をプロビジョニングします。  
+3. 環境の学習経路を調整します。
+4. [導入ツール](driveadoption.md)を使用して、学習経路をユーザーと共有します。
 
 ## <a name="feedback-and-support"></a>フィードバックとサポート
 

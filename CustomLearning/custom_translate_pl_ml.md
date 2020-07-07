@@ -2,15 +2,13 @@
 author: pkrebs
 ms.author: pkrebs
 title: 学習経路のカスタムプレイリストを翻訳する
-ms.date: 06/8/2020
+ms.date: 07/06/2020
 description: 学習経路のカスタムプレイリストを翻訳する
-ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 0ba85c9c5b3068325c887b3563d2b5daee4e8762
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.openlocfilehash: 5bb3c96cce64fc26c5f5cd215c991c4849426693
+ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45039007"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45048135"
 ---
 # <a name="translate-learning-pathways-custom-playlists"></a>学習経路のカスタムプレイリストを翻訳する
 学習経路を使用すると、カスタムプレイリストの操作方法は、学習経路の設定方法によって異なります。  
@@ -137,5 +135,5 @@ Microsoft によって提供される再生リスト内のアセットは編集�
 3. ページに対して翻訳を行い、[**発行**] をクリックします。   
 
 ## <a name="for-more-information"></a>詳細情報
-- 学習経路のカスタマイズの詳細については、「[ラーニング経路をカスタマイズ](custom_overview.md)する」を参照してください。  
+- 学習経路のカスタマイズの詳細については、「[ラーニング経路をカスタマイズ](custom_overview.md)する」を参照してください。 
 

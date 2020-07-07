@@ -2,24 +2,23 @@
 author: pkrebs
 ms.author: pkrebs
 title: サイトページを翻訳する
-ms.date: 02/10/2019
+ms.date: 07/06/2020
 description: サイトページを翻訳する
-ms.openlocfilehash: cf397250ceab826efb8b82522c0560c2109d24bb
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.openlocfilehash: c712ff624f37efa54120a8567e2a6b3a79d54bcd
+ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45038987"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45048115"
 ---
 # <a name="translate-site-pages"></a>サイトページを翻訳する
 ラーニングポイントサイトの翻訳を開始する前に、多言語機能が学習経路とどのように連携するかについて、いくつかの重要な概念を理解しておくことが重要です。 
 - サイト情報-ナビゲーション、ロゴ、およびサイト名の翻訳では、サイトを表示し、ユーザーの言語プロファイルに翻訳する必要があります。  
 - 学習経路 Web パーツは、ユーザーの言語プロファイルで表示して、英語以外の言語で表示する必要があります。 Web パーツと Microsoft 提供のコンテンツは、既に翻訳されています。 言語プロファイルの詳細については、「[個人の言語と地域の設定を変更する](https://support.microsoft.com/en-us/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7)」を参照してください。
-- 学習経路を設定する方法によって、利用可能な翻訳済みページがあるかどうかが決まります。 SharePoint プロビジョニングサービスを使用してプロビジョニングされた新しいサイトには、使用可能な9つの言語の翻訳済みページがあります。 サイトまたはサイトを作成した場合は、手動による翻訳が必要になります。 [多言語学習経路のセットアップオプションを](custom_setupoptions_ml.md)参照してください。
+- 学習経路を設定する方法によって、利用可能な翻訳済みページがあるかどうかが決まります。 Microsoft 365 look book サービスを使用してプロビジョニングされた新しいサイトには、9つの言語の翻訳済みページがあります。 サイトまたはサイトを作成した場合は、手動による翻訳が必要になります。 [多言語学習経路のセットアップオプションを](custom_setupoptions_ml.md)参照してください。
 - ラーニング経路の多言語サポートは、コミュニケーションサイトの SharePoint Online 多言語機能によって有効にされます。 SharePoint Online の多言語機能の詳細については、「[多言語の通信サイト、ページ、およびニュースを作成](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)する」を参照してください。 
 
 ## <a name="working-with-a-newly-provisioned-site"></a>新しくプロビジョニングされたサイトを使用する
-SharePoint のプロビジョニングサービスから新しいラーニングパスサイトをプロビジョニングした場合、翻訳されたページは既にご利用いただけます。 既定では、サイトには次のページが用意されています。
+Microsoft 365 look book サービスから新しいラーニングパスサイトをプロビジョニングした場合、翻訳されたページは既にご利用いただけます。 既定では、サイトには次のページが用意されています。
 
 - Default.aspx
 - Start-with-Six-Simple-Steps

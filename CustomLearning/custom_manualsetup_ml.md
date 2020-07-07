@@ -1,18 +1,17 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 経路の手動セットアップの学習
+title: Ml のための経路の手動セットアップの学習
 ms.date: 02/10/2019
 description: 経路の手動セットアップの学習
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: c524ebae73cb928a8e77567d4ea2c5e8d5032ccd
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.openlocfilehash: 44bd47f0a49634a2f6ac6aca2d221fb8e6f15980
+ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45038977"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043279"
 ---
-# <a name="learning-pathways-manual-setup"></a>経路の手動セットアップの学習
+# <a name="learning-pathways-manual-setup-for-multilingual"></a>マルチリンガルの学習経路の手動セットアップ
 
 Microsoft 365 の学習経路は、次のいずれかのシナリオのサポートを必要とする組織のために手動によるセットアップを提供します。
 
