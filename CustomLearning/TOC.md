@@ -1,12 +1,18 @@
-# [はじめに](index.md)
-## [Microsoft 365 学習経路のセットアップ オプション](custom_setupoptions.md)
-## [Microsoft 365 学習経路のプロビジョニング](custom_provision.md)
+# [はじめに](index.md)  
+## [学習経路の設定オプション](custom_setupoptions.md)
+## [学習経路のプロビジョニング](custom_provision.md)
+## [学習経路を更新する](custom_update.md)
+## [手動セットアップ](custom_manualsetup.md)
 ## [Microsoft 365 学習経路サイトを確認する](custom_exploresite.md)
-## [スタンドアロン Web パーツのセットアップ](custom_manualsetup.md)
 # 新機能 
 ## [コンテンツの更新](custom_contentupdates.md) 
 ## [コンテンツ更新の管理](custom_contentupdatesmanage.md)
 ## [機能更新プログラム](custom_featureupdates.md)
+# 多言語サポート
+## [学習経路の多言語サポート](custom_overview_ml.md)
+## [サイト ページを翻訳する](custom_translate_page_ml.md)
+## [学習経路のカスタム再生リストを翻訳する](custom_translate_pl_ml.md)
+## [サイト名、ナビゲーション、フッターを翻訳する](custom_sitenamenav_ml.md)
 # [管理サクセス センター](custom_successcenter.md)
 ## 学習コンテンツを計画する 
 ### [学習コンテンツを計画する](custom_plancontent.md)
