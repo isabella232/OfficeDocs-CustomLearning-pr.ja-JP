@@ -6,6 +6,7 @@ ms.date: 7/6/2020
 description: Microsoft 365 learning の経路を使用して、組織内の Microsoft 365 サービスの使用を促進する方法について説明します。 ラーニング経路には、カスタム SharePoint Online web パーツと、Microsoft 365 テナントに簡単にプロビジョニングできる最新の SharePoint Online コミュニケーショントレーニングサイトが含まれています。
 ms.openlocfilehash: 6f2953ff8b5af209d2b72b1c052c78d29e948c52
 ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
+ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 07/06/2020
 ms.locfileid: "45043239"
