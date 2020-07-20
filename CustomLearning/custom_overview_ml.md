@@ -7,7 +7,7 @@ description: ラーニング経路の多言語サポート
 ROBOTS: NOINDEX, NOFOLLOW
 ms.openlocfilehash: d3b123d3e10794f7415526c07001171b9c08fbd6
 ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.translationtype: Auto
 ms.contentlocale: ja-JP
 ms.lasthandoff: 07/05/2020
 ms.locfileid: "45038967"
