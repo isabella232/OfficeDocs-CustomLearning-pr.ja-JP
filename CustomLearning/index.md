@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Microsoft 365 学習経路の概要
 ms.date: 7/6/2020
 description: Microsoft 365 learning の経路を使用して、組織内の Microsoft 365 サービスの使用を促進する方法について説明します。 ラーニング経路には、カスタム SharePoint Online web パーツと、Microsoft 365 テナントに簡単にプロビジョニングできる最新の SharePoint Online コミュニケーショントレーニングサイトが含まれています。
-ms.openlocfilehash: 6f2953ff8b5af209d2b72b1c052c78d29e948c52
-ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
+ms.openlocfilehash: 81a456dc0234aaa84f497538db8198efaefd3e26
+ms.sourcegitcommit: 46f10099fc13213e7095825440527cd22a5e48ab
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45043239"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45199347"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 学習経路 
 Microsoft 365 learning の経路は、組織内の Microsoft 365 サービスの使用と導入を促進するように設計された、カスタマイズ可能なオンデマンド学習ソリューションです。    
@@ -17,7 +17,7 @@ Microsoft 365 learning の経路は、組織内の Microsoft 365 サービスの
 > [!IMPORTANT]
 > お客様のフィードバックへの対応として、ラーニング経路で9つの言語の多言語サポートが提供されるようになりました。 ラーニング経路の多言語サポートを有効にする方法の詳細と手順については、以下のトピックを参照してください。 
 >- [学習経路の多言語サポートの概要](custom_overview_ml.md) 
->- [ラーニング経路のセットアップオプション](custom_setupoptions.md)  
+>- [学習経路の設定オプション](custom_setupoptions.md)  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Microsoft からのオンデマンドのカスタムトレーニング
 
@@ -30,8 +30,8 @@ Microsoft 365 学習経路の提供:
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE42hMy]
 
-## <a name="sharepoint-online-provisioning-service"></a>SharePoint Online プロビジョニングサービス 
-ラーニング経路は、SharePoint Online プロビジョニングサービスからプロビジョニングできます。 Microsoft 365 の学習経路がプロビジョニングされている場合、組織はすぐに使用できるトレーニングポータルとして設計された SharePoint Online コミュニケーションサイトを入手できます。また、トレーニングコンテンツのオンラインカタログに接続された学習経路の Web パーツもあります。 
+## <a name="sharepoint-look-book-service"></a>SharePoint look book サービス
+学習経路は、SharePoint の look book サービスからプロビジョニングできます。 Microsoft 365 の学習経路がプロビジョニングされている場合、組織はすぐに使用できるトレーニングポータルとして設計された SharePoint Online コミュニケーションサイトを入手できます。また、トレーニングコンテンツのオンラインカタログに接続された学習経路の Web パーツもあります。 
 
 ![cg-provision.png](media/cg-provision.png)
 

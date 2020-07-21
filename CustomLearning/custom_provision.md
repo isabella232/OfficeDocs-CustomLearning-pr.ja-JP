@@ -4,22 +4,22 @@ ms.author: pkrebs
 title: 新しい学習経路ソリューションを準備する
 ms.date: 02/10/2019
 description: Microsoft 365 look book サービスを使用して Microsoft 365 learning の経路サイトをプロビジョニングする
-ms.openlocfilehash: 40b298406ee5f9f5acc3f4cc471429063430f856
-ms.sourcegitcommit: 22fd931116be1a39836f7f5429b96483bf7860ef
+ms.openlocfilehash: ba71b79497a01c2f0c0d51c12c2760adbb4e24c5
+ms.sourcegitcommit: e88aaa3c8b6afcb5a7c19dfaf144a676a6859229
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45146538"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45196785"
 ---
 # <a name="provision-a-new-learning-pathways-solution"></a>新しい学習経路ソリューションを準備する 
-テナントでプロビジョニングされたラーニング経路を持っていない組織では、SharePoint look book サービスを使用して多言語の学習経路ソリューションを追加することができます。 このオプションを使用すると、ラーニングパス SharePoint テンプレートが9つの言語に翻訳され、最小限の変更で使用できます。
+テナントでプロビジョニングされたラーニング経路を持っていない組織では、SharePoint look book サービスを使用して多言語の学習経路ソリューションを追加することができます。 このオプションを使用すると、ラーニングパス SharePoint テンプレートが9つの言語に翻訳され、最小限の変更で使用できます。 
 
 > [!IMPORTANT]
 > テナントに既に学習経路がプロビジョニングされている場合は、学習経路を[更新](custom_update.md)することをお勧めします。 学習経路の新しいインスタンスをインストールする場合は、既存のサイトから新しいサイトにカスタマイズを手動で転送する必要があります。 
 
 ## <a name="prerequisites-for-multilingual-support"></a>多言語サポートの前提条件
  
-Microsoft 365 learning の経路を look book サービスで正常にセットアップするには、プロビジョニングを実行するユーザーが次の前提条件を満たしている必要があります。 
+Microsoft 365 learning の経路を look book サービスで正常にセットアップするには、プロビジョニングを実行するユーザーが次の前提条件を満たしている必要があります。   
  
 - ユーザープロビジョニングの学習経路は、学習経路がプロビジョニングされるテナントのテナント管理者である必要があります。  
 - テナントアプリカタログは、SharePoint 管理センターの [アプリ] オプションで使用できる必要があります。 組織が SharePoint テナントのアプリカタログを持っていない場合は、 [Sharepoint Online のドキュメント](https://docs.microsoft.com/sharepoint/use-app-catalog)を参照して作成します。 学習経路をプロビジョニングする前に、アプリカタログを作成してから少なくとも2時間待つ必要があります。  
@@ -40,8 +40,6 @@ Microsoft 365 learning の経路を look book サービスで正常にセット�
 1. 「 [Microsoft 365 learning の方法」ページ](https://lookbook.microsoft.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239)に移動します。
 2. [**テナントに追加] を**クリックします。 テナントにサインインしていない場合、プロビジョニングサービスはテナント管理者の資格情報を要求します。 
 3. [要求されたアクセス許可] ダイアログボックスで、**組織の代理**として [同意する] を選択し、[**同意**する] を選択します。
-
-![アプリの catologue 同意の画像](media/app-catologue-consent.png)
 
 Look book サービスでは、テナントのアプリカタログを作成し、アプリケーションをテナントのアプリカタログにインストールし、サイトテンプレートをプロビジョニングするためにこれらのアクセス許可が必要です。 テナントに全体的な影響はありません。 これらのアクセス許可は、ソリューションのインストールの目的で明示的に使用されます。 インストールを続行するには、これらのアクセス許可を受け入れる必要があります。
 

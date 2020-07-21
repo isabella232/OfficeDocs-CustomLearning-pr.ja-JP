@@ -4,18 +4,18 @@ ms.author: pkrebs
 title: ラーニング経路機能の更新プログラム
 ms.date: 10/20/2019
 description: ラーニング経路機能の更新プログラム
-ms.openlocfilehash: e7becc7b6026e38eef349f1c5c0b2bd380b11cbc
-ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
+ms.openlocfilehash: 7765de3e2f08b70003842086bc5f910ddc5fd987
+ms.sourcegitcommit: 46f10099fc13213e7095825440527cd22a5e48ab
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45048095"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45199337"
 ---
 # <a name="july-2020-version-40-feature-updates"></a>2020年7月バージョン4.0 機能の更新プログラム 
 
 次の新機能が、Microsoft 365 learning のバージョン4.0 に追加されました。 
 
-## <a name="multilingual-support-for-learning-pathways"></a>ラーニング経路の多言語サポート 
+## <a name="multilingual-support-for-learning-pathways"></a>学習経路の多言語サポート 
 学習経路の多言語サポートは、9つの言語で提供されるようになりました。  
 - English     
 - 簡体字中国語 
@@ -29,10 +29,16 @@ ms.locfileid: "45048095"
 
 詳細については、「Learning のための[多言語の概要](custom_overview.md)」を参照してください。 
 
+## <a name="sort-subcategories-and-playlists"></a>サブカテゴリとプレイリストを並べ替える
+
+学習経路でサブカテゴリと再生リストを並べ替えることができるようになりました。 たとえば、ユーザー設定の再生リストをサブカテゴリに追加した場合は、再生リストを並べ替えて、カスタムプレイリストが並べ替え順序の最初に表示されるようにすることができます。 
+
+詳細については、「[サブカテゴリおよび再生リストを並べ替える](custom_sortsubplay.md)」を参照してください。 
+
 ## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>学習のための画像ピッカーカスタムサブカテゴリ 
 学習経路には、カスタムの再生リストやサブカテゴリに使用するための使いやすいイメージピッカーが用意されています。  以前のバージョンでは、サブカテゴリではなく、再生リストのイメージを変更することができました。  
 
-詳しくは、次のトピックを参照してください。
+詳細については、以下を参照してください。
 - [カスタムプレイリストを作成](custom_createnewplaylist.md)します。 
 - [サブカテゴリを作成する](custom_createnewcat.md)
 
