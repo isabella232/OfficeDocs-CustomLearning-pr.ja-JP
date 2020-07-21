@@ -32,6 +32,7 @@
 ### [カスタム再生の資産を追加する](custom_addassets.md)
 ### [サブカテゴリを作成する](custom_createnewcat.md)
 ### [Microsoft 365 学習経路の Web パートを追加および編集する](custom_addwebpart.md)
+### [サブカテゴリとプレイリストを並べ替える](custom_sortsubplay.md)
 ### [学習経路コンテンツへのリンク](custom_linking.md)
 ### [学習経路コンテンツへを検索する](custom_search.md)
 ## [導入を促進する](driveadoption.md)
