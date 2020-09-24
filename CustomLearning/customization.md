@@ -4,12 +4,13 @@ ms.author: karuanag
 title: トレーニングの手順をカスタマイズする
 ms.date: 02/10/2019
 description: Office のカスタム学習で利用可能なさまざまなカスタマイズについて説明します365
-ms.openlocfilehash: fbb8e5861547f26a3b8419e11f89e5872aeb0b0c
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.service: sharepoint online
+ms.openlocfilehash: 9869fa83625dfa1d9180e9e7561a40a1c5e3af53
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32056311"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233739"
 ---
 # <a name="customize-the-training-experience"></a>トレーニングの手順をカスタマイズする
 
@@ -17,7 +18,7 @@ ms.locfileid: "32056311"
 
 このサイトの所有者が使用できるカスタマイズには、いくつかの種類があります。 
 
-- [web ページをカスタマイズする](#customizing-web-pages)
+- [Web ページをカスタマイズする](#customizing-web-pages)
 - [利用可能なサービスをカスタマイズする](#customize-available-services)
 - [プレイリストをカスタマイズして共有する](customplaylist.md)
 
@@ -26,28 +27,28 @@ ms.locfileid: "32056311"
 > [!TIP]
 > 従業員からのフィードバックを収集し、定期的に追加のカスタマイズを完了します。  新しいサービスを開始するときに、再生リストを追加したり、特定の役割に web ページを移動したり、新しいトレーニングコンテンツを有効にしたりします。 
 
-## <a name="customizing-web-pages"></a>web ページのカスタマイズ
+## <a name="customizing-web-pages"></a>Web ページのカスタマイズ
 
-カスタム学習 web サイトは完全にカスタマイズできます。 モダン sharepoint Online サイト内でページを作成することに慣れていない場合は、「 [sharepoint サイト](https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b)記事を support.office.com でカスタマイズする」を参照してください。 
+カスタム学習 web サイトは完全にカスタマイズできます。 モダン SharePoint Online サイト内でページを作成することに慣れていない場合は、「 [sharepoint サイト](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) 記事を Support.office.com でカスタマイズする」を参照してください。 
 
 ### <a name="customize-the-ask-questions-and-get-help-page"></a>**質問をカスタマイズしてヘルプページを表示**する
 
 サイトをカスタマイズするための開始点として、[質問を入力して、メニューバーからヘルプを取得する] を選択し、[SharePoint Edit] ボタンをクリックして、画像とリンクを変更します。 
 
-![custom_ask](media/custom_ask.png)
+![custom_ask.png](media/custom_ask.png)
 
 ## <a name="customize-available-services"></a>利用可能なサービスをカスタマイズする
 
-1.  web サイト![custom_admin でカスタムの [ラーニング管理] ページに移動します。](media/custom_admin.png)
-1. ソリューションに含まれるサービスの完全な一覧を表示するには、[**テクノロジ**] を選択します。
-1. テクノロジを選択し、**目のアイコンをクリック**してこのコンテンツを非表示にします。  もう一度目のアイコンをクリックして、コンテンツを表示します。 
+1.  Web サイト内のカスタムの [ラーニング管理] ページに移動 ![custom_admin.png](media/custom_admin.png)
+1. ソリューションに含まれるサービスの完全な一覧を表示するには、[ **テクノロジ** ] を選択します。
+1. テクノロジを選択し、 **目のアイコンをクリック** してこのコンテンツを非表示にします。  もう一度目のアイコンをクリックして、コンテンツを表示します。 
 ![配色](media/custom_techlist.png)
 
 この操作では、同じプロセスを繰り返し再生リストのカテゴリに対して繰り返すことができます。  [カテゴリ] オプションを選択するだけで、プレイリストの表示/非表示を切り替えることができます。 
 
-![custom_cat](media/custom_cat.png)
+![custom_cat.png](media/custom_cat.png)
 
-### <a name="next-steps"></a>次のステップ
+### <a name="next-steps"></a>次の手順
 
 - [プレイリストをカスタマイズして共有する](customplaylist.md)
-- [ドライブ導入](driveadoption.md) 
+- [導入を促進する](driveadoption.md) 

@@ -4,12 +4,13 @@ ms.author: karuanag
 title: Microsoft 365 学習経路のよく寄せられる質問
 ms.date: 02/10/2019
 description: Microsoft 365 学習経路のよく寄せられる質問情報
-ms.openlocfilehash: 6720ab5671cb5e306a30211f272c610b502608ca
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
+ms.service: sharepoint online
+ms.openlocfilehash: 56ea4d5ff50cf42009627af23eab9313853ace2b
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141370"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233539"
 ---
 # <a name="frequently-asked-questions"></a>よく寄せられる質問
 
@@ -19,7 +20,7 @@ Microsoft 365 learning の経路のリリースは、Microsoft 365 ブランド�
 
 ### <a name="what-are-the-requirements-for-installing-microsoft-365-learning-pathways-into-my-tenant-environment"></a>Microsoft 365 learning の経路をテナント環境にインストールするための要件は何ですか。
 
-- SharePoint Online とコミュニケーションサイトが有効になっている。
+- SharePoint Onlineとコミュニケーションサイトが有効になっています。
 - CLO365 をプロビジョニングするユーザーは、インストール先のテナントのテナント管理者である必要があります。
 - テナント ' App Catalog ' は、SharePoint 管理センターの [アプリ] オプション内で使用できる必要があります。
 - 新しいアプリカタログが作成された場合、アプリカタログを完全にプロビジョニングするには、30分以上の待機時間が必要になります。 テナントのアプリカタログを作成した後で、Microsoft 365 learning の経路を直接プロビジョニングしようとすると、ラーニングパスソリューションのプロビジョニングエラーが発生します。 
@@ -34,7 +35,7 @@ Microsoft 365 learning の経路のリリースは、Microsoft 365 ブランド�
 Microsoft 365 の学習経路は、現在ベータ版のプレビューに含まれています。 Microsoft 365 learning の経路を評価、計画、および実装する際には、次の点を考慮してください。
 
 - 任意のベータソリューションと同様に、サービス管理チームはサービスとそのコンポーネントに変更を加える権利を留保します。 バグと UX の問題を解決している間は、Web パーツを更新する必要があります。
-- Web パーツを更新するには、GitHub リポジトリからダウンロードして、テナントのアプリカタログにアップロードする必要があります。 「Microsoft 365 learning の[Readme](https://github.com/pnp/custom-learning-office-365/blob/master/README.md)ファイル」の「ソリューションを更新する」セクションを参照してください。 
+- Web パーツを更新するには、GitHub リポジトリからダウンロードして、テナントのアプリカタログにアップロードする必要があります。 「Microsoft 365 learning の [Readme](https://github.com/pnp/custom-learning-office-365/blob/master/README.md) ファイル」の「ソリューションを更新する」セクションを参照してください。 
 
 ### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>Microsoft 365 の学習経路はどの言語で利用できますか?
 
@@ -53,7 +54,7 @@ Microsoft 365 の学習経路は、現在ベータ版のプレビューに含ま
 
 ### <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>テナント環境にサイトをインストールするには、どのくらいの時間がかかりますか?
 
-インストールのテストに基づき、15分未満で完了する必要があります。 これには、要件に合わせてサイトをカスタマイズするのに必要な時間は含まれません。
+インストールのテストに基づき、15分未満で完了する必要があります。 これには、要件に合わせてサイトをカスタマイズするために必要な時間は含まれません。
 
 ### <a name="is-microsoft-365-learning-pathways-an-open-source-solution-and-what-are-the-implications"></a>Microsoft 365 learning はオープンソースソリューションに影響を与えますか?
 
@@ -61,7 +62,7 @@ Microsoft 365 learning の経路は、Open Source Software (OSS) ソリューシ
 
 #### <a name="benefits"></a>利点 
 - **Microsoft 365 学習経路は無料のソリューションです。** お客様は、お客様のテナントにソリューションをインストールし、カスタマイズしてエンドユーザーが使用できるようにすることができます。
-- **OSS は、迅速な開発とコラボレーションを可能にします。** すべてのオープンソースソリューションは、投稿者の広範なコミュニティで利用できます。  Microsoft は、技術革新を推進するためにこの方法をコミットしています。  お客様の主要なサービス管理チームが、お客様の正式な構築にどのような貢献が組み込まれているかを判断するための適切な経験を提供することにより、お客様にメリットがもたらされます。  
+- **OSS は、迅速な開発とコラボレーションを可能にします。**  すべてのオープンソースソリューションは、投稿者の広範なコミュニティで利用できます。  Microsoft は、技術革新を推進するためにこの方法をコミットしています。  お客様の主要なサービス管理チームが、お客様の正式な構築にどのような貢献が組み込まれているかを判断するための適切な経験を提供することにより、お客様にメリットがもたらされます。  
 - **OSS はパートナーとの共同作業を可能にします。** Microsoft は、今後の拡張および Microsoft 365 learning 経路への貢献に向けた取り組みをサポートするために、いくつかの学習パートナーと連携しています。 これらのプランが最終処理されるときに、詳細情報を提供します。 
     
 #### <a name="implications"></a>影響

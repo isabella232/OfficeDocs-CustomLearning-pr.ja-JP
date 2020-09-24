@@ -10,7 +10,7 @@ ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234639"
+ms.locfileid: "48234805"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 学習経路のコンテンツの更新
 学習経路は、四半期ごとのコンテンツ更新サイクルを遵守することに努力しています。 以下に、2020年4月のコンテンツ更新プログラムの一覧を示します。

@@ -1,11 +1,17 @@
 ---
-タイトル: ''
-ms.openlocfilehash: 9e05bd63cf1f534bcb912f6d578df4ce95a4660e
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+title: 精鋭プログラムのベストプラクティス-エキスパートの検索
+description: 精鋭プログラムのベストプラクティスによる Office 365 の導入を促進する
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: d3dc0b573469e8990c7b82014f645bcd4824a282
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055354"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233469"
 ---
 # <a name="finding-your-champions"></a>エキスパートの検索 
 
@@ -14,7 +20,7 @@ ms.locfileid: "32055354"
 は、既存のテクノロジを使用している他のユーザーが教育を受けて、新しいテクノロジについて学ぶことができるようになることがよくあります。現在のソリューションの制限により、他の共同作業者の前であっても新しい事柄を試してみることができます
 
 > [!NOTE]
-> エキスパートは、そのテクノロジだけで新しいソフトウェアをテストすることを楽しんでいる人とは異なります。 コンテキストに関係なく**他のユーザーを支援**します。 
+> エキスパートは、そのテクノロジだけで新しいソフトウェアをテストすることを楽しんでいる人とは異なります。 コンテキストに関係なく **他のユーザーを支援** します。 
 
 ## <a name="start-small-and-grow"></a>サイズの縮小と拡張を開始する
 
@@ -24,6 +30,6 @@ ms.locfileid: "32055354"
 
 成功した精鋭プログラムには、現在の問題を満たすリーダーと定期的なスケジュールがあります。  少なくとも月単位の会議は、コミュニティにおける正の文化の作成にとって重要な部分です。また、fostering の成長にもなります。  
 
-Microsoft Teams を使用して、チームワークエキスパートのプログラム用のハブを作成することもできます。  [この記事](https://docs.microsoft.com/en-us/MicrosoftTeams/teams-adoption-your-first-teams)では、そのチーム構造の例を示します。
+Microsoft Teams を使用して、チームワークエキスパートのプログラム用のハブを作成することもできます。  [この記事](https://docs.microsoft.com/MicrosoftTeams/teams-adoption-your-first-teams)では、そのチーム構造の例を示します。
 
 ![チームワークチャンピオンチームタブ](media/teams-adoption-tab-example.png)

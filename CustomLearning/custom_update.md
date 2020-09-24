@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Microsoft 365 学習経路をアップデートする
 ms.date: 07/06/2020
 description: Microsoft 365 学習経路をアップデートする
-ms.openlocfilehash: 6880e49f925f18b961790ec9eff2fbca55a741b7
-ms.sourcegitcommit: a34d166d01e0a0a0f7d36593ad69b93e923d778b
+ms.service: sharepoint online
+ms.openlocfilehash: 3f1874849832224726e452912c9228411ecd0820
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "46895585"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233849"
 ---
 # <a name="update-learning-pathways"></a>学習経路を更新する
 既存のラーニングパスサイトがある場合は、多言語サポートのために更新できます。 マルチリンガル4.0 バージョンへの学習経路を更新するには、web パーツパッケージ customlearning を SharePoint テナントアプリカタログにアップロードします。 学習経路を更新すると、次のようになります。  
@@ -48,7 +49,7 @@ ms.locfileid: "46895585"
 
 ### <a name="upload-the-web-part-package"></a>Web パーツパッケージをアップロードする
 1.  [GitHub カスタム学習リポジトリ](https://github.com/pnp/custom-learning-office-365/tree/master/webpart)に移動し、[ **customlearning] sppkg**を選択して、それを PC のローカルドライブにダウンロードします。
-2.  まだサインインしていない場合は、テナント管理者アカウントまたはサイトコレクション管理者アカウントを使用して、テナントにサインインします。 
+2.  まだサインインしていない場合は、テナント管理者またはサイト コレクション管理者アカウントを使用して、テナントにサインインします。 
 3.  [**管理**] [  >  すべての SharePoint の機能**を表示] を**クリックし  >  **SharePoint**  >  **More Features**ます。 
 4.  [ **アプリ**] の下にある [ **開く**] をクリックします。 
 5.  [**アプリカタログ**  >  **の SharePoint 用アプリの配布**] をクリックします。 
@@ -59,7 +60,7 @@ ms.locfileid: "46895585"
 1.  [ラーニングの経路] サイトで、[**ホーム**] メニューから [**ラーニングパス管理**] を選択します。 
 2.  更新するかどうかを確認するメッセージが表示されます。 
 ![custom_update_adminprompt_ml.png](media/custom_update_adminprompt_ml.png)
-3.  **[開始]** をクリックします。 
+3.  [**スタート**] をクリックします。 
 4. 更新が完了したら、[ **閉じる**] をクリックします。 
 
 ### <a name="next-steps"></a>次の手順

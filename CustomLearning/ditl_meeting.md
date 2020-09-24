@@ -1,11 +1,17 @@
 ---
-title: ''
-ms.openlocfilehash: e59f93b61e6b9b53f214dd8815892ba8b80ec668
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
-ms.translationtype: HT
+title: Office 365 でのライフサイクルの1日
+description: Office 365 を使用して、すぐに準備するためのクイック手順
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: fb2820a6492c3f7c107442e5aacbe5bf60adc7c8
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32056108"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233639"
 ---
 # <a name="meeting-at-the-office"></a>Office の会議
 
@@ -63,4 +69,4 @@ OneNote は、リアルタイムのコラボレーションや共同作成を行
 ![Planner のタスク](media/ditl_task.png)
 
 ## <a name="end-a-meeting"></a>会議を終了する
-議題の議論がすべて済んだら、時間に関係なく会議を終了します。 すべての参加者に実施項目を割り当てて、送信します。 Microsoft Teams で共同作業を行っている場合は、適切なチャネルで実施項目を簡単に共有できます。 実施項目は、会議中に Planner で入力して割り当てることもできます。このようにすれば、完了をすばやく追跡でき、[Microsoft Teams でアクセスすることもできます](https://support.office.com/ja-JP/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0)。 
+議題の議論がすべて済んだら、時間に関係なく会議を終了します。 すべての参加者に実施項目を割り当てて、送信します。 Microsoft Teams で共同作業を行っている場合は、適切なチャネルで実施項目を簡単に共有できます。 実施項目は、会議中に Planner で入力して割り当てることもできます。このようにすれば、完了をすばやく追跡でき、[Microsoft Teams でアクセスすることもできます](https://support.office.com/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0)。 

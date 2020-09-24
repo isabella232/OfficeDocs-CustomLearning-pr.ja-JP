@@ -4,23 +4,24 @@ ms.author: pkrebs
 title: パートナー統合モデル
 ms.date: 3/9/2019
 description: パートナー統合モデル
-ms.openlocfilehash: 0d52210c600e14fc9f224fbe6f91645fe4045c45
-ms.sourcegitcommit: 6a17a7ab6d28349654520f2c28d08c480e3c7b47
+ms.service: sharepoint online
+ms.openlocfilehash: 91980782f64d101d3128daff81ed4e2b6205faa8
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "38076021"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234139"
 ---
 # <a name="partner-integration-models"></a>パートナー統合モデル
-SharePoint Online プロビジョニングサービスでは、Microsoft 365 learning の内容を直接 ' 標準 ' 外 ' に追加することはできませんが、パートナーが利用して調整された付加価値サービスを作成するために使用できるいくつかの統合モデルがあります。製品. 上記のパートナー統合モデルは、より複雑で、投資のレベルが高い順に示されています。 そのため、お客様のビジネスモデルに基づいて専門知識を構築し、より高度なレベルにお客様を卒業することをお勧めします。
+SharePoint Online プロビジョニングサービスからは、Microsoft 365 learning の内容を直接 ' ' 外 ' にすることはできませんが、パートナーが利用して、調整された付加価値のあるサービスオファーリングを作成するために使用できるいくつかの統合モデルがあります。 上記のパートナー統合モデルは、より複雑で、投資のレベルが高い順に示されています。 そのため、お客様のビジネスモデルに基づいて専門知識を構築し、より高度なレベルにお客様を卒業することをお勧めします。
 
-![cg-part-intmodel](media/cg-part-intmodel.png) 
+![cg-part-intmodel.png](media/cg-part-intmodel.png) 
 
 ## <a name="how-should-i-get-started"></a>どのようにして作業を開始すればよいですか? 
 開始するには、以下のベストプラクティスを参照してください。     
 
 ### <a name="1-begin-with-building-expertise-as-an-enabler"></a>1. まず、イネーブラーとしての専門知識を習得します。 
-ラーニングパストレーニングポータルを有効にして、対象とする Microsoft のコンテンツを実行することにより、お客様の基礎をすぐに達成できるように支援することができます。 学習経路のプロビジョニングの手順についhttps://docs.microsoft.com/en-us/office365/customlearning/custom_provisionては、「」を参照してください。  
+ラーニングパストレーニングポータルを有効にして、対象とする Microsoft のコンテンツを実行することにより、お客様の基礎をすぐに達成できるように支援することができます。 学習経路のプロビジョニングの手順については、「」を参照してください https://docs.microsoft.com/office365/customlearning/custom_provision 。  
 
 ### <a name="2-then-extend-your-services-as-an-integrator"></a>2. サービスをインテグレーターとして拡張する
 コンテンツやサービスの統合ニーズの量によっては、投資の自動化に関する分析を実行します。 たとえば、支払い対象のコンテンツを参照したり、サービスを参照したりする目的のカスタムプレイリストを手動で作成することができる場合は、コンテンツ統合のガイドラインに従って開発と運用のコストを考慮することが適切でない場合があります。
@@ -29,14 +30,14 @@ SharePoint Online プロビジョニングサービスでは、Microsoft 365 lea
 投資収益率が有効になった場合は、再配信されたソリューションを構築するための再頒布 (または関連する学習経路パートナーの作業) を検討してください。 これらは、カスタマイズされたサイトを抽出し、お客様の環境に展開するためのソリューションを提供する、SharePoint のパターンとプラクティスのフレームワークに基づいています。 
 
 ## <a name="partner-provided-content-integration-guidelines"></a>パートナー提供のコンテンツ統合ガイドライン
-Microsoft 365 学習経路のコンテンツは、ラーニングパッケージのコンテンツマニフェストとして機能する JSON ファイルのセットによって駆動されます。 次の3つのファイルがあります。 json、. json、および assets。 これらのファイルは、web パーツが認識し、コンテンツ配信ネットワーク (CDN) からホストされて web パーツが読み込まれるようになるモデルと一致するように構造化する必要があります。 Microsoft は、開始するためにこれらのファイルのスターターテンプレートを提供します。  
+Microsoft 365 学習経路のコンテンツは、ラーニングパッケージのコンテンツマニフェストとして機能する JSON ファイルのセットによって駆動されます。 次の3つのファイルがあります。 metadata.json、playlists.json、assets.json。 これらのファイルは、web パーツが認識し、コンテンツ配信ネットワーク (CDN) からホストされて web パーツが読み込まれるようになるモデルと一致するように構造化する必要があります。 Microsoft は、開始するためにこれらのファイルのスターターテンプレートを提供します。  
 
 **免責事項:** JSON ファイル構造は、今後のソリューション作業に基づいて変更される可能性があります。 Microsoft 365 learning の経路パートナーの早期導入プログラム (EAP) には、このような差し迫った変更が通知されます。 お客様の下位互換性や移行のガイダンスと共に、 
 
 ### <a name="download-the-microsoft-365-learning-pathways-solution"></a>Microsoft 365 学習経路ソリューションをダウンロードする
-GitHub リポジトリhttps://github.com/pnp/custom-learning-office-365から、Microsoft 365 learning の経路を含むソリューション (JSON ファイル) をダウンロードすることができます。 現時点では、Microsoft は、ソリューションに対して GitHub プル要求を行っていないことに注意してください。 ただし、独自のカスタムコンテンツパックを作成するための開始点として、GitHub ファイルを使用することができます。 
+GitHub リポジトリから、Microsoft 365 learning の経路を含むソリューション (JSON ファイル) をダウンロードすることができ https://github.com/pnp/custom-learning-office-365 ます。 現時点では、Microsoft は、ソリューションに対して GitHub プル要求を行っていないことに注意してください。 ただし、独自のカスタムコンテンツパックを作成するための開始点として、GitHub ファイルを使用することができます。 
 
-### <a name="metadatajson-structure"></a>Metadata の json 構造
+### <a name="metadatajson-structure"></a>Metadata.jsの構造
 このファイルは、メニューと構造の頭脳と考えることができます。 すべてのナビゲーション構造と、他の2つのファイル内のデータの選択リストが含まれています。 
 
 
@@ -67,7 +68,7 @@ GitHub リポジトリhttps://github.com/pnp/custom-learning-office-365から、
 |&nbsp;&nbsp;Rid                |Stat_ タグの GUID                                                                      |  
 |&nbsp;&nbsp;拡張子              |StatusTag の表示名                                                              | 
 |**テレメトリ []**            |                                                                                           |  
-|&nbsp;&nbsp;AppInsightsKey    |Viewer web パーツの読み込みを追跡するように設定した app insights キーの GUID。 追跡は、テナント全体の管理者によってオフにすることができますが、送信される情報は、テナント id を使用して匿名化 user となります。詳細については、このセクションを参照してください。https://github.com/pnp/custom-learning-office-365#disabling-telemetry-collection               |  
+|&nbsp;&nbsp;AppInsightsKey    |Viewer web パーツの読み込みを追跡するように設定した app insights キーの GUID。 追跡は、テナント全体の管理者によってオフにすることができますが、送信される情報は、テナント id を使用して匿名化 user となります。詳細については、このセクションを参照してください。 https://github.com/pnp/custom-learning-office-365#disabling-telemetry-collection               |  
 |**バージョン**                   |バージョン情報は、web パーツが更新されたことを管理者に示すためにソリューションによって使用されます。また、大幅な変更が行われた場合には、web パーツがカスタムコンテンツを最新バージョンのマニフェストに自己更新できるようにします。         | 
 |&nbsp;&nbsp;マニフェスト          |マニフェストのバージョン                                               |
 |&nbsp;&nbsp;ManifestMinWebPart|マニフェストのバージョンと共に動作する web パーツの最小バージョン             |
@@ -80,15 +81,15 @@ GitHub リポジトリhttps://github.com/pnp/custom-learning-office-365から、
 |&nbsp;&nbsp;画質             |コンテンツパックを追加するための UI に表示される画像                                     |
 |&nbsp;&nbsp;ProvisionURL      |コンテンツパックのサイトコレクションを作成するためのプロビジョニングサービスパッケージの URL  |
 |&nbsp;&nbsp;CDNbase           |コンテンツパックのマニフェストのベース URL                                       |
-|AssetOrigins                  |後で説明する assets ファイルで使用されている URL の送信元の配列。 送信元 URL がサポートしている場合は、post メッセージが help_getClientHeight に送信されます。 次の data プロパティの "help_getClientHeight = {height of content}" ("help_getClientHeight = 5769" など) での応答では、iFrame をフレームコンテンツの適切な高さにサイズ変更できます。         |
+|AssetOrigins                  |後で説明するファイルの assets.jsで使用されている URL の送信元の配列。 送信元 URL がサポートしている場合は、post メッセージが help_getClientHeight に送信されます。 次の data プロパティの "help_getClientHeight = {height of content}" ("help_getClientHeight = 5769" など) での応答では、iFrame をフレームコンテンツの適切な高さにサイズ変更できます。         |
 
-### <a name="playlistsjson-structure"></a>(再生リスト) json 構造
-[再生リスト]: 再生リストマニフェストは、再生リストに関するメタデータと、再生リストに含まれているアセットを示すオブジェクトの配列です。
+### <a name="playlistsjson-structure"></a>Playlists.jsの構造
+playlists.js: 再生リストマニフェストは、再生リストに関するメタデータと、再生リストに含まれているアセットを示すオブジェクトの配列です。
 
 |              名前        |                     説明                                                               | 
 |:-----------------------------|-------------------------------------------------------------------------------------------|
 |ID                            |プレイリストを表す GUID                                                             |  
-|タイトル                         |再生リストの表示名                                                               |
+|Title                         |再生リストの表示名                                                               |
 |イメージ                         |再生リストを視覚的に表示するための相対 URL (CDN から画像へ)                              |                      
 |LevelId                       |関連付けられたレベル                                                                           |
 |AudienceId                   |関連付けられている対象ユーザー                                                                        |
@@ -101,13 +102,13 @@ GitHub リポジトリhttps://github.com/pnp/custom-learning-office-365から、
 |StatusNote                    |管理者に表示されるコンテンツに関するメモ                                            |
 |*Assets []*                        |このプレイリストの一部であるアセットの GUID の配列が表示順に表示されます。        |         
 
-### <a name="assetjson-structure"></a>Asset の json 構造
-[再生リスト]: 再生リストマニフェストは、再生リストに関するメタデータと、再生リストに含まれているアセットを示すオブジェクトの配列です。
+### <a name="assetjson-structure"></a>Asset.jsの構造
+playlists.js: 再生リストマニフェストは、再生リストに関するメタデータと、再生リストに含まれているアセットを示すオブジェクトの配列です。
 
 |              名前        |                     説明                                                               | 
 |:-----------------------------|-------------------------------------------------------------------------------------------|
 |ID                            |プレイリストを表す GUID                                                             |  
-|タイトル                         |再生リストの表示名                                                               |
+|Title                         |再生リストの表示名                                                               |
 |説明                   |---                                                                                           |                      
 |URL                           |IFrame に適用される、アセットのソース url                                  |
 |テクノロジー Id                  |関連付けられたテクノロジ                                                                      |
@@ -117,7 +118,7 @@ GitHub リポジトリhttps://github.com/pnp/custom-learning-office-365から、
 |StatusNote                    |管理者に表示されるコンテンツに関するメモ。                                           |
 
 ### <a name="caching"></a>キャッシュ
-Viewer web パーツの現在のバージョンは、キャッシュされたバージョンのマニフェストファイルを24時間利用します。 24時間後に、web パーツをヒットした最初のユーザーは、ソース CDN からマニフェストをダウンロードし、その情報を非表示のテクノロジと再生リストに結合して、ユーザー設定サブカテゴリで結合することによって、パフォーマンスによってキャッシュを更新します。再生リストとアセット。 または、管理者 web パーツは常に、マニフェストからコンテンツをダウンロードし、それをマージして、キャッシュを更新します。  そのため、管理者は管理ページになるように、管理者 web パーツを読み込んで、いつでもキャッシュ更新を強制することができます。
+Viewer web パーツの現在のバージョンは、キャッシュされたバージョンのマニフェストファイルを24時間利用します。 24時間後に、web パーツをヒットした最初のユーザーは、ソース CDN からマニフェストをダウンロードし、その情報を非表示のテクノロジや再生リストとマージして、ユーザー設定サブカテゴリ、再生リスト、アセットに結合することで、パフォーマンスによってキャッシュを更新します。 または、管理者 web パーツは常に、マニフェストからコンテンツをダウンロードし、それをマージして、キャッシュを更新します。  そのため、管理者は管理ページになるように、管理者 web パーツを読み込んで、いつでもキャッシュ更新を強制することができます。
 
 ## <a name="content-pack-guidelines"></a>コンテンツパックのガイドライン
 コンテンツパック機能は、次のシナリオのロックを解除します。
@@ -132,11 +133,11 @@ Microsoft では、マニフェストファイルとイメージのコンテン�
 
 ラーニングポイントソリューションを独自のコンテンツパックで拡張するために Microsoft が選択する必要があるのと同じバージョン管理構造を維持することが重要です。 CDN エンドポイントにバージョンフォルダーを含めないでください。これは、web パーツがサポートしているマニフェストのバージョンが、CDN の url に自動的に追加されるためです。 マニフェストファイルを改訂したときは、いつでも新しいインスタンスを作成できます。
 
-![cg-part-json-folder](media/cg-part-json-folder.png) 
+![cg-part-json-folder.png](media/cg-part-json-folder.png) 
 
-GitHub ページを CDN ソースとして利用する方法の詳細については、 [https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages)次のヘルプドキュメントを参照してください。
+GitHub ページを CDN ソースとして利用する方法の詳細については、次のヘルプドキュメントを参照してください [https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages) 。
 
-Microsoft のソリューションを使用すると、これらのファイルにアクセスできるユーザーに関してセキュリティが存在しないため、アセットに関する情報が公開されます。 お客様は、コンテンツの一部またはすべてに対して支払いを行う必要がある場合には、ソリューションの技術的な制限事項と、GitHub ページを使用することには意味がないため、この方法を使用する必要があります。s a 要件。 ここで説明したバージョン番号の構造を維持している場合、使用する CDN プロバイダーは問題ありません。 前述したように、web パーツがサポートするマニフェスト構造のバージョンはコードに組み込まれており、CDN URL に自動的に追加されます。 
+Microsoft のソリューションを使用すると、これらのファイルにアクセスできるユーザーに関してセキュリティが存在しないため、アセットに関する情報が公開されます。 お客様は、コンテンツの一部またはすべてに対して支払いを行う必要がある場合には、ソリューションの技術的な制限事項と、GitHub ページを使用することによって、要件を考慮する必要がありません。 ここで説明したバージョン番号の構造を維持している場合、使用する CDN プロバイダーは問題ありません。 前述したように、web パーツがサポートするマニフェスト構造のバージョンはコードに組み込まれており、CDN URL に自動的に追加されます。 
 
 ### <a name="content-pack-integration-guidance"></a>コンテンツパックの統合ガイダンス 
 管理者およびビューア web パーツが拡張され、コンシューマーがテナントで追加の CDN エンドポイントを構成できるようになります。これにより、表示するデータをソースにする必要がある CDN をビューアー web パーツが選択できるようになります。 
@@ -145,36 +146,36 @@ Microsoft のソリューションを使用すると、これらのファイル�
 - これはパートナー再配布シナリオに適用される主なシナリオで、手動再生リストの構成が煩雑すぎる場合 
 - カスタムコンテンツパックは高度な機能であり、web コンテンツの管理が豊富なパートナーのみが使用します。 信頼できないコンテンツソースは、安全でないコンテンツをサイトに導入することがあります。 信頼できるソースのみを追加する必要があります。
 
-> **重要**カスタムコンテンツパックを追加する前に、Microsoft 365 learning パス3.0 以降をプロビジョニングしておく必要があります。 Microsoft 365 learning の経路をプロビジョニングする方法については、「 [microsoft 365 learning](https://docs.microsoft.com/en-us/office365/customlearning/custom_provision)の Informataion を準備する」を参照してください。
+> **重要** カスタムコンテンツパックを追加する前に、Microsoft 365 learning パス3.0 以降をプロビジョニングしておく必要があります。 Microsoft 365 learning の経路をプロビジョニングする方法については、「 [microsoft 365 learning](https://docs.microsoft.com/office365/customlearning/custom_provision)の Informataion を準備する」を参照してください。
 
 ### <a name="content-whitelisting"></a>コンテンツの空白省略可能
-パートナーとして、お客様の環境にコンテンツがホワイトリストされていることを確認するために、コンシューマーを支援する責任があります。 自分の環境でテストシナリオを作成して、コンテンツが iFrame としてファイアウォール内の SharePoint ページに含まれることを検証することをお勧めします。 [カスタム再生リストの](https://docs.microsoft.com/en-us/office365/customlearning/custom_createnewpage)手順については、「SharePoint ページの作成」の手順に従って、これが該当することを確認してください。
+パートナーとして、お客様の環境にコンテンツがホワイトリストされていることを確認するために、コンシューマーを支援する責任があります。 自分の環境でテストシナリオを作成して、コンテンツが iFrame としてファイアウォール内の SharePoint ページに含まれることを検証することをお勧めします。 [カスタム再生リストの](https://docs.microsoft.com/office365/customlearning/custom_createnewpage)手順については、「SharePoint ページの作成」の手順に従って、これが該当することを確認してください。
 
 ### <a name="add-a-content-pack-to-learning-pathways"></a>コンテンツパックをラーニング経路に追加する
 JSON を作成し、CDN を定義した後、連絡先パックをラーニングに追加することができます。 
 
-1. ラーニング経路サイトの**ホーム**ページで、[**ホーム**] をポイントし、[**ラーニングポイント管理**] をクリックします。 
+1. ラーニング経路サイトの **ホーム** ページで、[ **ホーム** ] をポイントし、[ **ラーニングポイント管理**] をクリックします。 
 2. **管理**ページで、[ **...] をクリックします。** ページの右上隅にコンテンツパックを追加します。
 3. [カスタムコンテンツパック] をクリックし、コンテンツパックの名前を入力して、JSON ファイルが配置されている CDN を指定します。
 
-![cg-part-addconpack](media/cg-part-addconpack.png)
+![cg-part-addconpack.png](media/cg-part-addconpack.png)
 
-4. **[保存]** をクリックします。 これで、カスタムコンテンツパックのコンテンツが [管理] ページに表示されるようになります。 次に例を示します。 
+4. [**保存**] をクリックします。 これで、カスタムコンテンツパックのコンテンツが [管理] ページに表示されるようになります。 次に例を示します。 
 
-![cg-part-addconpackex](media/cg-part-addconpackex.png)
+![cg-part-addconpackex.png](media/cg-part-addconpackex.png)
 
 ### <a name="filter-to-the-content-pack-in-the-web-part"></a>Web パーツのコンテンツパックにフィルターを適用する
 学習経路を使用すると、ラーニングポイント web パーツをページに追加し、カスタムコンテンツパックソースをポイントするように web パーツをフィルター処理して、web パーツを目的のカテゴリ、サブカテゴリ、再生リスト、およびアセットにフィルタすることができます。 
 
-1. [学習経路] サイトで、[**新規作成**]、[**ページ**] の順にクリックします。
-2. [**白紙**] をクリックし、[**ページの作成**] をクリックします。
+1. [学習経路] サイトで、[ **新規作成**]、[ **ページ**] の順にクリックします。
+2. [ **白紙**] をクリックし、[ **ページの作成**] をクリックします。
 3. ページに名前を付けます。 
-4. ページの左側にある [ **+ 新しいセクションの追加**] をクリックします。
-5. [ **+** 新規作成] セクションの [中央] をクリックし、[ **Microsoft 365 learning の経路**] web パーツを追加します。
-6. Web パーツをクリックし、[**編集**] アイコンをクリックします。
-7. [**学習ソースの選択**] ボックスで、カスタムコンテンツパックを選択し、必要なコンテンツに web パーツをフィルター処理します。 以下に、カスタムコンテンツパックから再生リストにフィルターを適用した Web パーツの例を示します。
+4. ページの左側にある [ **+ 新しいセクションの追加** ] をクリックします。
+5. [ **+** 新規作成] セクションの [中央] をクリックし、[ **Microsoft 365 learning の経路** ] web パーツを追加します。
+6. Web パーツをクリックし、[ **編集** ] アイコンをクリックします。
+7. [ **学習ソースの選択** ] ボックスで、カスタムコンテンツパックを選択し、必要なコンテンツに web パーツをフィルター処理します。 以下に、カスタムコンテンツパックから再生リストにフィルターを適用した Web パーツの例を示します。
 
-![cg-part-conpackfilter](media/cg-part-conpackfilter.png)  
+![cg-part-conpackfilter.png](media/cg-part-conpackfilter.png)  
 
 
 

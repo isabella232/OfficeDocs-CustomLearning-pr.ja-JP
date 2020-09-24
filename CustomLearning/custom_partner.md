@@ -1,15 +1,16 @@
 ---
 author: mikeholl
 ms.author: mikeholl
-title: パートナーによく寄せられる質問
+title: パートナーのよく寄せられる質問
 ms.date: 3/9/2019
 description: エンタープライズトレーニングサービスを提供する企業のパートナー製品と Microsoft 365 の学習経路との比較
-ms.openlocfilehash: 27a05012363e2ef4a75656dd2e66f7beda51bd2d
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.service: sharepoint online
+ms.openlocfilehash: 16eee021f7ba0da5628cc9412ac7cc9436c22b28
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34247802"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234149"
 ---
 # <a name="partner-frequently-asked-questions"></a>パートナーによく寄せられる質問
 
@@ -22,8 +23,8 @@ ms.locfileid: "34247802"
 ### <a name="can-i-supplement-the-microsoft-365-learning-pathways-content-feed-with-my-partner-provided-content"></a>Microsoft 365 learning の経路のコンテンツフィードにパートナー提供のコンテンツを補足することはできますか? 
 SharePoint Online プロビジョニングサービスから直接「box」にフィードを追加することはできませんが、アライメントされた付加価値サービスを作成するためにパートナーが活用できる統合モデルはいくつかあります。
 
-1. **お客様のために展開およびカスタマイズサービス**を提供します。パートナーは、お客様のためにソリューションのインストール、ブランド化、およびコンテンツのカスタマイズを実行できます。 パートナーは、作成した付加価値トレーニングコンテンツを参照するカスタマイズされたプレイリストを提供することもできます。 
-2. お**客様の代わりにカスタマイズ、rebranding、再パッケージ、および展開サービス**を使用して、顧客の要件ごとにサイトテンプレートとコンテンツ再生リストをカスタマイズできます。オープンソースの SharePoint パターンとプラクティスフレームワークに基づいて構築します。 
+1. **お客様のために展開およびカスタマイズサービス** を提供します。パートナーは、お客様のためにソリューションのインストール、ブランド化、およびコンテンツのカスタマイズを実行できます。 パートナーは、作成した付加価値トレーニングコンテンツを参照するカスタマイズされたプレイリストを提供することもできます。 
+2. **カスタマイズ、rebranding、再パッケージ、および展開サービスをお客様の代わりに** 使用することができます。パートナーは、顧客の要件に従ってサイトテンプレートとコンテンツの再生リストをカスタマイズできます。また、オープンソースの SharePoint パターンとプラクティスフレームワークを基盤にして、顧客の環境内でそれらを再パッケージ化して展開できます。 
 
 ### <a name="how-does-this-solution-affect-my-adoption-change-management-practice"></a>このソリューションは、どのようにして採用変更管理の実施方法に影響しますか? 
 トレーニングサービスは、より広範な導入と変更管理プラクティス空間の1つのコンポーネントです。 Microsoft 365 learning の方法ソリューションは、パートナーとお客様が Microsoft 提供のトレーニングコンテンツにアクセスしてカスタマイズできるようにするための特定のニーズを果たします。 Microsoft 365 の学習経路には、カスタムコース設計、講師主導設計、ゲーミフィケーション、ユーザー動作分析、詳細なコミュニケーションと契約の機能、またはライブサポートは含まれていません。 Microsoft は、お客様にこれらのサービスを提供するために、導入と変更の管理パートナーに依存しています。 

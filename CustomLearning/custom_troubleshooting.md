@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Microsoft 365 学習経路のトラブルシューティング
 ms.date: 02/10/2019
 description: Microsoft 365 学習経路のトラブルシューティング方法について説明します。
-ms.openlocfilehash: de46b9c754dac36de230b36ec4a5542518a1dcd5
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.service: sharepoint online
+ms.openlocfilehash: 8d8b418c7a4b2c025391eb4527af86b02738c532
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247682"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233869"
 ---
 # <a name="troubleshoot-microsoft-365-learning-pathways"></a>Microsoft 365 学習経路のトラブルシューティング
 
@@ -25,7 +26,7 @@ SharePoint Online プロビジョニングサービスにサインインし、�
 4.  自分の名前を検索する
 5.  [検索結果] で自分の名前をクリックします。 役割の全体管理者が表示します。
 
-![cg-globaladminrole](media/cg-globaladminrole.png)
+![cg-globaladminrole.png](media/cg-globaladminrole.png)
 
 ### <a name="if-you-dont-have-the-global-administrator-role"></a>グローバル管理者の役割を持っていない場合
 - 組織内のグローバル管理者を検索して、そのユーザーがサービスにサインインしたり、グローバル管理者の役割を割り当てたりするようにします。
@@ -36,28 +37,28 @@ SharePoint Online プロビジョニングサービスにサインインし、�
 ### <a name="how-to-know-if-you-have-a-tenant-app-catalog"></a>テナントアプリカタログがあるかどうかを確認する方法 
 手始めとして、全体管理者のアクセス許可があることを確認します。 前述のテナント管理者権限の手順を参照してください。
 
-1. Office 365 で、[**管理者**] をクリックし、[展開] 矢印 > をクリックして、[すべて > の**管理センター** > **SharePoint****を表示**] をクリックします。
-2. [**従来の管理者 SharePoint センター** > **アプリ** > の**アプリカタログ**] をクリックします。
-3. [**アプリ**] の下に、[ **SharePoint 用アプリの配布**] というタイトルのタイルが表示します。 タイルが表示されている場合は、テナントのアプリカタログがあります。 下記の「サイトの詳細を**確認する方法**」セクションを参照してください。 タイルが表示されない場合は、テナントのテナントアプリカタログを作成する必要があります。 「 **How to create a Tenant App Catalog** 」セクションを参照してください。
+1. Office 365 で、[**管理者**] をクリックし > [展開] の矢印をクリックし、[すべての**Show all**  >  **管理センター**  >  の**SharePoint**を表示] をクリックします。
+2. [**従来の管理者 SharePoint センター**  >  **アプリ**  >  の**アプリカタログ**] をクリックします。
+3. [ **アプリ**] の下に、[ **SharePoint 用アプリの配布**] というタイトルのタイルが表示します。 タイルが表示されている場合は、テナントのアプリカタログがあります。 下記の「サイトの詳細を **確認する方法** 」セクションを参照してください。 タイルが表示されない場合は、テナントのテナントアプリカタログを作成する必要があります。 「 **How to create a Tenant App Catalog** 」セクションを参照してください。
 
 ### <a name="how-to-ensure-you-are-a-site-collection-owner-on-the-tenant-app-catalog"></a>テナントアプリカタログのサイトコレクションの所有者であることを確認する方法 
 Microsoft 365 learning の経路をプロビジョニングするには、テナントのアプリカタログのサイトコレクションの所有者である必要があります。 所有者であるかどうかを判断する方法は次のとおりです。
 
-1. Office 365 で、[**管理者**] をクリックし、[展開] 矢印 > をクリックして、[すべて > の**管理センター** > **SharePoint****を表示**] をクリックします。
-2. [**従来の管理者 SharePoint センター**] をクリックし、**アプリカタログ**を選択します。
-3. [**所有者**] を選択し、サイトコレクションの所有者であることを確認します。 これは次のようなものになります。
+1. Office 365 で、[**管理者**] をクリックし > [展開] の矢印をクリックし、[すべての**Show all**  >  **管理センター**  >  の**SharePoint**を表示] をクリックします。
+2. [ **従来の管理者 SharePoint センター**] をクリックし、 **アプリカタログ**を選択します。
+3. [ **所有者**] を選択し、サイトコレクションの所有者であることを確認します。 これは次のようなものになります。
  
-![cg-sitecollectionowner](media/cg-sitecollectionowner.png)
+![cg-sitecollectionowner.png](media/cg-sitecollectionowner.png)
 
 ### <a name="how-to-create-a-tenant-app-catalog-if-one-doesnt-exists"></a>テナントのアプリカタログを作成する方法 (存在しない場合) 
 1. SharePoint Online 管理者アカウントを使用して、Office 365 にサインインします。
 2. **[管理者]** をクリックします。
-3. [**管理センター**] で、[ **SharePoint**] をクリックします。 
-4. [**アプリ** > **アプリカタログ**] をクリックします。
-5. [**新しいアプリカタログサイトを作成する**] をクリックし、[ **OK**] をクリックします。 
+3. [ **管理センター**] で、[ **SharePoint**] をクリックします。 
+4. [**アプリ**  >  **アプリカタログ**] をクリックします。
+5. [ **新しいアプリカタログサイトを作成する**] をクリックし、[ **OK**] をクリックします。 
 6.  アプリカタログの情報を入力します。 複数の管理者を含めることができます。 次に例を示します。  
 
-![cg-appcatalogfinish](media/cg-appcatalogfinish.png)
+![cg-appcatalogfinish.png](media/cg-appcatalogfinish.png)
 
 7.  これで完了です。 完了しました。 ただし、カスタム学習のプロビジョニングに移行する前に、アプリカタログの作成が完了したことを確認するために、少なくとも30分待機する必要があります。 
 

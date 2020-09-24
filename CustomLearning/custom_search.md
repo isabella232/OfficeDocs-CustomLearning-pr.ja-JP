@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: 検索
 ms.date: 02/10/2019
 description: Microsoft 365 ラーニングの経路を検索する
-ms.openlocfilehash: d6675e1df06a27813c4d83e1a95d29aa135596a2
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.service: sharepoint online
+ms.openlocfilehash: 7e6a623ed26caff97aff7d2e8fc913a64e1d88b2
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247708"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234029"
 ---
 # <a name="search-for-microsoft-365-learning-pathways-content"></a>Microsoft 365 learning の経路のコンテンツを検索する
 
@@ -20,5 +21,5 @@ Microsoft 365 の学習経路は、サブカテゴリ、再生リスト、また
 
 - **検索**アイコンをクリックして、検索語句を入力します。 
 
-![cg-search](media/cg-search.png)
+![cg-search.png](media/cg-search.png)
 

@@ -4,12 +4,13 @@ ms.author: karuanag
 title: プレイリストをカスタマイズして共有する
 ms.date: 02/10/2019
 description: 既存のコンテンツまたは新しい SharePoint ページからカスタム再生リストを作成する
-ms.openlocfilehash: d330b6e401c9020eb68877bc8a132350811a2f31
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.service: sharepoint online
+ms.openlocfilehash: 6258668b417ba496c7ac75e36ce2bc1f1dae27a5
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32056419"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233809"
 ---
 # <a name="customize-and-share-playlists"></a>プレイリストをカスタマイズして共有する
 
@@ -17,69 +18,69 @@ ms.locfileid: "32056419"
 
 再生リストは、"assets" の compliation です。 "アセット" は、SharePoint ページまたは Microsoft トレーニングコンテンツの既存のアイテムです。 再生リストを作成するときに、ユーザーに対して学習パスを作成するために一緒に使用するアセットを選択します。  
 
-sharepoint ページを追加する利点は、自分の組織でホストされている YouTube ビデオまたはビデオを使用して sharepoint ページを作成できることです。 フォームまたはその他の Office 365 コンテンツを含むページを作成することもできます。  
+SharePoint ページを追加する利点は、自分の組織でホストされている YouTube ビデオまたはビデオを使用して SharePoint ページを作成できることです。 フォームまたはその他の Office 365 コンテンツを含むページを作成することもできます。  
 
 #### <a name="step-1-create-a-sharepoint-page-for-your-playlist"></a>手順 1: プレイリストの SharePoint ページを作成する
 この例では、まず、プレイリストに追加する SharePoint ページを作成します。 YouTube のビデオ web パーツとテキスト web パーツを使用してページを作成します。  これらの手順では、SharePoint Online サービスを使用していることを前提としています。 
 
 #### <a name="create-a-new-page"></a>新しいページを作成する
-1.  [設定] メニューの [> site Contents > site Pages > New > site page] を選択します。
+1.  [設定] メニューを選択し > サイトコンテンツ > サイトページ > 新しい > サイトページにします。
 2.  タイトル領域で、「Teams コマンドボックスを使用する」と入力します。
 3.  [新しい項目の追加] を選択し、[2 列] を選択します。
 
 ![2列の追加](media/clo365addtwocolumn.png)
 
 4.  左側のボックスで、[新しい web パーツの追加] を選択し、[埋め込み] を選択します。 
-5.  Web ブラウザーでこの URL https://youtu.be/wYrRCRphrp0に移動し、ビデオの埋め込みコードを取得します。 
+5.  Web ブラウザーでこの URL に移動し、 https://youtu.be/wYrRCRphrp0 ビデオの埋め込みコードを取得します。 
 6.  SharePoint Web パーツで、[埋め込みコードの追加] を選択し、[埋め込み] ボックスに貼り付けます。 
 7.  右側のボックスで、[新しい web パーツの追加] を選択し、[テキスト] を選択します。 
-8.  Web ブラウザーで、次の URL に移動しhttps://support.office.com/en-us/article/13c4e429-7324-4886-b377-5dbed539193bて、Try! をコピーします。 ページの指示に従って、テキスト Web パーツに貼り付けます。 ページは次のようになります。 
+8.  Web ブラウザーで、次の URL に移動 https://support.office.com/article/13c4e429-7324-4886-b377-5dbed539193b して、Try! をコピーします。 ページの指示に従って、テキスト Web パーツに貼り付けます。 ページは次のようになります。 
 
 ![埋め込みページ](media/clo365teamscommandbox.png)
 
-9.  [**発行**] をクリックし、ページの URL をコピーしてメモ帳に貼り付けます。
+9.  [ **発行**] をクリックし、ページの URL をコピーしてメモ帳に貼り付けます。
 
 #### <a name="step-2-create-the-playlist"></a>手順 2: 再生リストを作成する
 
-1. サイトの操作でカスタムの [**ラーニング管理**] ページに移動します。
-![custom_admin](media/custom_admin.png)
+1. サイトの操作でカスタムの [ **ラーニング管理** ] ページに移動します。
+![custom_admin.png](media/custom_admin.png)
 1. **カテゴリ**が選択されていることを確認する 
 1. 新しいプレイリストが表示されるようにするカテゴリをクリックします。
-1. カテゴリ名の横にあるプラス記号![(custom_addplay) をクリックします。](media/custom_addplay.png)
+1. カテゴリ名の横にあるプラス記号 (+) をクリックし ![custom_addplay.png](media/custom_addplay.png)
 
-1. 次の例のように値を入力し、[**作成**] を選択します。 
-![custom_details](media/custom_details.png)
-- **タイトル**-再生リストの名前を表示します。
-- **説明**-学習される内容に関する情報
-- **カテゴリ**-最初の選択範囲に基づいて事前設定
-- **サブカテゴリ**-初期の選択に基づいて事前設定
-- **テクノロジ**-該当する場合に選択します。
-- **レベル**-初級、intermidate または Advanced
+1. 次の例のように値を入力し、[ **作成**] を選択します。 
+![custom_details.png](media/custom_details.png)
+- **タイトル** -再生リストの名前を表示します。
+- **説明** -学習される内容に関する情報
+- **カテゴリ** -最初の選択範囲に基づいて事前設定
+- **サブカテゴリ** -初期の選択に基づいて事前設定
+- **テクノロジ** -該当する場合に選択します。
+- **レベル** -初級、intermidate または Advanced
 - **対象ユーザー** -これにより、Microsoft によって提供される定義済みのロールのリストに基づいてコンテンツを対象とすることができます。
 
 6. [**詳細の保存**] をクリックします。
 
 > [!TIP]
 > 再生リストのアイコンイメージをカスタマイズできます。  イメージアイコンをクリックして、以前にアップロードしたイメージの URL を挿入します。  画像が、カスタム学習サイトコレクション内にあるか、またはすべてのユーザーがファイルにアクセスできる別の場所に配置されているかを確認します。  
-![custom_image](media/custom_image.png)
+![custom_image.png](media/custom_image.png)
 
 #### <a name="step-3-add-assets-to-the-playlist"></a>手順 3: 再生リストにアセットを追加する
 この手順では、Microsoft の既存のアセットと、プレイリストに作成した SharePoint ページを追加します。 
 
 1. 再生リストの詳細を保存すると、既存のアセットの検索を使用できるようになります。
-1. **任意の検索用語を入力**して、他の再生リストから利用できる定義済みのアセットの一覧を表示します。 アセットの**名前をクリックし**て、新しい再生リストに追加します。
-![custom_slist](media/custom_slist.png)
+1. **任意の検索用語を入力** して、他の再生リストから利用できる定義済みのアセットの一覧を表示します。 アセットの**名前をクリックし**て、新しい再生リストに追加します。
+![custom_slist.png](media/custom_slist.png)
 
 また、前の手順で作成した SharePoint ページを追加したり、表示で最初から作成したりすることもできます。
 
-1. [再生リストアセット] ダイアログボックスの [**新しいアセット**] オプションをクリックします。
-1. アセットに**タイトル**を付けます。 入力すると、追加のオプション![で custom_newpage が表示されます。](media/custom_newpage.png)
+1. [再生リストアセット] ダイアログボックスの [ **新しいアセット** ] オプションをクリックします。
+1. アセットに **タイトル**を付けます。 入力すると、追加のオプションcustom_newpage.png表示されます。 ![](media/custom_newpage.png)
 1. これで、SharePoint Online に新しいアセットページを作成したり、既存のページの URL を入力してカスタムプレイリストに追加したりできます。 
-1. **Category**、 **Sub category** 、および**ts**の各フィールドは、このプレイリストの以前の選択に基づいて事前に入力されます。
+1. **Category**、 **Sub Category** 、および **ts** の各フィールドは、このプレイリストの以前の選択に基づいて事前に入力されます。
 1. この各資産のレベルと対象ユーザーを適切に選択してください。  
-1. [**アセットの保存**] をクリックして、カスタムプレイリストに追加します。
+1. [ **アセットの保存** ] をクリックして、カスタムプレイリストに追加します。
 1. 再生リストが完成するまで、個々のページを検索または追加するには、これらの手順を繰り返します。 
-1. [**再生リストを閉じる**] をクリックして保存する
+1. [ **再生リストを閉じる** ] をクリックして保存する
 
 これで、このコンテンツを含むプレイリストは、カスタム学習 web パーツをインストールまたは埋め込まれた任意の場所で利用できるようになります。 
 
@@ -92,11 +93,11 @@ sharepoint ページを追加する利点は、自分の組織でホストされ
 
 ## <a name="share-playlists"></a>共有のプレイリスト
 
-1. webpart 内の任意のプレイリストまたはサイトの操作に移動する
+1. Webpart 内の任意のプレイリストまたはサイトの操作に移動する
 1. 左上隅に3つのアイコンが表示されます。
 1. リンクを表すアイコンをクリックします。
 1. URL を再生リストにコピーします。
 
-![[.png](media/share.png) ] この URL は、サイトのナビゲーションに挿入したり、他の通信で使用したりして、従業員をその再生リストに直接移動することができるようになります。 
+![share.png](media/share.png) この URL をサイトナビゲーションに挿入したり、他の通信で使用したりして、従業員をその再生リストに直接移動することができるようになります。 
 
-### <a name="next-steps---drive-adoptiondriveadoptionmd"></a>次の手順-[ドライブの採用](driveadoption.md)
+### <a name="next-steps---drive-adoption"></a>次の手順- [ドライブの採用](driveadoption.md)

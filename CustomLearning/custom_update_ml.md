@@ -5,12 +5,13 @@ title: 多言語サポートのための学習経路を更新する
 ms.date: 05/20/2019
 description: 多言語サポートのための学習経路を更新する
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 917b1cea9144349dd40ed93f05cb0f850828fd28
-ms.sourcegitcommit: 519a52618ce8dd2f800dc55897526e4541dddb50
+ms.service: sharepoint online
+ms.openlocfilehash: 32870a21dfc1e012f140ffdbd33d69bd0f149880
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "46874978"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233829"
 ---
 # <a name="update-learning-pathways-for-multilingual-support"></a>多言語サポートのための学習経路を更新する
 既存のラーニングパスサイトがある場合は、多言語サポートのために更新できます。 マルチリンガル4.0 バージョンへの学習経路を更新するには、web パーツパッケージ customlearning を SharePoint テナントアプリカタログにアップロードします。 学習経路を更新すると、次のようになります。  
@@ -49,7 +50,7 @@ ms.locfileid: "46874978"
 
 ### <a name="upload-the-web-part-package"></a>Web パーツパッケージをアップロードする
 1.  [GitHub カスタム学習リポジトリ](https://github.com/pnp/custom-learning-office-365/tree/master/webpart)に移動し、[ **customlearning] sppkg**を選択して、それを PC のローカルドライブにダウンロードします。 
-2.  まだサインインしていない場合は、テナント管理者アカウントまたはサイトコレクション管理者アカウントを使用して、テナントにサインインします。 
+2.  まだサインインしていない場合は、テナント管理者またはサイト コレクション管理者アカウントを使用して、テナントにサインインします。 
 3.  [**管理**] [  >  すべての SharePoint の機能**を表示] を**クリックし  >  **SharePoint**  >  **More Features**ます。 
 4.  [ **アプリ**] の下にある [ **開く**] をクリックします。 
 5.  [**アプリカタログ**  >  **の SharePoint 用アプリの配布**] をクリックします。 
@@ -60,7 +61,7 @@ ms.locfileid: "46874978"
 1.  [ラーニングの経路] サイトで、[**ホーム**] メニューから [**ラーニングパス管理**] を選択します。 
 2.  更新するかどうかを確認するメッセージが表示されます。 
 ![custom_update_adminprompt_ml.png](media/custom_update_adminprompt_ml.png)
-3.  **[開始]** をクリックします。 
+3.  [**スタート**] をクリックします。 
 4. 更新が完了したら、[ **閉じる**] をクリックします。 
 
 ### <a name="next-steps"></a>次の手順

@@ -1,11 +1,17 @@
 ---
-title: ''
-ms.openlocfilehash: 3b244c3598d8abe940350297e2cfb15738bfa23e
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
-ms.translationtype: HT
+title: Office 365 での有効期限 (Commute
+description: Office 365 を使用して、すぐに準備するためのクイック手順
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: 3224874ac3a9f4a7ce8bde213d11243a4eba184b
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32056067"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233669"
 ---
 # <a name="during-your-commute"></a>通勤時
 
@@ -33,7 +39,7 @@ Microsoft Teams の通話中で、すぐ出発しなければならない場合�
 Microsoft Teams のモバイル アプリを使用すると、イベントの予定表を表示できます。  Microsoft Teams で会議が予定されている場合は、モバイル アプリに [参加] ボタンが表示されます。 会議には、モバイル ネットワークを使用して接続されます。  ミュート、スピーカー、チャットなどの標準機能は機能します。  コンテンツの表示は、接続によっては無効になる場合があります。 Teams の連絡先リストからユーザーを見つけて、そのユーザーと直接 1 対 1 通話をすることもできます。 
 
 ## <a name="connect-to-office-365-from-your-mobile-device"></a>モバイル デバイスから Office 365 に接続する
-[Office 365 アプリ](https://support.office.com/en-us/article/set-up-office-apps-and-email-on-a-mobile-device-7dabb6cb-0046-40b6-81fe-767e0b1f014f?ui=en-US&rs=en-US&ad=US)はすべての主要なプラットフォームで利用でき、このアプリを使用することにより、SharePoint Online サイトや OneDrive for Business に置かれているすべてのファイルにアクセスできます。 組織で 2 要素認証を使用している場合は、電話か認証アプリで認証することが必要になる場合があります。これは、事前に設定する必要があります。  
+[Office 365 アプリ](https://support.office.com/article/set-up-office-apps-and-email-on-a-mobile-device-7dabb6cb-0046-40b6-81fe-767e0b1f014f?ui=en-US&rs=en-US&ad=US)はすべての主要なプラットフォームで利用でき、このアプリを使用することにより、SharePoint Online サイトや OneDrive for Business に置かれているすべてのファイルにアクセスできます。 組織で 2 要素認証を使用している場合は、電話か認証アプリで認証することが必要になる場合があります。これは、事前に設定する必要があります。  
 
 > [!NOTE]
 > 電話でオンライン機能を使用する場合、モバイル ネットワークを使用すると料金が発生する可能性があることにご注意ください。 ベスト エクスペリエンスを実現しつつ、余分の費用が発生しないようにするため、可能であればいつでも Wi-Fi を使用することをお勧めします。

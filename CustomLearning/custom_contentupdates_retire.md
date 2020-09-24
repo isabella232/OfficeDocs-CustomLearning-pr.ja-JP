@@ -4,15 +4,16 @@ ms.author: pkrebs
 title: 2019年11月のコンテンツ更新プログラム
 ms.date: 10/20/2019
 description: Microsoft 365 learning ・経路のコンテンツ更新
-ms.openlocfilehash: dbe5d6dd1e007bbef029b4d40136d83032ff5461
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
+ms.service: sharepoint online
+ms.openlocfilehash: 3634d0051c3eb71749d3a0111c83421bedada7aa
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43142201"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234709"
 ---
 # <a name="november-2019-content-updates"></a>2019年11月のコンテンツ更新プログラム
-Microsoft 365 learning ・経路のコンテンツ更新にようこそ。 2019年11月の更新プログラムから、四半期ごとに学習経路カタログの更新されたインベントリを提供します。 2019年11月の更新プログラムでは、次のような新しいコンテンツのサブカテゴリと再生リストが、ラーニングパスカタログに追加されました。 コンテンツの更新の適用方法、およびコンテンツの更新を管理する方法の詳細については、「[コンテンツの更新を管理](custom_contentupdatesmanage.md)する」を参照してください。    
+Microsoft 365 learning ・経路のコンテンツ更新にようこそ。 2019年11月の更新プログラムから、四半期ごとに学習経路カタログの更新されたインベントリを提供します。 2019年11月の更新プログラムでは、次のような新しいコンテンツのサブカテゴリと再生リストが、ラーニングパスカタログに追加されました。 コンテンツの更新の適用方法、およびコンテンツの更新を管理する方法の詳細については、「 [コンテンツの更新を管理](custom_contentupdatesmanage.md)する」を参照してください。    
 
 ## <a name="teams"></a>Teams
 Teams サブカテゴリに、いくつかの新しいプレイリストが追加されました。

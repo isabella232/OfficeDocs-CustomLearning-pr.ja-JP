@@ -5,12 +5,13 @@ author: karuanag
 ms.author: karuanag
 ms.date: 10/30/2019
 ms.topic: getting-started
-ms.openlocfilehash: b07a7771c92ec69390e078f60e2e86ae04450cae
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: d19b3f25455e07efd8325899e0adb2f0a0c4adc2
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956644"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233569"
 ---
 # <a name="drive-adoption-of-your-learning-pathways-portal"></a>学習経路ポータルの導入を促進する
 Microsoft 365 の学習経路をカスタマイズして、最初の学習キャンペーンをまとめると、ユーザーが Microsoft 365 の学習経路に戻って、継続的な学習と変換を行う方法を考えることができます。 Microsoft が提供するガイダンス、導入キット、ベストプラクティスを使用して、microsoft 365 の学習経路を正常に導入するキャンペーンを実施することができます。これには、ガイダンス、ベストプラクティス、導入キットが用意されています。 
@@ -32,7 +33,7 @@ Microsoft 365 の学習経路をカスタマイズして、最初の学習キャ
 - Yammer を使用して組織を接続する
 
 ## <a name="use-the-downloadable-adoption-kit"></a>ダウンロード可能な導入キットを使用する
-Microsoft 365 learning 手段コミュニケーションキャンペーンの実行を支援するには、ダウンロード可能な[導入キット](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip)を使用します。 次の内容が含まれます。 
+Microsoft 365 learning 手段コミュニケーションキャンペーンの実行を支援するには、ダウンロード可能な [導入キット](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip)を使用します。 次の内容が含まれます。 
 
 - Microsoft 365 学習経路推奨されるコミュニケーションキャンペーンカレンダーを使用して、キャンペーンの計画に役立てる
 - この5つの Microsoft 365 シナリオのそれぞれについて、エンドユーザーの起動とヒントの電子メールテンプレートを使用します。    
@@ -70,12 +71,12 @@ Microsoft 365 learning 手段コミュニケーションキャンペーンの実
 1.  組織内で Microsoft 365 learning の経路を展開するための導入計画を作成します。
 2.  カスタマイズされたバージョンの Microsoft 365 ラーニング経路をエンドユーザーの代表的なグループと共に試験し、導入計画を予行で実行します。 パイロットからのフィードバックに基づいて、最終的な導入計画を繰り返します。
 3.  導入キャンペーンを一定期間継続して実行します。 
-4.  運転促進コミュニティに参加します。 導入コミュニティオンラインで、Microsoft 365 learning の経路を使用して、経験を共有します。 「」 https://aka.ms/DriveAdoptionを参照してください。 
+4.  運転促進コミュニティに参加します。 導入コミュニティオンラインで、Microsoft 365 learning の経路を使用して、経験を共有します。 「」 https://aka.ms/DriveAdoption を参照してください。 
 
 ## <a name="join-the-driving-adoption-community"></a>運転促進コミュニティに参加する
 
-導入コミュニティオンラインで、Microsoft 365 learning の経路を使用して、経験を共有します。  「」 https://aka.ms/DriveAdoptionを参照してください。
+導入コミュニティオンラインで、Microsoft 365 learning の経路を使用して、経験を共有します。  「」 https://aka.ms/DriveAdoption を参照してください。
 
 ## <a name="give-us-feedback"></a>フィードバックをお寄せください
 
-カスタム学習ポータルには、新しい機能やコンテンツの要求がありますか。  既存の提案に投票したり、独自の提案を追加したりできるオンラインの UserVoice にアクセスしてください。  の UserVoice インスタンスhttps://aka.ms/AdoptionToolsを検索します。
+カスタム学習ポータルには、新しい機能やコンテンツの要求がありますか。  既存の提案に投票したり、独自の提案を追加したりできるオンラインの UserVoice にアクセスしてください。  の UserVoice インスタンスを検索 https://aka.ms/AdoptionTools します。

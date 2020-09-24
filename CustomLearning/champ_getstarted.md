@@ -1,11 +1,17 @@
 ---
-タイトル: ''
-ms.openlocfilehash: 0d5e92e85c686a97f0df10fbef222491ec317c60
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+title: 精鋭プログラムのベストプラクティス
+description: 精鋭プログラムのベストプラクティスによる Office 365 の導入を促進する
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: e60a9a1a392789f864aecd71804bbba174098d9a
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055394"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233459"
 ---
 # <a name="establish-champions-for-user-adoption"></a>ユーザーが採用するためのエキスパートを確立する 
 
@@ -40,6 +46,6 @@ ms.locfileid: "32055394"
 
 1. 改善された作業方法の導入を拡大する groundswell a enthusiasm を作成する
 1. チーム間での影響をサークルに組み込む
-1. teams 間での共同作業の新しい方法を実現する
+1. Teams 間での共同作業の新しい方法を実現する
 1. ビジネス上の課題と考えられる解決策を特定する
 1. プロジェクトチームとスポンサーにフィードバックを提供する
