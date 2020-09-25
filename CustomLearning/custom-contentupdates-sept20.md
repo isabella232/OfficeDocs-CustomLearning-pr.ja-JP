@@ -4,15 +4,15 @@ ms.author: pkrebs
 title: ラーニング・経路 (2020 年9月のコンテンツ更新プログラム)
 ms.date: 9/21/2020
 description: ラーニング・経路 (2020 年9月のコンテンツ更新プログラム)
-ms.service: sharepoint online
-ms.openlocfilehash: d8f651515d22568f4ad0701d28f4c10a1104628a
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: 34f02a5edd691590d96058312213bc85083b2d56
+ms.sourcegitcommit: 769aad80e9bb63304550e416d438e809a7d78ab3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234797"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48268509"
 ---
-# <a name="september-2020-content-updates"></a>2020年9月のコンテンツ更新プログラム
+# <a name="learning-pathways-september-2020-content-updates"></a>ラーニング・経路 (2020 年9月のコンテンツ更新プログラム)
 学習経路は、四半期ごとのコンテンツ更新サイクルを遵守することに努力しています。 コンテンツの更新の適用方法、およびコンテンツの更新を管理する方法の詳細については、「 [コンテンツの更新を管理](custom_contentupdatesmanage.md)する」を参照してください。 次に示すのは、2020年9月の Microsoft 365 learning 経路のコンテンツ更新プログラムの一覧です。 
 
 ## <a name="security"></a>セキュリティ

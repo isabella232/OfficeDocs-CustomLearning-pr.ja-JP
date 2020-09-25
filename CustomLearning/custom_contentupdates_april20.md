@@ -1,18 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 経路のコンテンツの更新を学習する
+title: 学習経路のコンテンツ更新プログラム4月
 ms.date: 3/30/2020
 description: ラーニング・経路4月2020コンテンツの更新
 ms.service: sharepoint online
-ms.openlocfilehash: 9a53c095b7fa2de1aa0628475b684048b07bd8f9
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: fa49140e731318ab07a9442cea40b0e3878eec12
+ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234805"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261679"
 ---
-# <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 学習経路のコンテンツの更新
+# <a name="microsoft-365-learning-pathways-content-updates-for-april"></a>4月の Microsoft 365 学習経路のコンテンツの更新
 学習経路は、四半期ごとのコンテンツ更新サイクルを遵守することに努力しています。 以下に、2020年4月のコンテンツ更新プログラムの一覧を示します。
 
 ## <a name="april-2020-content-updates"></a>2020年4月のコンテンツの更新
@@ -29,7 +29,7 @@ Office 365 は、Microsoft 365 に再ブランディングされています。 
 #### <a name="work-remotely-2-new-playlists11-new-assets"></a>リモートで作業する (2 つの新しい再生リスト/11 の新しいアセット)
 リモート作業サブカテゴリが、次のプレイリストとアセットを機能するラーニング経路に追加されました。 
 
-![cg-contentupdate-apr2020-01.png](media/cg-contentupdate-apr2020-01.png)
+![リモート再生リスト機能の学習](media/cg-contentupdate-apr2020-01.png)
 
 ##### <a name="work-remotely-5-new-assets"></a>リモートで作業する (5 つの新しいアセット)
 - Office 365 を使用してリモートで作業する
@@ -38,7 +38,7 @@ Office 365 は、Microsoft 365 に再ブランディングされています。 
 - 作業ファイルを保存する
 - 高度な代替手段
 ##### <a name="best-practices-for-collaborating-with-office-365-6-new-assets"></a>Office 365 との共同作業のベストプラクティス (新しいアセット6個)
-- 概要
+- 作業の開始
 - 共有
 - 共同作成者
 - ファイル内のチャット
@@ -72,7 +72,7 @@ Teams コンテンツにさまざまな更新が行われました。
 ### <a name="office-for-the-web"></a>Webアプリ上の Office
 Web 用 office は、ユーザーが web 上で Office を作成、共有、および共同作業するシナリオの一連のプレイリストを提供します。 この一連のコンテンツは、Google G スイートから Microsoft 365 への切り替えを行う組織にとっても重要です。
 #### <a name="get-started-5-new-assets"></a>はじめに (5 つの新しいアセット)
-- 概要
+- 作業の開始
 - 検索を使用して検索する
 - 新しいドキュメントを作成する
 - 作業に戻る

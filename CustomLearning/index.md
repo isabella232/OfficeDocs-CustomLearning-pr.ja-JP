@@ -2,23 +2,21 @@
 author: pkrebs
 ms.author: pkrebs
 title: Microsoft 365 学習経路の概要
-ms.date: 7/6/2020
+ms.date: 9/24/2020
 description: Microsoft 365 learning の経路を使用して、組織内の Microsoft 365 サービスの使用を促進する方法について説明します。 ラーニング経路には、カスタム SharePoint Online web パーツと、Microsoft 365 テナントに簡単にプロビジョニングできる最新の SharePoint Online コミュニケーショントレーニングサイトが含まれています。
 ms.service: sharepoint online
-ms.openlocfilehash: c2448fae5e01dc673f41b5fa0d7076528d9a75c5
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: 4a4e7f8bfcb6cf8288605154a4d71fde2db024f8
+ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233489"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261659"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 学習経路 
 Microsoft 365 learning の経路は、組織内の Microsoft 365 サービスの使用と導入を促進するように設計された、カスタマイズ可能なオンデマンド学習ソリューションです。    
 
 > [!IMPORTANT]
-> お客様のフィードバックへの対応として、ラーニング経路で9つの言語の多言語サポートが提供されるようになりました。 ラーニング経路の多言語サポートを有効にする方法の詳細と手順については、以下のトピックを参照してください。 
->- [学習経路の多言語サポートの概要](custom_overview_ml.md) 
->- [学習経路の設定オプション](custom_setupoptions.md)  
+> 学習経路は、四半期ごとのコンテンツ更新サイクルを遵守することに努力しています。 9/24/2020 年9月のコンテンツ更新のラーニング・経路の内容を更新しました。 9月2020のコンテンツ更新プログラムの詳細については、「 [コンテンツの更新](custom_contentupdates.md)」を参照してください。 コンテンツの更新を適用する方法とコンテンツを管理する方法については、「 [コンテンツの更新を管理](custom_contentupdatesmanage.md)する」を参照してください。  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Microsoft からのオンデマンドのカスタムトレーニング
 
@@ -34,7 +32,7 @@ Microsoft 365 学習経路の提供:
 ## <a name="sharepoint-look-book-service"></a>SharePoint look book サービス
 学習経路は、SharePoint の look book サービスからプロビジョニングできます。 Microsoft 365 の学習経路がプロビジョニングされている場合、組織はすぐに使用できるトレーニングポータルとして設計された SharePoint Online コミュニケーションサイトを入手できます。また、トレーニングコンテンツのオンラインカタログに接続された学習経路の Web パーツもあります。 
 
-![cg-provision.png](media/cg-provision.png)
+![SharePoint look book の準備ページ](media/cg-provision.png)
 
 ## <a name="4-easy-steps"></a>簡単な4つの手順
 環境に適した学習経路の作成を開始しましょう。
