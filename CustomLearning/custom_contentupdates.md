@@ -4,19 +4,22 @@ ms.author: pkrebs
 title: 経路のコンテンツの更新を学習する
 ms.date: 3/30/2020
 description: 経路のコンテンツの更新を学習する
-ms.service: sharepoint online
-ms.openlocfilehash: 84565d0d65c4667cf0837634fde67fc0d5c96d40
-ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
+ms.service: o365-solutions
+ms.openlocfilehash: 6610eecf67f36b130aaf45e227f5aa85d20f44d8
+ms.sourcegitcommit: 60554c63c0dd833b27e11b0b28c08aee69d16e26
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261695"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "48336405"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 学習経路のコンテンツの更新
 学習経路は、四半期ごとのコンテンツ更新サイクルを遵守することに努力しています。 以下に、2020年9月のコンテンツ更新プログラムの一覧を示します。
 
 ## <a name="september-2020-content-updates"></a>2020年9月のコンテンツ更新プログラム
 学習経路は、四半期ごとのコンテンツ更新サイクルを遵守することに努力しています。 コンテンツの更新の適用方法、およびコンテンツの更新を管理する方法の詳細については、「 [コンテンツの更新を管理](custom_contentupdatesmanage.md)する」を参照してください。 
+
+> [!IMPORTANT]
+> 9月のコンテンツ更新プログラムが英語版リリースされました。 中国語 (簡体字)、フランス語、ドイツ語、イタリア語、日本語、ポルトガル語 (ブラジル)、ロシア語、スペイン語のコンテンツ更新プログラムは近日中に公開されます。  
 
 ### <a name="security"></a>セキュリティ
 新しいセキュリティサブカテゴリが、ユーザーが office および自宅でより安全に作業できるように、再生リストとアセットと共に追加されました。 
