@@ -5,12 +5,12 @@ title: 経路のコンテンツの更新を学習する
 ms.date: 3/30/2020
 description: 経路のコンテンツの更新を学習する
 ms.service: o365-solutions
-ms.openlocfilehash: 6610eecf67f36b130aaf45e227f5aa85d20f44d8
-ms.sourcegitcommit: 60554c63c0dd833b27e11b0b28c08aee69d16e26
+ms.openlocfilehash: 5111cb5a61f369be93adeae0198b52f53a267150
+ms.sourcegitcommit: 6a496a594cfbbeb9a53630cad0fce003c8b02501
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "48336405"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "48361097"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 学習経路のコンテンツの更新
 学習経路は、四半期ごとのコンテンツ更新サイクルを遵守することに努力しています。 以下に、2020年9月のコンテンツ更新プログラムの一覧を示します。
@@ -19,7 +19,7 @@ ms.locfileid: "48336405"
 学習経路は、四半期ごとのコンテンツ更新サイクルを遵守することに努力しています。 コンテンツの更新の適用方法、およびコンテンツの更新を管理する方法の詳細については、「 [コンテンツの更新を管理](custom_contentupdatesmanage.md)する」を参照してください。 
 
 > [!IMPORTANT]
-> 9月のコンテンツ更新プログラムが英語版リリースされました。 中国語 (簡体字)、フランス語、ドイツ語、イタリア語、日本語、ポルトガル語 (ブラジル)、ロシア語、スペイン語のコンテンツ更新プログラムは近日中に公開されます。  
+> 9月のコンテンツ更新プログラムは、英語、中国語 (簡体字)、フランス語、ドイツ語、イタリア語、日本語、ポルトガル語 (ブラジル)、ロシア語、スペイン語用にリリースされています。  
 
 ### <a name="security"></a>セキュリティ
 新しいセキュリティサブカテゴリが、ユーザーが office および自宅でより安全に作業できるように、再生リストとアセットと共に追加されました。 
@@ -168,7 +168,7 @@ Office 365 は、Microsoft 365 に再ブランディングされています。 
 - 作業ファイルを保存する
 - 高度な代替手段
 ##### <a name="best-practices-for-collaborating-with-office-365-6-new-assets"></a>Office 365 との共同作業のベストプラクティス (新しいアセット6個)
-- 作業の開始
+- 概要
 - 共有
 - 共同作成者
 - ファイル内のチャット
@@ -202,7 +202,7 @@ Teams コンテンツにさまざまな更新が行われました。
 ### <a name="office-for-the-web"></a>Webアプリ上の Office
 Web 用 office は、ユーザーが web 上で Office を作成、共有、および共同作業するシナリオの一連のプレイリストを提供します。 この一連のコンテンツは、Google G スイートから Microsoft 365 への切り替えを行う組織にとっても重要です。
 #### <a name="get-started-5-new-assets"></a>はじめに (5 つの新しいアセット)
-- 作業の開始
+- 概要
 - 検索を使用して検索する
 - 新しいドキュメントを作成する
 - 作業に戻る
