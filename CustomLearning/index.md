@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: Microsoft 365 学習経路の概要
 ms.date: 9/24/2020
 description: Microsoft 365 learning の経路を使用して、組織内の Microsoft 365 サービスの使用を促進する方法について説明します。 ラーニング経路には、カスタム SharePoint Online web パーツと、Microsoft 365 テナントに簡単にプロビジョニングできる最新の SharePoint Online コミュニケーショントレーニングサイトが含まれています。
-ms.service: sharepoint online
-ms.openlocfilehash: 4a4e7f8bfcb6cf8288605154a4d71fde2db024f8
-ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
+ms.service: o365-solutions
+ms.openlocfilehash: 8589b205ead505229ff8416b862c851c766b444f
+ms.sourcegitcommit: 896b2635713967987bb705c861e11b5568fd72ca
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261659"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "49614625"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 学習経路 
 Microsoft 365 learning の経路は、組織内の Microsoft 365 サービスの使用と導入を促進するように設計された、カスタマイズ可能なオンデマンド学習ソリューションです。    
@@ -23,9 +23,9 @@ Microsoft 365 learning の経路は、組織内の Microsoft 365 サービスの
 Microsoft 365 学習経路の提供:
 
 - **完全にカスタマイズ可能な SharePoint Online コミュニケーションサイト** -ラーニングパストレーニングポータルをカスタマイズして、組織のヘルプ、サポート、およびコミュニティコンテンツを追加することができます。
-- 簡単**なプロビジョニング機能**を備えた SharePoint Online プロビジョニングサービスから提供される学習経路
+- 簡単 **なプロビジョニング機能** を備えた SharePoint Online プロビジョニングサービスから提供される学習経路
 - **独自のトレーニングプレイリストを作成** できます。学習経路を使用すると、対象となるトレーニングプレイリストを作成して、お客様の環境に固有のニーズを満たすことができます。
-- 最新の**コンテンツ**学習経路は、Microsoft online コンテンツカタログを通じてコンテンツを提供するため、サイトのコンテンツは定期的に更新されます。
+- 最新の **コンテンツ** 学習経路は、Microsoft online コンテンツカタログを通じてコンテンツを提供するため、サイトのコンテンツは定期的に更新されます。
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE42hMy]
 

@@ -5,12 +5,12 @@ title: 経路のコンテンツの更新を学習する
 ms.date: 3/30/2020
 description: 経路のコンテンツの更新を学習する
 ms.service: o365-solutions
-ms.openlocfilehash: 5111cb5a61f369be93adeae0198b52f53a267150
-ms.sourcegitcommit: 6a496a594cfbbeb9a53630cad0fce003c8b02501
+ms.openlocfilehash: a292e0daa81b384bad8cf45fd2a9e0a1dc3257e7
+ms.sourcegitcommit: 896b2635713967987bb705c861e11b5568fd72ca
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48361097"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "49614635"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 学習経路のコンテンツの更新
 学習経路は、四半期ごとのコンテンツ更新サイクルを遵守することに努力しています。 以下に、2020年9月のコンテンツ更新プログラムの一覧を示します。
@@ -36,7 +36,7 @@ ms.locfileid: "48361097"
 #### <a name="security-at-home-playlist"></a>"ホームのセキュリティ" 再生リスト
 - データを安全に保つためのヒント
 - 自宅でコンピューターを安全に保つ
-- Windows セキュリティを使用して家族を保護するには、ここで偶然になります。
+- Windows セキュリティでファミリー online を保護する   
 
 #### <a name="security-at-work-playlist"></a>"職場でのセキュリティ" 再生リスト
 - 作業時にコンピューターのセキュリティを確保する
@@ -146,7 +146,7 @@ ms.locfileid: "48361097"
 すべての Office 製品の Office クイックスタートガイドが更新されました。 
 
 ## <a name="april-2020-content-updates"></a>2020年4月のコンテンツの更新
- 現在のイベントへの対応として、2020年4月のコンテンツ更新プログラムは、組織内でリモート作業を有効にするために設計された学習のプレイリストとリソースを提供します。 新しい作業のセットがリモート再生リストに追加され、Microsoft Teams のコンテンツが大幅に更新されました。特に Teams 会議において、web 再生リスト用の新しい Office セットが追加され、新しい Microsoft Forms アセットが追加されています。 更新の一環として、管理者向けのリモート作業リソースの一覧も提供しました。  
+ 現在のイベントへの対応として、2020年4月のコンテンツ更新プログラムは、組織内でリモート作業を有効にするために設計された学習のプレイリストとリソースを提供します。 新しい作業のセットをリモート再生リストに追加し、特に Teams 会議で Microsoft Teams のコンテンツを更新しました。 また、web 再生リスト用の新しい Office セットを追加し、新しい Microsoft Forms アセットを追加しました。 また、管理者向けのリモート作業リソースの一覧も提供しています。  
  
  コンテンツの更新の適用方法、およびコンテンツの更新を管理する方法の詳細については、「 [コンテンツの更新を管理](custom_contentupdatesmanage.md)する」を参照してください。 以下に、2020年4月の Microsoft 365 learning パスのコンテンツ更新プログラムを示します。 
 
@@ -161,34 +161,34 @@ Office 365 は、Microsoft 365 に再ブランディングされています。 
 
 ![学習経路ワークのリモートプレイリスト](media/cg-contentupdate-apr2020-01.png)
 
-##### <a name="work-remotely-5-new-assets"></a>リモートで作業する (5 つの新しいアセット)
+##### <a name="work-remotely-five-new-assets"></a>リモートで作業する (5 つの新しいアセット)
 - Office 365 を使用してリモートで作業する
 - Office.com で使用を開始する
 - コミュニケーションまたは会合
 - 作業ファイルを保存する
 - 高度な代替手段
 ##### <a name="best-practices-for-collaborating-with-office-365-6-new-assets"></a>Office 365 との共同作業のベストプラクティス (新しいアセット6個)
-- 概要
+- 作業の開始
 - 共有
 - 共同作成者
 - ファイル内のチャット
 - 満たせ
 - Mobile
 
-### <a name="teams-9-new-assets6-updated-assets"></a>Teams (新規アセット9個/6 更新済みアセット)
+### <a name="teams-nine-new-assetssix-updated-assets"></a>Teams (9 つの新しいアセット/6 つの更新されたアセット)
 Teams コンテンツにさまざまな更新が行われました。 
-#### <a name="collaborate-in-teams-and-channels-1-new1-updated-asset"></a>Teams およびチャネルでの共同作業 (1 つの新規/1 件の更新された資産)
+#### <a name="collaborate-in-teams-and-channels-one-newone-updated-asset"></a>Teams およびチャネルでの共同作業 (新規/1 つの更新された資産)
 - プライベートチャネルを作成して使用する (新)
 - チャネルを表示または非表示にする (更新)
-#### <a name="start-chats-and-calls-2-new1-updated"></a>チャットと通話を開始する (2 つの新しい/1 が更新された場合)
+#### <a name="start-chats-and-calls-two-newone-updated"></a>チャットと通話の開始 (2 つの新規/1 つの更新)
 - スタートおよびピン留めチャット (新)
 - チャットの非表示、メッセージの削除 (新規)
 - 通話の作成 (更新)
-#### <a name="explore-apps-and-tools-1-new"></a>アプリとツールを参照する (1 つの新)
+#### <a name="explore-apps-and-tools-one-new"></a>アプリとツールを調べる (新規)
 - アプリを使用する (新)
 #### <a name="work-with-posts-and-messages"></a>投稿とメッセージを操作する
 - 複数のチャネルへのメッセージの投稿 (新)
-#### <a name="manage-meetings-3-new4-updated-assets"></a>会議の管理 (3 つの新規または4つの更新された資産)
+#### <a name="manage-meetings-three-newfour-updated-assets"></a>会議を管理する (3 つの新規または4つの更新されたアセット)
 - Teams 会議に参加する (新)
 - 即時会議を使用した即時会議の作成 (更新)
 - チャネル内での会議 (新機能)
@@ -196,13 +196,13 @@ Teams コンテンツにさまざまな更新が行われました。
 - 会議中に画面を表示する (更新)
 - PowerPoint スライドを表示する (更新)
 - Teams 会議中に移動する (更新された)
-#### <a name="work-with-post-and-messages-1-new"></a>投稿とメッセージを操作する (1 件の新規)
+#### <a name="work-with-post-and-messages-one-new"></a>投稿とメッセージを操作する (新規)
 - 複数のチャネルへのメッセージの投稿 (新)
 
 ### <a name="office-for-the-web"></a>Webアプリ上の Office
 Web 用 office は、ユーザーが web 上で Office を作成、共有、および共同作業するシナリオの一連のプレイリストを提供します。 この一連のコンテンツは、Google G スイートから Microsoft 365 への切り替えを行う組織にとっても重要です。
-#### <a name="get-started-5-new-assets"></a>はじめに (5 つの新しいアセット)
-- 概要
+#### <a name="get-started-five-new-assets"></a>はじめに (5 つの新しいアセット)
+- 作業の開始
 - 検索を使用して検索する
 - 新しいドキュメントを作成する
 - 作業に戻る
@@ -244,7 +244,7 @@ Web 用 office は、ユーザーが web 上で Office を作成、共有、お�
 
 ### <a name="microsoft-forms"></a>Microsoft Forms 
 要求により、いくつかの新しいフォームアセットもあります。 
-#### <a name="forms-4-new-assets"></a>フォーム (新しいアセット4個) 
+#### <a name="forms-four-new-assets"></a>フォーム (4 つの新しいアセット) 
 - フォームを作成する 
 - フォームを共有する 
 - フォームの結果を表示する 
@@ -267,27 +267,26 @@ Web 用 office は、ユーザーが web 上で Office を作成、共有、お�
 Microsoft 365 learning ・経路のコンテンツ更新にようこそ。 2019年11月の更新プログラムから、四半期ごとに学習経路カタログの更新されたインベントリを提供します。 2019年11月の更新プログラムでは、次のような新しいコンテンツのサブカテゴリと再生リストが、ラーニングパスカタログに追加されました。 コンテンツの更新の適用方法、およびコンテンツの更新を管理する方法の詳細については、「 [コンテンツの更新を管理](custom_contentupdatesmanage.md)する」を参照してください。    
 
 ### <a name="teams"></a>Teams
-Teams サブカテゴリに、いくつかの新しいプレイリストが追加されました。
-- 投稿とメッセージを操作する (3 アセット)
-- ファイルをアップロードして検索する (2 アセット)
-- ライブイベントをセットアップして参加する (4 アセット)
-- アクティビティフィードを管理する (2 アセット)
-- ゴーオンの Teams (2 アセット)
+Teams サブカテゴリには、いくつかの新しいプレイリストが追加されました。
+- 投稿とメッセージを操作する (4 つのアセット)
+- ファイルをアップロードして検索する (2 つのアセット)
+- ライブイベントを設定して参加する (4 アセット)
+- アクティビティフィードを管理する (2 つのアセット)
+- ゴーオンの Teams (2 つのアセット)
 
 ### <a name="microsoft-365-success-center"></a>Microsoft 365 成功センター
 ラーニング経路の経験については、Microsoft 365 learning ・経路成功センターのサブカテゴリを追加しました。 サクセスセンターでは、次のプレイリストが提供されます。
-- 新機能、変更点 (3 資産)
-- 学習コンテンツ (2 アセット) を計画する
+- 新機能、変更された機能 (3 つの資産)
+- 学習コンテンツ (2 つのアセット) を計画する
 - 学習経路 (8 アセット) をカスタマイズする
 - 学習経路 (1 つの資産) の導入を促進する
 - 学習経路の影響を測定する (1 つの資産)
 
 ### <a name="outlook"></a>Outlook
 次のプレイリストが Outlook サブカテゴリに追加されました。 
-- Outlook mobile: 受信トレイを管理する (4 アセット)
-- Outlook mobile: 時間を管理する (8 アセット)
+- Outlook mobile: 受信トレイを管理する (8 アセット)
 - Outlook mobile: 人物と接続 (5 アセット)
-- Outlook mobile: 検索と共有 (4 アセット)
+- Outlook mobile: 検索と共有 (4 つのアセット)
 
 ### <a name="onedrive"></a>OneDrive
 OneDrive 用に追加されたビデオアセットは次のとおりです。 
@@ -301,31 +300,28 @@ OneDrive 用に追加されたビデオアセットは次のとおりです。
 
 ### <a name="accessibility"></a>アクセシビリティ
 コンテンツのアクセシビリティサブカテゴリは、次のプレイリストで追加されました。 
-- Microsoft 365 アクセシビリティの概要とリソース (3 アセット)
+- Microsoft 365 アクセシビリティの概要とリソース (3 つの資産)
 - Outlook でよりアクセス可能な電子メールメッセージを作成する (3 アセット)
 - よりアクセシビリティの高い Word 文書を作成する (8 アセット)
-- よりアクセシビリティの高い Excel ブックを作成する (3 アセット)
-- PowerPoint で追加のアクセス可能なスライドを作成する (5 アセット)
-
-### <a name="onedrive"></a>OneDrive
-注: 変更を追加する必要があります。
+- よりアクセシビリティの高い Excel ブックを作成する (3 つのアセット)
+- PowerPoint でよりアクセス可能なスライドを作成する (5 アセット)
 
 ### <a name="sway"></a>Sway
 コンテンツの Sway サブカテゴリは、次のプレイリストで追加されています。 
-- Sway クイックスタート (4 アセット)
+- Sway クイックスタート (4 つのアセット)
 - Sway の共有とアクセス (5 アセット)
 - Sway にコンテンツを追加する (11 アセット)
 - Sway のカスタマイズ (5 アセット)
 
 ### <a name="access"></a>Access
-- Access クイックスタート (4 アセット)
-- Access 入門 (3 アセット)
-- Access データベースを作成する (2 アセット)
-- テーブルを追加する (2 アセット)
+- Access クイックスタート (4 つのアセット)
+- Access 入門 (3 つのアセット)
+- Access データベースを作成する (2 つのアセット)
+- テーブルを追加する (2 つのアセット)
 - リレーションシップを使用する (5 アセット)
-- データを追加および編集する (2 アセット)
+- データを追加および編集する (2 つのアセット)
 - クエリを使用してデータを管理する (5 アセット)
 - フォームを作成する (1 つのアセット)
-- レポートを作成する (2 アセット)
-- データベースを保護する (1 つの資産)
+- レポートを作成する (2 つのアセット)
+- データベースを保護する (1 つのアセット)
 
