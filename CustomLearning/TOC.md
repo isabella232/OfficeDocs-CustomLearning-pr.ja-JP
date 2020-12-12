@@ -14,6 +14,7 @@
 ## [学習経路のカスタム再生リストを翻訳する](custom_translate_pl_ml.md)
 ## [サイト名、ナビゲーション、フッターを翻訳する](custom_sitenamenav_ml.md)
 # [管理サクセス センター](custom_successcenter.md)
+## [Teams のアドバイザーと学習経路を使用して、Microsoft Teams の展開を支援する](custom_teamsadvisor.md)
 ## 学習コンテンツを計画する 
 ### [学習コンテンツを計画する](custom_plancontent.md)
 ### [リモート ワークをサポートするためのリソース](custom_plancontent_remoteresources.md)
