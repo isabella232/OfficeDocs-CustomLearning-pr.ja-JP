@@ -6,16 +6,16 @@ ms.date: 07/06/2020
 description: 学習経路の多言語サポート
 ROBOTS: NOINDEX, NOFOLLOW
 ms.service: sharepoint online
-ms.openlocfilehash: 9df06c27b038b168383e1f0ad8632a68d4c0244f
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: e4069549cc5218ecc991a797f8a177e40c777e8e
+ms.sourcegitcommit: 349d9164eb268cb701a9c99c88053198ee3a032c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234159"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50573399"
 ---
 # <a name="multilingual-support-for-learning-pathways"></a>学習経路の多言語サポート
 
-組織がさまざまな人口にわたる場合は、Microsoft 365 学習経路を複数の言語で利用できるようにすることができます。 現在、学習経路は9つの言語をサポートしています。 英語は既定の言語です。 サポートされている言語は次のとおりです。   
+組織が多様な人口にまたがる場合は、Microsoft 365 学習パスを複数の言語で利用できます。 ラーニング パスは現在、10 の言語をサポートしています。 英語は既定の言語です。 サポートされている言語は次のとおりです。   
 
 - 英語    
 - 簡体字中国語
@@ -24,25 +24,26 @@ ms.locfileid: "48234159"
 - イタリア語 (イタリア)
 - 日本語 (日本)
 - ポルトガル語 (ブラジル)
-- ロシア語 (ロシア)
+- ロシア語 (ロシア語)
 - スペイン語
+- オランダ語
 
-## <a name="get-familiar-with-the-sharepoint-online-multilingual-features"></a>SharePoint Online 多言語機能について理解を深める
-ラーニング経路の多言語サポートは、コミュニケーションサイトの SharePoint Online 多言語機能によって有効にされます。
-SharePoint Online の多言語サポートを使用すると、翻訳されたページ、ニュース投稿、ユーザーインターフェイス要素をユーザーの優先言語で提供できます。 学習経路の操作を開始する前に、SharePoint Online コミュニケーションサイトで多言語サポートがどのように機能するかについて、しばらく時間がかかります。 
-- SharePoint Online の多言語機能の詳細については、「 [多言語の通信サイト、ページ、およびニュースを作成](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)する」を参照してください。 
+## <a name="get-familiar-with-the-sharepoint-online-multilingual-features"></a>SharePoint Online の多言語機能について理解する
+コミュニケーション サイトの SharePoint Online 多言語機能によって、多言語による学習経路のサポートが有効になります。
+SharePoint Online の多言語サポートを使用すると、翻訳されたページ、ニュース投稿、ユーザー インターフェイス要素をユーザーの優先言語で提供できます。 ラーニング パスの操作を開始する前に、SharePoint Online コミュニケーション サイトの多言語サポートのしくみについて少し時間を取って説明してください。 
+- SharePoint Online 多言語機能の詳細については、「多言語コミュニケーション サイト、ページ、ニュースを作成する [」を参照してください](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)。 
 
-### <a name="what-you-should-know-before-getting-started"></a>作業を開始する前に知っておくべきこと 
-学習経路に対する多言語サポートの有効化を開始する前に、次の重要な情報をご確認ください。 
+### <a name="what-you-should-know-before-getting-started"></a>開始する前に知っている必要がある情報 
+学習経路の多言語サポートを開始する前に、知っている必要がある重要な情報を次に示します。 
 
-- ページ翻訳機能は、SharePoint Online のコミュニケーションサイトでのみ使用できます。
-- ラーニングパス Web パーツは、サイトを表示しているユーザーのユーザープロファイルの言語で表示されます。   
-- SharePoint のプロビジョニングサービスから新しいラーニングパスサイトをプロビジョニングする場合、サイトは既定の言語として英語で作成されます。 既定の言語を変更することはできません。 詳細については、「 [多言語サポートのセットアップオプション](https://docs.microsoft.com/office365/customlearning/custom_setupoptions_ml)」を参照してください。
-- テナントにインストールされている場合、学習経路の以前のバージョンは、既定の言語として英語を使用してプロビジョニングされています。 既定の言語を変更することはできません。 詳細については、「 [多言語サポートのセットアップオプション](https://docs.microsoft.com/office365/customlearning/custom_setupoptions_ml)」を参照してください。
-- 新しいラーニングパスサイトを準備する場合、サイトは9言語でプロビジョニングされます。 サポートしない言語をオフにすることができます。 詳細については、「 [新しい学習経路の準備多言語サイト](https://docs.microsoft.com/office365/customlearning/custom_provision_ml)」を参照してください。  
-- 以前のバージョンから4.0 多言語バージョンの学習経路を更新する場合、サイトのページは自動的に翻訳されません。 既定の言語で作成された各ページには、選択した対象言語の対応するページを含めることができます。または、手動で翻訳することができます。 ページが翻訳および発行されると、そのページはプロファイルに指定されている言語でユーザーに自動的に表示されます。 詳細については、「 [多言語サポートのための学習経路を更新する](https://docs.microsoft.com/office365/customlearning/custom_update_ml)」を参照してください。 
-- ラーニングパス web パーツに表示される言語は、ユーザーの個人の言語と地域の設定によって異なります。 言語と地域のユーザープロファイルの設定の詳細については、「 [多言語の通信サイト、ページ、ニュースを作成](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)する」を参照してください。 
-- サイトナビゲーション、タイトル、およびフッターは、翻訳する言語のユーザープロファイルを持つユーザーが翻訳する必要があります。 サイトのナビゲーション、タイトル、およびフッターの翻訳の詳細については、「 [多言語の通信サイト、ページ、ニュースを作成する](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)」を参照してください。
+- ページ翻訳機能は、SharePoint Online コミュニケーション サイトでのみ利用できます。
+- 学習経路 Web パーツは、サイトを表示するユーザーのユーザー プロファイルの言語で表示されます。   
+- SharePoint プロビジョニング サービスから新しい学習経路サイトをプロビジョニングする場合、サイトは既定の言語として英語で作成されます。 既定の言語は変更できません。 詳細については、「多言語サポート [のセットアップ オプション」を参照してください](https://docs.microsoft.com/office365/customlearning/custom_setupoptions_ml)。
+- 以前のバージョンのラーニング パス (テナントにインストールされている場合) は、既定の言語として英語でプロビジョニングされました。 既定の言語は変更できません。 詳細については、「多言語サポート [のセットアップ オプション」を参照してください](https://docs.microsoft.com/office365/customlearning/custom_setupoptions_ml)。
+- 新しい学習経路サイトをプロビジョニングすると、サイトは 9 つの言語でプロビジョニングされます。 サポートしない言語をオフにできます。 詳細については、「新しい学習 [経路を多言語サイトにプロビジョニングする」を参照してください](https://docs.microsoft.com/office365/customlearning/custom_provision_ml)。  
+- 以前のバージョンから 4.0 多言語バージョンへの学習経路を更新した場合、サイトのページは自動的には翻訳されません。 既定の言語で作成された各ページには、選択したターゲット言語で対応するページを含め、自分または割り当てるユーザーが手動で翻訳できます。 ページが翻訳および公開された後、そのページはプロファイルで指定された言語のユーザーに自動的に表示されます。 詳細については、「多言語サポート [のための学習経路の更新」を参照してください](https://docs.microsoft.com/office365/customlearning/custom_update_ml)。 
+- ラーニング パス Web パーツに表示される言語は、ユーザーの個人の言語と地域の設定によって異なります。 言語と地域のユーザー プロファイルの設定の詳細については、「多言語コミュニケーション サイト、ページ、ニュースを作成する [」を参照してください](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)。 
+- サイト ナビゲーション、タイトル、フッターは、翻訳する言語のユーザー プロファイルを持つユーザーが翻訳する必要があります。 サイト ナビゲーション、タイトル、フッターの翻訳の詳細については、「多言語コミュニケーション サイト、ページ、ニュースを作成する [」を参照してください](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)。
 
 ## <a name="next-steps"></a>次の手順
-- マルチリンガルサポートの学習を開始する方法については、「 [学習経路」多言語サポートのセットアップオプション](https://docs.microsoft.com/office365/customlearning/custom_setupoptions_ml)を参照してください。
+- 多言語サポートを学習する方法については、「多言語サポートを学習するためのセットアップ オプション [」を参照してください](https://docs.microsoft.com/office365/customlearning/custom_setupoptions_ml)。
