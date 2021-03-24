@@ -1,59 +1,59 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 手動インストールの学習経路
+title: 手動インストールのラーニング パス
 ms.date: 02/18/2019
-description: 手動インストールの学習経路
+description: 手動インストールのラーニング パス
 ms.service: sharepoint online
-ms.openlocfilehash: a9ae97bbafcc82c54251cae9a0ad658b7a0c16f4
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: 992fe28f1ca2bdd09c5d29a4a5342b06ff093105
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234669"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51162844"
 ---
-# <a name="manually-installing-and-configuring-custom-learning-for-office-365"></a>Office 365 のカスタム学習を手動でインストールおよび構成する
+# <a name="manually-installing-and-configuring-custom-learning-for-office-365"></a>365 のカスタム 学習を手動でインストールOfficeする
 
-Microsoft カスタム学習 Web パーツは、 [SharePoint Framework](https://docs.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview) バージョン1.7.1 を使用してビルドされます。
+Microsoft Custom Learning Web パーツは [、SharePoint Framework](/sharepoint/dev/spfx/sharepoint-framework-overview) バージョン 1.7.1 を使用してビルドされます。
 
-Web パーツおよびサイトコレクションを手動でインストールして構成するには、次の手順を実行する必要があります。
+Web パーツとサイト コレクションを手動でインストールして構成するには、次の手順を実行する必要があります。
 
-1. すべての前提条件を満たしていることを確認します。
-1. Office 365 テナントのアプリカタログに customlearning ファイルをインストールします。
-1. Office 365 ホームサイト用のカスタム学習として機能するモダンコミュニケーションサイトをプロビジョニング/識別します。
+1. すべての前提条件を満たしていることを検証します。
+1. カスタムlearning.sppkg ファイルを 365 テナント Officeカタログにインストールします。
+1. 365 ホーム サイトのカスタム 学習として機能する最新Officeを指定します。
 1. カスタム学習が依存する適切な成果物を使用してテナントを構成する PowerShell スクリプトを実行します。
-1. CustomLearningAdmin サイトページに移動して、管理者 web パーツを読み込んで、カスタムコンテンツ構成を初期化します。
+1. CustomLearningAdmin.aspx サイト ページに移動して管理 Web パーツを読み込み、カスタム コンテンツ構成を初期化します。
 
 ## <a name="prerequisites"></a>前提条件
 
-テナント全体のアプリカタログを設定して構成しておく必要があります。 「 [Office 365 テナントをセットアップ](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) する」を参照して、「アプリカタログサイトを作成する」セクションに従ってください。 テナント全体のアプリカタログが既にプロビジョニングされている場合は、このセットアッププロセスを完了するためにパッケージをアップロードする権限を持つアカウントにアクセスする必要があります。 通常、これは SharePoint 管理者の役割を持つアカウントです。 その役割を持つアカウントが機能しない場合は、SharePoint 管理センターに移動して、アプリカタログサイトコレクションのサイトコレクション管理者を検索し、いずれかのサイトコレクション管理者としてログインするか、失敗した SharePoint 管理者アカウントをサイトコレクション管理者に追加します。 SharePoint テナント管理者であるアカウントにもアクセスできる必要があります。
+テナント全体のアプリ カタログをセットアップして構成している必要があります。 [「365 テナントOfficeセットアップ](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site)」を参照し、[アプリ カタログ サイトの作成] セクションに従います。 テナント全体のアプリ カタログが既にプロビジョニングされている場合は、このセットアップ プロセスを完了するためにパッケージをアップロードする権限を持つアカウントにアクセスする必要があります。 通常、これは SharePoint 管理者の役割を持つアカウントです。 その役割を持つアカウントが機能しない場合は、SharePoint 管理センターに移動し、アプリ カタログ サイト コレクションのサイト コレクション管理者を見つけて、サイト コレクション管理者の 1 人としてログインするか、サイト コレクション管理者に失敗した SharePoint 管理者アカウントを追加します。 また、SharePoint テナント管理者であるアカウントにアクセスする必要があります。
 
-## <a name="upload-the-web-part-to-the-tenant-app-catalog"></a>Web パーツをテナントのアプリカタログにアップロードする
+## <a name="upload-the-web-part-to-the-tenant-app-catalog"></a>Web パーツをテナント アプリ カタログにアップロードする
 
-Office 365 のカスタム学習をセットアップするには、customlearning ファイルをテナント全体のアプリカタログにアップロードして展開します。 アプリカタログにアプリを追加する方法の詳細については [、「アプリカタログを使用してカスタムビジネスアプリを SharePoint Online 環境で利用できるようにする」を](https://docs.microsoft.com/sharepoint/use-app-catalog) 参照してください。
+カスタム ラーニングを Office 365 に設定するには、customlearning.sppkg ファイルをテナント全体のアプリ カタログにアップロードして展開します。 アプリ カタログ [にアプリを追加](/sharepoint/use-app-catalog) する方法の詳細については、「アプリ カタログを使用して SharePoint Online 環境でカスタム ビジネス アプリを使用する」を参照してください。
 
-## <a name="provisionidentify-modern-communication-site"></a>モダンコミュニケーションサイトのプロビジョニング/識別
+## <a name="provisionidentify-modern-communication-site"></a>モダン コミュニケーション サイトのプロビジョニング/識別
 
-既存の SharePoint コミュニケーションサイトを識別するか、SharePoint Online テナントで新しいサイトをプロビジョニングします。 コミュニケーションサイトのプロビジョニング方法の詳細については、「 [SharePoint Online でコミュニケーションサイトを作成](https://support.office.com/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) する」を参照し、手順に従ってコミュニケーションサイトを作成してください。
+既存の SharePoint 通信サイトを識別するか、SharePoint Online テナントに新しい通信サイトをプロビジョニングします。 通信サイトをプロビジョニングする方法の詳細については [、「SharePoint Online](https://support.office.com/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) で通信サイトを作成する」を参照し、手順に従って通信サイトを作成します。
 
 ## <a name="set-permissions-for-the-site"></a>サイトのアクセス許可を設定する
 
-閲覧者グループにコンテンツを表示できるようにするすべてのユーザーと、メンバーグループにカスタム再生リストを管理できる必要があるユーザーを追加する必要があります。 ユーザーが初めてサイトコレクション管理者または所有者グループの一部である必要がある場合に、カスタム学習用にサイトを構成する。
+コンテンツを表示できる必要があるすべてのユーザーを Visitors グループに追加し、カスタムプレイリストをメンバー グループに管理できる必要があるすべてのユーザーを追加します。 ユーザーが初めてサイト コレクション管理者または所有者グループの一部である必要がある場合は、カスタム学習用にサイトを構成します。
 
-Office 365 アプリのカスタム学習機能をサイトコレクションに追加します。
+365 App Officeカスタム学習をサイト コレクションに追加します。
 
-## <a name="execute-powershell-configuration-script"></a>PowerShell 構成スクリプトを実行する
+## <a name="execute-powershell-configuration-script"></a>PowerShell 構成スクリプトの実行
 
-`CustomLearningConfiguration.ps1`ソリューションで使用する3つの[テナントプロパティ](https://docs.microsoft.com/sharepoint/dev/spfx/tenant-properties)を作成するために実行する必要がある PowerShell スクリプトが含まれています。 さらに、スクリプトは、管理者とユーザーの web パーツを既知の場所にホストするために、サイトページライブラリに2つの [単一パーツアプリページ](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/single-part-app-pages) を作成します。
+PowerShell スクリプトが含まれているので、ソリューションで使用する 3 つのテナント プロパティを作成するために実行 `CustomLearningConfiguration.ps1` する必要があります。 [](/sharepoint/dev/spfx/tenant-properties) さらに、このスクリプトはサイト ページ [ライブラリに](/sharepoint/dev/spfx/web-parts/single-part-app-pages) 2 つの単一パーツ アプリ ページを作成し、管理者とユーザーの Web パーツを既知の場所でホストします。
 
-### <a name="disabling-telemetry-collection"></a>テレメトリコレクションの無効化
+### <a name="disabling-telemetry-collection"></a>テレメトリ コレクションの無効化
 
-このソリューションの一部には、既定でオンに設定されている匿名化テレメトリトラッキングオプトインが含まれています。 手動によるインストールを実行していて、テレメトリの追跡をオフにする場合は、 `CustomlearningConfiguration.ps1` $optInTelemetry 変数を $false に設定するようにスクリプトを変更してください。
+このソリューションの一部には、匿名化されたテレメトリ追跡オプトインが含まれます。既定ではオンに設定されています。 手動インストールを実行し、テレメトリ追跡をオフにする場合は、スクリプトを変更して、$optInTelemetry 変数を $false `CustomlearningConfiguration.ps1` に設定してください。
 
-手動インストールを実行しておらず、テレメトリトラッキングをオフにしたい場合は、実行時にテレメトリ追跡を無効にする別のスクリプト `TelemetryOptOut.ps1` が含まれています。
+手動インストールを実行していない場合にテレメトリ追跡をオフにする場合は、実行時にテレメトリ追跡が無効にされる別のスクリプト `TelemetryOptOut.ps1` が含まれています。
 
 ## <a name="initialize-web-part-custom-configuration"></a>Web パーツのカスタム構成を初期化する
 
-PowerShell スクリプトが正常に実行されたら、に移動し `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx` ます。 これにより、最初に使用するカスタム学習を設定する CustomConfig リストアイテムが初期化されます。
+PowerShell スクリプトが正常に実行された後、に移動します `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx` 。 これにより、初めて使用するカスタム学習を設定する CustomConfig リスト アイテムが初期化されます。
 
-これで、構成は完了し、Office 365 のカスタム学習を使用することによって進めることができます。 詳細については、ユーザーマニュアルを参照してください。
+これで構成が完了し、365 のカスタム 学習を使用してOfficeできます。 詳細については、ユーザーのドキュメントを参照してください。

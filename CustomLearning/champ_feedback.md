@@ -1,33 +1,33 @@
 ---
-title: 精鋭プログラムのベストプラクティス-フィードバックの収集
-description: 精鋭プログラムのベストプラクティスによる Office 365 の導入を促進する
+title: チャンピオン プログラムのベスト プラクティス - フィードバックの収集
+description: チャンピオン プログラムのベスト プラクティスOffice 365 の導入を促進する
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint online
-ms.openlocfilehash: 56549c66672d98a217e5dedbf88392855c0dd685
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: 259952d15b960f1946ad7bed466ff44bcd23ccb6
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233439"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51162884"
 ---
-# <a name="collect-feedback-from-your-employees"></a>従業員からフィードバックを収集する
+# <a name="collect-feedback-from-your-employees"></a>従業員からのフィードバックを収集する
 
-新しいグループ作業環境の導入には、ユーザーの動作の変更があります。 人的変更には、トレーニング、encouragement、および正の例が必要です。 移行中に他のユーザーに知らせることも重要です。 以前に組織で成功したフィードバック方法を設定している場合は、Office 365 の実装を含めるように展開することを検討してください。 この操作を実行していない場合は、次のいずれかの方法を使用してください。
+新しいコラボレーション エクスペリエンスの導入は、ユーザーの動作を変更する方法です。 人間の変化には、トレーニング、励まし、肯定的な例が必要です。 また、移行中に人々が聞き取りを感じるのも重要です。 組織内で成功したフィードバック メソッドを以前に確立している場合は、それらを展開して、365 の実装にOffice検討してください。 前にこれを行ったことがない場合は、次のいずれかの方法を検討してください。
 
-## <a name="use-yammer-to-provide-an-open-community-for-best-practices-and-support-for-the-experience"></a>Yammer を使用して、ベストプラクティスとその操作のサポートのための、オープンなコミュニティを提供します。
-コミュニティ主導のフィードバック方法では、チャンピオンとサービスの所有者が関与する必要があります。 展開するテクノロジに targetted する、オープンな Yammer コミュニティを作成します。 たとえば、一般に Office 365 の場合、または Office のユーザーに対して、Microsoft Teams またはその他のテクノロジを使用する場合は、このオプションを選択します。  これらのメンバーの間で、Yammer コミュニティの監視スケジュールを作成することをお勧めします。 
+## <a name="use-yammer-to-provide-an-open-community-for-best-practices-and-support-for-the-experience"></a>このYammerを使用して、エクスペリエンスのベスト プラクティスとサポートのためのオープン コミュニティを提供します。
+コミュニティによるフィードバック方法では、チャンピオンとサービスの所有者が参加する必要があります。 展開するテクノロジYammer対象のオープン コミュニティを作成します。 たとえば、Office 365 の一般的な 1 つを使用するか、Office、Microsoft Teams、その他のテクノロジのユーザーにターゲットを設定することができます。  これらのメンバーの間でローテーションされるYammerの監視スケジュールを作成することをお勧めします。 
 
-## <a name="creating-an-org-wide-team-within-microsoft-teams-up-to-2500"></a>Microsoft Teams 内で組織全体のチームを作成する (最大 2500)
-小規模な組織では、組織全体のパブリックチームがフィードバックと支援のための重力の中心を提供することもできます。  「支持者となる」というチャネルを作成し、支持者と従業員間のコミュニケーションを促進することを検討してください。  現在、Microsoft Teams は2500人に制限されていますが、今後も増加することに注意してください。 [この記事](https://docs.microsoft.com/microsoftteams/create-an-org-wide-team)では、組織全体のチームの詳細について説明します。 
+## <a name="creating-an-org-wide-team-within-microsoft-teams-up-to-2500"></a>Microsoft Teams 内での組織全体のチームの作成 (最大 2500)
+小規模な組織では、組織全体のパブリック チームがフィードバックとヘルプに重心を提供できます。  チャンピオンと従業員のコミュニケーションを促進するために、「チャンピオンに問い合う」というチャネルを作成する方法を検討してください。  現時点では、Microsoft Teams は 2500 人に制限されています。これは今後増加する予定です。 組織全体のチームの詳細については、この記事を [参照してください](/microsoftteams/create-an-org-wide-team)。 
 
-## <a name="microsoft-forms-for-employee-surveys"></a>従業員アンケートの Microsoft フォーム
+## <a name="microsoft-forms-for-employee-surveys"></a>Microsoft フォーム for Employee Surveys
 
-[Microsoft Forms](https://support.office.com/forms)を使用して、ユーザーのキーセットを使用して、展開に関する短い調査を行います。  これらのアンケートは、サービス展開の途中と終わりの段階で、最初に送信することをお勧めします。  これにより、アプローチを改善するための貴重なデータが提供されます。  
+[Microsoft Forms を使用して](https://support.office.com/forms)、主要なユーザー セットを使用して展開に関する短いアンケートを実施します。  これらのアンケートは、サービスの展開の最初、途中、および最後に送信することをお勧めします。  これにより、アプローチを改善し続ける貴重なデータが得されます。  
 
-## <a name="highlight-the-wins-share-showcases"></a>Wins を強調表示する: 共有のショーケース
-この手順に従って作業を進めるにつれ、Office 365 を使用した創造性を持つ従業員が成功しているのがわかります。 これらのショーケースを広く共有することをお勧めします。 これにより、他のユーザーにとって革新的なものとして、導入カーブの前にあるユーザーを教育し、自分の環境で Office 365 を最適に使用する方法を理解するのに時間を費やしたユーザーに報酬を与えることができます。 各四半期ごとに一連のショーケースを特定することにより測定可能な目標を設定することは、導入の勢いを維持するのに役立ちます。
+## <a name="highlight-the-wins-share-showcases"></a>勝利を強調する: ショーケースを共有する
+この旅を続ける中で、365 の創造性が驚きと喜びをOffice従業員のショーケースを見つけるでしょう。 これらのショーケースを広く共有することをお勧めします。 これにより、他のユーザーは革新的で、導入曲線の早いユーザーを教育し、環境で Office 365 を最適に使用する方法を考える時間を割いたユーザーに報酬を与えます。 四半期ごとに一連のショーケースを特定する測定可能な目標を設定すると、導入の勢いを維持するのに役立ちます。
 
-これらのショーケースをパブリックコミュニティで共有して、他の従業員を支援し、Office 365 の利点を理解してもらうことができます。  
+これらのショーケースを陰部のコミュニティで共有して、他の従業員に刺激を与え、365 のメリットを学ぶOfficeします。

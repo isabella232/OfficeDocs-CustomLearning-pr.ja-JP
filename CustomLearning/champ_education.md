@@ -1,28 +1,28 @@
 ---
-title: 精鋭プログラムのベストプラクティス-サービス導入担当者
-description: 精鋭プログラムのベストプラクティスによる Office 365 の導入を促進する
+title: チャンピオン プログラムのベスト プラクティス - サービス導入スペシャリスト
+description: チャンピオン プログラムのベスト プラクティスOffice 365 の導入を促進する
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint online
-ms.openlocfilehash: 9490887ca5b8debd804081872e2c57526838d556
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: 743320f9891b184a60a06d27927424949d60d01b
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233479"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51162894"
 ---
-# <a name="validate-your-skills---become-a-service-adoption-specialist"></a>スキルを検証する-サービス導入スペシャリストになる
+# <a name="validate-your-skills---become-a-service-adoption-specialist"></a>スキルを検証する - サービス導入スペシャリストになる
 
-![サービス導入スペシャリストのコース](media/champs_sascourse.png)
+![サービス導入スペシャリスト コース](media/champs_sascourse.png)
 
-サービス導入が役割の一部である場合、またはこのトピックに記載されている正式なトレーニングをさらに掘り下げたい場合は、パートナーサイトの EdX.org に Microsoft が提供するオンラインコースに登録できます。 
+サービスの導入が自分の役割の一部である場合、またはこのトピックに関する正式なトレーニングを深く行う場合は、パートナー サイト EdX.org で Microsoft が提供するオンライン コースに登録できます。 
 
-この [サービス導入スペシャリストのオンラインコース](https://aka.ms/AdoptionCert) は、 **無料で監査**できます。  EdX 証明書を完成させたい場合は、$99.00 の料金が必要です。  このコースは、microsoft Teams エンジニアリングの [Karuana G・ mu](https://linkedin.com/in/karuanagatimu) により、複数の microsoft MVP および microsoft IT エキスパートからの入力によって作成されました。  内部に含まれているベストプラクティスは、業界全体としての、正式な組織変更管理教育に対する補完的なものです。  
+この [サービス導入スペシャリストのオンライン コースは、](/learn/paths/m365-service-adoption/)**無料で監査できます**。  完了のために EdX 証明書を受け取る場合は、99.00 ドルの手数料が必要です。  このコースは、Microsoft Teams Engineering の [Karuana Gatimu](https://linkedin.com/in/karuanagatimu) によって作成され、複数の Microsoft MVP および Microsoft IT 専門家からの入力を受け取っています。  この中に含まれるベスト プラクティスは、業界全体の観察から収集され、正式な組織変更管理教育を受け入れたものとなっています。  
 
-このコースでは、この重要なビジネス機能で skils を検証できる、実践的なガイダンス、ツール、およびその他のコンテンツが含まれています。  
+このコースには、実用的なガイダンス、ツール、その他のコンテンツが含まれています。  
 
-詳細については、このコースのドキュメントに関する [お知らせ](https://aka.ms/AdoptionCertAnnouncement) をご覧ください。 
+詳細については、このコース [の](https://aka.ms/AdoptionCertAnnouncement) 公開に関する発表をご覧ください。 
 
-オンラインコミュニティのビジネスユーザーおよび IT プロフェッショナルは、での導入について学ぶことが https://aka.ms/DriveAdoption できます。 
+で導入について学ぶビジネス ユーザーと IT 担当者のオンライン コミュニティに参加してください https://aka.ms/DriveAdoption 。

@@ -5,12 +5,12 @@ title: ラーニング パス コンテンツの更新
 ms.date: 3/30/2020
 description: ラーニング パス コンテンツの更新
 ms.service: o365-solutions
-ms.openlocfilehash: 1cd46031ceb2ef1c88099d5556887aa7ea72cc80
-ms.sourcegitcommit: 349d9164eb268cb701a9c99c88053198ee3a032c
+ms.openlocfilehash: 092520d6c56f9d9d96f4d4de8ff5d2dbc898e1f2
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50573419"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51163084"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 Learning Pathways コンテンツ更新プログラム
 学習経路は、四半期ごとにコンテンツ更新サイクルに従う努力をしています。 コンテンツ更新プログラムの適用方法とコンテンツ更新プログラムの管理方法の詳細については、「コンテンツ更新プログラムの管理 [」を参照してください](custom_contentupdatesmanage.md)。 
@@ -185,7 +185,7 @@ Intro to Excel プレイリストには、次の新しいアセットがあり�
 
 #### <a name="create-and-save-playlist"></a>"作成して保存" プレイリスト
 - デスクトップ アプリの使用
-- アプリOffice.com使用する
+- アプリ Office.com 使用する
 - ファイルをクラウドに保存する
 - OneDrive を使用してオンデマンドでファイルを同期する
 
@@ -248,7 +248,7 @@ Intro to Excel プレイリストには、次の新しいアセットがあり�
 #### <a name="share-and-co-author-with-word-playlist"></a>"Share and co-author with Word" プレイリスト
 - "リアルタイム共同編集を使用して Word ドキュメントを共同作業する" アセットが更新されました。 
 
-### <a name="office-for-the-web"></a>Webアプリ上の Office
+### <a name="office-for-the-web"></a>Web 用 Office
 次のアセットは、"web Office Word for the web" プレイリストで更新されました。
 
 #### <a name="office-for-the-web-word-for-the-web-playlist"></a>"Office: Word for the web" プレイリスト
@@ -320,7 +320,7 @@ Teams コンテンツに対してさまざまな更新が行われた。
 #### <a name="work-with-post-and-messages-one-new"></a>投稿とメッセージの処理 (新しい 1 つ)
 - 複数のチャネルにメッセージを投稿する (新しい)
 
-### <a name="office-for-the-web"></a>Webアプリ上の Office
+### <a name="office-for-the-web"></a>Web 用 Office
 Officeには、ユーザーが Web 上のユーザーと作成、共有、および共同作業を行うシナリオ用の一連のOffice提供されます。 この一連のコンテンツは、Google G Suite から Microsoft 365 に切り替える組織にも有用です。
 #### <a name="get-started-five-new-assets"></a>開始する (5 つの新しいアセット)
 - 概要
@@ -373,12 +373,12 @@ Officeには、ユーザーが Web 上のユーザーと作成、共有、およ
 
 ### <a name="resources-for-supporting-your-remote-workforce"></a>リモート ワークをサポートするためのリソース
 ラーニング パスを使用して、リモート ワーカーをサポートするためのラーニング パス サイトにランディング ページを作成できます。 または、ラーニング パス Web パーツをラーニング パス サイトの既存のサポート ページに追加し、Web パーツをフィルター処理して[リモートで作業] プレイリストを表示することもできます。 組織内のリモート作業をサポートするための Microsoft のトップ リソースの一覧を次に示します。 
-- [Microsoft Teams の展開方法](https://docs.microsoft.com/microsoftteams/how-to-roll-out-teams)
-- [Microsoft Teams でのミーティングと会議](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-- [Microsoft Teams を使用したリモート ワーカーのサポート](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)
-- [よくあるご質問 (FAQ): リモートの従業員をサポートする](https://docs.microsoft.com/microsoftteams/faq-support-remote-workforce)
+- [Microsoft Teams の展開方法](/microsoftteams/how-to-roll-out-teams)
+- [Microsoft Teams でのミーティングと会議](/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
+- [Microsoft Teams を使用したリモート ワーカーのサポート](/microsoftteams/support-remote-work-with-teams)
+- [よくあるご質問 (FAQ): リモートの従業員をサポートする](/microsoftteams/faq-support-remote-workforce)
 - [Microsoft IT が従業員のリモート作業を有効にする上位 9 つの方法](https://www.microsoft.com/microsoft-365/blog/2020/03/12/top-9-ways-microsoft-it-enabling-remote-work-employees/)
-- [Microsoft Teams トレーニング](https://docs.microsoft.com/microsoftteams/training-microsoft-teams-landing-page)
+- [Microsoft Teams トレーニング](/microsoftteams/training-microsoft-teams-landing-page)
 - [Education: Microsoft Education Center](https://education.microsoft.com) 
 - [教育: リモート学習の開始](https://education.microsoft.com/resource/4c0c02c0)
 
@@ -445,4 +445,3 @@ OneDrive 用に次のビデオ アセットが追加されました。
 - フォームの作成 (1 つのアセット)
 - レポートの作成 (2 つのアセット)
 - データベースの保護 (1 つのアセット)
-

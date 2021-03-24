@@ -1,135 +1,133 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 経路の手動セットアップの学習
+title: 学習経路の手動セットアップ
 ms.date: 07/06/2020
-description: Microsoft 365 学習経路手動セットアップ
+description: Microsoft 365 ラーニング パスの手動セットアップ
 ms.service: sharepoint online
-ms.openlocfilehash: 2bac25e736ec463e5d7f561eaa782a7d27eab65e
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: 511b4e5d7d251a1e3fbffcefb01d4ba1f139e5a1
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234289"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51163074"
 ---
-# <a name="learning-pathways-manual-setup"></a>経路の手動セットアップの学習
+# <a name="learning-pathways-manual-setup"></a>学習経路の手動セットアップ
 
-Microsoft 365 の学習経路は、次のいずれかのシナリオのサポートを必要とする組織のために手動によるセットアップを提供します。 
+Microsoft 365 ラーニング パスは、次のいずれかのシナリオのサポートが必要な組織向け手動セットアップを提供します。 
 
-- 組織には、トレーニング専用の SharePoint Online モダンコミュニケーションサイトが確立されており、そのサイトにラーニング経路を追加する必要があります。 このシナリオでは、ラーニングパス web パーツはサイトにセットアップされていません。
+- 組織には、トレーニング専用の SharePoint Online モダンコミュニケーション サイトが確立され、そのサイトに学習経路を追加する必要があります。 このシナリオでは、Web パーツの学習経路がサイトに設定されていない。
 
-- 組織の SharePoint コミュニケーションサイトで多言語サポートのための学習経路をインストールする必要がある。 サイトに英語以外の既定の言語が設定されているか、または、学習経路でサポートされている言語のいずれかである。 ラーニング経路でサポートされている言語は次のとおりです。
+- 組織の SharePoint コミュニケーション サイトの 1 つで多言語サポート用の学習パスをインストールする必要があります。 このサイトは、英語ではない既定の言語を持ち、学習経路でサポートされる言語の 1 つになります。 学習経路でサポートされている言語を次に示します。
 
 - 英語
-- 簡体字中国語
+- 中国語 (簡体字)
 - フランス語
 - ドイツ語
 - イタリア語 (イタリア)
 - 日本語 (日本)
 - ポルトガル語 (ブラジル)
-- ロシア語 (ロシア)
+- ロシア語 (ロシア語)
 - スペイン語
 
-学習経路を手動でセットアップするには、Windows PowerShell および SharePoint Online 管理シェルを使用した経験が必要です。 学習経路を手動でセットアップする手順の概要を次に示します。 
+学習経路を手動でセットアップするには、Windows PowerShell SharePoint Online 管理シェルを操作する必要があります。 学習経路の手動セットアップの手順の概要を次に示します。 
 
-- すべての前提条件を満たしていることを確認します。
-- サイトの既定の言語設定を確認します。 OK の場合は、手動インストールを続行します。 既定の言語設定が異なる場合は、新しいサイトを作成する必要があります。 
-- SharePoint テナントのアプリカタログに customlearning ファイルをインストールします。
-- Microsoft 365 learning ・経路のホームサイトとして機能するモダンコミュニケーションサイトをプロビジョニング/識別します。
-- テナントを学習する成果物を使用してテナントを構成する PowerShell スクリプトを実行します。
-- CustomLearningAdmin サイトページに移動して、管理者 web パーツを読み込んで、カスタムコンテンツ構成を初期化します。
+- すべての前提条件を満たしていることを検証します。
+- サイトの既定の言語設定を確認します。 [OK] の場合は、手動インストールを続行します。 別の既定の言語設定が必要な場合は、新しいサイトを作成する必要があります。 
+- SharePoint テナント アプリ カタログに customlearning.sppkg ファイルをインストールします。
+- Microsoft 365 ラーニング パスホーム サイトとして機能する最新のコミュニケーション サイトをプロビジョニング/識別します。
+- 学習経路が依存する成果物を使用してテナントを構成する PowerShell スクリプトを実行します。
+- CustomLearningAdmin.aspx サイト ページに移動して管理 Web パーツを読み込み、カスタム コンテンツ構成を初期化します。
 
 ## <a name="prerequisites"></a>前提条件
-ラーニングパス web パーツを手動でセットアップするには、次の前提条件を満たしている必要があります。 
+学習経路 Web パーツの手動セットアップを成功させるには、次の前提条件を満たす必要があります。 
 
-- テナント全体のアプリカタログを設定して構成しておく必要があります。 「 [Office 365 テナントをセットアップする](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) 」および「アプリカタログの作成」のセクションに従ってください。 
-- テナント全体のアプリカタログが既にプロビジョニングされている場合は、パッケージをアップロードする権限を持つアカウントにアクセスする必要があります。 通常、このアカウントには SharePoint 管理者の役割があります。 
-- その役割を持つアカウントが機能しない場合は、SharePoint 管理センターに移動して、アプリカタログサイトコレクションのサイトコレクション管理者を検索し、いずれかのサイトコレクション管理者としてログインするか、またはサイトコレクション管理者に失敗した SharePoint 管理者アカウントを追加します。 
-- SharePoint テナント管理者であるアカウントにもアクセスできる必要があります。
+- テナント全体のアプリ カタログをセットアップして構成している必要があります。 「Set [up your Office 365 テナント」](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) を参照し、「Create App Catalog」サイト セクションに従います。 
+- テナント全体のアプリ カタログが既にプロビジョニングされている場合は、パッケージをアップロードする権限を持つアカウントにアクセスする必要があります。 通常、このアカウントには SharePoint 管理者の役割があります。 
+- その役割を持つアカウントが機能しない場合は、SharePoint 管理センターに移動し、App Catalog サイト コレクションのサイト コレクション管理者を探し、サイト コレクション管理者の 1 人としてログインするか、サイト コレクション管理者に失敗した SharePoint 管理者アカウントを追加します。 
+- また、SharePoint テナント管理者であるアカウントにアクセスする必要があります。
 
-## <a name="step-1---check-your-language-settings"></a>手順 1-言語設定を確認する
-手動インストールプロセスの最初の手順として、サイトの言語設定を確認します。 可能なオプションは次のとおりです。
+## <a name="step-1---check-your-language-settings"></a>手順 1 - 言語設定を確認する
+手動インストール プロセスの最初の手順として、サイトの言語設定を確認します。 次に、可能なオプションを示します。
 
-### <a name="option-1---you-dont-want-multilingual-support"></a>オプション 1-多言語のサポートを必要としません
-サイトで多言語サポートを使用しない場合は、オフにします。
-1.  SharePoint コミュニケーションサイトで、[**設定**] [  >  **サイト情報**]、[  >  **すべてのサイト設定**  >  の**言語設定**] のいずれかを選択します。 
-2.  [ **ページとニュースを複数言語に翻訳する** ] スイッチを [ **オフ**] に設定します。
-3.  [**保存**] をクリックします。 
-4.  手順2に進みます。
+### <a name="option-1---you-dont-want-multilingual-support"></a>オプション 1 - 多言語サポートが必要ない
+サイトの多言語サポートが必要ない場合は、サイトがオフになっていることを確認します。
+1.  SharePoint 通信サイトで、[設定] [サイト情報] [  >    >  **すべてのサイト設定を表示する言語の設定**  >  **] を選択します**。 
+2.  [複数の **言語に翻訳するページ** とニュースを有効にする] スイッチを [オフ] に **設定します**。
+3.  **[保存]** をクリックします。 
+4.  手順 2 に進みます。
 
-## <a name="option-2---you-want-multilingual-support-and-youre-ok-with-the-default-language"></a>オプション 2-多言語のサポートが必要で、既定の言語で OK
-SharePoint コミュニケーションサイトには、既定の言語があります。 [ラーニングパス] 管理ページを含む、学習経路の表示に使用する言語は、既定の言語によって決まります。 既定の言語の設定は、サイトが初めて作成されたときに設定され、後から変更することはできません。 手動セットアップを続行する前に、ターゲットサイトの既定の言語を使用していることを確認してください。
+## <a name="option-2---you-want-multilingual-support-and-youre-ok-with-the-default-language"></a>オプション 2 - 多言語サポートが必要で、既定の言語でOK
+SharePoint 通信サイトには既定の言語があります。 既定の言語では、[学習経路の管理] ページなど、学習経路を表示する言語が決めます。 既定の言語設定は、サイトが最初に作成された場合に設定され、後で変更することはできません。 手動セットアップを続行する前に、ターゲット サイトの既定の言語でOKを確認してください。
 
-1.  SharePoint コミュニケーションサイトで、[**設定**] [  >  **サイト情報**]、[  >  **すべてのサイト設定**  >  の**言語設定**] のいずれかを選択します。 
-2.  [ **ページとニュースを複数言語に翻訳する** ] スイッチを **[オン**] に設定します。
-    - [ **言語**] の下にある一覧の一番上に表示されている言語を使用している場合は、追加の言語を追加して、[ **保存**] をクリックします。 手順2に進みます。
-    - サイトで選択されている言語とは異なる既定の言語を使用する場合は、必要な言語の新しい SharePoint コミュニケーションサイトを作成する必要があります。 オプション3に進みます。 
+1.  SharePoint 通信サイトで、[設定] [サイト情報] [  >    >  **すべてのサイト設定を表示する言語の設定**  >  **] を選択します**。 
+2.  [複数の **言語に翻訳するページ** とニュースを有効にする] スイッチを [オン] に **設定します**。
+    - [言語] の一覧の上部に表示される言語で問題ない場合は、追加の言語を追加し、[保存] をクリック **します**。 手順 2 に進みます。
+    - サイトで選択されている言語とは異なる既定の言語が必要な場合は、必要な言語で新しい SharePoint Communication サイトを作成する必要があります。 オプション 3 に進む。 
 
-## <a name="option-3---you-want-multilingual-support-but-want-a-different-default-language-for-the-site"></a>オプション #3-多言語のサポートを必要としますが、サイトの既定の言語とは異なるものを使用します。
-このオプションを使用して、使用する既定の言語で新しい SharePoint Online コミュニケーションサイトを作成し、サイトの言語設定を設定します。 
-1.  新しい SharePoint コミュニケーションサイトを作成するには、「 [Sharepoint Online でコミュニケーションサイトを作成](https://support.microsoft.com/office/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb)する」を参照してください。 サイトを作成するときは、必ず言語を学習するための既定の言語に設定してください。 
-2. 作成したサイトから、[**設定**] [  >  **サイト情報**]、[  >  **すべてのサイト設定**  >  の**言語設定**] のいずれかを選択します。 
-2.  [ **ページとニュースを複数言語に翻訳する** ] スイッチを **[オン**] に設定します。
-3. 必要に応じて追加の言語を追加し、[ **保存**] をクリックします。 
-4. 手順2に進みます。 
+## <a name="option-3---you-want-multilingual-support-but-want-a-different-default-language-for-the-site"></a>オプション #3 - 多言語サポートが必要ですが、サイトに別の既定の言語が必要です
+このオプションを使用して、必要な既定の言語で新しい SharePoint Online 通信サイトを作成し、サイトの言語設定を設定します。 
+1.  新しい SharePoint 通信サイトを作成するには [、「SharePoint Online で通信サイトを作成する」を参照してください](https://support.microsoft.com/office/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb)。 サイトを作成する場合は、学習経路に必要な既定の言語に言語を設定してください。 
+2. 作成したサイトで、[設定] [**サイト情報]**[  >    >  **すべてのサイト設定を表示する言語の設定**  >  **] を選択します**。 
+2.  [複数の **言語に翻訳するページ** とニュースを有効にする] スイッチを [オン] に **設定します**。
+3. 必要に応じて言語を追加し、[保存] を **クリックします**。 
+4. 手順 2 に進みます。 
 
->!ことサイトから新しく作成したサイトにカスタムコンテンツを移行する必要がある場合は、後述の「カスタムコンテンツを移行する」セクションを参照してください。 
+>![メモ]カスタム コンテンツをサイトから新しく作成されたサイトに移行する必要がある場合は、このドキュメントの「カスタム コンテンツの移行」セクションを参照してください。 
 
-## <a name="step-2---get-the-web-part-package-and-setup-script-from-github"></a>手順 2-GitHub から web パーツパッケージとセットアップスクリプトを取得する
-セットアッププロセスの一環として、Microsoft 365 learning の経路の Web パーツパッケージと PowerShell セットアップスクリプトが必要になります。
+## <a name="step-2---get-the-web-part-package-and-setup-script-from-github"></a>手順 2 - GitHub から Web パーツ パッケージとセットアップ スクリプトを取得する
+セットアップ プロセスの一環として、Microsoft 365 ラーニング パス Web パーツ パッケージと PowerShell セットアップ スクリプトが必要です。
 
-- [学習経路 GitHub リポジトリ](https://github.com/pnp/custom-learning-office-365)に移動します。
-- [ **ダウンロード** ] をクリックして、web パーツパッケージとスクリプトをローカルドライブに保存します。 このプロセスの後の手順で、スクリプトと web パーツパッケージを使用します。
+- [GitHub リポジトリの学習経路を移動します](https://github.com/pnp/custom-learning-office-365)。
+- [ **ダウンロード] を** クリックして、Web パーツ パッケージとスクリプトをローカル ドライブに保存します。 このプロセスの後の手順で、スクリプトと Web パーツ パッケージを使用します。
 
-## <a name="step-2---upload-the-web-part-to-the-tenant-app-catalog"></a>手順 2-テナントのアプリカタログに web パーツをアップロードする
-Microsoft 365 learning の経路を設定するには、customlearning ファイルをテナント全体のアプリカタログにアップロードして展開します。 アプリカタログにアプリを追加する詳細な手順については [、「アプリカタログを使用してカスタムビジネスアプリを SharePoint Online 環境で利用できるようにする」を](https://docs.microsoft.com/sharepoint/use-app-catalog) 参照してください。
+## <a name="step-2---upload-the-web-part-to-the-tenant-app-catalog"></a>手順 2 - Web パーツをテナント アプリ カタログにアップロードする
+Microsoft 365 ラーニング パスを設定するには、customlearning.sppkg ファイルをテナント全体のアプリ カタログにアップロードして展開します。 アプリ [カタログにアプリを追加](/sharepoint/use-app-catalog) する方法の詳細については、「アプリ カタログを使用して SharePoint Online 環境でカスタム ビジネス アプリを使用する」を参照してください。
 
-## <a name="step-3---provisionidentify-a-modern-communication-site"></a>手順 3-モダンコミュニケーションサイトをプロビジョニング/識別する
-既存の SharePoint コミュニケーションサイトを識別するか、SharePoint Online テナントで新しいサイトをプロビジョニングします。 コミュニケーションサイトのプロビジョニング方法の詳細については、「 [SharePoint Online でコミュニケーションサイトを作成](https://support.office.com/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) する」を参照し、手順に従ってコミュニケーションサイトを作成してください。
+## <a name="step-3---provisionidentify-a-modern-communication-site"></a>手順 3 - 最新の通信サイトをプロビジョニング/識別する
+既存の SharePoint 通信サイトを識別するか、SharePoint Online テナントに新しい通信サイトをプロビジョニングします。 通信サイトをプロビジョニングする方法の詳細については [、「SharePoint Online](https://support.office.com/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) で通信サイトを作成する」を参照し、手順に従って通信サイトを作成します。
 
-## <a name="step-4---add-the-microsoft-365-learning-pathways-app-to-the-site"></a>手順 4-サイトに Microsoft 365 learning パスアプリを追加する
+## <a name="step-4---add-the-microsoft-365-learning-pathways-app-to-the-site"></a>手順 4 - Microsoft 365 ラーニング パス アプリをサイトに追加する
 
-1. SharePoint サイトで、[システム] メニューの [アプリの **追加**] をクリックします。 
-2. **ご使用のアプリ**の下で、[**組織**内] をクリックし、[ **Office 365 のラーニング経路**] をクリックします。 
+1. SharePoint サイトで、[システム] メニューをクリックし、[アプリの追加 **] をクリックします**。 
+2. [ **アプリ] で**、[ **組織から] をクリック** し、[365] の [Office] **をクリックします**。 
 
-## <a name="step-5---set-permissions-for-the-site"></a>手順 5-サイトのアクセス許可を設定する
-サイトに対して次のアクセス許可が設定されていることを確認します。
-- **サイトコレクションの管理者または所有者のグループ** 権限。最初に使用するために、学習経路を設定する customconfig リストアイテムを初期化するために必要です。 
-- **メンバーグループ** -学習経路を管理するために必要なアクセス許可 (コンテンツの表示/非表示、カスタムプレイリストの管理など)
-- **閲覧者グループ** -サイトコンテンツを表示するために必要なアクセス許可。 
+## <a name="step-5---set-permissions-for-the-site"></a>手順 5 - サイトのアクセス許可を設定する
+サイトに対して次のアクセス許可が設定されている必要があります。
+- **サイト コレクション管理者または** 所有者グループの一部 - 最初に使用する学習経路を設定する CustomConfig リスト アイテムを初期化するために必要なアクセス許可。 
+- **メンバー グループ** - コンテンツの非表示と表示、カスタム プレイリストの管理など、学習経路の管理に必要なアクセス許可
+- **[訪問者] グループ** - サイト コンテンツを表示するために必要なアクセス許可。 
 
-## <a name="step-6--execute-powershell-configuration-script"></a>手順 6-PowerShell 構成スクリプトを実行する
-`CustomLearningConfiguration.ps1`ソリューションで使用する3つの[テナントプロパティ](https://docs.microsoft.com/sharepoint/dev/spfx/tenant-properties)を作成するために実行する必要がある PowerShell スクリプトが含まれています。 さらに、このスクリプトは、管理者とユーザーの web パーツを既知の場所にホストするために、サイトページライブラリに2つの [単一パーツアプリページ](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/single-part-app-pages) を作成します。
+## <a name="step-6--execute-powershell-configuration-script"></a>手順 6- PowerShell 構成スクリプトの実行
+PowerShell スクリプトが含まれているので、ソリューションで使用する 3 つのテナント プロパティを作成するために実行 `CustomLearningConfiguration.ps1` する必要があります。 [](/sharepoint/dev/spfx/tenant-properties) さらに、このスクリプトはサイト ページ[](/sharepoint/dev/spfx/web-parts/single-part-app-pages)ライブラリに 2 つの単一パーツ アプリ ページを作成し、管理者とユーザーの Web パーツを既知の場所でホストします。
 
-1. SharePoint Online 管理シェルをまだダウンロードしていない場合は、今すぐダウンロードしてください。 「 [SharePoint Online 管理シェルのダウンロード](https://go.microsoft.com/fwlink/p/?LinkId=255251)」を参照してください。
-2. スクリプトを実行するには、PowerShell の実行ポリシーを設定する必要がある場合があります。 詳細については、「 [実行ポリシーについ](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6)て」を参照してください。
-3. スクリプトを実行 `CustomLearningConfiguration.ps1` します。 テナント管理者の資格情報に加えて、スクリプトによってテナント名とサイト名の入力を求められます。 サイトの URL として次の例を検討して `https://contoso.sharepoint.com/sites/O365CL` `contoso` ください。は、テナント名で、 `O365CL` はサイト名です。 
+1. SharePoint Online 管理シェルをまだダウンロードしていない場合は、今すぐダウンロードしてください。 [「SharePoint Online 管理シェルのダウンロード」を参照してください](https://go.microsoft.com/fwlink/p/?LinkId=255251)。
+2. スクリプトを実行するには、PowerShell 実行ポリシーを設定する必要がある場合があります。 詳細については、「実行ポリシー [について」を参照してください](/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6)。
+3. スクリプトを実行 `CustomLearningConfiguration.ps1` します。 テナント管理者の資格情報に加えて、スクリプトによってテナント名とサイト名の入力を求めるメッセージが表示されます。 サイト URL の次の例を考慮すると、テナント名は、 `https://contoso.sharepoint.com/sites/O365CL` `contoso` サイト `O365CL` 名です。 
 
-### <a name="disabling-telemetry-collection"></a>テレメトリコレクションの無効化
-このソリューションの一部には、既定でオンに設定されている匿名化テレメトリトラッキングオプトインが含まれています。 手動によるインストールを実行していて、テレメトリの追跡をオフにする場合は、 `CustomlearningConfiguration.ps1` $optInTelemetry 変数を $false に設定し、スクリプトを実行するようにスクリプトを変更します。
+### <a name="disabling-telemetry-collection"></a>テレメトリ コレクションの無効化
+このソリューションの一部には、匿名化されたテレメトリ追跡オプトインが含まれます。既定ではオンに設定されています。 手動インストールを行い、テレメトリ追跡をオフにする場合は、スクリプトを変更して $optInTelemetry 変数を $falseに設定し `CustomlearningConfiguration.ps1` 、スクリプトを実行します。
 
-## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>プロビジョニングが成功したことを検証し、CustomConfig リストを初期化する
+## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>プロビジョニングの成功を検証し、CustomConfig リストを初期化する
 
-PowerShell スクリプトが正常に実行されたら、サイトに移動し、最初に使用するために学習経路を設定する **Customconfig** リストアイテムを初期化して、サイトが動作していることを確認します。
+PowerShell スクリプトが正常に実行されると、サイトに移動し、最初に使用する学習経路を設定する **CustomConfig** リスト アイテムを初期化し、サイトが動作している検証を行います。
 
-- `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx` に移動します。 **CustomLearningAdmin.aspx **を開くと、初めて使用するためのラーニング パスを設定する**CustomConfig **リスト アイテムが初期化されます。 次のようなページが表示されます。
+- `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx` に移動します。 **CustomLearningAdmin.aspx** を開くと、初めて使用するためのラーニング パスを設定する **CustomConfig** リスト アイテムが初期化されます。 次のようなページが表示されます。
 
 ![cg-adminapppage.png](media/cg-adminapppage.png)
 
 ## <a name="add-owners-to-site"></a>サイトに所有者を追加する
-テナント管理者は、サイトをカスタマイズするユーザーになる可能性があるので、サイトにいくつかの所有者を割り当てる必要があります。 所有者はサイトの管理権限を持っているため、サイトのページを変更したり、サイトを再ブランド化したりできます。 また、ラーニングパス Web パーツを通じて配信されるコンテンツを非表示にし、表示することもできます。 さらに、カスタムのプレイリストを作成してカスタムサブカテゴリに割り当てることができます。  
+テナント管理者として、サイトをカスタマイズするユーザーになる可能性は低いので、少数の所有者をサイトに割り当てる必要があります。 所有者はサイトに対する管理者権限を持ち、サイト ページを変更したり、サイトのブランドを変更したりすることができます。 また、学習経路 Web パーツを通じて配信されるコンテンツを非表示にし、表示する機能も備っています。 さらに、カスタム プレイリストを作成し、カスタム サブカテゴリに割り当てる機能も備えます。  
 
-1. [SharePoint の **設定** ] メニューの [ **サイトの権限**] をクリックします。
-2. [ **高度なアクセス許可の設定**] をクリックします。
-3. [ **Office 365 所有者のための教育経路] を**クリックします。
-4. [**新しい**  >  **ユーザーをこのグループに追加する**] をクリックし、所有者にするユーザーを追加します。 
-5. 共有メッセージ内の [サイトを探索](https://docs.microsoft.com/Office365/CustomLearning/custom_explore) するためのリンクを追加し、[ **共有**] をクリックします。
+1. [SharePoint の設定] **メニューの** [サイトのアクセス許可 **] をクリックします**。
+2. [アクセス **許可の詳細設定] をクリックします**。
+3. **[365 所有者] の [Officeパス] をクリックします**。
+4. [**新**  >  **しいユーザーをこのグループに追加** する] をクリックし、所有者になるユーザーを追加します。 
+5. [共有] メッセージで [[サイトの](https://docs.microsoft.com/Office365/CustomLearning/custom_explore) 探索] へのリンクを追加し、[共有] を **クリックします**。
 
-## <a name="migrate-custom-content"></a>カスタムコンテンツを移行する
-上記の手順に従って学習機のサイトを再確立した後、 **Customplaylists** リストのリストと **customplaylists** リストの内容を移動する必要があります。 また、必要に応じて、カスタムアセットを構成する実際のカスタムページを既存の学習機能サイトにある場合は、それらを削除することもできます。 **Customplaylists**リスト内のすべてのアイテムに対して、 **customplaylists**リスト内のリストアイテムの ID が、各再生リストのリストアイテムの jsondata フィールドに埋め込まれているため、タスクが困難になることがあります。 そのため、あるサイトから別のサイトに **Customplaylists** リストのコンテンツを移動するだけでは不十分です。 さらに、 **Customassets** リストには、リストアイテムの jsondata フィールドにカスタムアセットのページへの絶対 URL が含まれています。 アセットが移動されず、サイトの名前が変更されない (つまり、絶対 URL がアセットのページに変更される) 場合、 **Customassets** を残すことができます。 ただし、エントリを手動で修正する必要があります。 この種類の移行の複雑さを考慮して、この移行を支援するために、ラーニング経路パートナーの1つを参加させることをお勧めします。 
+## <a name="migrate-custom-content"></a>カスタム コンテンツの移行
+上記の手順に従って学習パス サイトを再確立した後 **、CustomPlaylists** リストと CustomAssets リストの内容を **移動する必要** があります。 また、必要に応じて、カスタム アセットを構成する実際のカスタム ページを、既存の学習経路サイトに住んでいる場合に移動し、そのページを削除する目的で移動することもできます。 **CustomPlaylists** リスト内のすべてのアイテムに対して **、CustomAssets** リスト内のリスト アイテムの ID が各プレイリスト リスト アイテムの JSONData フィールドに埋もれているため、タスクが困難になる可能性があります。 そのため **、CustomPlaylists** リストのコンテンツをあるサイトから別のサイトに移動するだけでは十分ではありません。 さらに **、CustomAssets リスト** には、リスト アイテムの JSONData フィールドにあるカスタム アセットのページへの絶対 URL が含まれる。 アセットが移動され、サイトの名前が変更されない場合 (したがって、絶対 URL をアセットのページに変更 **)、CustomAssets はそのまま** 残ります。 ただし、エントリを手動で修正する必要があります。 移行のこの種類の複雑さを考えると、この移行を支援するために、学習経路パートナーの 1 つを参加させる方法を検討してください。 
 
 ### <a name="next-steps"></a>次の手順
-- 「 [学習経路をカスタマイズ](custom_overview.md)する」を参照してください。 
-- 「 [サイトページの翻訳](custom_translate_page_ml.md)」を参照してください。
-
-
+- 「学習 [経路のカスタマイズ」を参照してください](custom_overview.md)。 
+- 「サイト [ページの翻訳」を参照してください](custom_translate_page_ml.md)。
