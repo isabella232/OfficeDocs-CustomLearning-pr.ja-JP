@@ -1,17 +1,19 @@
 ---
-title: Office 365 での有効期限 (Commute
-description: Office 365 を使用して、すぐに準備するためのクイック手順
+title: Day in the Life with Office 365 - On Your Commute
+description: 365 を使用して、その日の準備Office手順。
 author: karuanag
 ms.author: karuanag
+manager: alexb
 ms.date: 02/01/2019
+audience: itpro
 ms.topic: how-to
-ms.service: sharepoint online
-ms.openlocfilehash: 3224874ac3a9f4a7ce8bde213d11243a4eba184b
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: 65495b941f4c39c45d5e7818d0f1e54c6c10a217
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233669"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749345"
 ---
 # <a name="during-your-commute"></a>通勤時
 
@@ -20,7 +22,7 @@ ms.locfileid: "48233669"
 朝、オフィスに向かう途中も、仕事をすっかり後回しにする必要はありません。 Office 365 があれば、モバイル デバイスに仕事を移し、作業を続けることができます。  このモバイル エクスペリエンスを利用して、安全で生産性の高い通勤時間を実現できます。  
 
 > [!IMPORTANT]
-> 車を運転してオフィスに向かう場合は、安全を第一にし、不注意運転を規制する交通法規すべてに必ず従ってください。 会議に参加する場合は車を一旦止めるようにし、運転しながらテキストを入力したり、メッセージを読んだりはしないでください。**安全**に注意を払うことが一番重要です。
+> 車を運転してオフィスに向かう場合は、安全を第一にし、不注意運転を規制する交通法規すべてに必ず従ってください。 会議に参加する場合は車を一旦止めるようにし、運転しながらテキストを入力したり、メッセージを読んだりはしないでください。**安全** に注意を払うことが一番重要です。
 
 
 ## <a name="tools"></a>ツール

@@ -1,16 +1,19 @@
 ---
 author: pkrebs
 ms.author: pkrebs
+manager: bpardi
 title: Microsoft 365 ラーニング パスの概要
 ms.date: 9/24/2020
 description: Microsoft 365 ラーニング パスが組織での Microsoft 365 サービスの使用と導入を加速する方法について説明します。 学習経路には、カスタム SharePoint Online Web パーツと、Microsoft 365 テナントに簡単にプロビジョニングできる最新の SharePoint Online コミュニケーション トレーニング サイトが含まれます。
+audience: itpro
 ms.service: o365-solutions
-ms.openlocfilehash: 60a6775b1d128c3ed0b88df62dbf990c457fba33
-ms.sourcegitcommit: 349d9164eb268cb701a9c99c88053198ee3a032c
+ms.topic: article
+ms.openlocfilehash: 240c0da6294d8b00f95fa5dcf7f66d4eea6814bb
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50573409"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749355"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 学習経路 
 Microsoft 365 ラーニング パスは、組織内での Microsoft 365 サービスの使用と導入を増やす目的で設計された、カスタマイズ可能なオンデマンド学習ソリューションです。    

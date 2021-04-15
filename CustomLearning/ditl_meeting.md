@@ -1,17 +1,19 @@
 ---
-title: Office 365 でのライフサイクルの1日
-description: Office 365 を使用して、すぐに準備するためのクイック手順
+title: Day in the Life with the Life with Office 365 - 会議のOffice
+description: 365 で作業日の準備を整えるOfficeヒント
 author: karuanag
 ms.author: karuanag
+manager: alexb
+audience: itpro
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
-ms.openlocfilehash: fb2820a6492c3f7c107442e5aacbe5bf60adc7c8
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: 426e675aa73d91ed82c09a7fca4dcc0053f4c821
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233639"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749375"
 ---
 # <a name="meeting-at-the-office"></a>Office の会議
 

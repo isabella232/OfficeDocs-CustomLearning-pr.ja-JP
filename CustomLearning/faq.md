@@ -1,88 +1,91 @@
 ---
+title: Microsoft 365 ラーニング パスに関するよく寄せられる質問
 author: karuanag
 ms.author: karuanag
-title: Microsoft 365 学習経路のよく寄せられる質問
 ms.date: 02/10/2019
-description: Microsoft 365 学習経路のよく寄せられる質問情報
-ms.service: sharepoint online
-ms.openlocfilehash: 56ea4d5ff50cf42009627af23eab9313853ace2b
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.topic: article
+manager: alexb
+audience: itpro
+description: Microsoft 365 の学習経路に関するよく寄せられる質問の情報。
+ms.service: sharepoint-online
+ms.openlocfilehash: f791d6421740c3458be525a7e306b10edab58259
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233539"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749405"
 ---
 # <a name="frequently-asked-questions"></a>よく寄せられる質問
 
-### <a name="i-recently-saw-a-blog-post-that-custom-learning-for-office-365-is-being-renamed-to-microsoft-365-learning-pathways-are-there-other-changes-being-added-to-the-solution-as-part-of-the-renaming-effort-should-i-update-the-solution-in-my-organization"></a>最近、ブログ投稿が公開されました。 Office 365 のカスタム学習は、Microsoft 365 Learning の経路に変更されています。 名前の変更作業の一環として、ソリューションに他の変更が追加されているかどうか。 組織内のソリューションを更新する必要がありますか。
+### <a name="i-recently-saw-a-blog-post-that-custom-learning-for-office-365-is-being-renamed-to-microsoft-365-learning-pathways-are-there-other-changes-being-added-to-the-solution-as-part-of-the-renaming-effort-should-i-update-the-solution-in-my-organization"></a>最近、カスタム ラーニング for Office Microsoft 365 ラーニング パスに名前が変更されているというブログ投稿を見ました。 名前の変更作業の一環として、ソリューションに他の変更が追加されていますか? 組織のソリューションを更新する必要がありますか?
 
-Microsoft 365 learning の経路のリリースは、Microsoft 365 ブランド化に合わせてソリューションの名前を変更することに特化した rebranding 努力です。 組織内で現在正常に実行されている Office 365 のカスタム学習がある場合、現時点ではソリューションを更新する必要はありません。  
+Microsoft 365 ラーニング パス リリースは、Microsoft 365 のブランド化に合わせてソリューションの名前を変更するためのブランド変更の取り組みです。 組織で現在 365 のカスタム Officeが正常に実行されている場合は、現時点でソリューションを更新する必要はありません。  
 
-### <a name="what-are-the-requirements-for-installing-microsoft-365-learning-pathways-into-my-tenant-environment"></a>Microsoft 365 learning の経路をテナント環境にインストールするための要件は何ですか。
+### <a name="what-are-the-requirements-for-installing-microsoft-365-learning-pathways-into-my-tenant-environment"></a>テナント環境に Microsoft 365 ラーニング パスをインストールする場合の要件は何ですか?
 
 - SharePoint Onlineとコミュニケーションサイトが有効になっています。
-- CLO365 をプロビジョニングするユーザーは、インストール先のテナントのテナント管理者である必要があります。
-- テナント ' App Catalog ' は、SharePoint 管理センターの [アプリ] オプション内で使用できる必要があります。
-- 新しいアプリカタログが作成された場合、アプリカタログを完全にプロビジョニングするには、30分以上の待機時間が必要になります。 テナントのアプリカタログを作成した後で、Microsoft 365 learning の経路を直接プロビジョニングしようとすると、ラーニングパスソリューションのプロビジョニングエラーが発生します。 
-- CLO365 をプロビジョニングするユーザーは、インストール先のテナントのアプリカタログのサイトコレクション管理者である必要があります。
+- CLO365 をプロビジョニングする個人は、インストール対象テナントのテナント管理者である必要があります。
+- テナント 'App Catalog' は、SharePoint 管理センターの [アプリ] オプション内で使用できる必要があります。
+- 新しいアプリ カタログを作成する場合、アプリ カタログを完全にプロビジョニングするには、30 分以上の待機時間が必要です。 テナント アプリ カタログの作成後に Microsoft 365 ラーニング パスを直接プロビジョニングしようとすると、ラーニング パス ソリューションのプロビジョニング エラーが発生します。 
+- CLO365 をプロビジョニングする個人は、インストール対象テナントのアプリ カタログのサイト コレクション管理者である必要があります。
 
-### <a name="why-is-microsoft-asking-for-tenant-permissions-when-installing-microsoft-365-learning-pathways"></a>Microsoft 365 learning の経路をインストールするときに Microsoft がテナントのアクセス許可を要求する理由 
+### <a name="why-is-microsoft-asking-for-tenant-permissions-when-installing-microsoft-365-learning-pathways"></a>Microsoft 365 ラーニング パスをインストールするときにテナントのアクセス許可を求める理由 
 
-- SharePoint Online プロビジョニングサービスは、アクセス許可を使用して、ラーニングパス SharePoint サイトをプロビジョニングし、サイトのページを作成し、テナント内に Microsoft 365 Learning のパスアプリケーションをインストールします。 これは、アクセス許可を要求する唯一の理由です。 要求されたアクセス許可がないと、SharePoint プロビジョニングサービスは、学習経路サイトテンプレートと web パーツを自動的にインストールするコマンドを実行できません。 
+- SharePoint Online Provisioning サービスは、アクセス許可を使用して、ラーニング パスの SharePoint サイトをプロビジョニングし、サイトのページを作成し、テナント内に Microsoft 365 ラーニング パス アプリケーションをインストールします。 これは、アクセス許可を要求する唯一の理由です。 要求されたアクセス許可がない場合、SharePoint Provision Service は、学習経路サイト テンプレートと Web パーツを自動的にインストールするコマンドを実行できません。 
 
-### <a name="what-are-the-implications-of-microsoft-365-learning-pathways-being-in-a-beta-preview"></a>ベータ版のプレビューには、Microsoft 365 の学習経路がどのような影響がありますか。 
+### <a name="what-are-the-implications-of-microsoft-365-learning-pathways-being-in-a-beta-preview"></a>Microsoft 365 ラーニング パスがベータ プレビューに含めらどのような影響を受けるのか。 
 
-Microsoft 365 の学習経路は、現在ベータ版のプレビューに含まれています。 Microsoft 365 learning の経路を評価、計画、および実装する際には、次の点を考慮してください。
+Microsoft 365 のラーニング パスは現在ベータ プレビューに表示されています。 Microsoft 365 の学習経路を評価、計画、実装する際には、次の点を考慮してください。
 
-- 任意のベータソリューションと同様に、サービス管理チームはサービスとそのコンポーネントに変更を加える権利を留保します。 バグと UX の問題を解決している間は、Web パーツを更新する必要があります。
-- Web パーツを更新するには、GitHub リポジトリからダウンロードして、テナントのアプリカタログにアップロードする必要があります。 「Microsoft 365 learning の [Readme](https://github.com/pnp/custom-learning-office-365/blob/master/README.md) ファイル」の「ソリューションを更新する」セクションを参照してください。 
+- Beta ソリューションと同様に、サービス管理チームは、サービスとそのコンポーネントを変更する権利を持っています。 バグや UX の問題を積極的に解決する場合は、WebPart を更新する必要があります。
+- Web パーツを更新するには、GitHub リポジトリから Web パーツをダウンロードし、テナント アプリ カタログにアップロードする必要があります。 Microsoft 365 ラーニング パス Readme ファイルの「ソリューションの更新」 [セクションを参照](https://github.com/pnp/custom-learning-office-365/blob/master/README.md) してください。 
 
-### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>Microsoft 365 の学習経路はどの言語で利用できますか?
+### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>Microsoft 365 ラーニング パスは、どの言語で利用できますか?
 
-現在、Microsoft 365 の学習経路は英語でのみご利用いただけます。 自動エンドツーエンドプロビジョニングは、英語のテナントでのみ機能します。 2020年の第2四半期に、以下の言語について多言語サポートをロールアウトすることを計画しています。 
+Microsoft 365 ラーニング パスは現在、英語でのみ利用できます。 エンドツーエンドの自動プロビジョニングは、英語のテナントでのみ機能します。 2020 年第 2 四半期には、次の言語の多言語サポートを展開する予定です。 
 
-- 簡体字中国語 
+- 中国語 (簡体字) 
 - フランス語  
 - ドイツ語 
 - イタリア語 (イタリア) 
 - 日本語 (日本)  
 - ポルトガル語 (ブラジル) 
-- ロシア語 (ロシア)  
+- ロシア語 (ロシア語)  
 - スペイン語 
 
-> このオランダ語のサポートは、学習経路の複数言語サポートの今後のリリースには含まれません。 今後、新しい言語オプションを引き続き評価する予定です。
+> オランダ語のサポートは、今後リリースされる学習経路の多言語サポートには含まれません。 今後も新しい言語オプションを評価していきます。
 
-### <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>テナント環境にサイトをインストールするには、どのくらいの時間がかかりますか?
+### <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>テナント環境にサイトをインストールするにはどのくらいの時間が必要ですか?
 
-インストールのテストに基づき、15分未満で完了する必要があります。 これには、要件に合わせてサイトをカスタマイズするために必要な時間は含まれません。
+インストールのテストに基づいて、15 分未満かかる必要があります。 これには、要件に合わせてサイトをカスタマイズするために必要な時間は含まれません。
 
-### <a name="is-microsoft-365-learning-pathways-an-open-source-solution-and-what-are-the-implications"></a>Microsoft 365 learning はオープンソースソリューションに影響を与えますか?
+### <a name="is-microsoft-365-learning-pathways-an-open-source-solution-and-what-are-the-implications"></a>Microsoft 365 ラーニング パスはオープンソース ソリューションであり、どのような意味がありますか?
 
-Microsoft 365 learning の経路は、Open Source Software (OSS) ソリューションであり、次のような一連の利点と考慮事項が germane にあります。
+Microsoft 365 ラーニング パスは、オープンソース ソフトウェア (OSS) ソリューションであり、OSS に対する一連の利点と考慮事項を提供します。
 
 #### <a name="benefits"></a>利点 
-- **Microsoft 365 学習経路は無料のソリューションです。** お客様は、お客様のテナントにソリューションをインストールし、カスタマイズしてエンドユーザーが使用できるようにすることができます。
-- **OSS は、迅速な開発とコラボレーションを可能にします。**  すべてのオープンソースソリューションは、投稿者の広範なコミュニティで利用できます。  Microsoft は、技術革新を推進するためにこの方法をコミットしています。  お客様の主要なサービス管理チームが、お客様の正式な構築にどのような貢献が組み込まれているかを判断するための適切な経験を提供することにより、お客様にメリットがもたらされます。  
-- **OSS はパートナーとの共同作業を可能にします。** Microsoft は、今後の拡張および Microsoft 365 learning 経路への貢献に向けた取り組みをサポートするために、いくつかの学習パートナーと連携しています。 これらのプランが最終処理されるときに、詳細情報を提供します。 
+- **Microsoft 365 ラーニング パスは無料のソリューションです。** お客様は、テナントにソリューションをインストールし、カスタマイズし、エンド ユーザーがソリューションを利用できるようすることができます。
+- **OSS を使用すると、迅速な開発とコラボレーションが可能です。**  すべてのオープンソース ソリューションは、幅広いコミュニティの投稿者が利用できます。  Microsoft は、イノベーションを推進するこの方法に取り組む。  お客様の最も幅広いセットに利益をもたらすエクスペリエンスを提供するために、コア サービス管理チームは、公式ビルドに組み込む投稿を決定する権利を持つ。  
+- **OSS を使用すると、パートナーとの共同作業が可能です。** Microsoft は、複数のラーニング パートナーと協力して、Microsoft 365 ラーニング パスへの今後の拡張機能と貢献に向けた取り組みをサポートしています。 これらの計画が完了するに従って、より多くの情報を提供します。 
     
 #### <a name="implications"></a>影響
-- **OSS は、市販の製品ではありません。** 商用製品には、更新と修正プログラムが含まれており、料金ベースのサポート契約に含まれています。 Microsoft は現在、Microsoft 365 learning の経路に関するドキュメント、更新、パッチを提供していますが、この特定のビジネスシナリオを改善するための取り組みに基づいています。 このプランでは、学習経路への投資を継続することになりますが、お客様は、サービス管理チームが将来的に戦略を変更する可能性があることに注意する必要があります。 今後の Microsoft 365 learning 経路への変更は、有効になる前に伝達されます。 
-- **OSS では、microsoft 365 の学習経路は、GitHub のオンライン問題リストを通じてサポート**されます。 microsoft 365 learning の経路は、既存の microsoft サポート契約の対象外です。 提出された問題には、Microsoft 365 learning のサービス所有者とコミュニティによるトリアージがあります。 問題解決サービスレベルは、有償の Microsoft サポート契約と同じレベルではありません。  
+- **OSS は市販の製品ではありません。** 商用製品には更新と修正プログラムが含まれており、有料サポート契約に含まれています。 Microsoft は現在、Microsoft 365 の学習経路に関するドキュメント、更新、修正プログラムを提供しますが、この特定のビジネス シナリオを改善する取り組みに基づいて行っています。 今後も、サービス管理チームが戦略を変更する可能性がある点に注意して、学習経路に投資し続ける予定です。 Microsoft 365 ラーニング パスに対する今後の変更は、有効になる前に伝達されます。 
+- **OSS として、Microsoft 365** ラーニング パスは GitHub のオンラインの問題リストを通じてサポートされています。Microsoft 365 ラーニング パスは、既存の Microsoft サポート 契約ではカバーされません。 提出された問題は、Microsoft 365 ラーニング パスサービスの所有者とコミュニティによってトリアージされます。 問題解決サービス レベルは、有料の Microsoft サポート 契約と同じレベルではありません。  
 
-### <a name="can-we-make-the-microsoft-365-learning-pathways-a-subsite-of-our-primary-sharepoint-site-collection"></a>Microsoft 365 learning は、プライマリ SharePoint サイトコレクションのサブサイトを作成できますか。
+### <a name="can-we-make-the-microsoft-365-learning-pathways-a-subsite-of-our-primary-sharepoint-site-collection"></a>Microsoft 365 ラーニング パスをプライマリ SharePoint サイト コレクションのサブサイトにできますか?
 
-いいえ。 サイトは、コミュニケーションサイトテンプレートに基づいています。これは、常にルートサイトコレクションであることを意図しています。
+いいえ。 サイトはコミュニケーション サイト テンプレートに基づいており、常にルート サイト コレクションを意味します。
 
 > [!NOTE]
-> エンドユーザーがサイトにアクセスするために必要なアクセス許可について考慮することが重要です。 多くの組織では、セキュリティまたはユーザーグループを定義しています。 従業員コミュニティに対してを開始する準備ができたら、適切なセキュリティグループを新しいトレーニングポータルに追加する必要があります。
+> エンド ユーザーがサイトにアクセスするために必要なアクセス許可を考慮することが重要です。 ほとんどの組織では、セキュリティ グループまたはユーザー グループが定義されています。 従業員コミュニティに起動する準備ができたら、適切なセキュリティ グループを新しいトレーニング ポータルに追加する必要があります。
 
 ### <a name="i-need-to-reinstall-the-site-what-should-i-do"></a>サイトを再インストールする必要があります。どうしたらいいでしょう。
 
-[ここで](custom_provision.md)公開されているインストール手順に従います。
+ここに公開されているインストール手順に従 [います](custom_provision.md)。
 
 > [!NOTE]
-> 以前のインストールでテレメトリを無効にしていて、テレメトリを無効にしたままにする場合は、ここでテレメトリを無効にするための手順に従う必要があります。
+> 以前のインストールでテレメトリを無効にし、テレメトリを無効にして続行する場合は、ここでテレメトリを無効にする手順に従う必要があります。
 
-### <a name="we-made-updates-to-our-implementation-of-microsoft-365-learning-pathways-will-we-lose-these-updates-made-to-site-template-playlists-if-we-reinstall-the-site"></a>Microsoft 365 の学習経路の実装に対して更新を行いました。 サイトを再インストールすると、これらの更新プログラム (サイトテンプレート、再生リストに加えられたもの) は失われますか?
+### <a name="we-made-updates-to-our-implementation-of-microsoft-365-learning-pathways-will-we-lose-these-updates-made-to-site-template-playlists-if-we-reinstall-the-site"></a>Microsoft 365 ラーニング パスの実装に関する更新を行いました。 サイトを再インストールすると、これらの更新プログラム (サイト テンプレート、再生リスト) が失われるでしょうか。
 
-現在のインストール環境でサイトを再インストールすると、個々のページおよびカスタム再生リストに対するカスタマイズが失われます。  
+現在のインストールでサイトを再インストールすると、個々のページとカスタム プレイリストのカスタマイズは失われます。  

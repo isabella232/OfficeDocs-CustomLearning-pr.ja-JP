@@ -2,15 +2,15 @@
 author: pkrebs
 ms.author: pkrebs
 title: ラーニング パス機能の更新
-ms.date: 10/20/2019
+ms.date: 4/13/2021
 description: ラーニング パス機能の更新
-ms.service: sharepoint online
-ms.openlocfilehash: dba6903553ef5b51bc6d1e727c0e61781f9db26a
-ms.sourcegitcommit: 349d9164eb268cb701a9c99c88053198ee3a032c
+ms.service: o365-solutions
+ms.openlocfilehash: 4be3d93b40e1e7ab5545dd1f835369df5f7fc7e0
+ms.sourcegitcommit: 6b304698cdde8fae25e990f4b4680d142a1ecba1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50573389"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51755283"
 ---
 # <a name="learning-pathways-version-40-feature-updates"></a>ラーニング パス バージョン 4.0 の機能更新プログラム
 以下に、学習経路バージョン 4.0 の機能更新プログラムが含まれています。  
@@ -21,7 +21,7 @@ ms.locfileid: "50573389"
 ### <a name="multilingual-support-for-dutch"></a>オランダ語の多言語サポート 
 多言語による学習経路のサポートにオランダ語が含まれる。 サポートされている言語の一覧は次のとおりです。 
 - 英語     
-- 簡体字中国語 
+- 中国語 (簡体字) 
 - フランス語 
 - ドイツ語 
 - イタリア語 (イタリア) 
@@ -41,14 +41,15 @@ Microsoft 365 ラーニング パス バージョン 4.0 には、次の新機�
 ### <a name="multilingual-support-for-learning-pathways"></a>学習経路の多言語サポート 
 多言語による学習経路のサポートにオランダ語が含まれる。 
 - 英語     
-- 簡体字中国語 
+- 中国語 (簡体字) 
 - フランス語 
 - ドイツ語 
 - イタリア語 (イタリア) 
 - 日本語 (日本) 
 - ポルトガル語 (ブラジル) 
 - ロシア語 (ロシア語) 
-- スペイン語 
+- スペイン語
+- オランダ語 
 
 
 詳細については、「ラーニング パス多言語 [の概要」を参照してください](custom_overview.md)。 
@@ -62,12 +63,9 @@ Microsoft 365 ラーニング パス バージョン 4.0 には、次の新機�
 ## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>カスタム サブカテゴリを学習する画像ピッカー 
 学習パスは、カスタムプレイリストとサブカテゴリに使いやすい画像ピッカーを提供します。  過去のバージョンでは、プレイリストのイメージを変更できますが、サブカテゴリは変更していけなくなっています。  
 
-詳しくは、以下を参照してください。
+詳細については、以下を参照してください。
 - [カスタムプレイリストを作成します](custom_createnewplaylist.md)。 
 - [サブカテゴリの作成](custom_createnewcat.md)
-
-> [!NOTE]
-> オランダ語のサポートは、今後リリースされる学習経路の多言語サポートには含まれません。 今後も新しい言語オプションを評価していきます。
 
 ## <a name="november-2019-version-30-feature-updates"></a>2019 年 11 月バージョン 3.0 の機能更新プログラム
 主に顧客からのフィードバックに基づいて、Microsoft 365 ラーニング パス バージョン 3.0 に次の新機能が追加されました。

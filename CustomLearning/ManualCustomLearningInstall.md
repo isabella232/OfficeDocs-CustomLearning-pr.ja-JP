@@ -3,14 +3,17 @@ author: pkrebs
 ms.author: pkrebs
 title: 手動インストールのラーニング パス
 ms.date: 02/18/2019
+manager: bpardi
 description: 手動インストールのラーニング パス
-ms.service: sharepoint online
-ms.openlocfilehash: 992fe28f1ca2bdd09c5d29a4a5342b06ff093105
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+audience: itpro
+ms.service: o365-administration
+ms.topic: article
+ms.openlocfilehash: 212ee8a1517cf79538d4a2d076f60f9382eeaf74
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162844"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749315"
 ---
 # <a name="manually-installing-and-configuring-custom-learning-for-office-365"></a>365 のカスタム 学習を手動でインストールOfficeする
 
@@ -26,15 +29,15 @@ Web パーツとサイト コレクションを手動でインストールして
 
 ## <a name="prerequisites"></a>前提条件
 
-テナント全体のアプリ カタログをセットアップして構成している必要があります。 [「365 テナントOfficeセットアップ](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site)」を参照し、[アプリ カタログ サイトの作成] セクションに従います。 テナント全体のアプリ カタログが既にプロビジョニングされている場合は、このセットアップ プロセスを完了するためにパッケージをアップロードする権限を持つアカウントにアクセスする必要があります。 通常、これは SharePoint 管理者の役割を持つアカウントです。 その役割を持つアカウントが機能しない場合は、SharePoint 管理センターに移動し、アプリ カタログ サイト コレクションのサイト コレクション管理者を見つけて、サイト コレクション管理者の 1 人としてログインするか、サイト コレクション管理者に失敗した SharePoint 管理者アカウントを追加します。 また、SharePoint テナント管理者であるアカウントにアクセスする必要があります。
+テナント全体のアプリ カタログをセットアップして構成している必要があります。 [「365 テナントOfficeセットアップ」を参照](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site)し、[アプリ カタログ サイトの作成] セクションに従います。 テナント全体のアプリ カタログが既にプロビジョニングされている場合は、このセットアップ プロセスを完了するために、パッケージをアップロードする権限を持つアカウントにアクセスする必要があります。 通常、このアカウントには SharePoint 管理者の役割があります。 その役割を持つアカウントが機能しない場合は、SharePoint 管理センターに移動し、アプリ カタログ サイト コレクションのサイト コレクション管理者を見つけて、サイト コレクション管理者の 1 人としてログインするか、サイト コレクション管理者に失敗した SharePoint 管理者アカウントを追加します。 また、SharePoint テナント管理者であるアカウントにアクセスする必要があります。
 
 ## <a name="upload-the-web-part-to-the-tenant-app-catalog"></a>Web パーツをテナント アプリ カタログにアップロードする
 
-カスタム ラーニングを Office 365 に設定するには、customlearning.sppkg ファイルをテナント全体のアプリ カタログにアップロードして展開します。 アプリ カタログ [にアプリを追加](/sharepoint/use-app-catalog) する方法の詳細については、「アプリ カタログを使用して SharePoint Online 環境でカスタム ビジネス アプリを使用する」を参照してください。
+カスタム ラーニングを Office 365 に設定するには、customlearning.sppkg ファイルをテナント全体のアプリ カタログにアップロードして展開します。 アプリ [カタログにアプリを追加する](/sharepoint/use-app-catalog) 方法の詳細については、「アプリ カタログを使用して SharePoint Online 環境でカスタム ビジネス アプリを使用する」を参照してください。
 
 ## <a name="provisionidentify-modern-communication-site"></a>モダン コミュニケーション サイトのプロビジョニング/識別
 
-既存の SharePoint 通信サイトを識別するか、SharePoint Online テナントに新しい通信サイトをプロビジョニングします。 通信サイトをプロビジョニングする方法の詳細については [、「SharePoint Online](https://support.office.com/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) で通信サイトを作成する」を参照し、手順に従って通信サイトを作成します。
+既存の SharePoint 通信サイトを識別するか、SharePoint Online テナントに新しい通信サイトをプロビジョニングします。 通信サイトを準備する方法の詳細については [、「SharePoint Online](https://support.office.com/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) で通信サイトを作成する」を参照し、手順に従って通信サイトを作成します。
 
 ## <a name="set-permissions-for-the-site"></a>サイトのアクセス許可を設定する
 
@@ -44,11 +47,11 @@ Web パーツとサイト コレクションを手動でインストールして
 
 ## <a name="execute-powershell-configuration-script"></a>PowerShell 構成スクリプトの実行
 
-PowerShell スクリプトが含まれているので、ソリューションで使用する 3 つのテナント プロパティを作成するために実行 `CustomLearningConfiguration.ps1` する必要があります。 [](/sharepoint/dev/spfx/tenant-properties) さらに、このスクリプトはサイト ページ [ライブラリに](/sharepoint/dev/spfx/web-parts/single-part-app-pages) 2 つの単一パーツ アプリ ページを作成し、管理者とユーザーの Web パーツを既知の場所でホストします。
+PowerShell スクリプトが含まれているので、ソリューションで使用する 3 つのテナント プロパティを作成するために実行 `CustomLearningConfiguration.ps1` する必要があります。 [](/sharepoint/dev/spfx/tenant-properties) さらに、このスクリプトはサイト ページ[](/sharepoint/dev/spfx/web-parts/single-part-app-pages)ライブラリに 2 つの単一パーツ アプリ ページを作成し、管理者とユーザーの Web パーツを既知の場所でホストします。
 
 ### <a name="disabling-telemetry-collection"></a>テレメトリ コレクションの無効化
 
-このソリューションの一部には、匿名化されたテレメトリ追跡オプトインが含まれます。既定ではオンに設定されています。 手動インストールを実行し、テレメトリ追跡をオフにする場合は、スクリプトを変更して、$optInTelemetry 変数を $false `CustomlearningConfiguration.ps1` に設定してください。
+このソリューションの一部には、匿名化されたテレメトリ追跡オプトインが含まれます。既定ではオンに設定されています。 手動インストールを実行し、テレメトリ追跡をオフにする場合は、スクリプトを変更して、$optInTelemetry 変数を $false `CustomlearningConfiguration.ps1` に設定します。
 
 手動インストールを実行していない場合にテレメトリ追跡をオフにする場合は、実行時にテレメトリ追跡が無効にされる別のスクリプト `TelemetryOptOut.ps1` が含まれています。
 
