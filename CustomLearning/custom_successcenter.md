@@ -1,39 +1,42 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: ラーニング・経路管理者成功センター
+title: ラーニング パス管理者サクセス センター
 ms.date: 10/24/2019
-description: ラーニング・経路管理者成功センター
-ms.service: sharepoint online
-ms.openlocfilehash: 9d2a675289662dcf0e9042d7ac44e620ab71f653
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: ラーニング パス管理者サクセス センター
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: 321602a71691f2297eab21dcedf16998fc6aef2a
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233899"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000273"
 ---
-# <a name="learning-pathways-admin-success-center"></a>ラーニング・経路管理者成功センター
+# <a name="learning-pathways-admin-success-center"></a>ラーニング パス管理者サクセス センター
 
-Microsoft 365 learning ・パス管理者成功センターへようこそ。 管理者成功センターは、ラーニングパスの展開の計画、カスタマイズ、導入、および影響の測定に役立つガイダンスとリソースを提供します。
+Microsoft 365 ラーニング パス管理者サクセス センターへようこそ。 管理サクセス センターには、学習経路の展開の計画、カスタマイズ、導入促進、および影響の測定に役立つガイダンスとリソースが提供されています。
 
-![cg-successcenter.png](media/cg-successcenter.png)
+![ラーニング パス管理者サクセス センターのホーム ページ。](media/cg-successcenter.png)
 
 ## <a name="sign-in-to-office-365"></a>Office 365 にサインインする 
 
-1.  Web ブラウザーを開き、office.com または組織のサインインの場所に移動します。 
+1.  Web ブラウザーを開き、office.com または組織のサインイン場所に移動します。 
 2.  ユーザー名とパスワードでサインインします。
-3.  テナント管理者から提供された URL を使用してサイトの場所に移動するか、Office 365 のホームページから [SharePoint] を選択して、サイトを選択します。 
+3.  テナント管理者が提供する URL を使用してサイトの場所に移動するか、Office 365 ホーム ページから SharePoint を選択し、サイトを選択します。 
 
-### <a name="get-started-with-the-admin-success-center"></a>管理者成功センターの使用を開始する
+### <a name="get-started-with-the-admin-success-center"></a>管理サクセス センターの使用を開始する
 
-管理者成功センターは、ラーニングパスの展開の計画、カスタマイズ、導入、および影響の測定に役立つガイダンスとリソースを提供します。 
+管理サクセス センターには、学習経路の展開の計画、カスタマイズ、導入促進、および影響の測定に役立つガイダンスとリソースが提供されています。 
 
-- Microsoft 365 learning の経路の **ホーム** ページで、[ **管理者成功センターの開始**] をクリックします。
+- [Microsoft 365 ラーニング パス] ホーム ページ **で** 、[管理サクセス センターの使用を開始 **する] をクリックします**。
 
-ラーニング経路は、ソリューションの管理者成功センター内のガイダンスを提供します。 管理者成功センターのドキュメントは、このドキュメントセットでも参照できます。 
+ラーニング パスは、ソリューションの管理サクセス センター内のガイダンスを提供します。 管理者サクセス センターのドキュメントは、次のドキュメント セットでも使用できます。 
 
 - [学習コンテンツを計画する](custom_plancontent.md)
 - [学習経路をカスタマイズする](custom_overview.md)
-- [ドライブ導入](driveadoption.md)
-- [測定影響](custom_measureimpact.md)
+- [導入の促進](driveadoption.md)
+- [影響を測定する](custom_measureimpact.md)
 

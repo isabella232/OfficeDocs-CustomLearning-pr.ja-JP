@@ -1,16 +1,19 @@
 ---
 author: pkrebs
 ms.author: pkrebs
+manager: bpardi
 title: ラーニング パス コンテンツの更新
 ms.date: 3/30/2020
+audience: Admin
+ms.topic: article
 description: ラーニング パス コンテンツの更新
 ms.service: o365-solutions
-ms.openlocfilehash: 092520d6c56f9d9d96f4d4de8ff5d2dbc898e1f2
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.openlocfilehash: 6ec05d670dd9ccd925e07f71e3a8e5b99bc4621e
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163084"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000113"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 Learning Pathways コンテンツ更新プログラム
 学習経路は、四半期ごとにコンテンツ更新サイクルに従う努力をしています。 コンテンツ更新プログラムの適用方法とコンテンツ更新プログラムの管理方法の詳細については、「コンテンツ更新プログラムの管理 [」を参照してください](custom_contentupdatesmanage.md)。 
@@ -289,7 +292,7 @@ Office 365 が Microsoft 365 にブランド変更されました。 名前の�
 - 作業ファイルを保存する
 - 高度な代替手段
 ##### <a name="best-practices-for-collaborating-with-office-365-6-new-assets"></a>365 と共同作業するためのベスト Office (6 つの新しいアセット)
-- 概要
+- 作業の開始
 - 共有
 - 共同作成者
 - ファイル内のチャット
@@ -323,7 +326,7 @@ Teams コンテンツに対してさまざまな更新が行われた。
 ### <a name="office-for-the-web"></a>Web 用 Office
 Officeには、ユーザーが Web 上のユーザーと作成、共有、および共同作業を行うシナリオ用の一連のOffice提供されます。 この一連のコンテンツは、Google G Suite から Microsoft 365 に切り替える組織にも有用です。
 #### <a name="get-started-five-new-assets"></a>開始する (5 つの新しいアセット)
-- 概要
+- 作業の開始
 - 検索で検索する
 - 新しいドキュメントの作成
 - 仕事に戻る

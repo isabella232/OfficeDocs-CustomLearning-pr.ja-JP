@@ -1,50 +1,50 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Microsoft 365 ラーニングの経路アセットへのリンク
+title: Microsoft 365 ラーニング パスアセットへのリンク
 ms.date: 02/15/2019
-description: Microsoft 365 learning の経路アセットにリンクする方法
-ms.service: sharepoint online
-ms.openlocfilehash: 737bff4c8d98e210e619d16bb680a9ea30334d93
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: Microsoft 365 ラーニング パスアセットへのリンク方法
+ms.service: sharepoint-online
+ms.openlocfilehash: ae17cb531ffb66378749e4d96e72a8bb1db03dc3
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234319"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999623"
 ---
 # <a name="link-to-learning-pathways-content"></a>学習経路コンテンツへのリンク
 
-学習経路では、次の2つの方法でコンテンツにリンクすることができます。
+学習経路では、コンテンツにリンクする 2 つの方法があります。
 
-- 表示するコンテンツに対してフィルター処理された Web パーツをホストするページへのリンク 
-- Web パーツのインスタンスへの直接リンク
+- 表示するコンテンツ用にフィルター処理された Web パーツをホストするページへのリンク 
+- Web パーツのインスタンスに直接リンクする
 
 ## <a name="link-to-a-page"></a>ページへのリンク
 
-Microsoft 365 learning の経路の web パーツで新しいページと学習経験を作成した場合は、表示するコンテンツを表示するように構成された Web パーツを使用してページにリンクできます。 前のセクションでは、Excel の再生リストをページに表示する方法について説明しました。 これで、ホームページを編集してページにリンクすることができました。 
+Microsoft 365 ラーニング パス Web パーツで新しいページと学習エクスペリエンスを作成した場合は、表示するコンテンツを表示するように構成された Web パーツを使用してページにリンクできます。 前のセクションでは、ページに Excel プレイリストを表示する方法について説明しました。 これで、ホーム ページを編集してページにリンクできます。 
 
-1. ホームページで、[ **編集**] をクリックします。
-2. ホームページのタイルのいずれかで [ **詳細の編集** ] をクリックします。 この例では、推奨さ **れるプレイリスト** のタイルを編集します。
-3. [ **リンク**] で、[ **変更**] をクリックします。
+1. [ホーム] ページで、[編集] を **クリックします**。
+2. [ホーム **ページ] タイルの** 1 つで [詳細の編集] をクリックします。 この例では、[推奨されるプレイリスト] **タイルを編集** します。
+3. [リンク **] で**、[変更] **をクリックします**。
 
 ![cg-linktopage.png](media/cg-linktopage.png)
 
-4. [ **サイト**]、[ **サイトページ**] の順にクリックしてリンク先のページをクリックし、[ **開く**] をクリックします。 この例では、前のセクションで説明した **Create-your-own-experience** ページにリンクします。
-5. [ヒーローのプロパティ] ウィンドウを閉じ、[ **発行**] をクリックして、リンクをテストします。 
+4. [ **サイト]** **、[サイト** ページ] の順にクリックし、リンク先のページをクリックし、[開く] を **クリックします**。 この例では、前のセクションで説明した **Create-your-own-experience.aspx** ページにリンクします。
+5. [ヒーローのプロパティ] ウィンドウを閉じ、[発行] **をクリック** し、リンクをテストします。 
 
-## <a name="link-to-the-microsoft-365-learning-pathways-web-part"></a>Microsoft 365 learning の経路の web パーツへのリンク
-ラーニング経路を使用すると、管理者またはエンドユーザーは、Web パーツを含むページに依存しない Web パーツのインスタンスにリンクすることができます。 コピーしたリンクやリンクを他のページから共有することができます。 コピーされたリンクをクリックすると、CustomLLearningViewer ページに Microsoft 365 learning の経路の web パーツインスタンスが表示されます。 例を見てみましょう。 
+## <a name="link-to-the-microsoft-365-learning-pathways-web-part"></a>Microsoft 365 ラーニング パス Web パーツへのリンク
+学習パスを使用すると、管理者、またはエンド ユーザーが、Web パーツを含むページに依存しない Web パーツのインスタンスにリンクできます。 コピーしたリンクを共有したり、他のページからリンクを共有することができます。 コピーされたリンクをクリックすると、CustomLLearningViewer.aspx ページに Microsoft 365 ラーニング パス Web パーツ インスタンスが表示されます。 例を見てみましょう。 
 
-1. ホームページで、[ **Microsoft365 training**] をクリックします。
-2. [ **Microsoft teams**] をクリックし、[ **microsoft Teams への導入] を**クリックします。
-3. [ **コピー** ] アイコンをクリックします。
+1. [ホーム] ページで **、[Microsoft365 トレーニング] をクリックします**。
+2. [Microsoft **Teams] を** クリックし、[Microsoft Teams **のイントロ] をクリックします**。
+3. [コピー] **アイコンをクリック** します。
 
 ![cg-linktowebpart.png](media/cg-linktowebpart.png)
 
-4. Microsoft 365 ラーニングパスサイトメニューから [ホーム] をクリックします。
-5. コピーした URL をブラウザーのアドレスバーに貼り付けて、ENTER キーを押します。 
+4. [Microsoft 365 ラーニング パス] サイト メニューから [ホーム] をクリックします。
+5. ブラウザーのアドレス バーにコピーした URL を貼り付け、Enter キーを押します。 
 
-次の図に示すように、リンクは CustomLearningViewer ページにジャンプし、コピーされたリンクのパラメーターに基づいてコンテンツを表示します。 
+次の図に示すように、リンクは CustomLearningViewer.aspx ページに移動し、コピーされたリンクのパラメーターに基づいてコンテンツを表示します。 
 
 ![cg-linktowebpartviewer.png](media/cg-linktowebpartviewer.png)
 

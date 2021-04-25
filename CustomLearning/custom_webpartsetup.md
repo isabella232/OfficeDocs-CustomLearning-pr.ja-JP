@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: カスタム学習サイトのプロビジョニング
 ms.date: 02/10/2019
 description: SharePoint プロビジョニング エンジンを使用Office 365 サイトのカスタム 学習のプロビジョニング
-ms.service: sharepoint online
-ms.openlocfilehash: be45ade7588f08801062710d310ca967ddd23926
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: f930eba5815366bcefd2730c88a3c2df3f246dd4
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162924"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000323"
 ---
 # <a name="provision-custom-learning"></a>カスタム 学習の準備
 
@@ -27,26 +30,22 @@ SharePoint Online Provisioning Service を使用すると、Office 365 テナン
 ### <a name="to-provision-custom-learning"></a>カスタム 学習を準備するには
 
 1. ホーム ページ http://provisioning.sharepointpnp.com の **右上隅** から移動してサインインします。  サイト テンプレートのインストールを計画している対象テナントの資格情報を使用してサインインします。
-
-![pnphome.png](media/inst_signin.png)
+![プロビジョニング サービスのメイン ページ。](media/inst_signin.png)
 
 2. 組織の代理 **として [同意] をオフにし、[** 同意する] を **選択します**。
-
-![ 内](media/inst_perms.png)
+![同意画面](media/inst_perms.png)
 
 3. ソリューション **ギャラリーから [カスタム Office 365]** を選択します。
+![[365] の [カスタム学習] をOfficeします。](media/inst_select.png)
 
-![ 内](media/inst_select.png)
-
-4. ソリューションのホーム ページで、[ **テナントに追加] を選択します。**
-
-![inst_select.png](media/inst_add.png)
+4. ソリューションのホーム ページで、[**テナント画面に追加] を選択** 
+ ![ し、[テナントに追加] を選択します。](media/inst_add.png)
 
 5. インストールに応じて、プロビジョニング情報ページのフィールドに入力します。 少なくとも、プロビジョニング プロセスに関する通知を受け取る電子メール アドレスと、プロビジョニング先サイトの宛先 URL を入力します。  
-> [!NOTE]
-> "/sites/MyTraining" や "/teams/LearnOffice365" など、サイトのリンク先 URL を従業員に優しくします。
+   > [!NOTE]
+   > "/sites/MyTraining" や "/teams/LearnOffice365" など、サイトのリンク先 URL を従業員に優しくします。
 
-![inst_options.png](media/inst_options.png)
+   ![プロビジョニングの詳細を指定する画面。](media/inst_options.png)
 
 6. テナント環境 **にカスタム** 学習をインストールする準備ができたら、[プロビジョニング] を選択します。  プロビジョニングプロセスには最大15分かかります。 サイトにアクセスできるようになると、（プロビジョニングページで入力した通知メールアドレスに）メールで通知されます。
 
@@ -66,6 +65,3 @@ SharePoint Online Provisioning Service を使用すると、Office 365 テナン
 4. [**新しい**  >  **ユーザーをこのグループに追加** する] をクリックし、所有者になるユーザーを追加し、[共有] を **クリックします**。
 
 8. ページの **右上隅にある** [次へ] オプションをクリックして、サイトをフォローします。  
-
-### <a name="next-steps"></a>次の手順
-- Web パーツ [に含まれる既定](sitecontent.md) のコンテンツを確認します。

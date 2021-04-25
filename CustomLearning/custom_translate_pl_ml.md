@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: 学習経路のカスタム再生リストを翻訳する
 ms.date: 07/06/2020
 description: 学習経路のカスタム再生リストを翻訳する
-ms.service: sharepoint online
-ms.openlocfilehash: c5c4c3b34a721295bdcd2e89bad865bc6760d058
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: itpro
+ms.openlocfilehash: 2b36479facd2a119753f193b2c4bf90e0ad21b68
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162834"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000353"
 ---
 # <a name="translate-learning-pathways-custom-playlists"></a>学習経路のカスタム再生リストを翻訳する
 Learning Pathways では、カスタムプレイリストの使い方は、学習経路の設定方法によって異なります。  
@@ -35,7 +38,7 @@ Learning Pathways では、カスタムプレイリストの使い方は、学�
 6. 既定の言語の右側にある言語 (この場合は英語) をクリックして、コピーされたプレイリストの詳細を表示します。 新しい言語の詳細は、コピーされた元のプレイリストを反映し、翻訳が必要です。
 7. 翻訳するプレイリストの詳細を翻訳者に通知するメモを作成します。  
 
-![custom_update_ml_pldetail.png](media/custom_update_ml_pldetail.png)
+![サンプルのイタリア語のページ。](media/custom_update_ml_pldetail.png)
 
 > [!IMPORTANT]
 > 翻訳者の通知は、カスタムプレイリストに組み込む必要があります。 翻訳者には手動で通知する必要があります。 翻訳者は、既定の言語の詳細のコピーを、指定された言語に手動で翻訳します。 プレイリストの詳細に必要な翻訳を翻訳者に通知する必要があります。 プレイリストアセットの追加、編集、削除など、すべてのプレイリストの変更を完了してから、プレイリストの詳細とアセットに必要な翻訳を翻訳者に通知してください。
@@ -48,9 +51,9 @@ Microsoft が提供するプレイリスト内のアセットは編集不可で�
 
 **アセットを作成するには**
 1. [5 つの簡単な手順] プレイリスト **の [アセット**] で **、[+ 新しいアセット** ] を選択し、アセットの詳細を入力します。 
-- [ **タイトル]** に「Contoso の Microsoft 365 へようこそ」と入力します。 
-- [ **テクノロジ]** で **、[Microsoft 365] を選択します**。
-![custom_ml_pl_createasset.png](media/custom_ml_pl_createasset.png)
+   - [ **タイトル]** に「Contoso の Microsoft 365 へようこそ」と入力します。 
+   - [ **テクノロジ]** で **、[Microsoft 365] を選択します**。
+![アセットの詳細を入力するフォーム。](media/custom_ml_pl_createasset.png)
 2. [アセット **の作成] を** 選択し、[アセットの保存] **を選択します**。
 
 **アセットを開く方法**
@@ -59,7 +62,7 @@ Microsoft が提供するプレイリスト内のアセットは編集不可で�
 3. [翻訳 **] をクリックします**。
 4. 必要 **な言語** の [作成] を選択します。 この例では、イタリア語を選択します。
 5. [表示 **] を選択します**。 サポートされている言語に応じて、次の例のようなページが表示されます。
-![custom_ml_pl_createasset.png](media/custom_ml_pl_createasset.png)
+![[プレイリストアセットのサンプル] ページ。](media/custom_ml_pl_createasset.png)
 6. **[発行]** をクリックします。
 7. 作成した翻訳ページの場合は、ブラウザーから URL をコピーし、[学習経路の管理] ページに戻ります。
 
@@ -67,7 +70,7 @@ Microsoft が提供するプレイリスト内のアセットは編集不可で�
 1. [ラーニング パスの管理] ページに戻り、開いた "5 つの簡単な手順" アセットの [編集] アイコン (鉛筆) を選択します。 
 2. [言語 **の追加]** をクリックし、言語を選択します。 この例では、イタリア語を選択しました。 
 3. 作成した翻訳ページの URL を入力します。 次の例のようなページが表示されます。 
-![custom_ml_pl_translateasseturl.png](media/custom_ml_pl_translateasseturl.png)
+![特定の言語ページの URL を入力するフォーム](media/custom_ml_pl_translateasseturl.png)
 4. [アセット **の保存] をクリックします**。
 
 ## <a name="add-languages-for-existing-custom-playlists-and-assets"></a>既存のカスタム プレイリストとアセットの言語を追加する
@@ -80,13 +83,13 @@ Microsoft が提供するプレイリスト内のアセットは編集不可で�
 ### <a name="to-add-languages-for-an-existing-playlist"></a>既存のプレイリストの言語を追加するには
 1.  [ラーニング パスホーム] メニュー **から、[** ラーニング パス **の管理] をクリックします**。 
 2.  カスタムプレイリストを選択します。 カスタム プレイリストは、次の例に示すように、チェックマークが付くユーザー アイコンによって識別されます。
-![custom_ml_pl_customselect.png](media/custom_ml_pl_customselect.png) 
+![カスタム プレイリストのサンプル。](media/custom_ml_pl_customselect.png) 
 3. [詳細 **の編集] を選択します**。 [詳細の編集] ボタンを見つけるには、下に **スクロールする必要** があります。   
 4. [言語 **の追加] を** 選択し、言語を選択します。  
 5. [詳細 **の保存] を選択します**。
  使用できる言語は、サイトで選択されているサポートされている言語によって異なっています。 追加の言語を追加するには、サポートされている言語をサイトに追加する必要があります。   
 5. 既定の言語の右側にある言語 (この場合は英語) をクリックして、コピーされたプレイリストの詳細を表示します。 新しい言語の詳細は、コピーされた元のプレイリストを反映し、翻訳が必要です。
-![custom_ml_pl_editdetailit.png](media/custom_ml_pl_editdetailit.png) 
+![イタリア語の詳細ページのサンプル。](media/custom_ml_pl_editdetailit.png) 
 7. 翻訳するプレイリストの詳細を翻訳者に通知するメモを作成します。  
 
 **アセットを開く方法**
@@ -95,7 +98,7 @@ Microsoft が提供するプレイリスト内のアセットは編集不可で�
 3. [翻訳 **] をクリックします**。
 4. 必要 **な言語** の [作成] を選択します。 この例では、イタリア語を選択します。
 5. [表示 **] を選択します**。 サポートされている言語に応じて、次の例のようなページが表示されます。
-![custom_ml_pl_createasset.png](media/custom_ml_pl_createasset.png)
+![[表示] を選択すると表示されるサンプル ページ。](media/custom_ml_pl_createasset.png)
 6. **[発行]** をクリックします。
 7. 作成した翻訳ページの場合は、ブラウザーから URL をコピーし、[学習経路の管理] ページに戻ります。
 

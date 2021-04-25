@@ -1,32 +1,35 @@
 ---
 author: karuanag
 ms.author: karuanag
+manager: alexb
 title: フィードバックとサポート
 ms.date: 02/10/2019
-description: Microsoft 365 学習経路のフィードバックとサポート情報
-ms.service: sharepoint online
-ms.openlocfilehash: 77e0630153cf72ee2682c2536fe4ed2ef11da74d
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: Microsoft 365 ラーニング パスのフィードバックとサポート情報。
+ms.service: sharepoint-online
+audience: itpro
+ms.topic: article
+ms.openlocfilehash: 01b0b129eb3b041e18414dee1e785feaa3d6fd8e
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233529"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000063"
 ---
 # <a name="feedback-and-support"></a>フィードバックとサポート
 
-Microsoft 365 learning の経路は、GitHub の [オンライン問題リスト](https://aka.ms/CustomLearningHelp) でサポートされているオープンソースプロジェクトです。 Microsoft 365 learning の方法ソリューションは、既存の Microsoft サポート契約の対象外です。  
+Microsoft 365 ラーニング パスは、GitHub のオンラインの問題リストでサポートされているオープン ソース [プロジェクトです](https://aka.ms/CustomLearningHelp) 。 Microsoft 365 ラーニング パス ソリューションは、既存の Microsoft サポート 契約ではカバーされていません。  
 
-## <a name="report-issues"></a>レポートに関する問題
+## <a name="report-issues"></a>レポートの問題
 
-Microsoft 365 の学習経路の経験を提供するオープンソースサイトテンプレートまたは web パーツに問題がある場合は、「GitHub の問題」のリストに問題を入力してください。  このリストは、 https://aka.ms/CustomLearningHelp  
+Microsoft 365 ラーニング パス エクスペリエンスを提供するオープン ソース サイト テンプレートまたは Web パーツに問題がある場合は、GitHub の問題一覧に問題を入力してください。  この一覧は、次のページで確認できます。 https://aka.ms/CustomLearningHelp  
 
-オープンソースソリューションでは標準と同様に、これらの問題を解決のためにお勧めします。 機能要求は、次に示すユーザー音声インスタンスに転送されます。 コードバグは、トリアージと解決のためにコミュニティおよびサービスマネージャーにエスカレーションされます。  
+オープンソース ソリューションの標準と同様に、コミュニティは解決のためにこれらの問題をトリアージします。 機能要求は、以下に示す User Voice インスタンスに転送されます。 コードのバグは、トリアージと解決のためにコミュニティとサービス 管理者にエスカレートされます。  
 
-## <a name="provide-us-feedback"></a>フィードバックをお寄せください
+## <a name="provide-us-feedback"></a>フィードバックを提供する
 
-このソリューションは、ビジネスの成果を有効にしている場合にのみ成功します。  [UserVoice](https://go.microsoft.com/fwlink/?linkid=2109552)を使用して通常のフィードバックを提供することにより、より良いものにすることができます。  すべてのコメントと質問を定期的に確認します。 
+このソリューションは、ビジネスの成果を可能にしている場合にのみ成功します。  UserVoice を通じて定期的なフィードバックを提供することで、より良い  [フィードバックを得るお手伝いをしてください](https://go.microsoft.com/fwlink/?linkid=2109552)。  すべてのコメントと質問を定期的に確認します。 
 
-## <a name="usage-questions"></a>使用に関する質問
+## <a name="usage-questions"></a>利用状況に関する質問
 
-Microsoft 365 learning pathes を使用する際のベストプラクティスに関する質問については、Microsoft Technical Community の「 [導入](https://aka.ms/DriveAdoption) フォーラム」をご参加 https://aka.ms/DriveAdoption ください。 
+Microsoft 365 ラーニング パスの使用に関するベスト プラクティスに関する[](https://aka.ms/DriveAdoption)質問については、Microsoft Technical Community のドライブ導入フォーラムに参加してください https://aka.ms/DriveAdoption 。 
 

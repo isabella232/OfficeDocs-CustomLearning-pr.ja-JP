@@ -1,17 +1,6 @@
 ---
-author: pkrebs
-ms.author: pkrebs
-title: ラーニング パス機能の更新
-ms.date: 4/13/2021
-description: ラーニング パス機能の更新
-ms.service: o365-solutions
-ms.openlocfilehash: 4be3d93b40e1e7ab5545dd1f835369df5f7fc7e0
-ms.sourcegitcommit: 6b304698cdde8fae25e990f4b4680d142a1ecba1
-ms.translationtype: MT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51755283"
----
+author: pkrebs ms.author: pkrebs title: Learning pathways Feature Updates ms.date: 4/13/2021 説明: Learning pathways Feature Updates ms.service: sharepoint-online
+
 # <a name="learning-pathways-version-40-feature-updates"></a>ラーニング パス バージョン 4.0 の機能更新プログラム
 以下に、学習経路バージョン 4.0 の機能更新プログラムが含まれています。  
 
@@ -63,7 +52,7 @@ Microsoft 365 ラーニング パス バージョン 4.0 には、次の新機�
 ## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>カスタム サブカテゴリを学習する画像ピッカー 
 学習パスは、カスタムプレイリストとサブカテゴリに使いやすい画像ピッカーを提供します。  過去のバージョンでは、プレイリストのイメージを変更できますが、サブカテゴリは変更していけなくなっています。  
 
-詳細については、以下を参照してください。
+詳しくは、以下を参照してください。
 - [カスタムプレイリストを作成します](custom_createnewplaylist.md)。 
 - [サブカテゴリの作成](custom_createnewcat.md)
 

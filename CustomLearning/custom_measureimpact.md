@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: Microsoft 365 ラーニング パスの影響を測定する
 ms.date: 02/10/2019
 description: Microsoft 365 ラーニング パスの影響を測定する方法
-ms.service: sharepoint online
-ms.openlocfilehash: 3f803959a7fe14c2c67bb232a5f9ade31218ab11
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+ms.openlocfilehash: 4ba5981902367ef9c94c28c49442af588dcf368e
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163044"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999533"
 ---
 # <a name="measuring-impact-of-microsoft-365-learning-pathways"></a>Microsoft 365 ラーニング パスの影響を測定する
 
@@ -32,6 +32,6 @@ Office 365 管理センター SharePoint サイト使用状況レポートを使
 2. SharePoint サイト使用状況レポートの詳細を解釈する。 [サイト URL] フィールドで並べ替え、Microsoft 365 ラーニング パス サイトを簡単に識別できます。 
 3. レポートのエクスポート機能を活用して、より高度なデータ分析を行う場合、または組織のサイト数が 2,000 を超える場合。 
 
-## <a name="feedback"></a>フィードバック
+## <a name="reporting"></a>Reporting
 
 現在、レポートは SharePoint サイト レベルに制限されています。 強化されたレポート機能要求の優先順位付けを支援するために、投票を User [Voice](https://go.microsoft.com/fwlink/?linkid=2109552) フォーラムに貸します。

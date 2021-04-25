@@ -1,11 +1,19 @@
 ---
-タイトル: ''
-ms.openlocfilehash: 2e5178bc9d4b5d096fe6354fdd9d7f583a74d0a6
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+title: チャンピオン プログラムのベスト プラクティス
+description: チームワークを向上Office 365 クラウド サービスを使用するベスト プラクティス。
+author: karuanag
+ms.author: karuanag
+manager: alexb
+ms.date: 02/01/2019
+ms.topic: article
+ms.service: sharepoint-online
+audience: itpro
+ms.openlocfilehash: 0828512893821b3e2f799eeaa390a184fdad79ae
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233709"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000093"
 ---
 # <a name="day-in-the-life-with-office-365"></a>Office 365 との 1 日
 

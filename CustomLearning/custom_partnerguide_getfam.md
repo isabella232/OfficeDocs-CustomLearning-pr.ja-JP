@@ -4,18 +4,21 @@ ms.author: pkrebs
 title: パートナー オンボーディング ガイド
 ms.date: 3/9/2019
 description: Microsoft 365 ラーニング パスのパートナー オンボーディング ガイド
-ms.service: sharepoint online
-ms.openlocfilehash: d2023c308872bc665322ed3eaf470cca2b9b500a
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: itpro
+ms.openlocfilehash: f19e413d533b8bfcef7e5b7489a51806eb8fbdcc
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163034"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999423"
 ---
 # <a name="partner-onboarding-guide"></a>パートナー オンボーディング ガイド
 以下に示す 3 つの手順に従って、学習経路を開始します。 3 つの手順を使用すると、魅力的なデモを作成して、顧客とプレゼンテーションを魅力的にすることができます。 
 
-![cg-partner-getfam.png](media/cg-partner-getfam.png)
+![図は、5 段階のオンボーディング プロセスを示しています。](media/cg-partner-getfam.png)
 
 ## <a name="1-create-a-microsoft-365-demonstration-environment"></a>1. Microsoft 365 デモンストレーション環境を作成する
 ユーザーは、demos.microsoft.com を使用して、サービスの準備、検証、および顧客への学習経路の提示に使用できるデモ環境を作成できます。 すべてのパートナーは、これらの目的 https://demos.microsoft.com のためにアクセスできます。 デモ環境を demos.microsoft.com **場合** は、このガイドガイドを使用できます。

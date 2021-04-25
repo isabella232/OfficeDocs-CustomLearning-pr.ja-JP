@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: 学習経路の手動セットアップ
 ms.date: 07/06/2020
 description: Microsoft 365 ラーニング パスの手動セットアップ
-ms.service: sharepoint online
-ms.openlocfilehash: 511b4e5d7d251a1e3fbffcefb01d4ba1f139e5a1
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+ms.openlocfilehash: 5cc2f641884871fcb33d6cf7ea0db885fcdbd019
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163074"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999613"
 ---
 # <a name="learning-pathways-manual-setup"></a>学習経路の手動セットアップ
 

@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: リモート ワークをサポートするためのリソース
 ms.date: 3/31/2020
 description: リモート ワークをサポートするためのリソース
-ms.service: sharepoint online
-ms.openlocfilehash: b32defa9e60066db33d6d978f1894cea00da446c
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: bc9490be06945a5945c1e0569abd94ecde17f30f
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163014"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999413"
 ---
 # <a name="resources-for-supporting-your-remote-workforce"></a>リモート ワークをサポートするためのリソース
 Covid-19 の大規模感染に対応して、2020 年 4 月のコンテンツ更新プログラムは、組織内のリモート作業を有効にするための学習プレイリストとリソースを提供します。 Work Remotely プレイリストの新しいセットが追加され、Microsoft Teams のコンテンツ (特に Teams 会議) が大幅に更新され、Web プレイリスト用の Office の新しいセットが追加されました。 

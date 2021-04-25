@@ -4,18 +4,21 @@ ms.author: pkrebs
 title: パートナー統合モデル
 ms.date: 3/9/2019
 description: パートナー統合モデル
-ms.service: sharepoint online
-ms.openlocfilehash: f3b5c5ddc8de29d2805c86a24b1d9bef0c8cacfa
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: 826b8a463fde50188abbc80e295924b120104cf6
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162934"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999523"
 ---
 # <a name="partner-integration-models"></a>パートナー統合モデル
 SharePoint Online プロビジョニング サービスから Microsoft 365 ラーニング パス のコンテンツを直接 「箱から」補完することはできませんが、パートナーが利用できる統合モデルは複数あります。 上記のパートナー統合モデルは、昇順の複雑さおよび投資レベルの順に示されています。 したがって、当社のガイダンスは、ビジネス モデルに基づいて専門知識を構築し、より高度なレベルを卒業する方法です。
 
-![cg-part-intmodel.png](media/cg-part-intmodel.png) 
+![フロー グラフは、イイナ、インテグレーター、および redistibutors の役割を示しています。](media/cg-part-intmodel.png)
 
 ## <a name="how-should-i-get-started"></a>どのように開始する必要がありますか? 
 開始するには、以下のベスト プラクティスを示します。     
@@ -41,7 +44,7 @@ Microsoft 365 ラーニング パス ソリューションと JSON ファイル�
 このファイルは、メニューと構造の頭脳と考えることができます。 すべてのナビゲーション構造と、他の 2 つのファイル内のデータのリストを選択します。 
 
 
-|              Name        |                     説明                                                               | 
+|              名前        |                     説明                                                               | 
 |:-----------------------------|-------------------------------------------------------------------------------------------|
 |**テクノロジ**              |コンテンツはタグ付けされ、割り当てられているテクノロジに基づいて非表示にできます。                 |  
 |&nbsp;&nbsp;ID                |テクノロジを表す GUID                                                           |  
@@ -86,11 +89,11 @@ Microsoft 365 ラーニング パス ソリューションと JSON ファイル�
 ### <a name="playlistsjson-structure"></a>Playlists.jsに関するページ
 playlists.jsオン – プレイリスト マニフェストは、プレイリストに関するメタデータと、プレイリストに含まれるアセットを記述するオブジェクトの配列です。
 
-|              Name        |                     説明                                                               | 
+|              名前        |                     説明                                                               | 
 |:-----------------------------|-------------------------------------------------------------------------------------------|
-|Id                            |プレイリストを表す GUID                                                             |  
-|Title                         |プレイリストの表示名                                                               |
-|イメージ                         |プレイリストを視覚化する画像への相対 URL (CDN から)                              |                      
+|ID                            |プレイリストを表す GUID                                                             |  
+|タイトル                         |プレイリストの表示名                                                               |
+|Image                         |プレイリストを視覚化する画像への相対 URL (CDN から)                              |                      
 |LevelId                       |関連付けられたレベル                                                                           |
 |AudienceId                   |関連付けられた対象ユーザー                                                                        |
 |TechnologyId                 |関連するテクノロジ                                                                      |
@@ -105,10 +108,10 @@ playlists.jsオン – プレイリスト マニフェストは、プレイリ�
 ### <a name="assetjson-structure"></a>Asset.jsに関するページ
 playlists.jsオン – プレイリスト マニフェストは、プレイリストに関するメタデータと、プレイリストに含まれるアセットを記述するオブジェクトの配列です。
 
-|              Name        |                     説明                                                               | 
+|              名前        |                     説明                                                               | 
 |:-----------------------------|-------------------------------------------------------------------------------------------|
-|Id                            |プレイリストを表す GUID                                                             |  
-|Title                         |プレイリストの表示名                                                               |
+|ID                            |プレイリストを表す GUID                                                             |  
+|タイトル                         |プレイリストの表示名                                                               |
 |説明                   |---                                                                                           |                      
 |URL                           |iFrame に適用するアセットのソース URL                                  |
 |TechnologyId                  |関連するテクノロジ                                                                      |
@@ -133,7 +136,7 @@ Microsoft では、GitHub ページをマニフェスト ファイルと画像�
 
 独自のコンテンツ パックを使用してラーニング パス ソリューションを拡張する場合と同じバージョン管理構造を維持することが重要です。 Web パーツがサポートするマニフェスト バージョンが作成され、CDN URL に自動的に追加されるので、CDN エンドポイントにはバージョン フォルダーを含めるべきではありません。 マニフェスト ファイルを変更する場合は、マニフェスト ファイルの新しいインスタンスを作成する時間が明らかになります。
 
-![cg-part-json-folder.png](media/cg-part-json-folder.png) 
+![スクリーンショットは、サンプル構造を示しています。](media/cg-part-json-folder.png) 
 
 GITHub ページを CDN ソースとして利用する方法の詳細については、次のヘルプ ドキュメントを参照してください [https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages) 。
 
@@ -158,11 +161,11 @@ JSON を変更して CDN を定義したら、連絡先パックを学習経路�
 2. [管理 **] ページで****、[..] をクリックします。ページの右上隅** にコンテンツ パックを追加します。
 3. [カスタム コンテンツ パック] をクリックし、コンテンツ パックの名前を入力し、JSON ファイルがある CDN を指定します。
 
-![cg-part-addconpack.png](media/cg-part-addconpack.png)
+   ![名前とパスを入力する画面。](media/cg-part-addconpack.png)
 
 4. **[保存]** をクリックします。 カスタム コンテンツ パックのコンテンツが [管理] ページに表示されます。 次に例を示します。 
 
-![cg-part-addconpackex.png](media/cg-part-addconpackex.png)
+   ![管理ページの例。](media/cg-part-addconpackex.png)
 
 ### <a name="filter-to-the-content-pack-in-the-web-part"></a>Web パーツのコンテンツ パックにフィルターを適用する
 学習パスを使用すると、学習パス Web パーツをページに追加し、Web パーツをフィルター処理してカスタム コンテンツ パック ソースをポイントし、Web パーツを必要なカテゴリ、サブカテゴリ、プレイリスト、アセットにフィルター処理できます。 
@@ -175,4 +178,4 @@ JSON を変更して CDN を定義したら、連絡先パックを学習経路�
 6. Web パーツをクリックし、[編集] アイコン **をクリック** します。
 7. [ラーニング **ソースの選択] ボックス** で、カスタム コンテンツ パックを選択し、Web パーツを目的のコンテンツにフィルター処理します。 次に、カスタム コンテンツ パックからプレイリストにフィルター処理された Web パーツの例を示します。
 
-![cg-part-conpackfilter.png](media/cg-part-conpackfilter.png)
+   ![カスタム コンテンツ パックからプレイリストにフィルター処理されたサンプル Web パーツのスクリーン ショット。](media/cg-part-conpackfilter.png)

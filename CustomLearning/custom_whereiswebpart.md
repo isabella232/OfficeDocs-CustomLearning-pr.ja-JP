@@ -1,68 +1,66 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Microsoft 365 learning web パーツの場所
+title: Microsoft 365 ラーニング Web パーツの場所
 ms.date: 02/15/2019
-description: 学習経路のサイトに学習経路の web パーツがどのように表示されるかを説明します。
-ms.service: sharepoint online
-ms.openlocfilehash: db3a205048786f97960757b6a62586588d824528
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: ラーニング パス Web パーツがラーニング パス サイトに表示される場所を確認する
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: 75d753a8f6b6dd65c5b723588bc83238ad63b35a
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233749"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000223"
 ---
 # <a name="wheres-the-microsoft-365-learning-pathways-web-part"></a>Microsoft 365 学習経路の Web パートはどこにありますか? 
 
-組織での学習経路がプロビジョニングされると、ラーニング経路のサイトと web パーツが組織の SharePoint テナントに追加されます。 プロビジョニングの一環として、Microsoft 365 learning web パーツは、Microsoft 365 learning のラーニングサイトの次のページに追加されます。
+組織でラーニング パスを準備すると、ラーニング パス サイトと Web パーツが組織の SharePoint テナントに追加されます。 プロビジョニングの一環として、Microsoft 365 ラーニング Web パーツは、Microsoft 365 ラーニング パス サイトの次のページに追加されます。
 
-- Start-with-Six-Simple-Steps 
-- Recommended-Playlists
-- Office 365 .aspx を使用して作業を開始する
-- Get-started-with-Microsoft-Teams
-- Get-started-with-OneDrive
-- Get-started-with-SharePoint
-- ラーニング・経路管理者成功センター .aspx
+- Start-with-Six-Simple-Steps.aspx 
+- Recommended-Playlists.aspx
+- Get-started with-Office 365.aspx
+- Get-started-with-Microsoft-Teams.aspx
+- Get-started-with-OneDrive.aspx
+- Get-started-with-SharePoint.aspx
+- ラーニング パス Admin Success Center.aspx
 
-ページごとに、ページの目的をサポートするように設計されたカテゴリ、サブカテゴリ、再生リスト、またはアセットを示すように、Web パーツの構成が異なります。 後のセクションで説明するように、学習経路 web パーツは、SharePoint のすべてのページに追加して、特定のカテゴリ、サブカテゴリ、再生リスト、またはアセットのみを表示するようにフィルター処理できます。 見てみましょう。 
+ページごとに、Web パーツは、ページの意図をサポートするように設計されたカテゴリ、サブカテゴリ、プレイリスト、またはアセットを表示するように構成されています。 後のセクションで説明する学習パス Web パーツは、SharePoint ページに追加して、特定のカテゴリ、サブカテゴリ、プレイリスト、またはアセットを表示するためにフィルター処理できます。 それでは、見てみよ。 
 
-## <a name="view-microsoft-teams-playlists"></a>Microsoft Teams プレイリストを表示する
+## <a name="view-microsoft-teams-playlists"></a>Microsoft Teams のプレイリストを表示する
 
-この記事では、「 **Microsoft teams で作業を開始** する」ページで、teams の学習再生リストを表示するようにフィルター処理された Web パーツを示します。 
+Teams の学習プレイリストを表示するために Web パーツがフィルター処理された **[Microsoft Teams** の使用を開始する] ページの例を次に示します。 
 
-- ラーニング経路のホームページで、[ **Microsoft Teams の使用を開始**する] を選択します。
+- [ラーニング パス] ホーム ページで、[Microsoft Teams の **使用を開始する] を選択します**。
+![[Microsoft Teams の使用を開始する] 画面。](media/cg-whereiswp-teams.png)
 
-![cg-whereiswp-teams.png](media/cg-whereiswp-teams.png)
+- [学習 **経路] サイト** メニューの [ホーム] メニューをクリックして、サイトのホーム ページに戻ります。
+![[ホーム] を選択した [学習経路] 画面。](media/cg-homebtnmenu.png)
 
-- [ラーニングパスサイト] メニューの [ **ホーム** ] メニューをクリックして、サイトのホームページに戻ります。
+## <a name="view-the-six-simple-steps-playlist"></a>6 つの簡単な手順のプレイリストを表示する
 
-![cg-homebtnmenu.png](media/cg-homebtnmenu.png)
+**[Start-with-Six-Simple-Steps.aspx]** ページの Web パーツは、[6 つの簡単な手順] プレイリストに最初のアセットを表示するように構成されています。 
 
-## <a name="view-the-six-simple-steps-playlist"></a>6つのシンプルな手順の再生リストを表示する
+- [学習経路] ホーム ページで、[6 つの **簡単な手順で開始] をクリックします**。 
+![Office 365 ページで、[6 つの簡単な手順で開始] を選択します。](media/cg-whereiswp-six.png)
 
-**Start-with-Six-Simple-Steps**ページの web パーツは、6つのシンプルなステップのプレイリストにある最初のアセットを表示するように構成されています。 
+## <a name="view-all-microsoft-365-training"></a>すべての Microsoft 365 トレーニングを表示する
 
-- ラーニング経路のホームページで、[ **6 つの簡単な手順で開始**] をクリックします。 
+**Microsoft 365** トレーニング ページの Web パーツは、学習経路カタログから利用可能なすべてのカテゴリとサブカテゴリを表示するように構成されています。 これには、Microsoft のサブカテゴリと、組織用に作成するサブカテゴリが含まれます。
 
-![cg-whereiswp-six.png](media/cg-whereiswp-six.png)
+- [学習経路] ホーム ページで **、[Microsoft 365** トレーニング] をクリックします。 このページが表示され、カスタム ラーニング カタログから使用できるすべてのカテゴリとサブカテゴリが表示される Web パーツが構成されています。
+![カテゴリを表示するパスウェイ ウィンドウ。](media/cg-whereiswp-o365.png)
 
-## <a name="view-all-microsoft-365-training"></a>Microsoft 365 トレーニングをすべて表示する
+- [学習 **経路] サイト** メニューの [ホーム] メニューをクリックして、サイトのホーム ページに戻ります。
 
-**Microsoft 365 トレーニング**ページの Web パーツは、ラーニングの経路カタログから利用可能なすべてのカテゴリとサブカテゴリを表示するように構成されています。 これには、組織のために作成したサブカテゴリと共に Microsoft のサブカテゴリが含まれます。
+## <a name="view-the-web-part-on-the-admin-success-center-page"></a>[管理サクセス センター] ページで Web パーツを表示する
 
-- ラーニング経路のホームページで、[ **Microsoft 365 トレーニング**] をクリックします。 ページが表示され、カスタム学習カタログから利用可能なすべてのカテゴリとサブカテゴリを表示するように Web パーツが構成されています。
+管理サクセス センター ページ **の Web パーツ** は、管理サクセス センターで使用可能なすべてのプレイリストをフィルター処理するように構成されています。 次の例に示すように、Web パーツは管理リソースへのクイック リンクも含むページに追加されます。 
 
-![cg-whereiswp-o365.png](media/cg-whereiswp-o365.png)
+- [ラーニング パス] ホーム ページで、[管理サクセス センター **の使用を開始する] をクリックします**。 ボタンをクリックします。 
+![管理サクセス センターのメイン ページ。](media/cg-adminsuccesscenterwebpart.png)
 
-- [ラーニングパスサイト] メニューの [ **ホーム** ] メニューをクリックして、サイトのホームページに戻ります。
-
-## <a name="view-the-web-part-on-the-admin-success-center-page"></a>管理者成功センターページで Web パーツを表示する
-
-**管理者**成功センターページの Web パーツは、管理者成功センターで利用可能なすべての再生リストをフィルター処理するように構成されています。 次の例に示すように、Web パーツは、管理リソースへのクイックリンクも含むページに追加されます。 
-
-- [ラーニングの経路] ホームページで、[ **管理者成功センターの開始**] をクリックします。  ボタンを選びます。 
-
-![cg-adminsuccesscenterwebpart.png](media/cg-adminsuccesscenterwebpart.png)
-
-- [ラーニングパスサイト] メニューの [ **ホーム** ] メニューをクリックして、サイトのホームページに戻ります。
+- [学習 **経路] サイト** メニューの [ホーム] メニューをクリックして、サイトのホーム ページに戻ります。
 

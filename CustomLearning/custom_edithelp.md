@@ -3,47 +3,47 @@ author: pkrebs
 ms.author: pkrebs
 title: 学習経路サイトをカスタマイズする
 ms.date: 02/15/2019
-description: Microsoft 365 の学習経路で利用可能なさまざまなカスタマイズについて説明します。
-ms.service: sharepoint online
-ms.openlocfilehash: e6479fdd35dcd6a27482fb3faa3facd35e4d52e7
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: Microsoft 365 ラーニング パスで利用できるさまざまなカスタマイズについて説明します。
+ms.service: sharepoint-online
+ms.openlocfilehash: 44f11d02d86e8d3f8d3e32d5c3207fca384e9e2e
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234479"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999813"
 ---
 # <a name="customize-the-site"></a>サイトをカスタマイズする
 
-Microsoft 365 learning のラーニングサイトは SharePoint のコミュニケーションテンプレートに基づいているため、組織のニーズに合わせてサイトを簡単に変更することができます。 サイト名、ロゴ、メニュー項目、およびページ上のコンテンツを変更することができます。 
+Microsoft 365 ラーニング パス サイトは SharePoint 通信テンプレートに基づくので、組織のニーズに合わせてサイトを簡単に変更できます。 ページ上のサイト名、ロゴ、メニュー項目、およびコンテンツを変更できます。 
 
 > [!TIP]
-> 従業員からフィードバックを収集し、定期的にサイトを更新します。 たとえば、新しいイベントが利用可能になったときに、トレーニングイベントカレンダーを更新することができます。 新しいサービスを開始するときに、コンテンツを表示したり、新しいサービスを起動する目的で設計された対象指定トレーニングのプレイリストを作成したりすることができます。 
+> 従業員からのフィードバックを収集し、サイトを定期的に更新します。 たとえば、新しいイベントが利用可能になったら、トレーニング イベントカレンダーを更新できます。 新しいサービスを起動する場合は、コンテンツを再表示し、新しいサービスの立ち上げに向け設計されたターゲットトレーニングプレイリストを構築できます。 
 
-## <a name="customize-the-site-and-web-pages"></a>サイトおよび web ページをカスタマイズする
+## <a name="customize-the-site-and-web-pages"></a>サイトと Web ページをカスタマイズする
 
-ラーニングパスサイトは完全にカスタマイズできます。 SharePoint サイトまたは web ページのカスタマイズ方法を熟知していない場合は、「support.office.com で [sharepoint サイトをカスタマイズ](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) する」の記事を参照することをお勧めします。 
+ラーニング パス サイトは完全にカスタマイズ可能です。 SharePoint サイトまたは Web ページをカスタマイズする方法が分からない場合は [、「SharePoint](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) サイトのカスタマイズ」の記事を参照 support.office.com。 
 
-### <a name="customize-ask-questions-and-get-help"></a>質問をカスタマイズしてヘルプを表示する
+### <a name="customize-ask-questions-and-get-help"></a>質問のカスタマイズとヘルプの取得
 
-ラーニングポイントサイトの管理者として、組織内のリソースを参照するための [ **ヘルプとサポートの取得** ] ページ上のリンクを変更することをお勧めします。 
+ラーニング パス サイトの管理者として、組織のリソースを指す [ヘルプとサポートの取得] ページのリンクを変更します。 
 
-1.  ラーニング経路のホームページで、[ **質問をお寄せ** ください] および [ヘルプを取得] メニュー項目をクリックします。
+1.  [学習経路] ホーム ページで、[質問をする] **をクリックし、ヘルプ メニュー項目を** 取得します。
 2.  [**編集**] ボタンをクリックします。
-3.  ヘルプオプションの画像の上にカーソルを移動し、[ **web パーツの編集**] をクリックします。
+3.  [ヘルプ] オプションイメージにカーソルを合わせると、[Web パーツの **編集] をクリックします**。
 
 ![cg-edithelp.png](media/cg-edithelp.png)
 
-4.  [ **リンク** ] ボックスに、内部リソースの URL を入力します。 
-5.  リンクされていない他の2つの画像に対して手順3と4を繰り返します。
+4.  [リンク **] ボックス** に、内部リソースの URL を入力します。 
+5.  リンクされていない他の 2 つのイメージについて、手順 3 と 4 を繰り返します。
 
-### <a name="change-the-text-on-the-page"></a>ページ上のテキストを変更する
+### <a name="change-the-text-on-the-page"></a>ページのテキストを変更する
 
-1. テキスト領域をポイントして、ページのテキストを編集します。 
-2. 完了したら [ **発行** ] ボタンをクリックします。
+1. テキスト領域にカーソルを合わせると、ページのテキストが編集されます。 
+2. 完了したら **、[発行** ] ボタンをクリックします。
 
-## <a name="other-customization-options"></a>その他のカスタマイズオプション
-編集を考慮する必要があるその他のページは次のとおりです。
+## <a name="other-customization-options"></a>その他のカスタマイズ オプション
+編集を検討するその他のページは次のとおりです。
 
-- トレーニングイベントのカレンダー .aspx
-- Default.aspx のヒーロー web パーツ
+- トレーニング イベント calendar.aspx
+- Home.aspx のヒーロー Web パーツ
 
