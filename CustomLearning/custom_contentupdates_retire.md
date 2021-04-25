@@ -1,80 +1,80 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 2019年11月のコンテンツ更新プログラム
+title: 2019 年 11 月のコンテンツ更新プログラム
 ms.date: 10/20/2019
-description: Microsoft 365 learning ・経路のコンテンツ更新
-ms.service: sharepoint online
-ms.openlocfilehash: 3634d0051c3eb71749d3a0111c83421bedada7aa
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: Microsoft 365 ラーニング パス のコンテンツ更新
+ms.service: sharepoint-online
+ms.openlocfilehash: cc60c4a16ca3d1bf7f6944f57f274303a76fa3c9
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234709"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999103"
 ---
-# <a name="november-2019-content-updates"></a><span data-ttu-id="eb491-103">2019年11月のコンテンツ更新プログラム</span><span class="sxs-lookup"><span data-stu-id="eb491-103">November 2019 Content Updates</span></span>
-<span data-ttu-id="eb491-104">Microsoft 365 learning ・経路のコンテンツ更新にようこそ。</span><span class="sxs-lookup"><span data-stu-id="eb491-104">Welcome to the Microsoft 365 learning pathways content update.</span></span> <span data-ttu-id="eb491-105">2019年11月の更新プログラムから、四半期ごとに学習経路カタログの更新されたインベントリを提供します。</span><span class="sxs-lookup"><span data-stu-id="eb491-105">Starting with our November 2019 update, we'll provide an updated inventory of the learning pathways catalog on a quarterly basis.</span></span> <span data-ttu-id="eb491-106">2019年11月の更新プログラムでは、次のような新しいコンテンツのサブカテゴリと再生リストが、ラーニングパスカタログに追加されました。</span><span class="sxs-lookup"><span data-stu-id="eb491-106">For the November 2019 update, the following new content subcategories and playlists have been added to the learning pathways catalog.</span></span> <span data-ttu-id="eb491-107">コンテンツの更新の適用方法、およびコンテンツの更新を管理する方法の詳細については、「 [コンテンツの更新を管理](custom_contentupdatesmanage.md)する」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="eb491-107">To learn more about how content updates are applied, and how to manage content updates, see [Manage Content Updates](custom_contentupdatesmanage.md).</span></span>    
+# <a name="november-2019-content-updates"></a><span data-ttu-id="f0458-103">2019 年 11 月のコンテンツ更新プログラム</span><span class="sxs-lookup"><span data-stu-id="f0458-103">November 2019 Content Updates</span></span>
+<span data-ttu-id="f0458-104">Microsoft 365 ラーニング パスのコンテンツ更新プログラムへようこそ。</span><span class="sxs-lookup"><span data-stu-id="f0458-104">Welcome to the Microsoft 365 learning pathways content update.</span></span> <span data-ttu-id="f0458-105">2019 年 11 月の更新プログラムから、四半期ごとに学習経路カタログの更新されたインベントリを提供します。</span><span class="sxs-lookup"><span data-stu-id="f0458-105">Starting with our November 2019 update, we'll provide an updated inventory of the learning pathways catalog on a quarterly basis.</span></span> <span data-ttu-id="f0458-106">2019 年 11 月の更新プログラムでは、次の新しいコンテンツ サブカテゴリと再生リストがラーニング パスカタログに追加されました。</span><span class="sxs-lookup"><span data-stu-id="f0458-106">For the November 2019 update, the following new content subcategories and playlists have been added to the learning pathways catalog.</span></span> <span data-ttu-id="f0458-107">コンテンツ更新プログラムの適用方法とコンテンツ更新プログラムの管理方法の詳細については、「コンテンツ更新プログラムの管理 [」を参照してください](custom_contentupdatesmanage.md)。</span><span class="sxs-lookup"><span data-stu-id="f0458-107">To learn more about how content updates are applied, and how to manage content updates, see [Manage Content Updates](custom_contentupdatesmanage.md).</span></span>    
 
-## <a name="teams"></a><span data-ttu-id="eb491-108">Teams</span><span class="sxs-lookup"><span data-stu-id="eb491-108">Teams</span></span>
-<span data-ttu-id="eb491-109">Teams サブカテゴリに、いくつかの新しいプレイリストが追加されました。</span><span class="sxs-lookup"><span data-stu-id="eb491-109">Several new playlist have been added to the Teams subcategory.</span></span>
-- <span data-ttu-id="eb491-110">投稿とメッセージを操作する (3 アセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-110">Work with posts and messages (3 assets)</span></span>
-- <span data-ttu-id="eb491-111">ファイルをアップロードして検索する (2 アセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-111">Upload and find files (2 assets)</span></span>
-- <span data-ttu-id="eb491-112">ライブイベントをセットアップして参加する (4 アセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-112">Set up and attend live events (4 assets)</span></span>
-- <span data-ttu-id="eb491-113">アクティビティフィードを管理する (2 アセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-113">Manage your activity feed (2 assets)</span></span>
-- <span data-ttu-id="eb491-114">ゴーオンの Teams (2 アセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-114">Teams on the go (2 assets)</span></span>
+## <a name="teams"></a><span data-ttu-id="f0458-108">Teams</span><span class="sxs-lookup"><span data-stu-id="f0458-108">Teams</span></span>
+<span data-ttu-id="f0458-109">Teams サブカテゴリにいくつかの新しいプレイリストが追加されました。</span><span class="sxs-lookup"><span data-stu-id="f0458-109">Several new playlist have been added to the Teams subcategory.</span></span>
+- <span data-ttu-id="f0458-110">投稿とメッセージを処理する (3 つのアセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-110">Work with posts and messages (3 assets)</span></span>
+- <span data-ttu-id="f0458-111">ファイルのアップロードと検索 (2 つのアセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-111">Upload and find files (2 assets)</span></span>
+- <span data-ttu-id="f0458-112">ライブ イベントの設定と参加 (4 つのアセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-112">Set up and attend live events (4 assets)</span></span>
+- <span data-ttu-id="f0458-113">アクティビティ フィードの管理 (2 つのアセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-113">Manage your activity feed (2 assets)</span></span>
+- <span data-ttu-id="f0458-114">移動中のチーム (2 つのアセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-114">Teams on the go (2 assets)</span></span>
 
-## <a name="microsoft-365-success-center"></a><span data-ttu-id="eb491-115">Microsoft 365 成功センター</span><span class="sxs-lookup"><span data-stu-id="eb491-115">Microsoft 365 Success Center</span></span>
-<span data-ttu-id="eb491-116">ラーニング経路の経験については、Microsoft 365 learning ・経路成功センターのサブカテゴリを追加しました。</span><span class="sxs-lookup"><span data-stu-id="eb491-116">We've added a Microsoft 365 learning pathways Success Center subcategory to the learning pathways experience.</span></span> <span data-ttu-id="eb491-117">サクセスセンターでは、次のプレイリストが提供されます。</span><span class="sxs-lookup"><span data-stu-id="eb491-117">The Success Center provides the following playlists.</span></span>
-- <span data-ttu-id="eb491-118">新機能、変更点 (3 資産)</span><span class="sxs-lookup"><span data-stu-id="eb491-118">What’s New, What Changed (3 asset)</span></span>
-- <span data-ttu-id="eb491-119">学習コンテンツ (2 アセット) を計画する</span><span class="sxs-lookup"><span data-stu-id="eb491-119">Plan your learning content (2 assets)</span></span>
-- <span data-ttu-id="eb491-120">学習経路 (8 アセット) をカスタマイズする</span><span class="sxs-lookup"><span data-stu-id="eb491-120">Customize learning pathways (8 assets?)</span></span>
-- <span data-ttu-id="eb491-121">学習経路 (1 つの資産) の導入を促進する</span><span class="sxs-lookup"><span data-stu-id="eb491-121">Drive Adoption of learning pathways (1 asset)</span></span>
-- <span data-ttu-id="eb491-122">学習経路の影響を測定する (1 つの資産)</span><span class="sxs-lookup"><span data-stu-id="eb491-122">Measure impact of learning pathways (1 asset)</span></span>
+## <a name="microsoft-365-success-center"></a><span data-ttu-id="f0458-115">Microsoft 365 サクセス センター</span><span class="sxs-lookup"><span data-stu-id="f0458-115">Microsoft 365 Success Center</span></span>
+<span data-ttu-id="f0458-116">Microsoft 365 ラーニング パスサクセス センター サブカテゴリをラーニング パスエクスペリエンスに追加しました。</span><span class="sxs-lookup"><span data-stu-id="f0458-116">We've added a Microsoft 365 learning pathways Success Center subcategory to the learning pathways experience.</span></span> <span data-ttu-id="f0458-117">サクセス センターには、次のプレイリストがあります。</span><span class="sxs-lookup"><span data-stu-id="f0458-117">The Success Center provides the following playlists.</span></span>
+- <span data-ttu-id="f0458-118">新機能、変更点 (3 アセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-118">What’s New, What Changed (3 asset)</span></span>
+- <span data-ttu-id="f0458-119">学習コンテンツを計画する (2 つのアセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-119">Plan your learning content (2 assets)</span></span>
+- <span data-ttu-id="f0458-120">学習経路をカスタマイズする (8 つのアセット?</span><span class="sxs-lookup"><span data-stu-id="f0458-120">Customize learning pathways (8 assets?)</span></span>
+- <span data-ttu-id="f0458-121">学習経路の導入を促進する (1 アセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-121">Drive Adoption of learning pathways (1 asset)</span></span>
+- <span data-ttu-id="f0458-122">学習経路の影響を測定する (1 アセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-122">Measure impact of learning pathways (1 asset)</span></span>
 
-## <a name="outlook"></a><span data-ttu-id="eb491-123">Outlook</span><span class="sxs-lookup"><span data-stu-id="eb491-123">Outlook</span></span>
-<span data-ttu-id="eb491-124">次のプレイリストが Outlook サブカテゴリに追加されました。</span><span class="sxs-lookup"><span data-stu-id="eb491-124">The following playlists has been added to the Outlook subcategory.</span></span> 
-- <span data-ttu-id="eb491-125">Outlook mobile: 受信トレイを管理する (4 アセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-125">Outlook mobile: Manage your inbox (4 assets)</span></span>
-- <span data-ttu-id="eb491-126">Outlook mobile: 時間を管理する (8 アセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-126">Outlook mobile: Manage your time (8 assets)</span></span>
-- <span data-ttu-id="eb491-127">Outlook mobile: 人物と接続 (5 アセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-127">Outlook mobile: People and connections (5 assets)</span></span>
-- <span data-ttu-id="eb491-128">Outlook mobile: 検索と共有 (4 アセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-128">Outlook mobile: Search and share (4 assets)</span></span>
+## <a name="outlook"></a><span data-ttu-id="f0458-123">Outlook</span><span class="sxs-lookup"><span data-stu-id="f0458-123">Outlook</span></span>
+<span data-ttu-id="f0458-124">Outlook サブカテゴリに次のプレイリストが追加されました。</span><span class="sxs-lookup"><span data-stu-id="f0458-124">The following playlists has been added to the Outlook subcategory.</span></span> 
+- <span data-ttu-id="f0458-125">Outlook モバイル: 受信トレイを管理する (4 つのアセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-125">Outlook mobile: Manage your inbox (4 assets)</span></span>
+- <span data-ttu-id="f0458-126">Outlook モバイル: 時間の管理 (8 アセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-126">Outlook mobile: Manage your time (8 assets)</span></span>
+- <span data-ttu-id="f0458-127">Outlook モバイル: ユーザーと接続 (5 つのアセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-127">Outlook mobile: People and connections (5 assets)</span></span>
+- <span data-ttu-id="f0458-128">Outlook モバイル: 検索と共有 (4 つのアセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-128">Outlook mobile: Search and share (4 assets)</span></span>
 
-## <a name="onedrive"></a><span data-ttu-id="eb491-129">OneDrive</span><span class="sxs-lookup"><span data-stu-id="eb491-129">OneDrive</span></span>
-<span data-ttu-id="eb491-130">OneDrive 用に追加されたビデオアセットは次のとおりです。</span><span class="sxs-lookup"><span data-stu-id="eb491-130">The following video assets have been added for OneDrive.</span></span> 
-- <span data-ttu-id="eb491-131">OneDrive または iPad をセットアップするには、「OneDrive to OneDrive 再生リスト」に追加されています。</span><span class="sxs-lookup"><span data-stu-id="eb491-131">Set up your iPhone or iPad has been added to the Intro to OneDrive playlist</span></span>
-- <span data-ttu-id="eb491-132">Onedrive バックアップをオンにして、OneDrive の再生リストを使用してファイルを管理します。</span><span class="sxs-lookup"><span data-stu-id="eb491-132">Turn on OneDrive Backup has been added to the Manage your files with OneDrive playlist</span></span>
+## <a name="onedrive"></a><span data-ttu-id="f0458-129">OneDrive</span><span class="sxs-lookup"><span data-stu-id="f0458-129">OneDrive</span></span>
+<span data-ttu-id="f0458-130">OneDrive 用に次のビデオ アセットが追加されました。</span><span class="sxs-lookup"><span data-stu-id="f0458-130">The following video assets have been added for OneDrive.</span></span> 
+- <span data-ttu-id="f0458-131">iPhone または iPad のセットアップが OneDrive プレイリストのイントロに追加されました</span><span class="sxs-lookup"><span data-stu-id="f0458-131">Set up your iPhone or iPad has been added to the Intro to OneDrive playlist</span></span>
+- <span data-ttu-id="f0458-132">OneDrive のバックアップを有効にするが、OneDrive プレイリストでファイルを管理するに追加されました</span><span class="sxs-lookup"><span data-stu-id="f0458-132">Turn on OneDrive Backup has been added to the Manage your files with OneDrive playlist</span></span>
 
-## <a name="planner"></a><span data-ttu-id="eb491-133">Planner</span><span class="sxs-lookup"><span data-stu-id="eb491-133">Planner</span></span>
-<span data-ttu-id="eb491-134">カタログには、次のプレイリストとアセットが追加されています。</span><span class="sxs-lookup"><span data-stu-id="eb491-134">The following playlists and assets have been added to the catalog.</span></span>  
-- <span data-ttu-id="eb491-135">Planner クイックスタート (6 アセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-135">Planner Quick Start (6 assets)</span></span>
-- <span data-ttu-id="eb491-136">Planner を使用する (8 アセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-136">Use Planner (8 assets)</span></span>
+## <a name="planner"></a><span data-ttu-id="f0458-133">Planner</span><span class="sxs-lookup"><span data-stu-id="f0458-133">Planner</span></span>
+<span data-ttu-id="f0458-134">次のプレイリストとアセットがカタログに追加されました。</span><span class="sxs-lookup"><span data-stu-id="f0458-134">The following playlists and assets have been added to the catalog.</span></span>  
+- <span data-ttu-id="f0458-135">Planner クイック スタート (6 アセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-135">Planner Quick Start (6 assets)</span></span>
+- <span data-ttu-id="f0458-136">Use Planner (8 アセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-136">Use Planner (8 assets)</span></span>
 
-### <a name="accessibility"></a><span data-ttu-id="eb491-137">アクセシビリティ</span><span class="sxs-lookup"><span data-stu-id="eb491-137">Accessibility</span></span>
-<span data-ttu-id="eb491-138">コンテンツのアクセシビリティサブカテゴリは、次のプレイリストで追加されました。</span><span class="sxs-lookup"><span data-stu-id="eb491-138">The Accessibility subcategory of content has been added with the following playlists.</span></span> 
-- <span data-ttu-id="eb491-139">Microsoft 365 アクセシビリティの概要とリソース (3 アセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-139">Microsoft 365 Accessibility Overview and Resources (3 assets)</span></span>
-- <span data-ttu-id="eb491-140">Outlook でよりアクセス可能な電子メールメッセージを作成する (3 アセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-140">Create more accessible email messages in Outlook (3 assets)</span></span>
-- <span data-ttu-id="eb491-141">よりアクセシビリティの高い Word 文書を作成する (8 アセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-141">Create more accessible Word documents (8 assets)</span></span>
-- <span data-ttu-id="eb491-142">よりアクセシビリティの高い Excel ブックを作成する (3 アセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-142">Create more accessible Excel workbooks (3 assets)</span></span>
-- <span data-ttu-id="eb491-143">PowerPoint で追加のアクセス可能なスライドを作成する (5 アセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-143">Create more accessible slides in PowerPoint (5 assets)</span></span>
+### <a name="accessibility"></a><span data-ttu-id="f0458-137">アクセシビリティ</span><span class="sxs-lookup"><span data-stu-id="f0458-137">Accessibility</span></span>
+<span data-ttu-id="f0458-138">コンテンツのアクセシビリティ サブカテゴリが、次のプレイリストと一緒に追加されました。</span><span class="sxs-lookup"><span data-stu-id="f0458-138">The Accessibility subcategory of content has been added with the following playlists.</span></span> 
+- <span data-ttu-id="f0458-139">Microsoft 365 アクセシビリティの概要とリソース (3 つのアセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-139">Microsoft 365 Accessibility Overview and Resources (3 assets)</span></span>
+- <span data-ttu-id="f0458-140">Outlook でアクセスしやすい電子メール メッセージを作成する (3 つのアセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-140">Create more accessible email messages in Outlook (3 assets)</span></span>
+- <span data-ttu-id="f0458-141">よりアクセスしやすい Word ドキュメントを作成する (8 アセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-141">Create more accessible Word documents (8 assets)</span></span>
+- <span data-ttu-id="f0458-142">よりアクセスしやすい Excel ブックを作成する (3 つのアセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-142">Create more accessible Excel workbooks (3 assets)</span></span>
+- <span data-ttu-id="f0458-143">PowerPoint でアクセスしやすいスライドを作成する (5 つのアセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-143">Create more accessible slides in PowerPoint (5 assets)</span></span>
 
-## <a name="onedrive"></a><span data-ttu-id="eb491-144">OneDrive</span><span class="sxs-lookup"><span data-stu-id="eb491-144">OneDrive</span></span>
-<span data-ttu-id="eb491-145">注: 変更を追加する必要があります。</span><span class="sxs-lookup"><span data-stu-id="eb491-145">NOTE: Changes need to be added here.....</span></span>
+## <a name="onedrive"></a><span data-ttu-id="f0458-144">OneDrive</span><span class="sxs-lookup"><span data-stu-id="f0458-144">OneDrive</span></span>
+<span data-ttu-id="f0458-145">注: ここで変更を追加する必要があります。....</span><span class="sxs-lookup"><span data-stu-id="f0458-145">NOTE: Changes need to be added here.....</span></span>
 
-## <a name="sway"></a><span data-ttu-id="eb491-146">Sway</span><span class="sxs-lookup"><span data-stu-id="eb491-146">Sway</span></span>
-<span data-ttu-id="eb491-147">コンテンツの Sway サブカテゴリは、次のプレイリストで追加されています。</span><span class="sxs-lookup"><span data-stu-id="eb491-147">The Sway subcategory of content has been added with the following playlists.</span></span> 
-- <span data-ttu-id="eb491-148">Sway クイックスタート (4 アセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-148">Sway Quick Start (4 assets)</span></span>
-- <span data-ttu-id="eb491-149">Sway の共有とアクセス (5 アセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-149">Share and access Sway (5 assets)</span></span>
-- <span data-ttu-id="eb491-150">Sway にコンテンツを追加する (11 アセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-150">Add content to Sway (11 assets)</span></span>
-- <span data-ttu-id="eb491-151">Sway のカスタマイズ (5 アセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-151">Customize Sway (5 assets)</span></span>
+## <a name="sway"></a><span data-ttu-id="f0458-146">Sway</span><span class="sxs-lookup"><span data-stu-id="f0458-146">Sway</span></span>
+<span data-ttu-id="f0458-147">コンテンツの Sway サブカテゴリが、次のプレイリストと一緒に追加されました。</span><span class="sxs-lookup"><span data-stu-id="f0458-147">The Sway subcategory of content has been added with the following playlists.</span></span> 
+- <span data-ttu-id="f0458-148">Sway クイック スタート (4 つのアセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-148">Sway Quick Start (4 assets)</span></span>
+- <span data-ttu-id="f0458-149">Sway の共有とアクセス (5 つのアセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-149">Share and access Sway (5 assets)</span></span>
+- <span data-ttu-id="f0458-150">Sway にコンテンツを追加する (11 アセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-150">Add content to Sway (11 assets)</span></span>
+- <span data-ttu-id="f0458-151">Sway のカスタマイズ (5 つのアセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-151">Customize Sway (5 assets)</span></span>
 
-## <a name="access"></a><span data-ttu-id="eb491-152">Access</span><span class="sxs-lookup"><span data-stu-id="eb491-152">Access</span></span>
-- <span data-ttu-id="eb491-153">Access クイックスタート (4 アセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-153">Access Quick Start (4 assets)</span></span>
-- <span data-ttu-id="eb491-154">Access 入門 (3 アセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-154">Intro to Access (3 assets)</span></span>
-- <span data-ttu-id="eb491-155">Access データベースを作成する (2 アセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-155">Create an Access database (2 assets)</span></span>
-- <span data-ttu-id="eb491-156">テーブルを追加する (2 アセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-156">Add tables (2 assets)</span></span>
-- <span data-ttu-id="eb491-157">リレーションシップを使用する (5 アセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-157">Use relationships (5 assets)</span></span>
-- <span data-ttu-id="eb491-158">データを追加および編集する (2 アセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-158">Add and edit data (2 assets)</span></span>
-- <span data-ttu-id="eb491-159">クエリを使用してデータを管理する (5 アセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-159">Manage data with queries (5 assets)</span></span>
-- <span data-ttu-id="eb491-160">フォームを作成する (1 つのアセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-160">Create forms (1 asset)</span></span>
-- <span data-ttu-id="eb491-161">レポートを作成する (2 アセット)</span><span class="sxs-lookup"><span data-stu-id="eb491-161">Create reports (2 assets)</span></span>
-- <span data-ttu-id="eb491-162">データベースを保護する (1 つの資産)</span><span class="sxs-lookup"><span data-stu-id="eb491-162">Protect databases (1 asset)</span></span>
+## <a name="access"></a><span data-ttu-id="f0458-152">Access</span><span class="sxs-lookup"><span data-stu-id="f0458-152">Access</span></span>
+- <span data-ttu-id="f0458-153">Access Quick Start (4 アセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-153">Access Quick Start (4 assets)</span></span>
+- <span data-ttu-id="f0458-154">Access のイントロ (3 つのアセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-154">Intro to Access (3 assets)</span></span>
+- <span data-ttu-id="f0458-155">Access データベースの作成 (2 つのアセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-155">Create an Access database (2 assets)</span></span>
+- <span data-ttu-id="f0458-156">テーブルの追加 (2 つのアセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-156">Add tables (2 assets)</span></span>
+- <span data-ttu-id="f0458-157">リレーションシップの使用 (5 アセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-157">Use relationships (5 assets)</span></span>
+- <span data-ttu-id="f0458-158">データの追加と編集 (2 つのアセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-158">Add and edit data (2 assets)</span></span>
+- <span data-ttu-id="f0458-159">クエリを使用してデータを管理する (5 つのアセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-159">Manage data with queries (5 assets)</span></span>
+- <span data-ttu-id="f0458-160">フォームの作成 (1 アセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-160">Create forms (1 asset)</span></span>
+- <span data-ttu-id="f0458-161">レポートの作成 (2 つのアセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-161">Create reports (2 assets)</span></span>
+- <span data-ttu-id="f0458-162">データベースの保護 (1 アセット)</span><span class="sxs-lookup"><span data-stu-id="f0458-162">Protect databases (1 asset)</span></span>
 
