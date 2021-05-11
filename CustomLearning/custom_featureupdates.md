@@ -1,5 +1,5 @@
 ---
-author: pkrebs ms.author: pkrebs title: Learning pathways Feature Updates ms.date: 4/13/2021 説明: Learning pathways Feature Updates ms.service: sharepoint-online
+author: pkrebs ms.author: pkrebs title: Learning pathways Feature Updates ms.date: 4/13/2021 説明: Learning pathways Feature Updates ms.service: sharepoint-online manager: bpardi ms.topic: article
 
 # <a name="learning-pathways-version-40-feature-updates"></a>ラーニング パス バージョン 4.0 の機能更新プログラム
 以下に、学習経路バージョン 4.0 の機能更新プログラムが含まれています。  
@@ -25,7 +25,7 @@ author: pkrebs ms.author: pkrebs title: Learning pathways Feature Updates ms.dat
 
 ## <a name="july-2020-version-40-feature-updates"></a>2020 年 7 月バージョン 4.0 の機能更新プログラム 
 
-Microsoft 365 ラーニング パス バージョン 4.0 には、次の新機能が追加されています。 
+次の新機能が、Microsoft 365バージョン 4.0 に追加されました。 
 
 ### <a name="multilingual-support-for-learning-pathways"></a>学習経路の多言語サポート 
 多言語による学習経路のサポートにオランダ語が含まれる。 
@@ -52,18 +52,18 @@ Microsoft 365 ラーニング パス バージョン 4.0 には、次の新機�
 ## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>カスタム サブカテゴリを学習する画像ピッカー 
 学習パスは、カスタムプレイリストとサブカテゴリに使いやすい画像ピッカーを提供します。  過去のバージョンでは、プレイリストのイメージを変更できますが、サブカテゴリは変更していけなくなっています。  
 
-詳しくは、以下を参照してください。
+詳細については、以下を参照してください。
 - [カスタムプレイリストを作成します](custom_createnewplaylist.md)。 
 - [サブカテゴリの作成](custom_createnewcat.md)
 
 ## <a name="november-2019-version-30-feature-updates"></a>2019 年 11 月バージョン 3.0 の機能更新プログラム
-主に顧客からのフィードバックに基づいて、Microsoft 365 ラーニング パス バージョン 3.0 に次の新機能が追加されました。
+主に顧客からのフィードバックに基づいて、次の新機能が、Microsoft 365 3.0 に追加されました。
 
 ### <a name="content-updates-and-editorial-calendar"></a>コンテンツの更新と編集カレンダー
 学習経路の約束の 1 つは、最新のコンテンツです。 この結果、2019 年 11 月の四半期ごとに、さまざまな新しいサブカテゴリ、プレイリスト、アセットを含むコンテンツ更新プログラムを提供しました。 コンテンツの更新は、コンテンツ更新プログラムの記事の「What's New/What's Changed」プレイリストで伝達されます。 四半期ごとにコンテンツ更新プログラムを学習する方法については、一般的なヘルプOffice [2019 年 11](custom_contentupdates.md)月のコンテンツ更新プログラムを参照してください。
 
 ### <a name="learning-pathways-admin-success-center"></a>ラーニング パス管理者サクセス センター
-管理者とサイト コレクションの所有者が学習経路を最も有効に利用するために、Microsoft 365 ラーニング パス管理サクセス センターが追加されました。 管理サクセス センターでは、計画と導入のリソースへのリンクを提供し、学習経路の計画、カスタマイズ、導入促進、および影響の測定に関するガイダンスを提供します。 詳細については、「Admin [Success Center」を参照してください](custom_successcenter.md)。
+管理者とサイト コレクションの所有者が学習経路Microsoft 365を有効に利用するために、管理者サクセス センターに新しい学習経路が追加されました。 管理サクセス センターでは、計画と導入のリソースへのリンクを提供し、学習経路の計画、カスタマイズ、導入促進、および影響の測定に関するガイダンスを提供します。 詳細については、「Admin [Success Center」を参照してください](custom_successcenter.md)。
 
 ## <a name="playlist-navigation"></a>プレイリストナビゲーション
 お客様からのフィードバックに基づいて、[次へ] ボタンと [前へ] ボタンを使用してナビゲーションを明らかにしました。 また、ユーザーがプレイリスト内のアイテムの完全なリストを簡単に表示したり、プレイリスト内のアセットに直接移動したりするために、ナビゲーション領域内に目次を追加しました。
@@ -75,5 +75,5 @@ Microsoft 365 ラーニング パス バージョン 4.0 には、次の新機�
 多くのお客様は、完全に新しいプレイリストを作成する必要なく、Microsoft 提供のプレイリストで簡単な変更を行う必要性を表明しています。 たとえば、一般的な顧客要求は、6 つの簡単な手順の開始プレイリストから手順を削除します。 これで、Microsoft カタログのプレイリストを含む既存のプレイリストからプレイリストをコピーし、そのプレイリストを変更できます。 たとえば、6 つの簡単な手順をコピーし、3 つの手順を削除し、プレイリストを 3 つの簡単な手順に変換できます。 詳細については、「プレイリストを [コピーする」を参照してください](custom_copyplaylist.md)。
 
 ## <a name="multi-content-pack-support"></a>マルチコンテンツ パックのサポート
-Web コンテンツの管理経験を持つ Microsoft 365 ラーニング パスパートナーと管理者向けに設計されたマルチコンテンツ サポートにより、パートナーまたは管理者は、カスタム コンテンツ セットを Microsoft 365 ラーニング パスに統合できます。 詳細については、「パートナー ガイド」 [を参照してください](custom_partnerguide.md)。
+Web コンテンツMicrosoft 365管理の経験を持つパートナーと管理者向けMicrosoft 365向けで設計されたマルチコンテンツ サポートにより、パートナーまたは管理者はカスタム コンテンツ セットを Microsoft 365 ラーニング パスに統合できます。 詳細については、「パートナー ガイド」 [を参照してください](custom_partnerguide.md)。
 

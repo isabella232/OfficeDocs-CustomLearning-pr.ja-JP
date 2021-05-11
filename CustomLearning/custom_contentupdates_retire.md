@@ -3,28 +3,30 @@ author: pkrebs
 ms.author: pkrebs
 title: 2019 年 11 月のコンテンツ更新プログラム
 ms.date: 10/20/2019
-description: Microsoft 365 ラーニング パス のコンテンツ更新
+description: Microsoft 365学習経路のコンテンツ更新
 ms.service: sharepoint-online
-ms.openlocfilehash: cc60c4a16ca3d1bf7f6944f57f274303a76fa3c9
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: c2f065ec4dd35a036f873e1838fa9910f76014f2
+ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999103"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52310401"
 ---
 # <a name="november-2019-content-updates"></a>2019 年 11 月のコンテンツ更新プログラム
-Microsoft 365 ラーニング パスのコンテンツ更新プログラムへようこそ。 2019 年 11 月の更新プログラムから、四半期ごとに学習経路カタログの更新されたインベントリを提供します。 2019 年 11 月の更新プログラムでは、次の新しいコンテンツ サブカテゴリと再生リストがラーニング パスカタログに追加されました。 コンテンツ更新プログラムの適用方法とコンテンツ更新プログラムの管理方法の詳細については、「コンテンツ更新プログラムの管理 [」を参照してください](custom_contentupdatesmanage.md)。    
+コンテンツ更新プログラムMicrosoft 365学習パスへようこそ。 2019 年 11 月の更新プログラムから、四半期ごとに学習経路カタログの更新されたインベントリを提供します。 2019 年 11 月の更新プログラムでは、次の新しいコンテンツ サブカテゴリと再生リストがラーニング パスカタログに追加されました。 コンテンツ更新プログラムの適用方法とコンテンツ更新プログラムの管理方法の詳細については、「コンテンツ更新プログラムの管理 [」を参照してください](custom_contentupdatesmanage.md)。    
 
 ## <a name="teams"></a>Teams
-Teams サブカテゴリにいくつかの新しいプレイリストが追加されました。
+複数の新しいプレイリストがサブカテゴリTeamsされました。
 - 投稿とメッセージを処理する (3 つのアセット)
-- ファイルのアップロードと検索 (2 つのアセット)
+- アップロードファイルの検索 (2 つのアセット)
 - ライブ イベントの設定と参加 (4 つのアセット)
 - アクティビティ フィードの管理 (2 つのアセット)
-- 移動中のチーム (2 つのアセット)
+- Teamsに移動する (2 つのアセット)
 
-## <a name="microsoft-365-success-center"></a>Microsoft 365 サクセス センター
-Microsoft 365 ラーニング パスサクセス センター サブカテゴリをラーニング パスエクスペリエンスに追加しました。 サクセス センターには、次のプレイリストがあります。
+## <a name="microsoft-365-success-center"></a>Microsoft 365サクセス センター
+学習パスエクスペリエンスにMicrosoft 365サクセス センター のサブカテゴリを追加しました。 サクセス センターには、次のプレイリストがあります。
 - 新機能、変更点 (3 アセット)
 - 学習コンテンツを計画する (2 つのアセット)
 - 学習経路をカスタマイズする (8 つのアセット?
@@ -32,16 +34,16 @@ Microsoft 365 ラーニング パスサクセス センター サブカテゴリ
 - 学習経路の影響を測定する (1 アセット)
 
 ## <a name="outlook"></a>Outlook
-Outlook サブカテゴリに次のプレイリストが追加されました。 
-- Outlook モバイル: 受信トレイを管理する (4 つのアセット)
-- Outlook モバイル: 時間の管理 (8 アセット)
-- Outlook モバイル: ユーザーと接続 (5 つのアセット)
-- Outlook モバイル: 検索と共有 (4 つのアセット)
+次のプレイリストがサブカテゴリのOutlookされました。 
+- Outlookモバイル: 受信トレイを管理する (4 つのアセット)
+- Outlook: 時間の管理 (8 アセット)
+- Outlook: ユーザーと接続 (5 つのアセット)
+- Outlook: 検索と共有 (4 つのアセット)
 
 ## <a name="onedrive"></a>OneDrive
-OneDrive 用に次のビデオ アセットが追加されました。 
-- iPhone または iPad のセットアップが OneDrive プレイリストのイントロに追加されました
-- OneDrive のバックアップを有効にするが、OneDrive プレイリストでファイルを管理するに追加されました
+次のビデオ アセットが、ユーザーにOneDrive。 
+- [イントロ] iPhoneリストiPad追加されたユーザーまたはユーザーのOneDrive設定する
+- [ファイルOneDriveの管理] プレイリストにバックアップが追加されている場合はOneDriveする
 
 ## <a name="planner"></a>Planner
 次のプレイリストとアセットがカタログに追加されました。  
@@ -50,14 +52,11 @@ OneDrive 用に次のビデオ アセットが追加されました。
 
 ### <a name="accessibility"></a>アクセシビリティ
 コンテンツのアクセシビリティ サブカテゴリが、次のプレイリストと一緒に追加されました。 
-- Microsoft 365 アクセシビリティの概要とリソース (3 つのアセット)
-- Outlook でアクセスしやすい電子メール メッセージを作成する (3 つのアセット)
+- Microsoft 365アクセシビリティの概要とリソース (3 つのアセット)
+- ユーザー設定 (3 つのアセット) でOutlookメール メッセージを作成する
 - よりアクセスしやすい Word ドキュメントを作成する (8 アセット)
-- よりアクセスしやすい Excel ブックを作成する (3 つのアセット)
-- PowerPoint でアクセスしやすいスライドを作成する (5 つのアセット)
-
-## <a name="onedrive"></a>OneDrive
-注: ここで変更を追加する必要があります。....
+- ブック (3 Excel) を作成する
+- 5 つのアセットで、よりPowerPointスライドを作成する
 
 ## <a name="sway"></a>Sway
 コンテンツの Sway サブカテゴリが、次のプレイリストと一緒に追加されました。 

@@ -1,29 +1,31 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Microsoft 365 ラーニング パス Web パーツの追加と編集
+title: 学習パス Web パーツMicrosoft 365追加および編集する
 ms.date: 02/17/2019
-description: Microsoft 365 ラーニング パス Web パーツを SharePoint ページに追加する
+description: 新しいMicrosoft 365パス Web パーツをページにSharePointする
 ms.service: sharepoint-online
-ms.openlocfilehash: 78279ddeb9e73ca087d546f5081444596a209aa7
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: d1bbc4c5d206d9feaa446f3f89a3f6dc6c3fe2a0
+ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999203"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52310451"
 ---
-# <a name="add-and-edit-the-microsoft-365-learning-pathways-web-part"></a>Microsoft 365 ラーニング パス Web パーツの追加と編集
+# <a name="add-and-edit-the-microsoft-365-learning-pathways-web-part"></a>学習パス Web パーツMicrosoft 365追加および編集する
 
-Microsoft 365 ラーニング パスを使用すると、Microsoft 365 ラーニング パス Web パーツを SharePoint ページに追加し、Web パーツの内容をフィルター処理してページの学習目標を満たします。 たとえば、"Make the Switch to OneDrive" ページを作成し、Web パーツを追加して、特に組織用に作成されたカスタム OneDrive 移行プレイリストを表示する構成を行います。
+Microsoft 365を使用すると、Microsoft 365 ラーニング パス Web パーツを SharePoint ページに追加し、Web パーツの内容をフィルター処理してページの学習目標を満たします。 たとえば、"Make the Switch to OneDrive" ページを作成し、Web パーツを追加して、特に組織用に作成されたカスタム OneDrive 移行プレイリストを表示する構成を行います。
 
-1.  [SharePoint Gear] アイコンをクリックし、[ページの追加 **] をクリックします**。
+1.  [歯車SharePoint] アイコンをクリックし、[ページの追加 **] をクリックします**。
 2.  ページ **の左側にある [新しいセクションの追加] (+)** をクリックし、[1 列] **をクリックします**。
-3.  を **+** クリックし **、Microsoft 365 ラーニング パス** Web パーツを選択します。 
+3.  を **+** クリックし、学習 **Microsoft 365 Web パーツを** 選択します。 
 
 ![cg-webpartadd.png](media/cg-webpartadd.png)
 
 ## <a name="edit-the-custom-learning-web-part"></a>カスタムラーニング Web パーツの編集
-Microsoft 365 ラーニング パス Web パーツを編集して、利用可能なすべてのカスタム学習コンテンツまたは特定のカテゴリ、サブカテゴリ、プレイリスト、またはアセットを表示できます。 
+利用可能なすべてのカスタム学習コンテンツMicrosoft 365カテゴリ、サブカテゴリ、プレイリスト、またはアセットを表示するには、Microsoft 365ラーニング パス Web パーツを編集できます。 
 
 1.  **[Web パーツの編集]** をクリックします。
 

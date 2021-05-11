@@ -5,18 +5,20 @@ title: 新しいサブカテゴリを作成する
 ms.date: 02/17/2019
 description: 学習経路を使用して新しいサブカテゴリを作成する
 ms.service: sharepoint-online
-ms.openlocfilehash: cf50403eee4fac0494298a84354eb142e7957790
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: 4cf22317096bba2f4eacb64ce7ca838219d6b390
+ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999088"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52310421"
 ---
 # <a name="create-a-subcategory"></a>サブカテゴリを作成する 
 場合によっては、新しいサブカテゴリを作成する必要があります。 たとえば、最初の日のサブカテゴリが組織で機能しない場合は、新しいサブカテゴリを作成し、組織のニーズを満たすためにプレイリストを追加できます。 
 
-1. [Microsoft 365 ラーニング パス]**ホーム** ページで **、[Microsoft 365** トレーニング] をクリックし、Web パーツから [システム] メニューをクリックし、[プレイリストの管理] を **クリックします**。 
-2. [カテゴリ] を **選択します**。 この例では、[スタート] **を選択します**。  
+1. [学習Microsoft 365ホーム ページで、[トレーニング] Microsoft 365をクリックし、Web パーツから[システム] メニューをクリックし、[プレイリストの管理] を **クリックします**。  
+2. [カテゴリ] を **選択します**。 この例では、[次の設定]**をはじめに。**  
 3. ページを下にスクロールし、 
 3. [新しい **サブカテゴリの追加] + アイコンをクリック** します。  
 

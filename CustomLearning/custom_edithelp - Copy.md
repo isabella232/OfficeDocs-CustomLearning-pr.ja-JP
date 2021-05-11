@@ -1,31 +1,33 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 学習経路サイトをカスタマイズする
+title: 学習経路サイトをカスタマイズする方法
 ms.date: 02/15/2019
-description: Microsoft 365 ラーニング パスで利用できるさまざまなカスタマイズについて説明します。
+description: さまざまなカスタマイズについて、さまざまな学習経路で利用Microsoft 365学ぶ
 ms.service: sharepoint-online
-ms.openlocfilehash: 44f11d02d86e8d3f8d3e32d5c3207fca384e9e2e
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: 60c0e907a85acd95c1b654f40633c5886b727c58
+ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52000283"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52310641"
 ---
-# <a name="customize-the-site"></a>サイトをカスタマイズする
+# <a name="how-to-customize-the-site"></a>サイトをカスタマイズする方法
 
-Microsoft 365 ラーニング パス サイトは SharePoint 通信テンプレートに基づくので、組織のニーズに合わせてサイトを簡単に変更できます。 ページ上のサイト名、ロゴ、メニュー項目、およびコンテンツを変更できます。 
+Microsoft 365学習パス サイトは、SharePoint コミュニケーション テンプレートに基づくので、組織のニーズに合わせてサイトを簡単に変更できます。 ページ上のサイト名、ロゴ、メニュー項目、およびコンテンツを変更できます。 
 
 > [!TIP]
 > 従業員からのフィードバックを収集し、サイトを定期的に更新します。 たとえば、新しいイベントが利用可能になったら、トレーニング イベントカレンダーを更新できます。 新しいサービスを起動する場合は、コンテンツを再表示し、新しいサービスの立ち上げに向け設計されたターゲットトレーニングプレイリストを構築できます。 
 
 ## <a name="customize-the-site-and-web-pages"></a>サイトと Web ページをカスタマイズする
 
-ラーニング パス サイトは完全にカスタマイズ可能です。 SharePoint サイトまたは Web ページをカスタマイズする方法が分からない場合は [、「SharePoint](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) サイトのカスタマイズ」の記事を参照 support.office.com。 
+ラーニング パス サイトは完全にカスタマイズ可能です。 SharePoint サイトまたは Web ページをカスタマイズする方法に精通していない場合は、「SharePoint サイトのカスタマイズ」[](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b)の記事を参照 support.office.com。 
 
 ### <a name="customize-ask-questions-and-get-help"></a>質問のカスタマイズとヘルプの取得
 
-ラーニング パス サイトの管理者として、組織のリソースを指す [ヘルプとサポートの取得] ページのリンクを変更します。 
+ラーニング パス サイトの管理者として **、問い合わせ** とサポート ページのリンクを変更して、組織内のリソースをポイントします。 
 
 1.  [学習経路] ホーム ページで、[質問をする] **をクリックし、ヘルプ メニュー項目を** 取得します。
 2.  [**編集**] ボタンをクリックします。
