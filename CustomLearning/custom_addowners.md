@@ -5,12 +5,14 @@ title: 365 サイトのカスタム Officeに移動する
 ms.date: 02/18/2019
 description: カスタム 学習サイトに移動する
 ms.service: sharepoint-online
-ms.openlocfilehash: a232b192b92f1305486538b2baaf2cbc917c9ecb
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: aec0f49e1745f10af7cb3de8cf572babce33fb97
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999123"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334511"
 ---
 # <a name="add-owners-custom-learning-site"></a>所有者の追加カスタム学習サイト
 
@@ -23,7 +25,7 @@ Office 365 サイトのカスタム学習は Office 365 テナントでホスト
 3.  サイトの場所に移動します。 使用できない場合は、PnP プロビジョニング サービスから受信したメールで確認できます。 [365 ホーム] ページOffice SharePoint を選択し **、365** サイトのカスタム Office選択します。 異なる名前を付けられた可能性があります。 
 5. [カスタム学習 **Office 365** トレーニング タイルをクリックして、カスタム学習で使用可能なトレーニング プレイリストの完全なスイートを表示し、カスタム 学習が期待通り動作しているのを確認します。 
 
-![cg-goto.png](media/cg-goto.png)
+   ![使用されている学習パスを示す写真のコレクション。](media/cg-goto.png)
 
 ## <a name="view-all-the-custom-learning-content"></a>すべてのカスタム学習コンテンツを表示する
 [Office 365 トレーニング] ページでは、カスタム学習で使用できるすべてのトレーニングを表示するように構成されたカスタム学習 Web パーツがホストされます。 
@@ -31,7 +33,7 @@ Office 365 サイトのカスタム学習は Office 365 テナントでホスト
 1. ページを下にスクロールすると、すべてのカテゴリとサブカテゴリが表示されます。
 2. タイヤを少し蹴る。 いくつかのサブカテゴリをクリックし、いくつかのプレイリストをクリックして、カスタム 学習コンテンツの整理方法を確認します。 
 
-![cg-gotoall.png](media/cg-gotoall.png)
+![[ラーニング パス ゲートウェイ] ウィンドウ。](media/cg-gotoall.png)
 
 ## <a name="add-owners-to-site"></a>サイトに所有者を追加する
 テナント管理者として、サイトをカスタマイズするユーザーになる可能性は低いので、少数の所有者をサイトに割り当てる必要があります。 所有者はサイトに対する管理者権限を持ち、サイト ページを変更したり、サイトのブランドを変更したりすることができます。 また、カスタム学習 Web パーツを通じて配信されたコンテンツを非表示にし、表示する機能も備っています。 また、カスタム プレイリストを作成し、カスタム サブカテゴリに割り当てる機能も備えます。  

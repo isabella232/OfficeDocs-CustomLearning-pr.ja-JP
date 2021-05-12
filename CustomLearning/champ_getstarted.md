@@ -1,19 +1,20 @@
 ---
-title: チャンピオン プログラムのベスト プラクティス
-description: チャンピオン プログラムのベスト プラクティスOffice 365 の導入を促進する
+title: 'チャンピオン プログラムのベスト プラクティス: ユーザー導入のチャンピオンを確立する'
+description: チャンピオン プログラムのベスト プラクティスは、365 の導入Office支援します。
 author: karuanag
 ms.author: karuanag
+manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: 2eab242302ed952141a256f3c9c1e6265044bf8f
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: 691b6535be07028bb02d6340cdfddeba841274a2
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999933"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334591"
 ---
-# <a name="establish-champions-for-user-adoption"></a>ユーザー導入のためのチャンピオンの確立 
+# <a name="champion-program-best-practices-establish-champions-for-user-adoption"></a>チャンピオン プログラムのベスト プラクティス: ユーザー導入のチャンピオンを確立する
 
 組織の変更管理は、対象となるグループのユーザーの動作を変更する方法です。 この実践を支える多くの科学と研究があります。 これらの記事では、会社のビジネス成果につながる主要なサービスの導入を促進する上で役立ちます。  ベスト プラクティスに従うと、365 から測定可能な値を取得するOffice短縮されます。  
 
@@ -24,7 +25,7 @@ ms.locfileid: "51999933"
 
 ## <a name="who-are-champions-and-what-makes-them-tick"></a>チャンピオンは誰で、何が彼らをチェックするのか。
 
-チャンピオンは自分の仕事に熱心なだけでなく、自分の知識を共有し、同僚が効果的な解決策を学ぶのに役立ちます。 チャンピオンは熱心で、既存のツールに不満を感じがちです。 彼らはあなたがウォータークーラーのバズチャレンジに勝つのに役立ちます!  
+チャンピオンは自分の仕事に熱心なだけでなく、自分の知識を共有し、同僚が効果的な解決策を学ぶのに役立ちます。 チャンピオンは熱心で、既存のツールに不満を感じがちです。 彼らはあなたが水のクーラーバズチャレンジに勝つのを助ける!  
 
 チャンピオンに有意義な方法で報酬を与えるのが重要だと考えます。 いくつかの提案は次のとおりです。
 
@@ -44,7 +45,7 @@ ms.locfileid: "51999933"
 
 チャンピオンは、コア プロジェクト チームのリソースの負担を軽減し、コミュニティ全体のエンゲージメントを促進するのに役立ちます。 また、次の情報も使用します。
 
-1. 改善された働き方の導入を促進する熱意を作り出す
+1. 改善された働き方の採用を増やす地面のうねりを作る
 1. チーム間で影響力の輪を作る
 1. チーム全体で新しい働き方を提供する
 1. ビジネス上の課題と考えられる解決策を特定する
