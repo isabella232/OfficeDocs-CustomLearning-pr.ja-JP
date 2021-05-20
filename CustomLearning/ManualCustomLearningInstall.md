@@ -6,42 +6,43 @@ ms.date: 02/18/2019
 manager: bpardi
 description: 手動インストールのラーニング パス
 ms.service: sharepoint-online
-ms.openlocfilehash: 7dd43e7ed66b7a8fdcd40d76d9d2bcb9403ad4bb
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.topic: article
+ms.openlocfilehash: 6f106b569602730f16fc2b6f8a09fa44667e32e1
+ms.sourcegitcommit: 33acfc2149de89e8375b064b2223cae505d2a102
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999213"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52575972"
 ---
-# <a name="manually-installing-and-configuring-custom-learning-for-office-365"></a>365 のカスタム 学習を手動でインストールOfficeする
+# <a name="manually-installing-and-configuring-custom-learning-for-office-365"></a>ユーザー設定のカスタム 学習を手動でインストールして構成Office 365
 
-Microsoft Custom Learning Web パーツは [、SharePoint Framework](/sharepoint/dev/spfx/sharepoint-framework-overview) バージョン 1.7.1 を使用してビルドされます。
+Microsoft Custom Learning Web パーツは、バージョン 1.7.1 [SharePoint Frameworkを](/sharepoint/dev/spfx/sharepoint-framework-overview)使用してビルドされます。
 
 Web パーツとサイト コレクションを手動でインストールして構成するには、次の手順を実行する必要があります。
 
 1. すべての前提条件を満たしていることを検証します。
-1. カスタムlearning.sppkg ファイルを 365 テナント Officeカタログにインストールします。
-1. 365 ホーム サイトのカスタム 学習として機能する最新Officeを指定します。
+1. テナント アプリ カタログに customlearning.sppkg ファイルOffice 365インストールします。
+1. ホーム サイトのカスタム 学習として機能する最新のコミュニケーション サイトをプロビジョニングOffice 365します。
 1. カスタム学習が依存する適切な成果物を使用してテナントを構成する PowerShell スクリプトを実行します。
 1. CustomLearningAdmin.aspx サイト ページに移動して管理 Web パーツを読み込み、カスタム コンテンツ構成を初期化します。
 
 ## <a name="prerequisites"></a>前提条件
 
-テナント全体のアプリ カタログをセットアップして構成している必要があります。 [「365 テナントOfficeセットアップ」を参照](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site)し、[アプリ カタログ サイトの作成] セクションに従います。 テナント全体のアプリ カタログが既にプロビジョニングされている場合は、このセットアップ プロセスを完了するために、パッケージをアップロードする権限を持つアカウントにアクセスする必要があります。 通常、このアカウントには SharePoint 管理者の役割があります。 その役割を持つアカウントが機能しない場合は、SharePoint 管理センターに移動し、アプリ カタログ サイト コレクションのサイト コレクション管理者を見つけて、サイト コレクション管理者の 1 人としてログインするか、サイト コレクション管理者に失敗した SharePoint 管理者アカウントを追加します。 また、SharePoint テナント管理者であるアカウントにアクセスする必要があります。
+テナント全体のアプリ カタログをセットアップして構成している必要があります。 「[アプリ カタログ サイトのOffice 365を設定し、[](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site)アプリ カタログ サイトの作成] セクションに従います。 テナント全体のアプリ カタログが既にプロビジョニングされている場合は、このセットアップ プロセスを完了するために、パッケージをアップロードする権限を持つアカウントにアクセスする必要があります。 通常、このアカウントには管理者SharePointがあります。 その役割を持つアカウントが機能しない場合は、SharePoint 管理センターに移動し、アプリ カタログ サイト コレクションのサイト コレクション管理者を見つけて、サイト コレクション管理者の 1 人としてログインするか、サイト コレクション管理者に失敗した SharePoint 管理者アカウントを追加します。 また、テナント管理者の管理者であるアカウントSharePoint必要があります。
 
-## <a name="upload-the-web-part-to-the-tenant-app-catalog"></a>Web パーツをテナント アプリ カタログにアップロードする
+## <a name="upload-the-web-part-to-the-tenant-app-catalog"></a>アップロード Web パーツをテナント アプリ カタログに追加する
 
-カスタム ラーニングを Office 365 に設定するには、customlearning.sppkg ファイルをテナント全体のアプリ カタログにアップロードして展開します。 アプリ [カタログにアプリを追加する](/sharepoint/use-app-catalog) 方法の詳細については、「アプリ カタログを使用して SharePoint Online 環境でカスタム ビジネス アプリを使用する」を参照してください。
+カスタム ラーニング を Office 365設定するには、customlearning.sppkg ファイルをテナント全体のアプリ カタログにアップロードして展開します。 アプリ[カタログにアプリを](/sharepoint/use-app-catalog)追加する方法の詳細については、「アプリ カタログを使用して、SharePoint Online 環境でカスタム ビジネス アプリを使用する」を参照してください。
 
 ## <a name="provisionidentify-modern-communication-site"></a>モダン コミュニケーション サイトのプロビジョニング/識別
 
-既存の SharePoint 通信サイトを識別するか、SharePoint Online テナントに新しい通信サイトをプロビジョニングします。 通信サイトを準備する方法の詳細については [、「SharePoint Online](https://support.office.com/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) で通信サイトを作成する」を参照し、手順に従って通信サイトを作成します。
+既存の通信サイトをSharePointするか、オンライン テナントに新しい通信サイトをSharePointします。 通信サイトを準備する方法の詳細については[、「SharePoint Online](https://support.office.com/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb)で通信サイトを作成する」を参照し、手順に従って通信サイトを作成します。
 
 ## <a name="set-permissions-for-the-site"></a>サイトのアクセス許可を設定する
 
 コンテンツを表示できる必要があるすべてのユーザーを Visitors グループに追加し、カスタムプレイリストをメンバー グループに管理できる必要があるすべてのユーザーを追加します。 ユーザーが初めてサイト コレクション管理者または所有者グループの一部である必要がある場合は、カスタム学習用にサイトを構成します。
 
-365 App Officeカスタム学習をサイト コレクションに追加します。
+アプリのカスタム学習Office 365サイト コレクションに追加します。
 
 ## <a name="execute-powershell-configuration-script"></a>PowerShell 構成スクリプトの実行
 
@@ -57,4 +58,4 @@ PowerShell スクリプトが含まれているので、ソリューションで
 
 PowerShell スクリプトが正常に実行された後、に移動します `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx` 。 これにより、初めて使用するカスタム学習を設定する CustomConfig リスト アイテムが初期化されます。
 
-これで構成が完了し、365 のカスタム 学習を使用してOfficeできます。 詳細については、ユーザーのドキュメントを参照してください。
+これで構成が完了し、ユーザー設定にカスタム 学習を使用Office 365。 詳細については、ユーザーのドキュメントを参照してください。

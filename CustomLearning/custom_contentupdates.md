@@ -3,26 +3,140 @@ author: pkrebs
 ms.author: pkrebs
 manager: bpardi
 title: ラーニング パス コンテンツの更新
-ms.date: 3/30/2020
-audience: Admin
+ms.date: 5/19/2021
 ms.topic: article
 description: ラーニング パス コンテンツの更新
 ms.service: o365-solutions
-ms.openlocfilehash: 6ec05d670dd9ccd925e07f71e3a8e5b99bc4621e
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+audience: itpro
+ms.openlocfilehash: 84d166c96ac24a04e24fe4a9b88f2942cc7752c8
+ms.sourcegitcommit: 33acfc2149de89e8375b064b2223cae505d2a102
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52000113"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52575982"
 ---
-# <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 Learning Pathways コンテンツ更新プログラム
-学習経路は、四半期ごとにコンテンツ更新サイクルに従う努力をしています。 コンテンツ更新プログラムの適用方法とコンテンツ更新プログラムの管理方法の詳細については、「コンテンツ更新プログラムの管理 [」を参照してください](custom_contentupdatesmanage.md)。 
+# <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365ラーニング パス コンテンツの更新
+学習経路は、四半期ごとにコンテンツ更新サイクルに従う努力をしています。 コンテンツ更新プログラムの適用方法とコンテンツ更新プログラムの管理方法の詳細については、「コンテンツ更新プログラムの管理 [」を参照してください](custom_contentupdatesmanage.md)。  
+
+## <a name="may-2021-content-updates"></a>2021 年 5 月コンテンツ更新プログラム
+次に、2021 年 5 月のコンテンツ更新プログラムの一覧を示します。    
+
+### <a name="yammer"></a>Yammer
+Yammerが更新されました。
+
+#### <a name="yammer-quick-start-updated"></a>Yammerクイック スタート (更新)
+- サインイン - 新しいビデオで更新
+- コミュニティを見る - 新しいタイトルで更新
+- 会話に参加する - 更新されたコンテンツ
+- 共同作業 - 廃止
+- モバイル アプリのセットアップ - 変更なし
+
+#### <a name="roll-out-a-successful-yammer-network-updated"></a>成功したネットワークをYammerする (更新)
+- データのYammer? – 新しいビデオで更新
+- 戦略を計画する - 更新されたコンテンツ
+- 新しいビデオYammer更新されたネットワークをカスタマイズする
+- 適切な使用例を特定する - 更新された、削除されたビデオ
+- 使用例のコミュニティを作成する - 更新された、タイトルのコミュニティにグループを変更しました 
+- ユーザーを教育する - 更新された、削除されたビデオ
+- 継続的なエンゲージメントの促進 - 廃止
+- 統合Yammer – タイトルの更新、変更
+
+#### <a name="use-yammer-every-day-updated"></a>毎日Yammerを使用する (更新)
+- 新しいYammerで更新される機能
+- [自分のYammerと設定を変更する - 更新されたコンテンツ
+- 会話を開始する - 更新されたタイトル
+- 通知を編集し、お知らせを受け取る - 更新されたタイトル
+- コミュニティに参加して作成する - 更新されたタイトル
+- [検索と検索] Yammer - 廃止
+- ファイルの作成と編集 - 廃止
+- 更新されたコンテンツを維持する
+
+### <a name="hybrid-workplace-updated"></a>ハイブリッド ワークプレース (更新)
+ハイブリッド ワークプレース サブカテゴリに次の新しいプレイリストが追加されました。
+
+#### <a name="stay-well-new"></a>良い滞在 (新しい)
+- ハイブリッド ワークプレースでのウェルウェルの概要 - 新しい資産
+- 休憩を取り、個人の時間をスケジュールする - 新しい資産
+- 境界の計画と尊重 - 新しいアセット
+- [新しいアセット] でMicrosoft Teamsを設定する
+- 新しいアセット - Teamsで通知を管理する
+- [新しいアセット] でフォーカス Windowsをオンにする
+
+#### <a name="stay-productive-new"></a>生産性を維持する (新しい)
+- ハイブリッドワークプレースでの個人の生産性 - 新しい資産
+- ハイブリッドワークプレースでのチームの生産性 - 新しい資産
+
+#### <a name="stay-connected-new"></a>接続を残す (新しい)
+- ハイブリッドワークプレースでの接続の取得 - 新しいアセット
+- 新しいアセット - Teamsで会話を開始する
+- チームと通信契約を作成する - 新しいアセット
+
+### <a name="microsoft-teams-updated"></a>Microsoft Teams (更新)
+ビデオを含む新しいアセットが、次の再生リストにMicrosoft Teamsされました。 
+
+#### <a name="collaborate-in-teams-and-channels-updated"></a>チームとチャネルでの共同作業 (更新)
+- 外部ゲストと作業する - ビデオを使用した新しいアセット
+
+#### <a name="create-approvals-updated"></a>承認の作成 (更新)
+- 電子署名の承認を作成する - ビデオを使用した新しいアセット
+
+### <a name="teams-excel-powerpoint-word-outlook"></a>Teams、Excel、PowerPoint、Word、Outlook
+次のアセットには、新しいビデオまたは更新されたビデオがあります。
+
+#### <a name="teams"></a>Teams
+- 会議を管理する\会議に参加Teams会議に参加する - 更新されたビデオ
+- 会議の管理\会議の管理 - 更新されたビデオ
+- チームとチャネルでの共同作業\チームとチャネルの概要 - 更新されたビデオ
+- チームとチャネルでの共同作業\外部ゲストと連携する - 新しいビデオ
+- アップロードファイルの検索と検索\アップロードファイルの共有 - 更新されたビデオ
+- 承認を作成する\電子署名承認要求を作成する - 新しいビデオ
+
+#### <a name="excel"></a>Excel
+- Intro to Excel\Use Excel電卓 (減算) - 更新されたビデオ
+- Intro to Excel\Use Excel電卓 (乗算) - 更新されたビデオ
+- Intro to Excel\Use Excel 電卓 (除算) - 更新されたビデオ
+- ワークシートまたはワークシート Excelデータを移動/移動またはコピーする方法の紹介 - 更新されたビデオ
+- ワークシートのセルExcel\Fill データを自動的に入力する方法 - 更新されたビデオ
+- セル内のテキストを書式設定\位置合わせまたは回転する - 新しいビデオ
+- Chart\Create a chart from finish - updated video
+- 行と列\行または列を非表示または表示する - 更新されたビデオ
+
+#### <a name="powerpoint"></a>PowerPoint
+- スライドとレイアウト\ビデオの追加、再配置、複製、PowerPoint削除
+- スライドとレイアウト\横向きと縦向きのPowerPointページの向きを変更する - 更新されたビデオ
+- アニメーション、ビデオ、オーディオ\プレゼンテーションでオーディオを追加またはPowerPointする - 更新されたビデオ  
+- アニメーション、ビデオ、オーディオ\YouTube または別のサイトからビデオを挿入する - 新しいビデオ 
+- テキスト &\スライドへのハイパーリンクの追加 - 更新されたビデオ
+- 画像&\スライドに背景画像を追加する - 更新されたビデオ
+- スライド ショーを表示する\プレゼンテーションを開始し、発表者ビューでメモを表示する - 更新されたビデオ
+
+##### <a name="word"></a>Word
+- ページをレイアウトする\ページの向きを横または縦に変更する - 新しいビデオ
+- テーブル、画像、透かし&を挿入する\ルーラーを表示する - 新しいビデオ
+- テーブルを挿入する、&透かしを挿入する\テーブルを挿入する - 更新されたビデオ
+- テーブル、画像、透かし&を挿入する\写真を挿入する - 更新されたビデオ
+
+#### <a name="outlook"></a>Outlook
+- Calendar\Welcome to your calendar - 更新されたビデオ
+- Calendar\Use calendar categories and reminders - 更新されたビデオ
+- Calendar\Search for calendar items - updated video
+- 連絡先とタスク\連絡先の追加 - 更新されたビデオ
+- 連絡先とタスク\連絡先グループの作成 - 更新されたビデオ
+- 連絡先とタスク\タスクの作成と To Do リスト - 更新されたビデオ
+- 連絡先とタスク\連絡先のインポート - 更新されたビデオ
+- 連絡先とタスク\連絡先のエクスポート - 更新されたビデオ
+- 電子メールを作成して送信する\電子メール署名を作成する - 更新されたビデオ
+- 電子メールを作成して送信する\受信トレイを歓迎する - 更新されたビデオ
+- 電子メールを作成して送信する\送信された電子メールを取り消すまたは置き換える - 更新されたビデオ
+- セットアップとカスタマイズ\Outlook.com または Microsoft 365 アカウントを追加する - 更新されたビデオ
+- 設定とカスタマイズ\Gmail アカウントの設定 - 更新されたビデオ
+- メールの管理\検索とフィルターメール - 更新されたビデオ
 
 ## <a name="march-2021-content-updates"></a>2021 年 3 月のコンテンツ更新プログラム
 次に、2021 年 3 月のコンテンツ更新プログラムの一覧を示します。 
 
 ### <a name="hybrid-workplace"></a>ハイブリッドワークプレース
-組織が、従業員が自宅やオフィスで働くハイブリッド職場への移行を支援するために、ユーザーが効果的な会議を実行し、包括的な会議環境を作成し、同年に共同作業を行い、ライブ イベントで大規模なユーザーにリーチするためのプレイリストを提供しました。 ハイブリッドワークプレースのサブカテゴリには、次のプレイリストとアセットが含まれます。
+組織が、従業員が自宅やオフィスで働くハイブリッド職場への移行を支援するために、ユーザーが効果的な会議を実行し、包括的な会議環境を作成し、非同期的に共同作業を行い、ライブ イベントで多くのユーザーにリーチするためのプレイリストを提供しました。 ハイブリッドワークプレースのサブカテゴリには、次のプレイリストとアセットが含まれます。
 
 #### <a name="run-effective-meetings"></a>効果的な会議を実行する
 - 効果的な会議を実行する
@@ -44,29 +158,29 @@ ms.locfileid: "52000113"
 #### <a name="asynchronous-collaboration-and-co-authoring"></a>非同期のコラボレーションと共同編集
 - 会議の削減または非同期コラボレーションへの置き換え
 - 共有コンテンツの共同作業と共同編集
-- Microsoft 365 での共同作業のベスト プラクティス
-- Microsoft 365 ファイルの共同作成者
+- グループでの共同作業のベスト プラクティスMicrosoft 365
+- 共同編集Microsoft 365ファイル
 - ドキュメントのグループ作業と共同編集
-- SharePoint、Teams、OneDrive との共同作業
-- Teams での共同作業
-- SharePoint でドキュメント ライブラリを使用する
+- SharePoint、Teams、およびOneDrive
+- コラボレーションのTeams
+- ドキュメント ライブラリを使用SharePoint
 - 共同編集の一般的なエラーのトラブルシューティング
 
 #### <a name="reach-large-audiences-with-live-events"></a>ライブ イベントで多数のユーザーにリーチする
 - ライブ イベントを使用して多数のユーザーにリーチする
-- ライブ イベントの Microsoft Teams の使用を開始する
-- Teams でのライブ イベントの計画とスケジュール
+- ライブ イベントのMicrosoft Teamsの使用を開始する
+- ライブ イベントの計画とスケジュールを設定Teams
 - ライブを整理する
 
 ### <a name="microsoft-teams"></a>Microsoft Teams
-Microsoft Teams は、次のコンテンツで更新されました。
+Microsoft Teamsコンテンツが更新されました。
 
 #### <a name="manage-meetings-playlist"></a>会議のプレイリストを管理する
 [会議の管理] プレイリストには、次の新しいアセットがあります。
-- Teams 会議のヒント
+- ヒント会議Teamsする
 
-#### <a name="teams-on-the-go-playlist"></a>移動中のプレイリストのチーム
-移動中の Teams プレイリストは、次の新しいアセットで更新されました。
+#### <a name="teams-on-the-go-playlist"></a>Teams再生リストに移動する
+移動Teamsの新しいアセットが更新されました。
 - 移動中にチャネルを開始する
 - 移動中にチャネルを作成する
 - 移動中の通知を管理する
@@ -79,10 +193,10 @@ Microsoft Teams は、次のコンテンツで更新されました。
 - シフト スケジュールの管理
 - Firstline ワーカーのシフト
 
-#### <a name="walkie-talkie-tasks-and-praise"></a>Walkie Talkie、Tasks、および Praise
-Walkie Talkie、Tasks、および Praise プレイリストが、次のアセットと一緒に追加されました。
+#### <a name="walkie-talkie-tasks-and-praise"></a>Walkie Talkie、Tasks、および 称賛
+Walkie Talkie、Tasks、および 称賛プレイリストが、次のアセットと一緒に追加されました。
 - トランシーバー
-- Teams でタスク アプリを使用する
+- [タスク] アプリを使用Teams
 - 管理者向けタスク
 - Firstline ワーカーのタスク
 - コミュニケーションと称賛
@@ -99,7 +213,7 @@ Walkie Talkie、Tasks、および Praise プレイリストが、次のアセッ
 #### <a name="get-started-with-lists"></a>リストの使用を開始する
 [リストの開始] プレイリストには、次の新しいアセットがあります。
 - リスト アプリからリストを作成する
-- Teams チャネルでリストを作成する
+- カスタム チャネルでリストをTeamsする
 - リスト アイテムの追加または編集
 - リストのビューを作成または変更する
 - リスト ビューの編集
@@ -118,10 +232,10 @@ Walkie Talkie、Tasks、および Praise プレイリストが、次のアセッ
 - アンケートまたはアンケートにセクションを追加する
 
 ### <a name="excel"></a>Excel
-学習経路の Excel が次のコンテンツで更新されました。
+Excelパス内のコンテンツは、次のコンテンツで更新されています。
 
-#### <a name="intro-to-excel"></a>Excel のイントロ
-Intro to Excel プレイリストには、次の新しいアセットがあります。
+#### <a name="intro-to-excel"></a>Intro to Excel
+[新しいExcelのイントロ] には、次の新しいアセットがあります。
 - ドロップダウン リストの作成
 
 #### <a name="linked-data-types"></a>リンクされたデータ型
@@ -136,11 +250,11 @@ Intro to Excel プレイリストには、次の新しいアセットがあり�
 - MATCH 関数
 
 ### <a name="sharepoint"></a>SharePoint
-すべての SharePoint プレイリストとアセットが更新されました。 更新されたプレイリストには、次のものが含まれます。
+すべてのSharePointとアセットが更新されました。 更新されたプレイリストには、次のものが含まれます。
 - SharePoint Online Quick Start
-- SharePoint Online のイントロ
+- オンラインのイントロSharePointオンライン
 - サイト、投稿、リストを作成する
-- SharePoint との共有と同期
+- 共有と同期を行SharePoint
 
 ## <a name="september-2020-content-updates"></a>2020 年 9 月のコンテンツ更新プログラム
 次に、2020 年 9 月のコンテンツ更新プログラムの一覧を示します。 
@@ -155,31 +269,31 @@ Intro to Excel プレイリストには、次の新しいアセットがあり�
 - 技術サポート詐欺を回避する
 - 自宅での作業を安全に行う
 - PC を最新の状態に保つ
-- Windows セキュリティで保護された環境を保つ
+- セキュリティで保護Windowsする
 
 #### <a name="security-at-home-playlist"></a>"自宅のセキュリティ" プレイリスト
-- データを安全に保つヒント
+- ヒントを安全に保つ方法
 - 自宅でコンピューターを安全に保つ
-- Windows セキュリティを使用してオンラインで家族を保護する   
+- オンラインで家族を保護Windows セキュリティ   
 
 #### <a name="security-at-work-playlist"></a>"仕事中のセキュリティ" プレイリスト
 - 仕事でコンピューターを安全に保つ
 - 多要素認証とは
-- Windows セキュリティのファイアウォールとネットワーク保護
+- セキュリティのファイアウォールとネットワークWindows保護
 - タンパープロテクションによるセキュリティ設定の変更を防止する
 
-### <a name="get-started-with-teams-playlist"></a>"Teams の使用を開始する" プレイリスト
-新しい "Get Started with Teams" プレイリストが"Get Started/First Days" サブカテゴリに追加され、ユーザーが Teams を起動して実行するのに役立ちます。 プレイリストには次の内容が含まれます。
+### <a name="get-started-with-teams-playlist"></a>"新しいTeamsを開始する" プレイリスト
+ユーザーが はじめに Teams を使って立ち上がって実行するために、「はじめに/First Days」サブカテゴリに新しい "Teams" プレイリストが追加Teams。 プレイリストには次の内容が含まれます。
 - Microsoft Teams にようこそ  
 - チームを立ち上げ、実行する
 - チャネルでの作業  
-- ファイルのアップロードと共有 
+- アップロードファイルの作成と共有 
 - チャットの開始とピン留め  
-- Teams 会議に参加する 
+- 会議に参加Teamsする 
 - 会議の管理 
  
-### <a name="microsoft-365-basics"></a>Microsoft 365 の基本
-[製品] カテゴリで、"Office 365 Basics" サブカテゴリが "Microsoft 365 Basics" カテゴリに更新されました。 "Office 365 Basics" カテゴリの廃止されたアセットは、カスタムプレイリストに追加されている場合でも使用できます。
+### <a name="microsoft-365-basics"></a>Microsoft 365基本
+[製品] カテゴリでは、"Office 365基本" サブカテゴリが "Microsoft 365" カテゴリに更新されました。 "Office 365 基本" カテゴリの廃止されたアセットは、カスタムプレイリストに追加されている場合でも使用できます。
 
 #### <a name="get-started-playlist"></a>"Get started" プレイリスト
 - Microsoft 365 とは
@@ -188,35 +302,35 @@ Intro to Excel プレイリストには、次の新しいアセットがあり�
 
 #### <a name="create-and-save-playlist"></a>"作成して保存" プレイリスト
 - デスクトップ アプリの使用
-- アプリ Office.com 使用する
+- Office.com アプリの使用
 - ファイルをクラウドに保存する
-- OneDrive を使用してオンデマンドでファイルを同期する
+- オンデマンドでファイルを同期OneDrive
 
 #### <a name="share-and-collaborate-playlist"></a>"共有と共同作業" プレイリスト
-- Microsoft 365 でファイルを共有する
+- ファイルを共有Microsoft 365
 - 共同作成者
 - 使用@mentions
 - フォローアップ
 
-#### <a name="work-with-microsoft-teams-playlist"></a>"Microsoft Teams で作業する" プレイリスト
+#### <a name="work-with-microsoft-teams-playlist"></a>"ユーザーとMicrosoft Teamsする" プレイリスト
 - Microsoft Teams にようこそ
 - チームとチャネルの概要
 - 投稿の作成と書式設定
 - チャットの開始とピン留め
 - 通話を行う
-- Teams 会議に参加する
-- より良い会議のヒント
+- 会議に参加Teamsする
+- ヒント会議を向上する方法
 
-#### <a name="get-the-most-out-of-windows-playlist"></a>"Windows を使い切る" プレイリスト
+#### <a name="get-the-most-out-of-windows-playlist"></a>"最も重要な情報をWindowsする" プレイリスト
 - 検索でドキュメント、アプリ、その他を検索する
 - Microsoft Edge
 - Bing での Microsoft Search
 
 #### <a name="work-from-anywhere-playlist"></a>"どこからでも作業する" プレイリスト
-- OneDrive モバイル アプリ
-- Outlook モバイル アプリ
+- OneDrive アプリ
+- Outlook アプリ
 
-#### <a name="cool-microsoft-365-features-playlist"></a>"クール Microsoft 365 の機能" プレイリスト
+#### <a name="cool-microsoft-365-features-playlist"></a>"クールMicrosoft 365機能" プレイリスト
 - PowerPoint デザイナー
 - Excel のアイデア
 - Word のエディター
@@ -230,11 +344,11 @@ Intro to Excel プレイリストには、次の新しいアセットがあり�
 - 円グラフの作成
 - コンボ グラフの作成
 
-### <a name="teams-updates"></a>Teams の更新
+### <a name="teams-updates"></a>Teams更新プログラム
 "Product\Microsoft Teams" サブカテゴリは、次のアセットで更新されました。 
 
 #### <a name="manage-meetings-playlist"></a>"会議の管理" プレイリスト
-- Teams 会議に参加する
+- 会議に参加Teamsする
 #### <a name="work-with-posts-and-messages-playlist"></a>"投稿とメッセージを処理する" プレイリスト
 - 投稿の作成と書式設定
 
@@ -242,8 +356,8 @@ Intro to Excel プレイリストには、次の新しいアセットがあり�
 フォローアセットが "Products\Planner" の "Use Planner" プレイリストに追加されました。
 #### <a name="use-planner-playlist"></a>Planner プレイリストを使用する
 - To Do vs Planner
-- [To Do] でプランナー タスクを確認する
-- Teams でタスク アプリを使用する
+- [プランナ タスク] のページをTo Do
+- [タスク アプリ] を使用Teams
 
 ### <a name="word"></a>Word
 次のアセットは、"Share and co-author with Word" プレイリストで更新されました。
@@ -258,193 +372,16 @@ Intro to Excel プレイリストには、次の新しいアセットがあり�
 - 録音を書き起こしする
 
 ### <a name="powerpoint-new-updated"></a>PowerPoint (新規、更新)
-次のアセットが更新または製品\PowerPoint プレイリストに追加されました。 
+次のアセットが更新または追加され、Products\PowerPointされます。 
 
-#### <a name="text--tables-with-powerpoint-playlist"></a>"PowerPoint &テーブルのテキスト" プレイリスト
-- PowerPoint で手書きのインクを図形、テキスト、または数学に変更する (新しい)
+#### <a name="text--tables-with-powerpoint-playlist"></a>"テキスト&テーブルとPowerPoint" プレイリスト
+- 手書きのインクを図形、テキスト、または数式に変更する (PowerPoint)
 
 #### <a name="present-slideshows-playlist"></a>スライド ショーのプレイリストを表示する
 - プレゼンテーションを記録する (更新)
 
-### <a name="office-quick-start-guides-updated"></a>Officeスタート ガイド (更新)
-すべてのOfficeクイック スタート ガイドOffice更新されました。 
-
-## <a name="april-2020-content-updates"></a>2020 年 4 月のコンテンツ更新プログラム
- 現在のイベントに対応して、2020 年 4 月のコンテンツ更新プログラムには、組織内のリモート作業を有効にするように設計された学習プレイリストとリソースが提供されます。 新しい一連の作業のリモート再生リストが追加され、特に Teams 会議の Microsoft Teams コンテンツが更新されました。 また、Web プレイリスト用の新しいOffice追加し、新しい Microsoft Forms アセットを追加しました。 管理者向けリモート ワーク リソースの一覧も提供しました。  
- 
- コンテンツ更新プログラムの適用方法とコンテンツ更新プログラムの管理方法の詳細については、「コンテンツ更新プログラムの管理 [」を参照してください](custom_contentupdatesmanage.md)。 次に、2020 年 4 月の Microsoft 365 ラーニング パスのコンテンツ更新プログラムの一覧を示します。 
-
-### <a name="office-365-was-rebranded-to-microsoft-365"></a>Office 365 が Microsoft 365 にブランド変更されました
-Office 365 が Microsoft 365 にブランド変更されました。 名前の変更は、Microsoft 365 ラーニング パスのコンテンツ全体に反映されます。 
-
-### <a name="new-or-updated-playlists"></a>新しいプレイリストまたは更新されたプレイリスト
-次のプレイリストが追加または更新されました。  
-
-#### <a name="work-remotely-2-new-playlists11-new-assets"></a>リモートで作業する (2 つの新しいプレイリスト/11 の新しいアセット)
-次のプレイリストとアセットを備えた学習パスに、新しい Work リモートサブカテゴリが追加されました。 
-
-![学習経路の作業をリモートで再生リストに追加する](media/cg-contentupdate-apr2020-01.png)
-
-##### <a name="work-remotely-five-new-assets"></a>リモートで作業する (5 つの新しいアセット)
-- リモートで 365 Office作業する
-- Office.com で使用を開始する
-- コミュニケーションまたは会う
-- 作業ファイルを保存する
-- 高度な代替手段
-##### <a name="best-practices-for-collaborating-with-office-365-6-new-assets"></a>365 と共同作業するためのベスト Office (6 つの新しいアセット)
-- 作業の開始
-- 共有
-- 共同作成者
-- ファイル内のチャット
-- Meet
-- モバイル
-
-### <a name="teams-nine-new-assetssix-updated-assets"></a>Teams (9 つの新しいアセット/6 つの更新されたアセット)
-Teams コンテンツに対してさまざまな更新が行われた。 
-#### <a name="collaborate-in-teams-and-channels-one-newone-updated-asset"></a>チームとチャネルでの共同作業 (1 つの新しい/1 つの更新されたアセット)
-- プライベート チャネルの作成と使用 (新しい)
-- チャネルの表示と非表示 (更新)
-#### <a name="start-chats-and-calls-two-newone-updated"></a>チャットと通話の開始 (2 つの新しい/1 が更新されました)
-- チャットの開始とピン留め (新しい)
-- チャットを非表示にする、メッセージを削除する (新しい)
-- 通話を行う (更新)
-#### <a name="explore-apps-and-tools-one-new"></a>アプリとツールの検索 (新しい 1 つ)
-- アプリを使用する (新しい)
-#### <a name="work-with-posts-and-messages"></a>投稿とメッセージの処理
-- 複数のチャネルにメッセージを投稿する (新しい)
-#### <a name="manage-meetings-three-newfour-updated-assets"></a>会議の管理 (3 つの新しい/4 つの更新されたアセット)
-- Teams 会議に参加する (新しい)
-- [今すぐ会議] を使用してインスタント 会議を作成する (更新)
-- チャネルで会う (新しい)
-- 会議の管理 (新規)
-- 会議中に画面を表示する (更新)
-- PowerPoint スライドの表示 (更新)
-- Teams 会議中に移動する (更新)
-#### <a name="work-with-post-and-messages-one-new"></a>投稿とメッセージの処理 (新しい 1 つ)
-- 複数のチャネルにメッセージを投稿する (新しい)
-
-### <a name="office-for-the-web"></a>Web 用 Office
-Officeには、ユーザーが Web 上のユーザーと作成、共有、および共同作業を行うシナリオ用の一連のOffice提供されます。 この一連のコンテンツは、Google G Suite から Microsoft 365 に切り替える組織にも有用です。
-#### <a name="get-started-five-new-assets"></a>開始する (5 つの新しいアセット)
-- 作業の開始
-- 検索で検索する
-- 新しいドキュメントの作成
-- 仕事に戻る
-- 推奨ファイル
-#### <a name="outlook-for-the-web"></a>Outlook for the web
-- Outlook for the Web を知る
-- メールへの返信を作成する
-- 受信トレイを整理する
-- 署名と自動返信を作成する
-- 予定または会議をスケジュールする
-- 連絡先の編集を作成する
-- メール、連絡先、イベントの検索
-#### <a name="word-for-the-web"></a>Web 用 Word
-- Word for the Web を知る
-- ドキュメント レイアウトの変更
-- テーブルと画像を挿入する
-- オンラインでの共同作業
-- Word for the Web でのクールな機能
-#### <a name="excel-for-the-web"></a>Web 用 Excel
-- Excel for the Web を知る
-- 数式の作成
-- ピボットテーブルの挿入
-- アイデアに関する洞察を得る
-- 共同作業
-- フラッシュフィルで時間を節約する
-- 条件付き書式を使用して図をペイントする
-#### <a name="powerpoint-for-the-web"></a>Web 用 PowerPoint
-- PowerPoint for the Web を知る
-- 図、図形などの挿入
-- アニメーションと切り替え
-- 他のユーザーとプレゼンテーションを作成する
-- 提示する準備ができたら
-- スライドの設計
-#### <a name="share-your-documents"></a>ドキュメントを共有する
-- ドキュメントを共有する
-- 共有可能なリンクを作成する
-- 特定のユーザーにのみドキュメントをセキュリティで保護する
-- 組織外のユーザーと共有する 
-
-### <a name="microsoft-forms"></a>Microsoft Forms 
-要求に応じて、いくつかの新しい Forms アセットも用意されています。 
-#### <a name="forms-four-new-assets"></a>フォーム (4 つの新しいアセット) 
-- フォームの作成 
-- フォームを共有する 
-- フォームの結果を表示する 
-- Microsoft フォームに関するよく寄せられる質問 
-
-### <a name="resources-for-supporting-your-remote-workforce"></a>リモート ワークをサポートするためのリソース
-ラーニング パスを使用して、リモート ワーカーをサポートするためのラーニング パス サイトにランディング ページを作成できます。 または、ラーニング パス Web パーツをラーニング パス サイトの既存のサポート ページに追加し、Web パーツをフィルター処理して[リモートで作業] プレイリストを表示することもできます。 組織内のリモート作業をサポートするための Microsoft のトップ リソースの一覧を次に示します。 
-- [Microsoft Teams の展開方法](/microsoftteams/how-to-roll-out-teams)
-- [Microsoft Teams でのミーティングと会議](/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-- [Microsoft Teams を使用したリモート ワーカーのサポート](/microsoftteams/support-remote-work-with-teams)
-- [よくあるご質問 (FAQ): リモートの従業員をサポートする](/microsoftteams/faq-support-remote-workforce)
-- [Microsoft IT が従業員のリモート作業を有効にする上位 9 つの方法](https://www.microsoft.com/microsoft-365/blog/2020/03/12/top-9-ways-microsoft-it-enabling-remote-work-employees/)
-- [Microsoft Teams トレーニング](/microsoftteams/training-microsoft-teams-landing-page)
-- [Education: Microsoft Education Center](https://education.microsoft.com) 
-- [教育: リモート学習の開始](https://education.microsoft.com/resource/4c0c02c0)
+### <a name="office-quick-start-guides-updated"></a>Officeクイック スタート ガイド (更新)
+すべてのOfficeのクイック スタート ガイドOffice更新されました。 
 
 ラーニング パスをカスタマイズする方法の詳細については、「学習パスを [カスタマイズする」を参照してください](custom_overview.md)。 
 
-## <a name="november-2019-content-updates"></a>2019 年 11 月のコンテンツ更新プログラム
-Microsoft 365 ラーニング パスのコンテンツ更新プログラムへようこそ。 2019 年 11 月の更新プログラムから、四半期ごとに学習経路カタログの更新されたインベントリを提供します。 2019 年 11 月の更新プログラムでは、次の新しいコンテンツ サブカテゴリと再生リストがラーニング パスカタログに追加されました。 コンテンツ更新プログラムの適用方法とコンテンツ更新プログラムの管理方法の詳細については、「コンテンツ更新プログラムの管理 [」を参照してください](custom_contentupdatesmanage.md)。    
-
-### <a name="teams"></a>Teams
-Teams サブカテゴリにいくつかの新しいプレイリストが追加されました。
-- 投稿とメッセージの処理 (4 つのアセット)
-- ファイルのアップロードと検索 (2 つのアセット)
-- ライブ イベントの設定と参加 (4 つのアセット)
-- アクティビティ フィードの管理 (2 つのアセット)
-- 移動中のチーム (2 つのアセット)
-
-### <a name="microsoft-365-success-center"></a>Microsoft 365 サクセス センター
-Microsoft 365 ラーニング パスサクセス センター サブカテゴリをラーニング パスエクスペリエンスに追加しました。 サクセス センターには、次のプレイリストがあります。
-- 新機能、変更点 (3 つのアセット)
-- 学習コンテンツを計画する (2 つのアセット)
-- 学習経路をカスタマイズする (8 つのアセット?
-- 学習経路の導入を促進する (1 つのアセット)
-- 学習経路の影響を測定する (1 つのアセット)
-
-### <a name="outlook"></a>Outlook
-Outlook サブカテゴリに次のプレイリストが追加されました。 
-- Outlook モバイル: 受信トレイを管理する (8 つのアセット)
-- Outlook モバイル: ユーザーと接続 (5 つのアセット)
-- Outlook mobile: 検索と共有 (4 つのアセット)
-
-### <a name="onedrive"></a>OneDrive
-OneDrive 用に次のビデオ アセットが追加されました。 
-- iPhone または iPad のセットアップが OneDrive プレイリストのイントロに追加されました
-- OneDrive のバックアップを有効にするが、OneDrive プレイリストでファイルを管理するに追加されました
-
-### <a name="planner"></a>Planner
-次のプレイリストとアセットがカタログに追加されました。  
-- Planner クイック スタート (6 つのアセット)
-- Use Planner (8 つのアセット)
-
-### <a name="accessibility"></a>アクセシビリティ
-コンテンツのアクセシビリティ サブカテゴリが、次のプレイリストと一緒に追加されました。 
-- Microsoft 365 アクセシビリティの概要とリソース (3 つのアセット)
-- Outlook でアクセスしやすい電子メール メッセージを作成する (3 つのアセット)
-- よりアクセスしやすい Word ドキュメントを作成する (8 つのアセット)
-- よりアクセスしやすい Excel ブックを作成する (3 つのアセット)
-- PowerPoint でアクセスしやすいスライドを作成する (5 つのアセット)
-
-### <a name="sway"></a>Sway
-コンテンツの Sway サブカテゴリが、次のプレイリストと一緒に追加されました。 
-- Sway クイック スタート (4 つのアセット)
-- Sway の共有とアクセス (5 つのアセット)
-- Sway にコンテンツを追加する (11 アセット)
-- Sway のカスタマイズ (5 つのアセット)
-
-### <a name="access"></a>Access
-- Access Quick Start (4 つのアセット)
-- Access のイントロ (3 つのアセット)
-- Access データベースの作成 (2 つのアセット)
-- テーブルの追加 (2 つのアセット)
-- リレーションシップの使用 (5 つのアセット)
-- データの追加と編集 (2 つのアセット)
-- クエリを使用してデータを管理する (5 つのアセット)
-- フォームの作成 (1 つのアセット)
-- レポートの作成 (2 つのアセット)
-- データベースの保護 (1 つのアセット)
