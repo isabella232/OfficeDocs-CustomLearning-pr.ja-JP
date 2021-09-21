@@ -1,20 +1,20 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: サイトと既定のコンテンツを確認する
+title: サイトとその既定のコンテンツを確認する
 ms.date: 02/10/2019
-description: 学習経路サイトと既定のコンテンツを確認する
+description: ラーニング パス サイトとその既定のコンテンツを確認する
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: 18f3c1e8d6f700423381973a29b910086bf6717a
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: ed322d6ae00ee9c93440a2e8188ce346b447b0d1
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310611"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59461207"
 ---
-# <a name="explore-the-learning-pathways-site"></a>ラーニング パス サイトを確認する
+# <a name="explore-learning-pathways-site"></a>学習経路サイトの詳細
 
 > 注: ラーニング パス サイトと管理機能を確認するには、サイトに対するサイト コレクション管理者、所有者、またはメンバーのアクセス許可が必要です。 必要なアクセス許可を持ってない場合は、サイトのサイト管理者に問い合わせてください。 ラーニング パス サイトは、Office 365 テナントでホストされているので、サイトにアクセスするには、Office 365にサインインする必要があります。 サインインしていない場合は、Office 365サインインします。 
 
@@ -36,4 +36,4 @@ ms.locfileid: "52310611"
 
 - [ラーニング パスMicrosoft 365ホーム ページから、[管理サクセス センターの使用を開始 **する] をクリックします**。
 
-ラーニング パスは、ソリューションの管理サクセス センター内のガイダンスを提供します。 管理サクセス センターのドキュメントは、このドキュメント セットでも使用できます。 「 [ラーニング パス管理サクセス センター」を参照してください](custom_successcenter.md)。
+ラーニングパスは、ソリューションの管理サクセス センター内のガイダンスを提供します。 管理サクセス センターのドキュメントは、このドキュメント セットでも使用できます。 「ラーニング[管理サクセス センター」を参照してください](custom_successcenter.md)。

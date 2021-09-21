@@ -1,20 +1,20 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 学習経路サイトをカスタマイズする
+title: 学習経路のサイトをカスタマイズする
 ms.date: 02/15/2019
-description: さまざまなカスタマイズについて、さまざまな学習経路で利用Microsoft 365学ぶ
+description: さまざまなカスタマイズについて、さまざまな学習経路Microsoft 365説明します。
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: b892605f5200983c74132f73fe48e2746d2e6b08
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: a9d95faa6eb0cd3f7bf002d707aba1e83b9a7656
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310631"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59461095"
 ---
-# <a name="customize-the-site"></a>サイトをカスタマイズする
+# <a name="customize-the-learning-pathways-site"></a>学習経路サイトをカスタマイズする
 
 Microsoft 365学習パス サイトは、SharePoint コミュニケーション テンプレートに基づくので、組織のニーズに合わせてサイトを簡単に変更できます。 ページ上のサイト名、ロゴ、メニュー項目、およびコンテンツを変更できます。 
 
@@ -33,7 +33,7 @@ Microsoft 365学習パス サイトは、SharePoint コミュニケーション 
 2.  [**編集**] ボタンをクリックします。
 3.  [ヘルプ] オプションイメージにカーソルを合わせると、[Web パーツの **編集] をクリックします**。
 
-![cg-edithelp.png](media/cg-edithelp.png)
+![ヘルプ コンテンツの編集](media/cg-edithelp.png)
 
 4.  [リンク **] ボックス** に、内部リソースの URL を入力します。 
 5.  リンクされていない他の 2 つのイメージについて、手順 3 と 4 を繰り返します。

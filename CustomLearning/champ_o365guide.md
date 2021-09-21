@@ -1,18 +1,18 @@
 ---
 title: チャンピオン プログラムのベスト プラクティス - Microsoft 365 エンド ユーザー導入ガイド
-description: チャンピオン プログラムのベスト プラクティスOffice 365エンド ユーザー導入ガイドを使用して、Microsoft 365の導入を促進します。
+description: チャンピオン プログラムのベスト Office 365を使用して、ユーザーの導入を促進する
 author: karuanag
 ms.author: karuanag
 manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: 6e62361e9aa4328e06844747f1bbbcab5cca1596
-ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
+ms.openlocfilehash: 8553c5c97c42d8709f8da87efed8bb4ec2fc418a
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52334601"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59460915"
 ---
 # <a name="microsoft-365-end-user-adoption-guide"></a>Microsoft 365エンド ユーザー導入ガイド
 

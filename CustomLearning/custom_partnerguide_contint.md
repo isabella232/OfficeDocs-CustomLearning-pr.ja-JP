@@ -8,17 +8,17 @@ ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
 audience: admin
-ms.openlocfilehash: a91cdf4ee6aa3bbc22033dd484605ea5405b3c4c
-ms.sourcegitcommit: 33acfc2149de89e8375b064b2223cae505d2a102
+ms.openlocfilehash: f57e7e2bbab49fc05daef27a0364281f7158cb0e
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52575992"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59461186"
 ---
 # <a name="partner-integration-models"></a>パートナー統合モデル
 SharePoint Online Provisioning サービスから直接 Microsoft 365 ラーニング パス コンテンツを補完することはできませんが、パートナーが利用できる統合モデルは複数あります。 上記のパートナー統合モデルは、昇順の複雑さおよび投資レベルの順に示されています。 したがって、当社のガイダンスは、ビジネス モデルに基づいて専門知識を構築し、より高度なレベルを卒業する方法です。
 
-![Flowは、イイナ、インテグレーター、および redistibutors の役割を示しています。](media/cg-part-intmodel.png)
+![統合モデル](media/cg-part-intmodel.png) 
 
 ## <a name="how-should-i-get-started"></a>どのように開始する必要がありますか? 
 開始するには、以下のベスト プラクティスを示します。     
@@ -33,14 +33,14 @@ SharePoint Online Provisioning サービスから直接 Microsoft 365 ラーニ�
 投資に対するリターンが理にかなっている場合は、再パッケージ化されたソリューションを構築するために再配布 (または関連する学習経路パートナーと協力する) を検討してください。 これらは、カスタマイズされたサイトを抽出して顧客環境に展開するためのソリューションを提供する、SharePointパターンとプラクティス フレームワークに基づいております。 
 
 ## <a name="partner-provided-content-integration-guidelines"></a>パートナー提供のコンテンツ統合ガイドライン
-学習パスMicrosoft 365コンテンツは、学習パッケージのコンテンツ マニフェストとして機能する JSON ファイルのセットによって駆動されます。 ファイルには、オン、metadata.jsオン、playlists.jsの 3 つのassets.jsがあります。 これらのファイルは、Web パーツが認識し、コンテンツ配信ネットワーク (CDN) からホストされるモデルと一致するように構造化して、Web パーツが読み込む必要があります。 Microsoft では、開始するためにこれらのファイルのスターター テンプレートを提供します。  
+学習パスMicrosoft 365コンテンツは、学習パッケージのコンテンツ マニフェストとして機能する JSON ファイルのセットによって駆動されます。 metadata.json、playlists.json、assets.json の 3 つのファイルがあります。 これらのファイルは、Web パーツが認識し、コンテンツ配信ネットワーク (CDN) からホストされるモデルと一致するように構造化して、Web パーツが読み込む必要があります。 Microsoft では、開始するためにこれらのファイルのスターター テンプレートを提供します。  
 
 **免責事項:** JSON ファイル構造は、今後のソリューション作業に基づいて変更される可能性があります。 学習Microsoft 365パートナーである Early Adopter Program (EAP) には、この性質に関する差し迫った変更が通知されます。 すべてのお客様の下位互換性および/または移行のガイダンスと共に。 
 
 ### <a name="download-the-microsoft-365-learning-pathways-solution"></a>学習Microsoft 365ソリューションをダウンロードする
 JSON ファイルと共にMicrosoft 365ラーニング パス ソリューションを、次のリポジトリからGitHubできます https://github.com/pnp/custom-learning-office-365 。 現時点では、Microsoft はソリューションでプル要求GitHubを受け取ってはいない点に注意してください。 ただし、独自のカスタム コンテンツ GitHub作成の開始点として、このファイルを使用できます。 
 
-### <a name="metadatajson-structure"></a>Metadata.jsに関するページ
+### <a name="metadatajson-structure"></a>Metadata.json 構造
 このファイルは、メニューと構造の頭脳と考えることができます。 すべてのナビゲーション構造と、他の 2 つのファイル内のデータのリストを選択します。 
 
 
@@ -84,16 +84,16 @@ JSON ファイルと共にMicrosoft 365ラーニング パス ソリューショ
 |&nbsp;&nbsp;画像             |コンテンツ パックを追加するための UI に表示されるイメージ                                     |
 |&nbsp;&nbsp;ProvisionURL      |コンテンツ パックのサイト コレクションを作成するプロビジョニング サービス パッケージの URL  |
 |&nbsp;&nbsp;CDNbase           |コンテンツ パックのマニフェストの基本 URL                                       |
-|AssetOrigins                  |後述するファイル上の URL assets.jsの配列。 オリジン URL でサポートされている場合は、投稿メッセージが送信され、help_getClientHeight。 "help_getClientHeight={コンテンツの高さ}" (たとえば"help_getClientHeight=5769") のデータ プロパティの応答を使用すると、iFrame のサイズをフレームコンテンツの適切な高さに変更できます。         |
+|AssetOrigins                  |後述する assets.json ファイルで利用される URL の原点の配列。 オリジン URL でサポートされている場合は、投稿メッセージが送信され、help_getClientHeight。 "help_getClientHeight={コンテンツの高さ}" (たとえば"help_getClientHeight=5769") のデータ プロパティの応答を使用すると、iFrame のサイズをフレームコンテンツの適切な高さに変更できます。         |
 
-### <a name="playlistsjson-structure"></a>Playlists.jsに関するページ
-playlists.jsオン – プレイリスト マニフェストは、プレイリストに関するメタデータと、プレイリストに含まれるアセットを記述するオブジェクトの配列です。
+### <a name="playlistsjson-structure"></a>Playlists.json 構造
+playlists.json – プレイリスト マニフェストは、プレイリストに関するメタデータとプレイリストに含まれるアセットを記述するオブジェクトの配列です。
 
 |              名前        |                     説明                                                               | 
 |:-----------------------------|-------------------------------------------------------------------------------------------|
 |ID                            |プレイリストを表す GUID                                                             |  
-|タイトル                         |プレイリストの表示名                                                               |
-|Image                         |プレイリストを視覚化するCDN相対 URL (CDN)                              |                      
+|Title                         |プレイリストの表示名                                                               |
+|イメージ                         |プレイリストを視覚化するCDN相対 URL (CDN)                              |                      
 |LevelId                       |関連付けられたレベル                                                                           |
 |AudienceId                   |関連付けられた対象ユーザー                                                                        |
 |TechnologyId                 |関連するテクノロジ                                                                      |
@@ -105,13 +105,13 @@ playlists.jsオン – プレイリスト マニフェストは、プレイリ�
 |StatusNote                    |管理者に表示されるコンテンツに関するメモ                                            |
 |*Assets[]*                        |このプレイリストの一部であるアセットの GUID の配列を表示順序で指定します。        |         
 
-### <a name="assetjson-structure"></a>Asset.jsに関するページ
-playlists.jsオン – プレイリスト マニフェストは、プレイリストに関するメタデータと、プレイリストに含まれるアセットを記述するオブジェクトの配列です。
+### <a name="assetjson-structure"></a>Asset.json 構造
+playlists.json – プレイリスト マニフェストは、プレイリストに関するメタデータとプレイリストに含まれるアセットを記述するオブジェクトの配列です。
 
 |              名前        |                     説明                                                               | 
 |:-----------------------------|-------------------------------------------------------------------------------------------|
 |ID                            |プレイリストを表す GUID                                                             |  
-|タイトル                         |プレイリストの表示名                                                               |
+|Title                         |プレイリストの表示名                                                               |
 |説明                   |---                                                                                           |                      
 |URL                           |iFrame に適用するアセットのソース URL                                  |
 |TechnologyId                  |関連するテクノロジ                                                                      |
@@ -136,7 +136,7 @@ Microsoft では、GitHubマニフェスト ファイルと画像Content Deliver
 
 独自のコンテンツ パックを使用してラーニング パス ソリューションを拡張する場合と同じバージョン管理構造を維持することが重要です。 Web CDNサポートするマニフェスト バージョンが展開され、自動的に web パーツの URL に追加されるので、クライアント エンドポイントにはバージョン フォルダーを含CDNできません。 マニフェスト ファイルを変更する場合は、マニフェスト ファイルの新しいインスタンスを作成する時間が明らかになります。
 
-![スクリーンショットは、サンプル構造を示しています。](media/cg-part-json-folder.png) 
+![json フォルダー](media/cg-part-json-folder.png) 
 
 ソースとしてページをGitHubするCDNについては、次のヘルプ ドキュメントを参照してください [https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages) 。
 
@@ -151,21 +151,21 @@ Microsoft のソリューションは、これらのファイルにアクセス�
 
 > **重要** カスタム コンテンツ パックを追加する前に、Microsoft 365 3.0 以降を準備している必要があります。 学習経路のプロビジョニングに関する情報Microsoft 365、「Provision [Microsoft 365ラーニング パス」を参照してください](./custom_provision.md)。
 
-### <a name="content-whitelisting"></a>コンテンツホワイトリスト
-パートナーとして、コンテンツが自分の環境でホワイトリストに登録されているのを確認するために、消費者を支援する責任があります。 自分の環境でテスト シナリオを作成して、コンテンツがファイアウォール内の iFrame SharePointページに入り込む可能性を検証する方法をお勧めします。 [カスタム[プレイリストSharePointページを](./custom_createnewpage.md)作成する] の手順に従って、これが当たって確認します。
+### <a name="content-reliability"></a>コンテンツの信頼性
+パートナーとして、コンテンツが環境内で確実にレンダリングされるのを消費者が支援する責任があります。 自分の環境でテスト シナリオを作成して、コンテンツがファイアウォール内の iFrame SharePointページに入り込む可能性を検証する方法をお勧めします。 [カスタム[プレイリストSharePointページを](custom_createnewpage.md)作成する] の手順に従って、これが当たって確認します。
 
-### <a name="add-a-content-pack-to-learning-pathways"></a>ラーニング パスにコンテンツ パックを追加する
+### <a name="add-a-content-pack-to-learning-pathways"></a>コンテンツ パックをパスウェイにラーニングする
 JSON を変更し、ユーザー設定をCDNしたら、連絡先パックを学習経路に追加できます。 
 
-1. ラーニング パス サイトのホーム ページ **で、[** ホーム] をポイント **し** 、[ラーニング パスの管理 **] をクリックします**。 
+1. ラーニング パス サイトの **[ホーム**]ページで、[ホーム] をポイントし、[パスの管理ラーニング **クリックします**。 
 2. [管理 **] ページで****、[..] をクリックします。ページの右上隅** にコンテンツ パックを追加します。
 3. [カスタム コンテンツ パック] をクリックし、コンテンツ パックの名前を入力し、JSON CDN場所を指定します。
 
-   ![名前とパスを入力する画面。](media/cg-part-addconpack.png)
+![コンテンツ パックの追加](media/cg-part-addconpack.png)
 
 4. **[保存]** をクリックします。 カスタム コンテンツ パックのコンテンツが [管理] ページに表示されます。 次に例を示します。 
 
-   ![管理ページの例。](media/cg-part-addconpackex.png)
+![コンテンツ パックの追加の例](media/cg-part-addconpackex.png)
 
 ### <a name="filter-to-the-content-pack-in-the-web-part"></a>Web パーツのコンテンツ パックにフィルターを適用する
 学習パスを使用すると、学習パス Web パーツをページに追加し、Web パーツをフィルター処理してカスタム コンテンツ パック ソースをポイントし、Web パーツを必要なカテゴリ、サブカテゴリ、プレイリスト、アセットにフィルター処理できます。 
@@ -176,6 +176,10 @@ JSON を変更し、ユーザー設定をCDNしたら、連絡先パックを学
 4. ページ **の左側にある [+ 新しい** セクションの追加] をクリックします。
 5. 新しいセクションの上部中央をクリックし、新しい学習Microsoft 365 Web パーツ **+** **を** 追加します。
 6. Web パーツをクリックし、[編集] アイコン **をクリック** します。
-7. [ラーニング **ソースの選択] ボックス** で、カスタム コンテンツ パックを選択し、Web パーツを目的のコンテンツにフィルター処理します。 次に、カスタム コンテンツ パックからプレイリストにフィルター処理された Web パーツの例を示します。
+7. [ソース **の選択ラーニング]** ボックスで、カスタム コンテンツ パックを選択し、Web パーツを必要なコンテンツにフィルター処理します。 次に、カスタム コンテンツ パックからプレイリストにフィルター処理された Web パーツの例を示します。
 
-   ![カスタム コンテンツ パックからプレイリストにフィルター処理されたサンプル Web パーツのスクリーン ショット。](media/cg-part-conpackfilter.png)
+![コンテンツ パック フィルター](media/cg-part-conpackfilter.png)  
+
+
+
+

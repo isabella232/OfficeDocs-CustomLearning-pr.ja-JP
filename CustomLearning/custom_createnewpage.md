@@ -7,12 +7,12 @@ description: プレイリストSharePointページを作成する
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: ce4a204b3072469840b6f3fa8f93d9e78833b181
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: e29fca92fd4102f89f08a90a8a1be11776f35995
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310661"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59461126"
 ---
 # <a name="create-sharepoint-pages-for-custom-playlists"></a>カスタムSharePointのページを作成する
 
@@ -25,7 +25,7 @@ ms.locfileid: "52310661"
 3. 左側の列で、[+] をクリックし、[埋め込み] **Web パーツを** クリックします。 
 4. 右側の列で、[+] をクリックし、[ **テキスト] Web パーツを** クリックします。 ページは次のように表示されます。
 
-![cg-pagenewstart.png](media/cg-pagenewstart.png)
+![Sharepoint ページの作成](media/cg-pagenewstart.png)
 
 ### <a name="add-a-video-and-text-from-youtube"></a>YouTube からビデオとテキストを追加する
 
@@ -38,7 +38,7 @@ ms.locfileid: "52310661"
 7. [ユーザー設定 **] ページの [** タイトル] 領域で [web パーツの編集] SharePointを選択し、[カスタム プレイリストの概要] ページに名前を付きます。 
 8. [ **レイアウト] で**、[プレーン] **を** 選択し、[タイトル領域] プロパティ **ウィンドウ** を閉じます。 これで、ページは次のようになります。 
 
-![cg-pagenewfinish.png](media/cg-pagenewfinish.png)
+![ページを終了する](media/cg-pagenewfinish.png)
 
 ### <a name="publish-the-page"></a>ページを発行する
 

@@ -7,12 +7,12 @@ description: 新しいプレイリストを作成する方法
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: 4d2576cb5ea39ea2251b78481451ac098cda2c23
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: 98eb03ee2f71f390881b4497d9d2e3567dfca88a
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310651"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59461116"
 ---
 # <a name="create-a-custom-playlist"></a>カスタム再生リストを作成する
 
@@ -24,22 +24,22 @@ ms.locfileid: "52310651"
 2. [管理] **アイコン** サブカテゴリを選択します。 この例では、[最初の日] **を選択します**。  
 3. [+] アイコンをクリックします。  
 
-![cg-newplaylistbtn.png](media/cg-newplaylistbtn.png)
+![プレイリストを作成するボタン](media/cg-newplaylistbtn.png)
 
 4.  次の例に示すように、プレイリストのフィールドに入力します。 この例の既定のアイコンはそのままにできます。 
 
-![cg-newplaylistdetails.png](media/cg-newplaylistdetails.png)
+![プレイリストの詳細を入力する](media/cg-newplaylistdetails.png)
 
 5.  完了したら、[詳細の保存] **を選択します**。 
 
 ## <a name="edit-a-playlist"></a>プレイリストの編集
 
-- [カスタム学習 **管理] ページで** 、プレイリストをクリックし、[詳細の編集] **をクリックします**。  
+- [カスタム サーバー **の管理ラーニング]** ページで、プレイリストをクリックし、[詳細の編集]**をクリックします**。  
 
-![cg-editplaylist.png](media/cg-editplaylist.png)
+![プレイリストの編集](media/cg-editplaylist.png)
 
 ### <a name="delete-a-playlist"></a>プレイリストを削除する
 
-- [カスタム学習管理] ページで、プレイリストの **[削除** ] アイコンをクリックします。  
+- [カスタム サーバーの管理ラーニング] ページで、プレイリストの **[削除**] アイコンをクリックします。  
 
-![cg-deleteplaylist.png](media/cg-deleteplaylist.png)
+![プレイリストの削除](media/cg-deleteplaylist.png)

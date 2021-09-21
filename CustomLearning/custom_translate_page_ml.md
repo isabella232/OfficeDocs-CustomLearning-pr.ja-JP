@@ -8,22 +8,22 @@ ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
 audience: admin
-ms.openlocfilehash: baa46deda7d7e10f3a7655fc6da076d37607e29f
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: 87130512dafe55ddd7dd0ac4f0667efb2108f360
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52000293"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59460925"
 ---
 # <a name="translate-site-pages"></a>サイト ページを翻訳する
 学習経路サイトの翻訳を開始する前に、多言語機能が学習経路とどのように機能するのかについて、いくつかの重要な概念を理解することが重要です。 
 - サイト情報 - ナビゲーション、ロゴ、サイト名の翻訳では、ユーザーの言語プロファイルでサイトを表示し、翻訳する必要があります。  
 - ラーニング パス Web パーツを英語以外の言語で表示するには、Web パーツをユーザーの言語プロファイルで表示する必要があります。 Web パーツと Microsoft 提供のコンテンツは既に翻訳されています。 言語プロファイルの詳細については、「個人の言語と地域の [設定を変更する」を参照してください](https://support.microsoft.com/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7)。
-- 学習経路を設定する方法によって、ページを翻訳できるかどうかが決まれます。 Microsoft 365 のルック ブック サービスでプロビジョニングされた新しいサイトでは、9 つの言語でページを翻訳できます。 作成した更新されたサイトまたはサイトには、手動翻訳が必要です。 「多言語 [学習パスのセットアップ オプション」を参照してください](custom_setupoptions_ml.md)。
-- コミュニケーション サイトの SharePoint Online 多言語機能によって、多言語による学習経路のサポートが有効になります。 SharePoint Online 多言語機能の詳細については、「多言語コミュニケーション サイト、ページ、ニュースを作成する [」を参照してください](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)。 
+- 学習経路を設定する方法によって、ページを翻訳できるかどうかが決まれます。 新しいサイトは、Microsoft 365ブック サービスでプロビジョニングされ、9 つの言語でページを翻訳できます。 作成した更新されたサイトまたはサイトには、手動翻訳が必要です。 「多言語 [学習パスのセットアップ オプション」を参照してください](custom_setupoptions_ml.md)。
+- 多言語による学習経路のサポートは、コミュニケーション サイトSharePointオンライン多言語機能によって有効になります。 オンライン多言語機能SharePoint詳細については、「多言語コミュニケーション サイト、ページ、ニュースを作成する[」を参照してください](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)。 
 
 ## <a name="working-with-a-newly-provisioned-site"></a>新しくプロビジョニングされたサイトの操作
-Microsoft 365 ルック ブック サービスから新しい学習経路サイトをプロビジョニングした場合、翻訳されたページは既に利用できます。 既定では、サイトには次のページが表示されます。
+新しいラーニング パスウェイ サイトを Microsoft 365ブック サービスからプロビジョニングした場合、翻訳されたページは既に利用できます。 既定では、サイトには次のページが表示されます。
 
 - Home.aspx
 - Start-with-Six-Simple-Steps.aspx
@@ -35,7 +35,7 @@ Microsoft 365 ルック ブック サービスから新しい学習経路サイ�
 - トレーニング イベント calendar.aspx
 - Become-a-Champion.aspx
 - Recommended-Playlists.aspx
-- ラーニング パス管理者サクセス センター
+- ラーニング管理サクセス センター
 
 ## <a name="view-translated-pages-from-the-newly-provisioned-site"></a>新しくプロビジョニングされたサイトから翻訳されたページを表示する
 翻訳された学習経路サイトを理解するには、いくつかの翻訳されたページを見てみてみることができます。
@@ -43,18 +43,18 @@ Microsoft 365 ルック ブック サービスから新しい学習経路サイ�
 ### <a name="view-the-translated-home-page"></a>翻訳されたホーム ページを表示する
 [学習経路] ホーム ページで、次の例に示すように、言語ドロップダウンから言語を選択します。 この例では、右上隅にイタリア語が選択されているのが表示され、すべてのページ要素が翻訳されます。
 
-![使用されている学習経路の写真](media/custom_ml_pages_home.png)
+![custom_mlホーム ページ](media/custom_ml_pages_home.png)
 
-### <a name="view-the-translated-microsoft-365-training-page"></a>翻訳された Microsoft 365 トレーニング ページを表示する
-次に、Microsoft 365 トレーニング ページについて説明します。 
+### <a name="view-the-translated-microsoft-365-training-page"></a>翻訳されたトレーニング ページMicrosoft 365表示する
+次に、トレーニング ページのMicrosoft 365します。 
 
-1. ラーニング パス サイトの [ホーム]**ページで****、[Microsoft 365** トレーニング] をクリックします。
+1. ラーニング パス サイトの [ホーム] ページ **で**、[トレーニング] **Microsoft 365クリックします**。
 2. ページの右上隅で、言語を選択します。 この例では、イタリア語が選択されています。
 
-![イタリア語のサンプル学習パス ページ。](media/custom_ml_pages_training.png)
+![custom_ml_トレーニング ページ](media/custom_ml_pages_training.png)
 
 言語が選択されている場合に表示される翻訳
-- SharePoint ページは、上の図に示すように翻訳されます。 ページ バナーのテキストがイタリア語で表示されます。
+- [SharePoint] ページは、上の図に示すように翻訳されます。 ページ バナーのテキストがイタリア語で表示されます。
 
 翻訳が表示されないのは何ですか?
 - サイト名は英語です
@@ -65,7 +65,7 @@ Microsoft 365 ルック ブック サービスから新しい学習経路サイ�
 サイト ページ、ナビゲーション、Web パーツなど、完全に翻訳されたサイトを特定の言語で表示するには、その言語に対してユーザーの個人の言語と地域設定を設定する必要があります。 言語と地域の設定の詳細については、「個人の言語と地域の [設定を変更する」を参照してください](https://support.microsoft.com/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7)。 別のアカウントを使用するか、別の言語設定を持つ別のユーザーに翻訳されたページを表示をお勧めします。  
 
 ## <a name="working-with-an-updated-or-manually-installed-learning-pathways-site"></a>更新または手動でインストールされた学習経路サイトの操作
-既存の Learning Pathways サイトを更新した場合、または Web パーツを手動で既存のサイトにインストールした場合は、サイト ページを手動で翻訳する必要があります。 Web パーツとコンテンツの学習経路は既に翻訳され、ユーザーの優先言語で表示されます。 ページを翻訳するには、「必要な言語のページを作成する」の手順を参照してください。 
+既存のサイト ラーニングを更新した場合、または Web パーツを手動で既存のサイトにインストールした場合は、サイト ページを手動で翻訳する必要があります。 Web パーツとコンテンツの学習経路は既に翻訳され、ユーザーの優先言語で表示されます。 ページを翻訳するには、「必要な言語のページを作成する」の手順を参照してください。 
 
 ## <a name="create-pages-for-the-languages-you-want"></a>必要な言語のページを作成する
 サイトで多言語機能を有効にし、使用可能にする言語を選択したら、必要な翻訳ページを作成できます。 
@@ -114,5 +114,5 @@ Microsoft 365 ルック ブック サービスから新しい学習経路サイ�
 サイト ページ、ナビゲーション、Web パーツなど、完全に翻訳されたサイトを特定の言語で表示するには、その言語に対してユーザーの個人の言語と地域設定を設定する必要があります。 言語と地域の設定の詳細については、「個人の言語と地域の [設定を変更する」を参照してください](https://support.microsoft.com/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7)。 別のアカウントを使用するか、別の言語設定を持つ別のユーザーに翻訳されたページを表示をお勧めします。
 
 ## <a name="for-more-information"></a>詳細情報
-- SharePoint コミュニケーション サイト ページの翻訳の詳細については、「多言語コミュニケーション サイト、ページ、ニュースを作成する [」を参照してください](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)。
-- 学習経路のカスタマイズの詳細については、「学習経路のカスタマイズ [」を参照してください](custom_overview.md)。  
+- コミュニケーション サイト ページの翻訳SharePoint詳細については、「多言語コミュニケーション サイト、ページ、ニュースを作成する[」を参照してください](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)。
+- 学習経路のカスタマイズの詳細については、「パスウェイのカスタマイズ[」ラーニング参照してください](custom_overview.md)。  

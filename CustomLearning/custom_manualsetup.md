@@ -1,20 +1,20 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 学習経路の手動セットアップ
+title: ラーニング経路の手動セットアップ
 ms.date: 07/06/2020
 description: Microsoft 365学習経路の手動セットアップ
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: 05df35787399cfb2445fa3ea4193e7f7f64848c5
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: 7c6fc47336d354304164cebd95768a4bf97ee60f
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310441"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59460965"
 ---
-# <a name="learning-pathways-manual-setup"></a>学習経路の手動セットアップ
+# <a name="learning-pathways-manual-setup"></a>ラーニング経路の手動セットアップ
 
 Microsoft 365学習経路は、次のいずれかのシナリオのサポートが必要な組織向け手動セットアップを提供します。 
 
@@ -114,9 +114,9 @@ PowerShell スクリプトが含まれているので、ソリューションで
 
 PowerShell スクリプトが正常に実行されると、サイトに移動し、最初に使用する学習経路を設定する **CustomConfig** リスト アイテムを初期化し、サイトが動作している検証を行います。
 
-- `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx` に移動します。 **CustomLearningAdmin.aspx** を開くと、初めて使用するためのラーニング パスを設定する **CustomConfig** リスト アイテムが初期化されます。 次のようなページが表示されます。
+- `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`に移動します。 **CustomLearningAdmin.aspx** を開くと、初めて使用するためのラーニング パスを設定する **CustomConfig** リスト アイテムが初期化されます。 次のようなページが表示されます。
 
-![構成ページの例。](media/cg-adminapppage.png)
+![[管理者アプリ] ページ](media/cg-adminapppage.png)
 
 ## <a name="add-owners-to-site"></a>サイトに所有者を追加する
 テナント管理者として、サイトをカスタマイズするユーザーになる可能性は低いので、少数の所有者をサイトに割り当てる必要があります。 所有者はサイトに対する管理者権限を持ち、サイト ページを変更したり、サイトのブランドを変更したりすることができます。 また、学習経路 Web パーツを通じて配信されるコンテンツを非表示にし、表示する機能も備っています。 さらに、カスタム プレイリストを作成し、カスタム サブカテゴリに割り当てる機能も備えます。  
