@@ -1,18 +1,18 @@
 ---
 title: チャンピオン プログラムのベスト プラクティス - 実世界のガイダンス
-description: Microsoft 365 チャンピオン プログラムの実際のガイダンス。
+description: チャンピオン プログラムのOffice 365を使用して、ユーザーの導入を促進する
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
 manager: alexb
 ms.service: sharepoint-online
-ms.openlocfilehash: c96d9d875ace3f8da147a44a8562556d8557bede
-ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
+ms.openlocfilehash: 566530ab1dda0791a2adf7af1169e69b512a38b7
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52334581"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485498"
 ---
 # <a name="real-world-guidance-for-your-champions-program"></a>チャンピオン プログラムの実際のガイダンス
 

@@ -7,12 +7,12 @@ description: プレイリストをコピーする方法
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: b575a817bb00a29483b31c9f53a60bd3ec55b175
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: f25cf45139bc8f8a1f531b4a52b2a4fba4554e8f
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310671"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485438"
 ---
 # <a name="copy-a-playlist"></a>再生リストをコピーする
 多くの場合、組織は、組織が作成したアセットを削除または置き換え、Microsoft 提供のプレイリストを変更する必要があります。 たとえば、6 つの簡単な手順の開始プレイリストから手順を削除できます。 これで、ラーニング パスのプレイリストのコピー機能を使用して、6 つの簡単な手順のプレイリストを簡単にコピーし、単にアセットの削除、アセットの置換、または新しいアセットの追加を行うことができます。 
@@ -24,7 +24,7 @@ ms.locfileid: "52310671"
 3. [**最初の日]** で、[6 つの簡単な手順 **- プレイリストを開Office 365] をクリック** し、[プレイリストのコピー]**をクリックします**。 
 4. [**詳細の編集]** をクリックし、次の例に示すように [タイトル] フィールドと **[** 説明] フィールドに入力し、[詳細の保存]**をクリックします**。  
  
-![cg-copyplaylist5steps.png](media/cg-copyplaylist5steps.png)
+![プレイリストのコピー 5 つの手順](media/cg-copyplaylist5steps.png)
 
 ## <a name="add-or-remove-assets-from-a-playlist"></a>プレイリストにアセットを追加または削除する
 カスタムプレイリストを使用すると、次の機能を使用できます。

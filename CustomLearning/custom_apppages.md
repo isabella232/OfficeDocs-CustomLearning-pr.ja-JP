@@ -7,16 +7,16 @@ description: 学習経路のアプリケーション ページSharePointにつ�
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: 45ec1edd0d59c21c3820e627a660e55a45b7838a
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: 16a83682126f62399d5c08ab2821a7b95fc8bd6b
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310431"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485478"
 ---
 # <a name="get-to-know-the-sharepoint-application-pages"></a>SharePoint アプリケーション ページの概要
 
-ラーニング パスには、管理者SharePoint知る必要がある 2 つのアプリケーション ページがあります。 これら 2 つのページは編集不可であり、削除する必要があります。 
+ラーニングは、管理者SharePoint知っている必要がある 2 つのアプリケーション ページを提供します。 これら 2 つのページは編集不可であり、削除する必要があります。 
 
 - CustomLearningAdmin.aspx
 - CustomLearningViewer.aspx
@@ -30,7 +30,7 @@ CustomLearningAdmin.aspx ページには、コンテンツの非表示と表示�
 1. [サイト コンテンツ **SharePoint設定]** アイコンをクリックし、[サイト コンテンツ **サイト** ページ]  >  **をクリックします**。 
 2. **[CustomLearningAdmin.aspx] をクリックします**。 
 
-![cg-adminapppage.png](media/cg-adminapppage.png)
+![[管理者アプリ] ページ](media/cg-adminapppage.png)
 
 ## <a name="customlearningvieweraspx"></a>CustomLearningViewer.aspx
 CustomLearningViewer.aspx ページには、Web パーツに学習経路のコンテンツを表示するためのビューアーが表示されます。 たとえば、プレイリスト リンクをコピーして同僚と共有する場合、リンクをクリックすると、ユーザーはビューアー ページに移動し、リンクされたコンテンツを表示します。 
@@ -40,5 +40,5 @@ CustomLearningViewer.aspx ページには、Web パーツに学習経路のコ�
 1. [サイト コンテンツ **SharePoint設定]** アイコンをクリックし、[サイト コンテンツ **サイト** ページ]  >  **をクリックします**。 
 2. **[CustomLearningViewer.aspx] をクリックします**。 
 
-![cg-viewerapppage.png](media/cg-viewerapppage.png)
+![ビューアー アプリ ページ](media/cg-viewerapppage.png)
 

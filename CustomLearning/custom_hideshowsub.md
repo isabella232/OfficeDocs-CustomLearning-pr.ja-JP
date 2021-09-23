@@ -7,12 +7,12 @@ description: サブカテゴリを非表示、表示、編集、および削除�
 ms.service: sharepoint-online
 ms.topic: article
 manager: bpardi
-ms.openlocfilehash: aa75ddb020a5921a164575f56fd735b4cd97a29b
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: 2b2f819b4a25bb97bfcd655c96f47f53f13a95e1
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310561"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485148"
 ---
 # <a name="hide-and-show-subcategories"></a>サブカテゴリの表示と非表示を切り替える
 
@@ -24,12 +24,12 @@ ms.locfileid: "52310561"
 2. [学習Microsoft 365 Web パーツ] から、[管理] アイコンをクリックします。 
 3. ページの左側のウィンドウで、サブカテゴリを選択し、サブカテゴリの目玉を選択して非表示にします。 この例では、サブカテゴリの **Yammer** します。  
 
-![サンプル ウィンドウには、サブカテゴリを非表示にするアイコンが表示されます。](media/cg-hidesubcat.png)
+![サブカテゴリを非表示にする](media/cg-hidesubcat.png)
 
 ### <a name="verify-the-subcategory-is-hidden"></a>サブカテゴリが非表示の確認
 - サブカテゴリが非表示の場合は、はじめにが読み込まれたMicrosoft 365タブを選択し、ページを更新します。 これで、[製品] カテゴリにYammerサブカテゴリが表示されます。 
 
-![サンプル ウィンドウは、非表示のサブプログラムが表示されなくなったと表示されます。](media/cg-hidesubcatrefresh.png)
+![サブカテゴリの更新を非表示にする](media/cg-hidesubcatrefresh.png)
 
 ## <a name="unhide-a-subcategory"></a>サブカテゴリの表示を解除する 
 

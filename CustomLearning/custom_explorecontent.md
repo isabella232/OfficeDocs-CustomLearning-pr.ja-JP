@@ -1,20 +1,20 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: サイトと既定のコンテンツを確認する方法
+title: サイトと既定のコンテンツを確認する
 ms.date: 02/10/2019
 description: 学習経路サイトと既定のコンテンツを確認する
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: c3e002c896f3f262970ec536e51fed997f0ce1fd
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: ff0f98195308e60a29b826a3eac90075cc8395fb
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310621"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485488"
 ---
-# <a name="how-to-explore-the-learning-pathways-site"></a>学習経路サイトを探索する方法
+# <a name="explore-the-site-of-learning-pathways"></a>学習経路のサイトを確認する
 
 > 注: ラーニング パス サイトと管理機能を確認するには、サイトに対するサイト コレクション管理者、所有者、またはメンバーのアクセス許可が必要です。 必要なアクセス許可を持ってない場合は、サイトのサイト管理者に問い合わせてください。 ラーニング パス サイトは、Office 365 テナントでホストされているので、サイトにアクセスするには、Office 365にサインインする必要があります。 サインインしていない場合は、Office 365サインインします。 
 
@@ -24,7 +24,7 @@ ms.locfileid: "52310621"
 2.  ユーザー名とパスワードでサインインします。
 3.  テナント管理者が指定した URL を使用してサイトの場所に移動するか、SharePoint ホーム ページから Office 365 を選択し、サイトを選択します。 
 
-![cg-introducing.png](media/cg-introducing.png)
+![紹介](media/cg-introducing.png)
 
 ## <a name="explore-the-learning-pathways-site"></a>ラーニング パス サイトを確認する
 
@@ -32,13 +32,13 @@ ms.locfileid: "52310621"
 
 ### <a name="view-the-ask-questions-and-get-help-page"></a>質問を表示し、ヘルプ ページを取得する
 
-学習経路サイトには、トレーニングとサポート ポータルの構築を開始するのに役立つ既定のコンテンツが提供されています。 サイトの管理者または所有者として、質問のリンクを変更し、組織内のリソースへのヘルプ ページ ポイントを取得します。  
+学習経路サイトには、トレーニングとサポート ポータルの構築を開始するのに役立つ既定のコンテンツが提供されています。 サイトの管理者または所有者として、質問のリンクを変更し、組織内のリソースへのヘルプ ページ ポイントを取得します。 
 
 1.  [学習Microsoft 365ホーム ページで、[質問をする] をクリック **して、ヘルプ メニュー項目を** 取得します。
 2.  [**編集**] ボタンをクリックします。
 3.  [ヘルプ] オプションイメージにカーソルを合わせると、[Web パーツの **編集] をクリックします**。
 
-![cg-edithelp.png](media/cg-edithelp.png)
+![ヘルプの編集](media/cg-edithelp.png)
 
 サイト ページのカスタマイズの手順については、「サイトの [カスタマイズ」を参照してください](custom_edithelp.md)。
 
@@ -48,13 +48,13 @@ ms.locfileid: "52310621"
 1. ページを下にスクロールすると、すべてのカテゴリとサブカテゴリが表示されます。
 2. タイヤを少し蹴る。 いくつかのサブカテゴリをクリックし、いくつかのプレイリストをクリックして、学習経路コンテンツの整理方法を確認します。 
 
-![cg-gotoall.png](media/cg-gotoall.png)
+![Gotoall](media/cg-gotoall.png)
 
-ラーニング パス Web パーツのカスタマイズの手順については、「学習エクスペリエンスのカスタマイズ [」を参照してください](custom_overview.md)。
+ラーニング パス Web パーツのカスタマイズの手順については、「カスタム エクスペリエンスのカスタマイズ[」をラーニングしてください](custom_overview.md)。
 
 ### <a name="get-a-complete-site-tour-and-customization-guidance"></a>完全なサイト ツアーとカスタマイズのガイダンスを取得する
-学習経路、サイト、Web パーツ、管理機能、および環境に固有の学習エクスペリエンスを構築する方法に関するガイダンスの詳細については、「学習エクスペリエンスのカスタマイズ」を[参照してください](custom_overview.md)。
+サイト、Web パーツ、管理機能、環境に固有の学習エクスペリエンスを構築する方法に関するガイダンスなど、学習経路の詳細については、「ラーニング エクスペリエンスのカスタマイズ」を[参照してください](custom_overview.md)。
 
 ## <a name="next-steps"></a>次の手順
-- [学習エクスペリエンスをカスタマイズする](custom_overview.md)
+- [エクスペリエンスをラーニングする](custom_overview.md)
 - [導入の促進](driveadoption.md) 

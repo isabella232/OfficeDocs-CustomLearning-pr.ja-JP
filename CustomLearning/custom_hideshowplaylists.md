@@ -7,14 +7,14 @@ description: プレイリストの非表示と表示
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: f4f406824c53484c077a39ee9afdd3a941976682
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: 617f87c3cdf76bff55c569d0eb6ba9796c9d3b57
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310571"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485188"
 ---
-# <a name="hide-and-show-playlists"></a>再生リストの表示と非表示を切り替える
+# <a name="hide-and-show-the-playlists"></a>プレイリストの非表示と表示
 
 環境に合わせて学習経路を調整するには、Microsoft が提供するプレイリストを非表示にできます。 
 
@@ -27,12 +27,12 @@ ms.locfileid: "52310571"
 2. ラーニング パス Web パーツから、[管理] アイコン **を選択** します。 
 3. [管理] ページの **左ウィンドウ** からサブカテゴリを選択し、プレイリストの目玉を選択して非表示にします。 この例では、サブカテゴリの **[Microsoft Teams]** をクリックし、[チャット、通話、会議の開始] プレイリスト **を非表示** にします。  
 
-![サンプル ウィンドウには、レイアウトリストを非表示にするために選択されているアイコンが表示されます。](media/cg-hideplaylist.png)
+![プレイリストを非表示にする](media/cg-hideplaylist.png)
 
 ### <a name="verify-the-playlist-is-hidden"></a>プレイリストが非表示の確認
 - プレイリストが非表示の場合は、ページが読み込まれたはじめにのOffice 365タブを選択し、ページを更新します。 [Microsoft Teams] を選択します。 これで、[スタート] チャット、通話 **、および会議サブ** カテゴリが非表示になります。 
 
-![サンプル ウィンドウには、プレイリスト のサブカテゴリが表示されなくなったと表示されます。](media/cg-hideplaylistrefresh.png)
+![プレイリストの更新を非表示にする](media/cg-hideplaylistrefresh.png)
 
 ## <a name="unhide-a-playlist"></a>プレイリストを表示する
 

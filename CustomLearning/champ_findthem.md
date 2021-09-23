@@ -1,18 +1,18 @@
 ---
 title: チャンピオン プログラムのベスト プラクティス - チャンピオンの検索
-description: チャンピオン プログラムのベスト プラクティスOffice使用して、365 の導入を促進します。
+description: チャンピオン プログラムのベスト プラクティスOffice 365を使用して、サービスの導入を促進する
 author: karuanag
 ms.author: karuanag
 manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: 34870108b82bf79793a014129dbd45f145f214be
-ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
+ms.openlocfilehash: c950f00218aa4f6dbd24b410e261ad86a5e44412
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52334611"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485508"
 ---
 # <a name="finding-your-champions"></a>チャンピオンを見つける 
 
@@ -31,6 +31,6 @@ ms.locfileid: "52334611"
 
 成功したチャンピオン プログラムには、現在の問題を満たして議論するリーダーと定期的なスケジュールがあります。  少なくとも毎月の会議は、コミュニティに肯定的な文化を作り、成長を促進する重要な部分です。  
 
-Microsoft Teams を使用して、チームワーク チャンピオンのプログラムのハブを作成できます。  このチーム構造の例については、この記事 [を参照してください](/MicrosoftTeams/teams-adoption-your-first-teams)。
+また、チームワーク チャンピオンMicrosoft Teamsハブを作成するために、このツールを使用できます。  このチーム構造の例については、この記事 [を参照してください](/MicrosoftTeams/teams-adoption-your-first-teams)。
 
 ![チームワークチャンピオンチームのタブ](media/teams-adoption-tab-example.png)

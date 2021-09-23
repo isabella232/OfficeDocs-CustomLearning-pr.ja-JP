@@ -3,26 +3,26 @@ author: pkrebs
 ms.author: pkrebs
 title: 検索
 ms.date: 02/10/2019
-description: Microsoft 365 ラーニング パスの検索
+description: 学習経路Microsoft 365検索
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
 audience: itpro
-ms.openlocfilehash: 3322ee9a4a659d15fdfbd9f05b5bb0e2f85e430c
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: 0f665346ede7031d374aa754e9aba0cc93c0239e
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999323"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485446"
 ---
-# <a name="search-for-microsoft-365-learning-pathways-content"></a>Microsoft 365 ラーニング パス コンテンツの検索
+# <a name="search-for-microsoft-365-learning-pathways-content"></a>学習経路コンテンツMicrosoft 365検索する
 
-Microsoft 365 ラーニング パスは、サブカテゴリ、プレイリスト、またはアセットによってコンテンツを検索する機能を提供します。 
+Microsoft 365学習経路は、サブカテゴリ、プレイリスト、またはアセットによってコンテンツを検索する機能を提供します。 
 
 > [!TIP]
-> Microsoft 365 ラーニング パス検索は、Microsoft が提供するコンテンツや、カスタムプレイリストまたはサブカテゴリに追加されたコンテンツを含む、ラーニング パス コンテンツに対応しています。 学習経路プレイリストに含まれていない SharePoint ページは検索結果に含まれません。     
+> Microsoft 365学習経路検索は、Microsoft が提供するコンテンツや、カスタムプレイリストまたはサブカテゴリに追加されたコンテンツを含む、学習経路コンテンツに範囲を設定します。 SharePointパスプレイリストに含まれていないページは検索結果に含まれません。     
 
 - [検索] **アイコンを** クリックし、検索語句を入力します。 
 
-![Web ページを検索します。](media/cg-search.png)
+![検索](media/cg-search.png)
 

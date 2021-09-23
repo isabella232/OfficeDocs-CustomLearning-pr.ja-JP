@@ -3,21 +3,21 @@ author: karuanag
 ms.author: karuanag
 title: トレーニング エクスペリエンスのカスタマイズ
 ms.date: 02/10/2019
-description: カスタム ラーニングで使用できるカスタマイズの種類についてOffice 365
+description: カスタム ユーザー設定で使用できるさまざまなカスタマイズについて説明ラーニングOffice 365
 ms.service: sharepoint-online
 manager: alexb
 audience: itpro
 ms.topic: article
-ms.openlocfilehash: ff4b7d25c0600e143208c62fba9987e0b843385b
-ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
+ms.openlocfilehash: 52a83e1f898d80210690f7aa904dec94439bd746
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52334541"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485215"
 ---
 # <a name="customize-the-training-experience"></a>トレーニング エクスペリエンスのカスタマイズ
 
-これはテスト 4 です。 既定では、サイト エクスペリエンスと Web パーツの両方に、365 サービスと Windows 10 サービスOfficeコンテンツが含まれます。  これらのサービスのすべてまたは一部のみを会社で利用できる場合は、ユーザーが利用できるコンテンツを調整できます。  
+これはテスト 4 です。 既定では、サイト エクスペリエンスと Web パーツの両方に、すべてのサービスおよびサービスOffice 365コンテンツWindows 10含まれます。  これらのサービスのすべてまたは一部のみを会社で利用できる場合は、ユーザーが利用できるコンテンツを調整できます。  
 
 このサイトの所有者が使用できるカスタマイズには、いくつかの種類があります。 
 
@@ -32,26 +32,26 @@ ms.locfileid: "52334541"
 
 ## <a name="customizing-web-pages"></a>Web ページのカスタマイズ
 
-カスタム学習 Web サイトを完全にカスタマイズできます。 最新の SharePoint Online サイト内でページを作成する方法について理解していない場合は [、「SharePoint](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) サイトのカスタマイズ」の記事を参照 support.office.com。 
+カスタム ユーザー設定の Web サイトラーニングカスタマイズできます。 最新のオンライン サイト内でページを作成する方法SharePoint、オンライン サイトの記事を[](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b)カスタマイズするをSharePoint勧 support.office.com。 
 
-### <a name="customize-the-ask-questions-and-get-help-page"></a>[質問を **する] ページと [ヘルプの取得] ページをカスタマイズ** する
+### <a name="customize-the-ask-questions-and-get-help-page"></a>[質問と **質問] ページ問い合わせ** する
 
 サイトをカスタマイズするための開始点として、[質問をする] を選択し、メニュー バーからヘルプを取得し、[SharePoint 編集] ボタンをクリックして、画像とリンクを変更します。 
 
-![質問をしてヘルプ ウィンドウを取得する](media/custom_ask.png)
+![カスタム質問](media/custom_ask.png)
 
 ## <a name="customize-available-services"></a>利用可能なサービスをカスタマイズする
 
-1.  Web サイト内の [カスタム学習管理] ページに移動 ![ する カスタム 学習管理の選択](media/custom_admin.png)
+1.  Web サイトの [カスタム管理ラーニング管理] ページ ![ に移動します。](media/custom_admin.png)
 1. ソリューション **に含** まれるサービスの完全な一覧を表示するには、[テクノロジ] を選択します。
 1. テクノロジを選択し、 **目の記号をクリックして** 、このコンテンツを非表示にしてください。  目の記号を再度クリックして、エクスペリエンス内のコンテンツを表示します。 
 ![カスタム](media/custom_techlist.png)
 
 同じプロセスを、エクスペリエンス内のプレイリストのカテゴリに対して繰り返し実行できます。  [カテゴリ] オプションを選択するだけで、プレイリストを表示/非表示にできます。 
 
-![[カテゴリの選択]](media/custom_cat.png)
+![カスタム カテゴリ](media/custom_cat.png)
 
-### <a name="next-steps"></a>次の手順
+### <a name="next-steps"></a>次のステップ
 
 - [プレイリストのカスタマイズと共有](customplaylist.md)
 - [導入を促進する](driveadoption.md) 

@@ -1,21 +1,21 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: ml の学習経路の手動セットアップ
+title: ラーニング ml の手動セットアップ
 ms.date: 02/10/2019
-description: 学習経路の手動セットアップ
+description: ラーニング経路の手動セットアップ
 ROBOTS: NOINDEX, NOFOLLOW
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: 386b98a49755a7dd89964446eff9d1c6cd752949
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: 89693e3020baa46f86b51b97c54240f12fec2d3a
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310381"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485168"
 ---
-# <a name="learning-pathways-manual-setup-for-multilingual"></a>多言語のための学習経路の手動セットアップ
+# <a name="learning-pathways-manual-setup-for-multilingual"></a>ラーニングを手動でセットアップする方法
 
 Microsoft 365学習経路は、次のいずれかのシナリオのサポートが必要な組織向け手動セットアップを提供します。
 
@@ -104,7 +104,7 @@ Microsoft 365学習経路は、次のいずれかのシナリオのサポート�
 ## <a name="step-6--execute-powershell-configuration-script"></a>手順 6- PowerShell 構成スクリプトの実行
 PowerShell スクリプトが含まれているので、ソリューションで使用する 3 つのテナント プロパティを作成するために実行 `CustomLearningConfiguration.ps1` する必要があります。 [](/sharepoint/dev/spfx/tenant-properties) さらに、このスクリプトはサイト ページ[](/sharepoint/dev/spfx/web-parts/single-part-app-pages)ライブラリに 2 つの単一パーツ アプリ ページを作成し、管理者とユーザーの Web パーツを既知の場所でホストします。
 
-1. オンライン管理シェルのダウンロードがまだSharePoint場合は、今すぐダウンロードしてください。 [「SharePoint管理シェルのダウンロード」を参照してください](https://go.microsoft.com/fwlink/p/)。
+1. オンライン管理シェルのダウンロードがまだSharePoint場合は、今すぐダウンロードしてください。 [「SharePoint管理シェルのダウンロード」を参照してください](https://go.microsoft.com/fwlink/p/?LinkId=255251)。
 2. スクリプトを実行するには、PowerShell 実行ポリシーを設定する必要がある場合があります。 詳細については、「実行ポリシー [について」を参照してください](/powershell/module/microsoft.powershell.core/about/about_execution_policies)。
 3. スクリプトを実行 `CustomLearningConfiguration.ps1` します。 テナント管理者の資格情報に加えて、スクリプトによってテナント名とサイト名の入力を求めるメッセージが表示されます。 サイト URL の次の例を考慮すると、テナント名は、 `https://contoso.sharepoint.com/sites/O365CL` `contoso` サイト `O365CL` 名です。 
 
@@ -115,9 +115,9 @@ PowerShell スクリプトが含まれているので、ソリューションで
 
 PowerShell スクリプトが正常に実行されると、サイトに移動し、最初に使用する学習経路を設定する **CustomConfig** リスト アイテムを初期化し、サイトが動作している検証を行います。
 
-- `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx` に移動します。 **CustomLearningAdmin.aspx** を開くと、初めて使用するためのラーニング パスを設定する **CustomConfig** リスト アイテムが初期化されます。 次のようなページが表示されます。
+- `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`に移動します。 **CustomLearningAdmin.aspx** を開くと、初めて使用するためのラーニング パスを設定する **CustomConfig** リスト アイテムが初期化されます。 次のようなページが表示されます。
 
-![cg-adminapppage.png](media/cg-adminapppage.png)
+![管理者アプリのpage.png](media/cg-adminapppage.png)
 
 ## <a name="add-owners-to-site"></a>サイトに所有者を追加する
 テナント管理者として、サイトをカスタマイズするユーザーになる可能性は低いので、少数の所有者をサイトに割り当てる必要があります。 所有者はサイトに対する管理者権限を持ち、サイト ページを変更したり、サイトのブランドを変更したりすることができます。 また、学習経路 Web パーツを通じて配信されるコンテンツを非表示にし、表示する機能も備っています。 さらに、カスタム プレイリストを作成し、カスタム サブカテゴリに割り当てる機能も備えます。  

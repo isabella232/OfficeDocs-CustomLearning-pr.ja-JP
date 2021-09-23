@@ -1,6 +1,6 @@
 ---
-title: Day in the Life with the Life with Office 365 - 同僚との共同作業
-description: 365 で 1 日の準備をOfficeする
+title: 仕事仲間と一緒Office 365日
+description: 一日の準備を簡単に行い、その日の準備を完了Office 365
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
@@ -8,18 +8,18 @@ ms.topic: how-to
 manager: alexb
 audience: itpro
 ms.service: sharepoint-online
-ms.openlocfilehash: 8c32e727b09eb7ed7b82e12821c95f18092ea91f
-ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
+ms.openlocfilehash: f13951cc8a5c8f851f7f59023b3af982bca8cca8
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749365"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485208"
 ---
 # <a name="collaborating-with-colleagues"></a>同僚との共同作業
 
 ![通勤のビジュアル](media/ditl_collab.png)
 
-午後 2 時。同僚との共同作業の時間です。 Office 365 には、クラス最高のコラボレーション機会が提供され、チームは複数の方法で共同作業できます。 
+午後 2 時。同僚との共同作業の時間です。 Office 365は、クラス最高のコラボレーションの機会を提供し、チームが複数の方法で共同作業を行うことができます。 
 
 ## <a name="tools"></a>ツール
 - Microsoft Teams
@@ -35,7 +35,7 @@ ms.locfileid: "51749365"
 
 ## <a name="create-or-join-a-microsoft-team-for-collaboration"></a>コラボレーション用に Microsoft Team を作成または参加する
 
-Microsoft Teams とチャネルは、ファイル共有や、チームの実施項目の追跡など、さまざまな方法で共同作業に利用できます。 すべての Microsoft Teams は、SharePoint サイト、OneNote ノートブック、その他のアセットに統合されています。 Office 365 のこのサービスは、プロジェクトや成果を共有するユーザーが頻繁に共同で作業する場合に最適です。 
+Microsoft Teams とチャネルは、ファイル共有や、チームの実施項目の追跡など、さまざまな方法で共同作業に利用できます。 すべてのMicrosoft Teams、サイト、SharePoint、その他のOneNoteに統合されます。 Office 365 のこのサービスは、プロジェクトや成果を共有するユーザーが頻繁に共同で作業する場合に最適です。 
 
 ## <a name="share-files-from-your-onedrive"></a>OneDrive からファイルを共有する
 OneDrive for Business に保存されているファイルは、ブラウザーからでも、Word や Excel などの Office 365 デスクトップ アプリケーションからでも、任意のユーザーと共有できます。 ユーザーと共有する際は、そのユーザーの名前、エイリアス、または会社のメール アドレスを使用できます。 

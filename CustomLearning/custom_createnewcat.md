@@ -7,12 +7,12 @@ description: 学習経路を使用して新しいサブカテゴリを作成す�
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: 4cf22317096bba2f4eacb64ce7ca838219d6b390
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: 5f42f3b347a0ca20d44d03c397be71defb00a30e
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310421"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485458"
 ---
 # <a name="create-a-subcategory"></a>サブカテゴリを作成する 
 場合によっては、新しいサブカテゴリを作成する必要があります。 たとえば、最初の日のサブカテゴリが組織で機能しない場合は、新しいサブカテゴリを作成し、組織のニーズを満たすためにプレイリストを追加できます。 
@@ -22,7 +22,7 @@ ms.locfileid: "52310421"
 3. ページを下にスクロールし、 
 3. [新しい **サブカテゴリの追加] + アイコンをクリック** します。  
 
-![cg-newsubcategory.png](media/cg-newsubcategory.png)
+![新しいサブカテゴリ](media/cg-newsubcategory.png)
 
 > [!TIP]
 > Microsoft が提供するサブカテゴリは非表示にできますが、編集または削除は実行されません。 
