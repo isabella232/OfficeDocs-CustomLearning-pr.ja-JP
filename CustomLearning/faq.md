@@ -7,12 +7,12 @@ ms.date: 02/10/2019
 description: 学習経路に関するよく寄せられるMicrosoft 365情報
 ms.service: sharepoint-online
 ms.topic: article
-ms.openlocfilehash: 30d626416992ef5930563b9001ef1c8b773b949c
-ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
+ms.openlocfilehash: 82a7e777490e13fde6fef5add40beee417050027
+ms.sourcegitcommit: d05381fc4a58cf2949773d73877bacc5ef3a7ca6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "59485528"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60048724"
 ---
 # <a name="frequently-asked-questions"></a>よく寄せられる質問
 
@@ -27,8 +27,7 @@ ms.locfileid: "59485528"
 ## <a name="why-is-microsoft-asking-for-tenant-permissions-when-installing-microsoft-365-learning-pathways"></a>Microsoft がラーニング パスをインストールするときにテナントのアクセス許可を求Microsoft 365理由
 
 SharePoint Online Provisioning サービスは、アクセス許可を使用して ラーニング Pathways SharePoint サイトをプロビジョニングし、サイトのページを作成し、Microsoft 365 ラーニング パスウェイ アプリケーションをテナント内にインストールします。 これは、アクセス許可を要求する唯一の理由です。 要求されたアクセス許可がない場合、SharePoint サービスは、学習経路サイト テンプレートと Web パーツを自動的にインストールするコマンドを実行できません。
-
-このレベルのアクセスについて引き続き懸念がある場合は、アクセス許可を付与し、関心のあるサイト テンプレートを展開し、付与されたアクセス許可を Azure アプリ ストアのアプリに直ちに [削除できます](https://myapps.microsoft.com)。
+![アクセス許可要求のスクリーンショット](media/faqs-permissions-request-screenshot.png "アクセス許可の要求") このレベルのアクセスについて引き続き懸念がある場合は、アクセス許可を付与し、関心のあるサイト テンプレートを展開し、付与されたアクセス許可を Azure アプリ ストアのアプリに直ちに [削除できます](https://myapps.microsoft.com)。
 
 ## <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>テナント環境にサイトをインストールするにはどのくらいの時間が必要ですか?
 
@@ -51,7 +50,7 @@ Microsoft 365学習経路は、オープンソース ソフトウェア (OSS) �
 
 ### <a name="can-we-make-the-microsoft-365-learning-pathways-a-sub-site-of-our-primary-sharepoint-site-collection"></a>学習経路をMicrosoft 365サイト コレクションのサブサイトSharePointできますか?
 
-いいえ。 サイトはコミュニケーション サイト テンプレートに基づいており、常にルート サイト コレクションを意味します。
+その必要はありません。 サイトはコミュニケーション サイト テンプレートに基づいており、常にルート サイト コレクションを意味します。
 
 > [!NOTE]
 > エンド ユーザーがサイトにアクセスするために必要なアクセス許可を考慮することが重要です。 ほとんどの組織では、セキュリティ グループまたはユーザー グループが定義されています。 従業員コミュニティに起動する準備ができたら、適切なセキュリティ グループを新しいトレーニング ポータルに追加する必要があります。

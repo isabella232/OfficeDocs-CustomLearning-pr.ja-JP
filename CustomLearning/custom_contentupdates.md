@@ -2,21 +2,212 @@
 author: pkrebs
 ms.author: pkrebs
 manager: bpardi
-title: ラーニング パス コンテンツの更新
+title: ラーニングパス コンテンツの更新
 ms.date: 5/19/2021
 ms.topic: article
-description: ラーニング パス コンテンツの更新
+description: ラーニングパス コンテンツの更新
 ms.service: o365-solutions
 audience: itpro
-ms.openlocfilehash: 84d166c96ac24a04e24fe4a9b88f2942cc7752c8
-ms.sourcegitcommit: 33acfc2149de89e8375b064b2223cae505d2a102
+ms.openlocfilehash: adb3c7d6f8faa7562a085e1bb21ec70cb2c4fffd
+ms.sourcegitcommit: d05381fc4a58cf2949773d73877bacc5ef3a7ca6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52575982"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60048660"
 ---
-# <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365ラーニング パス コンテンツの更新
-学習経路は、四半期ごとにコンテンツ更新サイクルに従う努力をしています。 コンテンツ更新プログラムの適用方法とコンテンツ更新プログラムの管理方法の詳細については、「コンテンツ更新プログラムの管理 [」を参照してください](custom_contentupdatesmanage.md)。  
+# <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 ラーニングパス コンテンツの更新
+ラーニングは、四半期ごとにコンテンツ更新サイクルに従う努力をしています。 コンテンツ更新プログラムの適用方法とコンテンツ更新プログラムの管理方法の詳細については、「コンテンツ更新プログラムの管理 [」を参照してください](custom_contentupdatesmanage.md)。  
+
+## <a name="september-2021-content-updates"></a>2021 年 9 月のコンテンツ更新プログラム
+次に、2021 年 9 月のコンテンツ更新プログラムの一覧を示します。
+
+### <a name="microsoft-edge"></a>Microsoft Edge
+新Microsoft Edge 3 つの新しいプレイリストが追加されました。
+
+#### <a name="get-started-new"></a>開始する (新しい)
+- 新しい情報をMicrosoft Edgeする (新しい)
+- [新しい] ページでサイトをお気に入りにMicrosoft Edge追加する (新しい)
+- [設定]/[ツール]/[インターネット] オプションを [Microsoft Edgeする (新しい)
+- 既定の検索エンジンを変更する (新しい)
+- ユーザー補助機能 (Microsoft Edge)
+- サインインしてデバイス間でMicrosoft Edge同期する (新しい)
+
+#### <a name="personalize-new"></a>カスタマイズ (新しい)
+- ブラウザーのホーム ページを変更する (新しい)
+- 拡張機能を検索、追加、または削除する (Microsoft Edge)
+- [新しい] で暗いMicrosoft Edgeを使用する
+- 別Microsoft Edge言語で使用する (新しい)
+- 既定のテキスト サイズを大きくする (Microsoft Edge)
+
+#### <a name="privacy-new"></a>プライバシー (新しい)
+- 適切なプライバシー設定を構成する (新しい)
+- 追跡防止の詳細 (新しい)
+- InPrivate を参照する (新しい)
+- ブラウザーの履歴を表示および削除する (Microsoft Edge)
+- [ポップアップをブロックする] Microsoft Edge (新しい)
+- [Cookie の削除] Microsoft Edge (新しい)
+
+### <a name="collaboration-new"></a>コラボレーション (新しい)
+コラボレーション サブカテゴリが 1 つの新しいプレイリストで追加されました。
+
+#### <a name="collaboration-new"></a>コラボレーション (新しい)
+- 開始する (新しい)
+- 共有 (新規)
+- 共同執筆者 (新しい)
+- コメント (新規)
+- Meet (new)
+- モバイル (新しい)
+
+### <a name="teams"></a>Teams
+次のプレイリストとアセットは、学習経路のMicrosoft Teamsで更新されています。
+
+#### <a name="intro-to-microsoft-teams-updated"></a>Intro to Microsoft Teams (更新)
+- ようこそ (更新Microsoft Teams)
+
+#### <a name="manage-team-schedules-with-shifts-updated"></a>Shifts を使用してチームスケジュールを管理する (更新)
+- Shifts とは (更新されたビデオ)
+- シフト スケジュールの作成 (更新されたビデオ)
+- シフト スケジュールの管理と表示 (更新されたビデオ)
+- マネージャーのシフト (廃止)
+- Firstline ワーカーのシフト (退職)
+
+#### <a name="set-up-and-customize-your-team-updated"></a>チームのセットアップとカスタマイズ (更新)
+- チーム テンプレートを使用してチームを作成する (新しいビデオ)
+
+#### <a name="create-and-manage-bookings-updated"></a>予約の作成と管理 (更新)
+- Bookings とは (新しいビデオ)
+- 予約カレンダーの作成 (新しいビデオ)
+- スタッフの追加と予約カレンダーの表示 (新しいビデオ)
+- 予定の種類を作成する (新しいビデオ)
+- 予約の予定を実施する (新しいビデオ)
+- 出席者として予約予定に参加する (新しいビデオ)
+
+#### <a name="create-approvals"></a>承認の作成
+- テンプレートを使用して承認要求を作成する (新しいビデオ/新しいアセット)
+- [承認] でテンプレートを検出する (新しいビデオ/新しいアセット)
+- 組織全体のテンプレートを作成する (新しいビデオ/新しいアセット)
+
+#### <a name="start-chats-and-make-calls-updated"></a>チャットを開始し、通話を行う (更新)
+- 通話を行う (更新されたビデオ)
+- 通話のTeams (新しいビデオ/新しいアセット)
+- ヒント通話Teams (新しいビデオ/新しいアセット)
+
+#### <a name="collaborate-in-teams-and-channels-updated"></a>チームとチャネルでの共同作業 (更新)
+- チャネルの作成 (新しいビデオ/新しいアセット)
+- ファイルを一緒に作業する (廃止)
+
+#### <a name="manage-meetings-updated"></a>会議の管理 (更新)
+- 会議中に画面を表示する (更新されたビデオ)
+- すぐに会う (新しいビデオ/新しいアセット)
+- ウェビナーをスケジュールする (新しいビデオ/新しいアセット)
+- チャネルで会う (廃止)
+- 会議中に移動Teams (廃止)
+
+#### <a name="upload-and-find-files-updated"></a>アップロードファイルの検索 (更新)
+- ファイルの検索とフィルター (廃止)
+
+#### <a name="start-chats-and-make-calls-updated"></a>チャットを開始し、通話を行う (更新)
+- チャットの開始とピン留め (更新されたビデオ)
+
+#### <a name="work-with-posts-and-messages-updated"></a>投稿とメッセージの処理 (更新)
+- 投稿を作成して書式設定する (更新されたビデオ)
+- ユーザーに注意を@mentionsする (廃止)
+
+#### <a name="explore-apps-and-tools-updated"></a>アプリとツールの詳細 (更新)
+- アプリの検索と使用 (更新されたビデオ)
+- ファイルをタブに変換する (廃止)
+- [タスク] アプリを使用Teams (廃止)
+
+#### <a name="create-approvals"></a>承認の作成
+- [承認] でテンプレートを検出する (新しいビデオ)
+
+#### <a name="walkie-talkie-retired"></a>Walkie Talkie (廃止)
+- Walkie Talkie (廃止)
+- タスク アプリを使用する (Teams)
+- 管理者のタスク (廃止)
+- Firstline ワーカーのタスク (廃止)
+- コミュニケーションと称賛 (廃止)
+
+### <a name="outlook"></a>Outlook
+次のプレイリストとアセットは、学習経路のOutlookで更新されています。
+
+#### <a name="create-and-send-email-updated"></a>メールの作成と送信 (更新)
+- メールの作成、送信、返信 (更新されたビデオ)
+- 添付ファイルの送受信 (更新されたビデオ)
+
+#### <a name="manage-email-updated"></a>メールの管理 (更新)
+- 受信トレイをクリーンアップする (更新されたビデオ)
+- 自動返信の設定 (定時中) (更新されたビデオ)
+- メールの会話を無視する (更新されたビデオ)
+
+#### <a name="organize-your-inbox-updated"></a>受信トレイを整理する (更新)
+- フォルダーを使用してメールを整理する (更新されたビデオ)
+
+### <a name="word"></a>Word
+次のプレイリストとアセットは、学習経路の Word で更新されています。
+
+#### <a name="lay-out-pages-updated"></a>ページをレイアウトする (更新)
+- 目次を挿入する (更新されたビデオ)
+- ページ番号の挿入 (更新されたビデオ)
+- 余白の変更 (更新されたビデオ)
+
+#### <a name="improve-accessibility-and-ease-of-use-updated"></a>アクセシビリティと使いやすさの向上 (更新)
+- ラーニングツール (更新)
+
+### <a name="excel"></a>Excel
+次のプレイリストとアセットは、学習経路のExcelで更新されています。
+
+#### <a name="intro-to-excel-updated"></a>Intro to Excel (更新)
+- 新しいブックを作成する (更新されたビデオ)
+
+#### <a name="share-and-coauthor-updated"></a>共有と共同編集者 (更新)
+- 他のユーザーとExcelブックを共有する (更新されたビデオ)
+- PDF に保存または変換する (新しいビデオ)
+
+#### <a name="charts-updated"></a>グラフ (更新)
+- グラフに傾向線または移動平均線を追加する (更新されたビデオ)
+
+#### <a name="rows--columns-updated"></a>列&行 (更新)
+- [ページ] でセルのExcelを選択する (更新されたビデオ)
+
+#### <a name="formatting"></a>書式設定
+- [透かしの追加] Excel (更新されたビデオ)
+
+### <a name="powerpoint"></a>PowerPoint
+次のプレイリストとアセットは、学習経路のPowerPointで更新されています。
+
+#### <a name="intro-to-powerpoint"></a>Intro to PowerPoint
+- テキストの追加と書式設定 (更新されたビデオ)
+
+#### <a name="share--co-author-updated"></a>共同&共有する (更新)
+- プレゼンテーションPowerPoint PDF ファイルとして保存する (更新されたビデオ)
+- プレゼンテーションをビデオとして保存する (更新されたビデオ)
+
+#### <a name="animation-video--audio-updated"></a>アニメーション、ビデオ&オーディオ (更新)
+- テキストまたはオブジェクトをアニメーション化する (更新されたビデオ)
+
+#### <a name="slide-and-layout-updated"></a>スライドとレイアウト (更新)
+- スライド レイアウトを適用する (更新されたビデオ)
+
+#### <a name="present-slide-shows-updated"></a>スライド ショーの表示 (更新)
+- スライドにスピーカー ノートを追加する (更新されたビデオ)
+
+#### <a name="pictures-and-graphics-updated"></a>画像とグラフィックス (更新)
+- 画像を画像に挿入PowerPoint (更新されたビデオ)
+
+### <a name="microsoft-365-basics"></a>Microsoft 365 (基本)
+次のプレイリストとアセットは、学習経路のMicrosoft 365 (基本) で更新されています。
+
+#### <a name="get-started-with-microsoft-365-updated"></a>ユーザー設定のMicrosoft 365する (更新)
+- Office.com で始める (更新されたビデオ)
+- サインイン (新しいビデオ)
+- ファイルをクラウドに保存する (廃止)
+
+#### <a name="create-and-save-updated"></a>作成と保存 (更新)
+- ファイルをクラウドに保存する (廃止)
+- デスクトップ アプリの使用 (更新されたビデオ)
+- Web での作業 (新しいビデオ)
+- オンデマンドでファイルを同期する (OneDrive)
 
 ## <a name="may-2021-content-updates"></a>2021 年 5 月コンテンツ更新プログラム
 次に、2021 年 5 月のコンテンツ更新プログラムの一覧を示します。    
@@ -255,133 +446,3 @@ Excelパス内のコンテンツは、次のコンテンツで更新されてい
 - オンラインのイントロSharePointオンライン
 - サイト、投稿、リストを作成する
 - 共有と同期を行SharePoint
-
-## <a name="september-2020-content-updates"></a>2020 年 9 月のコンテンツ更新プログラム
-次に、2020 年 9 月のコンテンツ更新プログラムの一覧を示します。 
-
-### <a name="security"></a>セキュリティ
-新しいセキュリティ サブカテゴリがプレイリストとアセットで追加され、ユーザーがオフィスや自宅でより安全に作業できます。 
-
-![学習経路のセキュリティプレイリスト](media/cg-security-playlist.png)
-
-#### <a name="five-simple-steps-playlist"></a>"5 つの簡単な手順" プレイリスト
-- フィッシングから身を守る
-- 技術サポート詐欺を回避する
-- 自宅での作業を安全に行う
-- PC を最新の状態に保つ
-- セキュリティで保護Windowsする
-
-#### <a name="security-at-home-playlist"></a>"自宅のセキュリティ" プレイリスト
-- ヒントを安全に保つ方法
-- 自宅でコンピューターを安全に保つ
-- オンラインで家族を保護Windows セキュリティ   
-
-#### <a name="security-at-work-playlist"></a>"仕事中のセキュリティ" プレイリスト
-- 仕事でコンピューターを安全に保つ
-- 多要素認証とは
-- セキュリティのファイアウォールとネットワークWindows保護
-- タンパープロテクションによるセキュリティ設定の変更を防止する
-
-### <a name="get-started-with-teams-playlist"></a>"新しいTeamsを開始する" プレイリスト
-ユーザーが はじめに Teams を使って立ち上がって実行するために、「はじめに/First Days」サブカテゴリに新しい "Teams" プレイリストが追加Teams。 プレイリストには次の内容が含まれます。
-- Microsoft Teams にようこそ  
-- チームを立ち上げ、実行する
-- チャネルでの作業  
-- アップロードファイルの作成と共有 
-- チャットの開始とピン留め  
-- 会議に参加Teamsする 
-- 会議の管理 
- 
-### <a name="microsoft-365-basics"></a>Microsoft 365基本
-[製品] カテゴリでは、"Office 365基本" サブカテゴリが "Microsoft 365" カテゴリに更新されました。 "Office 365 基本" カテゴリの廃止されたアセットは、カスタムプレイリストに追加されている場合でも使用できます。
-
-#### <a name="get-started-playlist"></a>"Get started" プレイリスト
-- Microsoft 365 とは
-- サインイン
-- Office.com
-
-#### <a name="create-and-save-playlist"></a>"作成して保存" プレイリスト
-- デスクトップ アプリの使用
-- Office.com アプリの使用
-- ファイルをクラウドに保存する
-- オンデマンドでファイルを同期OneDrive
-
-#### <a name="share-and-collaborate-playlist"></a>"共有と共同作業" プレイリスト
-- ファイルを共有Microsoft 365
-- 共同作成者
-- 使用@mentions
-- フォローアップ
-
-#### <a name="work-with-microsoft-teams-playlist"></a>"ユーザーとMicrosoft Teamsする" プレイリスト
-- Microsoft Teams にようこそ
-- チームとチャネルの概要
-- 投稿の作成と書式設定
-- チャットの開始とピン留め
-- 通話を行う
-- 会議に参加Teamsする
-- ヒント会議を向上する方法
-
-#### <a name="get-the-most-out-of-windows-playlist"></a>"最も重要な情報をWindowsする" プレイリスト
-- 検索でドキュメント、アプリ、その他を検索する
-- Microsoft Edge
-- Bing での Microsoft Search
-
-#### <a name="work-from-anywhere-playlist"></a>"どこからでも作業する" プレイリスト
-- OneDrive アプリ
-- Outlook アプリ
-
-#### <a name="cool-microsoft-365-features-playlist"></a>"クールMicrosoft 365機能" プレイリスト
-- PowerPoint デザイナー
-- Excel のアイデア
-- Word のエディター
-- コンテンツにアクセス可能にする
-
-### <a name="create-a-chart-playlist-in-access"></a>Access で "グラフを作成する" プレイリスト
-"Products\Access" サブカテゴリに "グラフのプレイリストを作成する" が追加されました。  
-- 列グラフの作成
-- 棒グラフの作成
-- 線グラフの作成
-- 円グラフの作成
-- コンボ グラフの作成
-
-### <a name="teams-updates"></a>Teams更新プログラム
-"Product\Microsoft Teams" サブカテゴリは、次のアセットで更新されました。 
-
-#### <a name="manage-meetings-playlist"></a>"会議の管理" プレイリスト
-- 会議に参加Teamsする
-#### <a name="work-with-posts-and-messages-playlist"></a>"投稿とメッセージを処理する" プレイリスト
-- 投稿の作成と書式設定
-
-### <a name="planner"></a>Planner 
-フォローアセットが "Products\Planner" の "Use Planner" プレイリストに追加されました。
-#### <a name="use-planner-playlist"></a>Planner プレイリストを使用する
-- To Do vs Planner
-- [プランナ タスク] のページをTo Do
-- [タスク アプリ] を使用Teams
-
-### <a name="word"></a>Word
-次のアセットは、"Share and co-author with Word" プレイリストで更新されました。
-
-#### <a name="share-and-co-author-with-word-playlist"></a>"Share and co-author with Word" プレイリスト
-- "リアルタイム共同編集を使用して Word ドキュメントを共同作業する" アセットが更新されました。 
-
-### <a name="office-for-the-web"></a>Web 用 Office
-次のアセットは、"web Office Word for the web" プレイリストで更新されました。
-
-#### <a name="office-for-the-web-word-for-the-web-playlist"></a>"Office: Word for the web" プレイリスト
-- 録音を書き起こしする
-
-### <a name="powerpoint-new-updated"></a>PowerPoint (新規、更新)
-次のアセットが更新または追加され、Products\PowerPointされます。 
-
-#### <a name="text--tables-with-powerpoint-playlist"></a>"テキスト&テーブルとPowerPoint" プレイリスト
-- 手書きのインクを図形、テキスト、または数式に変更する (PowerPoint)
-
-#### <a name="present-slideshows-playlist"></a>スライド ショーのプレイリストを表示する
-- プレゼンテーションを記録する (更新)
-
-### <a name="office-quick-start-guides-updated"></a>Officeクイック スタート ガイド (更新)
-すべてのOfficeのクイック スタート ガイドOffice更新されました。 
-
-ラーニング パスをカスタマイズする方法の詳細については、「学習パスを [カスタマイズする」を参照してください](custom_overview.md)。 
-

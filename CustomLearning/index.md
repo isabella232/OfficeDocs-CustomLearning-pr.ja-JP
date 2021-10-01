@@ -4,22 +4,22 @@ ms.author: pkrebs
 manager: bpardi
 title: 学習経路Microsoft 365概要
 ms.date: 5/19/2021
-description: 組織のMicrosoft 365サービスの使用と導入を加速する方法Microsoft 365学習経路について学習します。 学習経路には、カスタム SharePoint Web パーツと、SharePoint テナントに簡単にプロビジョニングできる最新の SharePoint Microsoft 365 Online コミュニケーション トレーニング サイトが含まれます。
+description: 組織のMicrosoft 365サービスの使用と導入を加速する方法Microsoft 365学習経路について学習します。 ラーニングには、カスタム SharePoint Online Web パーツと、SharePoint テナントに簡単にプロビジョニングできる最新の SharePoint Online コミュニケーション トレーニング サイトMicrosoft 365があります。
 audience: itpro
 ms.service: o365-solutions
 ms.topic: article
-ms.openlocfilehash: 4c527a1bc76db09d8e5e8265b576f6768da858ac
-ms.sourcegitcommit: 33acfc2149de89e8375b064b2223cae505d2a102
+ms.openlocfilehash: fb8fe1ec17bcf02b69978f4dfa610d84b08c6ff6
+ms.sourcegitcommit: d05381fc4a58cf2949773d73877bacc5ef3a7ca6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52575912"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60048700"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 学習経路 
-Microsoft 365学習経路は、組織内のサービスの利用状況と導入を増やMicrosoft 365オンデマンド学習ソリューションです。       
+Microsoft 365学習経路は、組織内のサービスの利用状況と導入を増やMicrosoft 365オンデマンド学習ソリューションです。
 
 > [!IMPORTANT]
-> 学習経路は、四半期ごとにコンテンツ更新サイクルに従う努力をしています。 2021 年 5 月 19 日現在、5 月のコンテンツ更新プログラムの学習経路コンテンツが更新されました。 5 月のコンテンツ更新プログラムの詳細については、「コンテンツ更新プログラム」 [を参照してください](custom_contentupdates.md)。 コンテンツ更新プログラムの適用方法とコンテンツの管理方法については、「コンテンツ更新プログラムの管理 [」を参照してください](custom_contentupdatesmanage.md)。  
+> ラーニングは、四半期ごとにコンテンツ更新サイクルに従う努力をしています。 2021 年 9 月 30 日現在、9 月のコンテンツ更新プログラムの学習経路コンテンツが更新されました。 9 月のコンテンツ更新プログラムの詳細については、「コンテンツ更新プログラム」 [を参照してください](custom_contentupdates.md)。 コンテンツ更新プログラムの適用方法とコンテンツの管理方法については、「コンテンツ更新プログラムの管理 [」を参照してください](custom_contentupdatesmanage.md)。  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Microsoft からのオンデマンドのカスタム トレーニング
 
@@ -28,12 +28,12 @@ Microsoft 365学習経路では、次の情報を提供しています。
 - **完全にカスタマイズ** 可能SharePointオンラインコミュニケーション サイト - ラーニング パストレーニング ポータルをカスタマイズして、組織のヘルプ、サポート、コミュニティ コンテンツを追加できます
 - **簡単なプロビジョニング**- 簡単な手順で SharePoint オンライン プロビジョニング サービスから学習経路をプロビジョニングする
 - **独自のトレーニングプレイリスト** を作成する機能 - 学習経路を使用して、環境の固有のニーズを満たすターゲットトレーニングプレイリストを作成できます
-- **最新のコンテンツ** - ラーニング パスは Microsoft オンライン コンテンツ カタログを通じてコンテンツを提供し、サイトのコンテンツは定期的に更新されます。
+- **最新のコンテンツ**- ラーニングは Microsoft オンライン コンテンツ カタログを通じてコンテンツを提供し、サイトのコンテンツは定期的に更新されます。
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE42hMy]
 
 ## <a name="sharepoint-look-book-service"></a>SharePointブック サービス
-学習経路は、SharePointブック サービスからプロビジョニングできます。 Microsoft 365 ラーニング パスが準備されると、組織は、トレーニング コンテンツのオンライン カタログに接続された学習経路 Web パーツと共に、箱から出たトレーニング ポータルとして設計された SharePoint Online コミュニケーション サイトを取得します。 
+ラーニングは、ルック ブック サービスからSharePointプロビジョニングできます。 Microsoft 365 ラーニング パスが準備されると、組織は、トレーニング コンテンツのオンライン カタログに接続された学習経路 Web パーツと共に、箱から出たトレーニング ポータルとして設計された SharePoint Online コミュニケーション サイトを取得します。
 
 ![SharePointの準備ページ](media/cg-provision.png)
 
